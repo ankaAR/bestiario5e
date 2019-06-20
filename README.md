@@ -1,25 +1,32 @@
-# Bestiary
+# Bestiario 5e
 
-Bestiary is a mobile-friendly 5e compendium of creatures that organizes them in various classifications and strengths.
+Bestiario 5e es un compendio de creiaturas organizadas en diferentes categorias y fuentes.
 
-See the latest compiled build here: [http://chisaipete.github.io/bestiary/](http://chisaipete.github.io/bestiary/)
 
 ## To Do
-* Sort by location, sub-types, tags, CR, level, etc.
-* More Monsters from more sources!
+* Traducir las criaturas 1/950
+* Agregarle otros criterios de busqueda.
+* Agregar aún más monstruos
+* Revisar cada tanto si chusaipete agregó algo.
 
-## Structure
-Creatures can be found inside `_posts/`. Each creature gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](http://jekyllrb.com) to process the posts properly.
+## Estructura
+Las criaturas se encuentran en el directorio `_creatures/`. Cada una de ellas tiene su propio archivo [Markdown](http://daringfireball.net/projects/markdown/basics).
 
-If you'd like to help fill out the rest of the creatures from the MM, for each new spell you make:
+NO ES MÁGICO?!!
 
-1. Make a new post inside `_posts/` for each new creature, and copy the formatting from another creature.
-2. Submit a pull request for the creatures(s) when you're finished, and that's it! Thank you so much. :)
+Me podes ayudar con los mosntruos tirando un pull request cuando puedas (copiá el formato básico de alguna otra). Te agradeceré mucho y habra mucha gente que lo podrá usar.
 
-## Build Instructions
-I've edited _config.yml for my own build purposes, but if you've got [Jekyll](http://jekyllrb.com) set up locally, the following should create the build from your friendly command line terminal:
+## Instrucciones para hacerlo correr
+Si haces un fork no te olvides de editar el _config.yml, si queres hacerlo correr localmente necesitaras [Jekyll](http://jekyllrb.com) instalado localmente, fijate que en el sitio te explica como hacerlo, no es tan complicado, bajás el código (en zip o porque clonaste el proyecto) y luego de instalar Jekyll corré el siguiente comando:
 `jekyll serve -Vw --no-watch --baseurl ""`
 
-## Thanks
+Si querés verlo directamente en el sitio de GitHub, acordate de dejar pasar unos minutos porque tarda en rearmar todo el sitio.
 
-Shoutout to Saph of http://ephe.github.io/grimoire from whom I've shamelessly borrowed the majority of the codebase
+## Agradecimientos
+
+
+Arrancó como un projecto de [Connor Petersen](https://github.com/chisaipete) y puedes ver su proyecto en: [http://chisaipete.github.io/bestiary/](http://chisaipete.github.io/bestiary/)
+
+Está basado de un proyecto de Saph http://ephe.github.io/grimoire de donde se saco casi todo el codigo fuente.
+
+Hay que agregar un agradecimiento también a todos los que contribuyen con código o datos, los jugadores de rol en general y a mi mesa en particular, cuya crueldad lleva a que yo me tenga que ornizar con estas cosas.
