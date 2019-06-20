@@ -1,6 +1,6 @@
 title: "Bestiario"
-author: "chisaipete"
-description: "A searchable D&D 5e creature list."
+author: "ankaAR" basado en un trabajo de "chisaipete"
+description: "Una lista de monstruos de D&D 5e con buscador."
 url: "https://ankaar.github.io"
 source-url: "https://github.com/ankaar/bestiario5e"
 baseurl: "/bestiario5e"
