@@ -10,7 +10,7 @@ con: 20 (+5)
 dex: 14 (+2)
 str: 21 (+5)
 size: Large construct
-alignment: lawful evil
+alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "understands all languages but can't speak"
 senses: "darkvision 60 ft., passive Perception 10"

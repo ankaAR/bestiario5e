@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 15 (+2)
 str: 13 (+1)
 size: Medium humanoid (human)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/2 (100 XP)"
 languages: "Common"
 senses: "tremorsense 10 ft."

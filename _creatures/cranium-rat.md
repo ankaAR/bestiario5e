@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 14 (+2)
 str: 2 (-4)
 size: Tiny beast
-alignment: lawful evil
+alignment: legal maligna
 challenge: "0 (10 XP)"
 languages: "telepathy 30 ft."
 senses: "darkvision 30 ft."

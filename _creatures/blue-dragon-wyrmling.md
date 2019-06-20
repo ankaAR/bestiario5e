@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 10 (0)
 str: 17 (+3)
 size: Medium dragon
-alignment: lawful evil
+alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Draconic"
 senses: "blindsight 10 ft., darkvision 60 ft."

@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 14 (+2)
 str: 6 (-2)
 size: Tiny aberration
-alignment: lawful evil
+alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "understands Deep Speech but can't speak, telepathy 60 ft."
 senses: "blindsight 60 ft. (blind beyond this radius)"

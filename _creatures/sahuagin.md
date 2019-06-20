@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 11 (0)
 str: 13 (+1)
 size: Medium humanoid (sahuagin)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/2 (100 XP)"
 languages: "Sahuagin"
 senses: "darkvision 120 ft."

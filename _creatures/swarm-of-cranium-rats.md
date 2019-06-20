@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 14 (+2)
 str: 9 (-1)
 size: Medium swarm
-alignment: lawful evil
+alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "telepathy 30 ft."
 senses: "darkvision 30 ft."

@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 9 (-1)
 size: Medium humanoid (human)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Common, Draconic, Dwarvish, Elvish"
 skills: "Arcana +5, History +5"

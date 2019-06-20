@@ -10,7 +10,7 @@ con: 12 (+1)
 dex: 7 (-1)
 str: 17 (+3)
 size: Medium construct
-alignment: lawful evil
+alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "understands Dwarvish but can't speak"
 senses: "darkvision 60 ft., passive Perception 7"

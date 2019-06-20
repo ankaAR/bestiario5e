@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 18 (+4)
 str: 13 (+1)
 size: Medium humanoid (human)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Common, Terran"
 senses: "blindsight 60 ft. (blind beyond this radius)"

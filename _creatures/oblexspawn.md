@@ -10,7 +10,7 @@ con: 15 (+2)
 dex: 16 (+3)
 str: 8 (-1)
 size: Tiny ooze
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "-"
 senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 12"

@@ -10,7 +10,7 @@ con: 14 (+2)
 dex: 5 (-2)
 str: 16 (+3)
 size: Medium construct
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "the languages it knew in life"
 senses: "passive Perception 9"

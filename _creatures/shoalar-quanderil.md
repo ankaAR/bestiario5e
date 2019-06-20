@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 12 (+1)
 str: 11 (0)
 size: Medium humanoid (water genasi)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Aquan, Common"
 skills: "Arcana +4, Deception +5, Insight +2, Persuasion +5"

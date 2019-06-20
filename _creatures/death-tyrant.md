@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 10 (0)
 size: Large undead
-alignment: lawful evil
+alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "Deep Speech, Undercommon"
 senses: "darkvision 120 ft."

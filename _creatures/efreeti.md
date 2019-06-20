@@ -9,7 +9,7 @@ con: 24 (+7)
 dex: 12 (+1)
 str: 22 (+6)
 size: Large elemental
-alignment: lawful evil
+alignment: legal maligna
 challenge: "11 (7,200 XP)"
 languages: "Ignan"
 senses: "darkvision 120 ft."

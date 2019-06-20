@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 10 (0)
 size: Medium undead
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "understands all languages it spoke in life but can't speak"
 senses: "darkvision 60 ft."

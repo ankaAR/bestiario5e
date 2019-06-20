@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 11 (0)
 str: 18 (+4)
 size: Large undead
-alignment: lawful evil
+alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "understands Abyssal but can't speak"
 senses: "darkvision 60 ft."

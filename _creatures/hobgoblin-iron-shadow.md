@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 16 (+3)
 str: 14 (+2)
 size: Medium humanoid (goblinoid)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Common, Goblin"
 senses: "darkvision 60 ft."

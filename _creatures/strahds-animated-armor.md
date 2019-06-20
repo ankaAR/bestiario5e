@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 13 (+1)
 str: 17 (+3)
 size: Medium construct
-alignment: lawful evil
+alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "understands Common but can't speak"
 senses: "blindsight 60 ft. (blind beyond this radius)"

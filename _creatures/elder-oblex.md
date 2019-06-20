@@ -10,7 +10,7 @@ con: 21 (+5)
 dex: 16 (+3)
 str: 15 (+2)
 size: Huge ooze
-alignment: lawful evil
+alignment: legal maligna
 challenge: "10 (5900 XP)"
 languages: "Common plus six more"
 senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 15"

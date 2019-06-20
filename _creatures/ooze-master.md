@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 1 (-5)
 str: 16 (+3)
 size: Huge undead
-alignment: lawful evil
+alignment: legal maligna
 challenge: "10 (5,900 XP)"
 languages: "Common, Primordial, Thayan"
 senses: "blindsight 120 ft."

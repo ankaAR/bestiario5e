@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 7 (-2)
 size: Small humanoid (grung)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "Grung"
 skills: "Athletics +2, Perception +2, Stealth +4, Survival +2"

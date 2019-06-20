@@ -10,7 +10,7 @@ con: 20 (+5)
 dex: 16 (+3)
 str: 22 (+6)
 size: Large construct
-alignment: lawful evil
+alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "understands Abyssal, Elvish, and Undercommon but can't speak"
 senses: "blindsight 30 ft., darkvision 60 ft., passive Perception 15"

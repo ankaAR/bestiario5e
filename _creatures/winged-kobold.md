@@ -9,7 +9,7 @@ con: 9 (-1)
 dex: 16 (+3)
 str: 7 (-2)
 size: Small humanoid (kobold)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "Common, Draconic"
 senses: "darkvision 60 ft."

@@ -9,7 +9,7 @@ con: 23 (+6)
 dex: 10 (0)
 str: 25 (+7)
 size: Huge undead
-alignment: lawful evil
+alignment: legal maligna
 challenge: "17 (18,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."

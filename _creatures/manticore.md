@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 16 (+3)
 str: 17 (+3)
 size: Large monstrosity
-alignment: lawful evil
+alignment: legal maligna
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft."
 speed: "30 ft., fly 50 ft."

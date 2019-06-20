@@ -10,7 +10,7 @@ con: 22 (+6)
 dex: 17 (+3)
 str: 24 (+7)
 size: Large construct
-alignment: lawful evil
+alignment: legal maligna
 challenge: "16 (15,000 XP)"
 languages: "understands Modron and the language of its owner but can't speak"
 senses: "blindsight 30 ft., darkvision 60 ft., passive Perception 17"

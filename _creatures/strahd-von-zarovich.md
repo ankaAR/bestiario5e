@@ -10,7 +10,7 @@ con: 18 (+4)
 dex: 18 (+4)
 str: 18 (+4)
 size: Medium undead (shapechanger)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
 senses: "darkvision 120 ft."

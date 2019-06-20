@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 17 (+3)
 str: 6 (-2)
 size: Tiny fiend (devil)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Infernal, Common"
 senses: "darkvision 120 ft."

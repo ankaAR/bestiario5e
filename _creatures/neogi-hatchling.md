@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 13 (+1)
 str: 3 (-4)
 size: Tiny aberration
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/8 (25 XP)"
 senses: "darkvision 60 ft."
 speed: "20 ft., climb 20 ft."

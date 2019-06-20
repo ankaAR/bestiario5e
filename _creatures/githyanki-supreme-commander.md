@@ -10,7 +10,7 @@ con: 18 (+4)
 dex: 17 (+3)
 str: 19 (+4)
 size: Medium humanoid (gith)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "Gith"
 senses: "passive Perception 18"

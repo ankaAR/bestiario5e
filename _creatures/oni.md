@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 11 (0)
 str: 19 (+4)
 size: Large giant
-alignment: lawful evil
+alignment: legal maligna
 challenge: "7 (2,900 XP)"
 languages: "Common, Giant"
 senses: "darkvision 60 ft."

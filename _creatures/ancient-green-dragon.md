@@ -9,7 +9,7 @@ con: 25 (+7)
 dex: 12 (+1)
 str: 27 (+8)
 size: Gargantuan dragon
-alignment: lawful evil
+alignment: legal maligna
 challenge: "22 (41,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."

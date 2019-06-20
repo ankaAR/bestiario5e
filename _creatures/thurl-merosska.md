@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 16 (+3)
 size: Medium humanoid (human)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Auran, Common"
 skills: "Animal Handling +2, Athletics +5, Deception +4, Persuasion +4"

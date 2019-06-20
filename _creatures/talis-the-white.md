@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 12 (+1)
 str: 14 (+2)
 size: Medium humanoid (half-elf)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Common, Draconic, Elvish, Infernal"
 senses: "darkvision 60 ft."

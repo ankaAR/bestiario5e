@@ -10,7 +10,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 16 (+3)
 size: Medium humanoid (gith)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "8 (3,900 XP)"
 languages: "Gith"
 saving_throws: "Con +5, Int +5, Wis +5"

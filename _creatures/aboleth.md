@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 9 (-1)
 str: 21 (+5)
 size: Large aberration
-alignment: lawful evil
+alignment: legal maligna
 challenge: "10 (5,900 XP)"
 languages: "Deep Speech, telepathy 120 ft."
 senses: "darkvision 120 ft."

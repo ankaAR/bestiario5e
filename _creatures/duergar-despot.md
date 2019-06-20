@@ -10,7 +10,7 @@ con: 19 (+4)
 dex: 5 (-2)
 str: 20 (+5)
 size: Medium humanoid (dwarf)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "12 (8400 XP)"
 languages: "Dwarvish, Undercommon"
 senses: "darkvision 120 ft., passive Perception 12"

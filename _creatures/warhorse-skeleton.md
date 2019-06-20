@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 12 (+1)
 str: 18 (+4)
 size: Large undead
-alignment: lawful evil
+alignment: legal maligna
 challenge: "1/2 (100 XP)"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"

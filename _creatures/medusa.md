@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 15 (+2)
 str: 10 (0)
 size: Medium monstrosity
-alignment: lawful evil
+alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Common"
 senses: "darkvision 60 ft."

@@ -10,7 +10,7 @@ con: 17 (+3)
 dex: 14 (+2)
 str: 18 (+4)
 size: Medium fiend (devil)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "4 (1100 XP)"
 languages: "understands Infernal but can't speak, telepathy 120 ft."
 senses: "darkvision 60 ft., passive Perception 11"

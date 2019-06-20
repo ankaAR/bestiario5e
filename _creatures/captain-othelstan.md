@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 10 (0)
 str: 19 (+4)
 size: Medium humanoid (human)
-alignment: lawful evil
+alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Common, Draconic, Giant"
 skills: "Athletics +7, Intimidation +7, Perception +5, Religion +4"

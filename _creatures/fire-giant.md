@@ -9,7 +9,7 @@ con: 23 (+6)
 dex: 9 (-1)
 str: 25 (+7)
 size: Huge giant
-alignment: lawful evil
+alignment: legal maligna
 challenge: "9 (5,000 XP)"
 languages: "Giant"
 skills: "Athletics +11, Perception +6"
