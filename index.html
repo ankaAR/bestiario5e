@@ -4,12 +4,12 @@ layout: default
 {% assign letters = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" | split: ' ' %}
 {% assign all_creatures = site.creatures | sort: 'name' %}
 <div class="home">
-  <h1 class="page-heading">All Creatures</h1>
-  <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
-  <p id="sortBy">Sort By: <a href="{{ site.baseurl }}/cr">CR</a> <a href="{{ site.baseurl }}/">name</a></p>
+  <h1 class="page-heading">Todas las criaturas</h1>
+  <p id="creatureSearch">Buscar por nombre: <input type="search" id="jetsSearch"></p>
+  <p id="sortBy">Ordenar por: <a href="{{ site.baseurl }}/cr">CR</a> <a href="{{ site.baseurl }}/">nombre</a></p>
 
   <dl class="tag-list">
-    <dt class="spacing">Letter:</dt>
+    <dt class="spacing">Letra:</dt>
     {% for letter in letters %}
     <dd class="spacing">
       <a href="#{{ letter }}">{{ letter }}</a>
@@ -28,8 +28,8 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-  <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+  <a class="post-meta jetsHide" href="#top">Subir &#8593;</a>
   {% endfor %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribirse <a href="{{ "/feed.xml" | prepend: site.baseurl }}">vía RSS</a></p>
 </div>
