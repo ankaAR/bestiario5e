@@ -1,9 +1,9 @@
-title: "Bestiary"
+title: "Bestiario"
 author: "chisaipete"
 description: "A searchable D&D 5e creature list."
 url: "https://ankaar.github.io"
-source-url: "https://github.com/ankaar/bestiary"
-baseurl: "/bestiary"
+source-url: "https://github.com/ankaar/bestiario5e"
+baseurl: "/bestiario5e"
 exclude: ['Rakefile', 'README.md']
 collections:
   creatures:
