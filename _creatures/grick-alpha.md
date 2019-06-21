@@ -20,7 +20,7 @@ damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical 
 
 ***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The grick makes two attacks: one with its tail and one with its tentacles. If it hits with its tentacles, the grick can make one beak attack against the same target.
 

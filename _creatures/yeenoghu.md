@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Rampage.*** When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):
 1. The attack deals an extra 13 (2d12) bludgeoning damage.
@@ -48,7 +48,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Bite*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) piercing damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Yeenoghu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Yeenoghu regains spent legendary actions at the start of his turn.
 

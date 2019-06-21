@@ -31,7 +31,7 @@ At will: mage hand (the hand is invisible)
 
 1/day: invisibility (self only)
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 

@@ -33,7 +33,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Running Leap.*** The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The barlgura makes three attacks: one with its bite and two with its fists.
 

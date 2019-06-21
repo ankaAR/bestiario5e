@@ -22,7 +22,7 @@ damage_resistances: "fire"
 
 ***Anfibio.*** The dragon turtle puede respirar aire y agua.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 

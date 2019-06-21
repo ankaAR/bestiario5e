@@ -24,7 +24,7 @@ condition_immunities: "prone"
 
 ***Lightning Blood.*** A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The death kiss makes three tentacle attacks. Up to three of these attacks can be replaced by Blood Drain, one replacement per tentacle grappling a creature
 

@@ -36,7 +36,7 @@ The poisoned creature can't regain hit points. After every 24 hours that elapse,
 
 ***Magic Weapons.*** The oinoloth's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The oinoloth uses its Transfixing Gaze and makes two claw attacks.
 

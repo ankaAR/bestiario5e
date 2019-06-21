@@ -20,7 +20,7 @@ armor_class: "16 (armadura natural)"
 condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The spore servant makes two pincer attacks.
 

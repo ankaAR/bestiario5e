@@ -28,7 +28,7 @@ The duplicate has the same statistics and knowledge as the berbalang, and everyt
 * At will: speak with dead
 * 1/day: plane shift (self only)
 
-### Acciones
+### Actions
 
 ***Multiattack*** The berbalang makes two attacks: one with its bite and one with its claws.
 

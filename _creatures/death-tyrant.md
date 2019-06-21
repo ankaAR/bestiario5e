@@ -26,7 +26,7 @@ condition_immunities: "charmed, exhaustion, paralyzed, petrified, poisoned, pron
 
 Any creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
 
@@ -56,7 +56,7 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 10. Death Ray. The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The death tyrant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The death tyrant regains spent legendary actions at the start of its turn.
 

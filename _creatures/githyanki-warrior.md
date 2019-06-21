@@ -24,7 +24,7 @@ armor_class: "17 (half plate)"
 * At will: mage hand (the hand is invisible)
 * 3/day each: jump, misty step, nondetection (self only)
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The githyanki makes two greatsword attacks.
 

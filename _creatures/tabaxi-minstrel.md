@@ -23,7 +23,7 @@ armor_class: "12"
 
 ***Inspire (1/Day).*** While taking a short rest, the tabaxi can spend 1 minute singing, playing an instrument, telling a story, or reciting a poem to soothe and inspire creatures other than itself. Up to five creatures of the tabaxi's choice that can see and hear its performance gain 8 temporary hit points at the end of the tabaxi's short rest.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The tabaxi makes two claws attacks or two dart attacks.
 

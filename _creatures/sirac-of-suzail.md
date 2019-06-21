@@ -19,7 +19,7 @@ armor_class: "14 (leather)"
 senses: "passive Perception 11"
 ---
 
-### Acciones
+### Actions
 
 ***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) piercing  damage.
 

@@ -25,6 +25,6 @@ damage_resistances: "cold"
 
 ***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
 
-### Acciones
+### Actions
 
 ***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage

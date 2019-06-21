@@ -23,6 +23,6 @@ condition_immunities: "blinded, deafened"
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

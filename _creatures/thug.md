@@ -20,7 +20,7 @@ armor_class: "11 (leather armor)"
 
 ***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The thug makes two melee attacks.
 

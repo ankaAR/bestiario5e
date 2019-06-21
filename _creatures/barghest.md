@@ -38,7 +38,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 >While a humanoid's soul is trapped in a barghest, any form of revival that could work has only a 50 percent chance of doing so, freeing the soul from the barghest if it is successful. Once a creature's soul is digested, however, no mortal magic can return that humanoid to life.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8+4) piercing damage.
 

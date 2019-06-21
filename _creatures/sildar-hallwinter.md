@@ -19,7 +19,7 @@ hit_points: "27 (5d8+5)"
 armor_class: "16 (chain mail)"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Sildar makes two melee attacks.
 

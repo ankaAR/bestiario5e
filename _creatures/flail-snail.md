@@ -29,7 +29,7 @@ condition_immunities: "poisoned"
 
 ***Flail Tentacles.*** The flail snail has five flail tentacles. Whenever the snail takes 10 damage or more on a single turn, one of its tentacles dies. If even one tentacle remains, the snail regrows all dead ones within 1d4 days. If all its tentacles die, the snail retracts into its shell, gaining total cover, and it begins wailing, a sound that can be heard for 600 feet, stopping only when it dies 5d6 minutes later. Healing magic that restores limbs, such as the regenerate spell, can halt this dying process.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The flail snail makes as many flail tentacle attacks as it has flail tentacles, all against the same target.
 

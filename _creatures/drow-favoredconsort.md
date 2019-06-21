@@ -40,7 +40,7 @@ armor_class: "15 (18 with mage armor)"
 
 ***War Magic.*** When the drow uses its action to cast a spell, it can make one weapon attack as a bonus action.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The drow makes three scimitar attacks.
 

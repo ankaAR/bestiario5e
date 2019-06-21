@@ -24,7 +24,7 @@ condition_immunities: "poisoned"
 
 ***Turn Defiance.*** The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.
 

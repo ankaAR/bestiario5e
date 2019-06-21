@@ -19,7 +19,7 @@ armor_class: "12 (armadura natural)"
 condition_immunities: "blinded, deafened"
 ---
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage.
 

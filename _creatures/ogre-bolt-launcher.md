@@ -19,7 +19,7 @@ hit_points: "59  (7d10 + 21)"
 armor_class: "13 (hide armor)"
 ---
 
-### Acciones
+### Actions
 
 ***Fist*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) bludgeoning damage.
 

@@ -22,7 +22,7 @@ damage_resistances: "cold"
 
 ***Source.*** Volo's Guide to Monsters, p. 158
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The drake attacks twice, once with its bite and once with its tail.
 

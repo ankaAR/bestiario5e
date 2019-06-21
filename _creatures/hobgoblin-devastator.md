@@ -37,6 +37,6 @@ Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
 4th level (1 slot): ice storm
 
-### Acciones
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with two hands.

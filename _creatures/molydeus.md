@@ -35,7 +35,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The molydeus's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The molydeus makes three attacks: one with its weapon, one with its wolf bite, and one with its snakebite.
 
@@ -45,7 +45,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Snakebite*** Melee Weapon Attack: +16 al ataque, alcance 15 ft., one creature. Hit: 12 (1d6 + 9) piercing damage, and the target must succeed on a DC 22 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a manes if this reduces its hit point maximum to 0. This transformation can be ended only by a wish spell.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The molydeus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The molydeus regains spent legendary actions at the start of its turn.
 

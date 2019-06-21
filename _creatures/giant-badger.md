@@ -19,7 +19,7 @@ armor_class: "10"
 
 ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The badger makes two attacks: one with its bite and one with its claws.
 

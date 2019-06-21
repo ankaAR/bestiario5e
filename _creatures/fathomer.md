@@ -34,7 +34,7 @@ While in serpent form, the fathomer gains a swimming speed of 40 feet, the abili
 
 * 3rd level: Vampiric touch
 
-### Acciones
+### Actions
 
 ***Constrict (Serpent Form Only).*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 12). Until the grapple ends, the target is restrained, and the fathomer can't constrict another target.
 

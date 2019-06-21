@@ -23,6 +23,6 @@ armor_class: "12"
 
 ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Acciones
+### Actions
 
 ***Talons.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d6 + 1) slashing damage.

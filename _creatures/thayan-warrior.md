@@ -24,7 +24,7 @@ armor_class: "16 (chain shirt, shield)"
 
 ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The warrior makes two melee attacks.
 

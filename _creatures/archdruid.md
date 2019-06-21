@@ -41,7 +41,7 @@ Cantrips (at will): druidcraft, mending, poison spray, produce flame
 
 9th level (1 slot): foresight
 
-### Acciones
+### Actions
 
 ***Scimitar.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
 

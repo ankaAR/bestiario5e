@@ -23,7 +23,7 @@ condition_immunities: "paralyzed, petrified, poisoned"
 
 ***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.
 
-### Acciones
+### Actions
 
 ***Club.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage.
 

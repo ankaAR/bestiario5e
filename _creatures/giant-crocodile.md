@@ -19,7 +19,7 @@ armor_class: "14 (armadura natural)"
 
 ***Hold Breath.*** The crocodile can hold its breath for 30 minutes.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The crocodile makes two attacks: one with its bite and one with its tail.
 

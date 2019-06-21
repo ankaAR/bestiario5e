@@ -32,7 +32,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The nabassu's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The nabassu uses its Soul-Stealing Gaze and makes two attacks: one with its claws and one with its bite.
 

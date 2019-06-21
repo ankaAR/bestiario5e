@@ -34,7 +34,7 @@ condition_immunities: "charmed, frightened"
 
 ***Legendary Resistance (1/Day).*** If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Greatsword (Hazirawn).*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 
@@ -42,7 +42,7 @@ condition_immunities: "charmed, frightened"
 
 ***Acid Breath (Recharge 5-6).*** Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The rezmir regains spent legendary actions at the start of its turn.
 

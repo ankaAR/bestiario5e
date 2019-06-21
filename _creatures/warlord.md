@@ -23,7 +23,7 @@ armor_class: "18 (plate)"
 
 ***Survivor.*** The warlord regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The warlord makes two weapon attacks.
 
@@ -31,7 +31,7 @@ armor_class: "18 (plate)"
 
 ***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 it, one target. Hit: 6 (1d6+3) piercing damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The warlord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The warlord regains spent legendary actions at the start of its turn.
 

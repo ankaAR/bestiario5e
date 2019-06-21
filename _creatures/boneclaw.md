@@ -27,7 +27,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Shadow Stealth.*** While in dim light or darkness, the boneclaw can take the Hide action as a bonus action.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The boneclaw makes two claw attacks.
 

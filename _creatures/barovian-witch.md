@@ -28,7 +28,7 @@ armor_class: "10"
 
 * 2nd level (2 slots): alter self, invisibility
 
-### Acciones
+### Actions
 
 ***Claws (Requires Alter Self).*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage. This attack is magical.
 

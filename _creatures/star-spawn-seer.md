@@ -26,7 +26,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Out-of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain. Each creature it moves through takes 5 (1d10) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 (1d10) force damage if it ends its turn inside an object.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The seer makes two comet staff attacks or uses Psychic Orb twice.
 

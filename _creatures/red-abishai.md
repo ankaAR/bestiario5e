@@ -30,7 +30,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Weapons.*** The abishai's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The abishai can use its Frightful Presence. It also makes three attacks: one with its morningstar, one with its claw, and one with its bite.
 

@@ -20,6 +20,6 @@ armor_class: "12 (leather armor)"
 
 ***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.
 
-### Acciones
+### Actions
 
 ***Scimitar.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.

@@ -43,7 +43,7 @@ condition_immunities: "frightened"
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The drow makes three death lance attacks.
 

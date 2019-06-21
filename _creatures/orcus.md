@@ -40,7 +40,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Master of Undeath.*** When Orcus casts animate dead or create undead, he chooses the level at which the spell is cast, and the creatures created by the spells remain under his control indefinitely. Additionally, he can cast create undead even when it isn't night.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Orcus makes two Wand of Orcus attacks.
 
@@ -48,7 +48,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Tail*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Orcus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Orcus regains spent legendary actions at the start of his turn.
 

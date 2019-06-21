@@ -35,7 +35,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Magic Weapons.*** Zuggtmoy's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Zuggtmoy makes three pseudopod attacks.
 
@@ -45,7 +45,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Mind Control Spores (Recharge 5-6)*** Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is charmed by her and can't be reinfected by these spores.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Zuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zuggtmoy regains spent legendary actions at the start of her turn.
 

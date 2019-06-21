@@ -22,6 +22,6 @@ armor_class: "12 (armadura natural)"
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

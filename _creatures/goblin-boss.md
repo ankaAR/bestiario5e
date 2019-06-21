@@ -21,7 +21,7 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The goblin makes two attacks with its scimitar. The second attack has disadvantage.
 

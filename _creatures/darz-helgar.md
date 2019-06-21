@@ -21,7 +21,7 @@ senses: " passive Perception 10"
 
 ***Sneak Attack (1/turn).*** Darz deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Darz that isn't incapacitated and Darz doesn't have disadvantage on the attack roll.
 
-### Acciones
+### Actions
 
 ***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 

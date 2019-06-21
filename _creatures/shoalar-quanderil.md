@@ -37,6 +37,6 @@ damage_resistances: "acid"
 
 * 3rd level (2 slots): tidal wave
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or ranged 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

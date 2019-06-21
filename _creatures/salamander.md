@@ -25,7 +25,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The salamander makes two attacks: one with its spear and one with its tail.
 

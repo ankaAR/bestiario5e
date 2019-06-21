@@ -18,7 +18,7 @@ hit_points: "9 (2d8)"
 armor_class: "15 (breastplate)"
 ---
 
-### Acciones
+### Actions
 
 ***Rapier.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
 

@@ -33,6 +33,6 @@ armor_class: "11 (14 with mage armor)"
 
 ***Swift Animation (Recharges after a Long Rest).*** When a living Medium or Small humanoid within 30 feet of Oreioth dies, he can use an action on his next turn to cast animate dead on that humanoid's corpse, instead of using the spell's normal casting time.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

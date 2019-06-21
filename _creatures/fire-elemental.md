@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Water Susceptibility.*** For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The elemental makes two touch attacks.
 

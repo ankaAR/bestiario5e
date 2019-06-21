@@ -25,7 +25,7 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast dancing lights, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
 

@@ -27,7 +27,7 @@ armor_class: "18 (plate)"
 
 3rd level (2 slots): blinding smite, dispel magic
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The blackguard makes three attacks with its glaive or its shortbow.
 

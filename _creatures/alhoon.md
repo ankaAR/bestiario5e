@@ -49,7 +49,7 @@ Cantrips (at will): chill touch, dancing lights, mage hand, prestidigitation, sh
 
 ***Turn Resistance.*** The alhoon has advantage on saving throws against any effect that turns undead.
 
-### Acciones
+### Actions
 
 ***Chilling Grasp.*** Melee Spell Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) cold damage.
 

@@ -28,7 +28,7 @@ damage_resistances: "necrotic"
 
 ***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 

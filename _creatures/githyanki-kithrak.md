@@ -28,7 +28,7 @@ armor_class: "18 (plate)"
 
 ***Rally the Troops.*** As a bonus action, the githyanki can magically end the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The githyanki makes three greatsword attacks.
 

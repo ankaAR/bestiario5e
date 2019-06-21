@@ -39,7 +39,7 @@ condition_immunities: "charmed, poisoned"
 
 * 6th level (1 slot): true seeing
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 

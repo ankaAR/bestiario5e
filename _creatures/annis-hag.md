@@ -91,7 +91,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 6th level (1 slot): true seeing
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The annis makes three attacks: one with her bite and two with her claws.
 

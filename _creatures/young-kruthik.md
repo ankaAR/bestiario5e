@@ -25,6 +25,6 @@ armor_class: "16 (armadura natural)"
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2 1/2-foot-diameter tunnel in its wake.
 
-### Acciones
+### Actions
 
 ***Stab*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

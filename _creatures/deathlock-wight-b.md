@@ -30,7 +30,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The wight attacks twice with Grave Bolt.
 

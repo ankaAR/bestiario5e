@@ -35,6 +35,6 @@ Cantrips (at will): chill touch, eldritch blast, guidance, mage hand, minor illu
 
 ***Whispering Aura.*** At the start of each of the warlock's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the warlock isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.

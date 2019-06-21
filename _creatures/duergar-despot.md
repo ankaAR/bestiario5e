@@ -32,7 +32,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar despot has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The despot makes two iron fist attacks and two stomping foot attacks. It can replace up to four of these attacks with uses of its Flame Jet.
 

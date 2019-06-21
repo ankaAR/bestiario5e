@@ -19,7 +19,7 @@ armor_class: "11"
 
 ***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The hippogriff makes two attacks: one with its beak and one with its claws.
 

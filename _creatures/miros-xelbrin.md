@@ -19,7 +19,7 @@ armor_class: "10"
 senses: " passive Perception 13"
 ---
 
-### Acciones
+### Actions
 
 ***Bear Hug.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4+3) bludgeoning damage, and the target grappled (escape DC 13) and takes 5 (1d4 + 3) bludgeoning damage at the start of each of Miros's turns until the grapple ends. Miros cannot make attacks while grappling a creature.
 

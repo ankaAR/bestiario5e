@@ -30,7 +30,7 @@ Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (
 
 ***Uncanny Smell.*** The boggle has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Acciones
+### Actions
 
 ***Pummel.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage.
 

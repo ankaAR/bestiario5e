@@ -24,7 +24,7 @@ armor_class: "12"
 
 ***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Acciones
+### Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite.
 

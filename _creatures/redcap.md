@@ -23,7 +23,7 @@ armor_class: "13 (armadura natural)"
 
 ***Outsize Strength.*** While grappling, the redcap is considered to be Medium. Also, wielding a heavy weapon doesn't impose disadvantage on its attack rolls.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The redcap makes three attacks with its wicked sickle.
 

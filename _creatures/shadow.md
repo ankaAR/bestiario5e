@@ -28,7 +28,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing
 
 ***Sunlight Weakness.*** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-### Acciones
+### Actions
 
 ***Strength Drain.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 

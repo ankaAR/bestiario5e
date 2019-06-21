@@ -20,7 +20,7 @@ armor_class: "15 (hide armor, shield)"
 
 ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
 

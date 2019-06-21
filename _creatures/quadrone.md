@@ -23,7 +23,7 @@ armor_class: "16 (armadura natural)"
 
 ***Disintegration.*** If the quadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The quadrone makes two fist attacks or four shortbow attacks.
 

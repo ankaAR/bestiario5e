@@ -43,6 +43,6 @@ Cantrips (at will): fire bolt, light, mage hand, message, true strike
 
 ***Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher).*** When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.
 
-### Acciones
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.

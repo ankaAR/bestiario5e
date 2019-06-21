@@ -26,6 +26,6 @@ At will: druidcraft
 
 1/day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep
 
-### Acciones
+### Actions
 
 ***Superior Invisibility.*** The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it.

@@ -24,7 +24,7 @@ armor_class: "15 (armadura natural)"
 
 ***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 

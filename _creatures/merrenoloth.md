@@ -35,7 +35,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Teleport.*** As a bonus action, the merrenoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The merrenoloth uses Fear Gaze once and makes one oar attack.
 

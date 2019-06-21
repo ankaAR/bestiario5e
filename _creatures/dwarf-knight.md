@@ -25,7 +25,7 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-### Acciones
+### Actions
 
 ***Multiattack*** The knight makes two melee attacks.
 

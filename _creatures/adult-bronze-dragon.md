@@ -25,7 +25,7 @@ armor_class: "19 (armadura natural)"
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -43,7 +43,7 @@ Lightning Breath. The dragon exhales lightning in a 90-foot line that is 5 feet 
 
 Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The adult bronze dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult bronze dragon regains spent legendary actions at the start of its turn.
 

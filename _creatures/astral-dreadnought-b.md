@@ -36,7 +36,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Sever Silver Cord.*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target's silver cord instead of dealing damage.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
@@ -44,7 +44,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Claw*** Melee Weapon Attack: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d6 + 9) slashing damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The astral dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary option can be used at a time and only at the end of another creature's turn. The dreadnought regains spent legendary actions at the start of its turn.
 

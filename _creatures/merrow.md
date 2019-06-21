@@ -20,7 +20,7 @@ armor_class: "13 (armadura natural)"
 
 ***Anfibio.*** The merrow puede respirar aire y agua.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 

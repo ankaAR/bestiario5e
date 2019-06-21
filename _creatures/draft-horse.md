@@ -16,6 +16,6 @@ hit_points: "19 (3d10+3)"
 armor_class: "10"
 ---
 
-### Acciones
+### Actions
 
 ***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) bludgeoning damage.

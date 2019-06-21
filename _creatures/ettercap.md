@@ -24,7 +24,7 @@ armor_class: "13 (armadura natural)"
 
 ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The ettercap makes two attacks: one with its bite and one with its claws.
 

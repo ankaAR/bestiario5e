@@ -28,7 +28,7 @@ At will: levitate
 
 ***Magic Resistance.*** The neothelid has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Tentacles.*** Melee Weapon Attack: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (3d8+8) bludgeoning damage plus 13 (3d8) psychic damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be swallowed by the neothelid. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the neothelid, and it takes 35 (10d6) acid damage at the start of each of the neothelid's turns.
 

@@ -21,7 +21,7 @@ senses: " passive Perception 12"
 
 ***Brave.*** Darathra has advantage on saving throws against being frightened
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Darthra makes two melee attacks.
 

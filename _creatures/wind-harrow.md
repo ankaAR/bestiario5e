@@ -33,7 +33,7 @@ armor_class: "15 (studded leather)"
 
 * 4th level (2 slots): confusion, dimension door
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Windharrow makes two melee attacks.
 

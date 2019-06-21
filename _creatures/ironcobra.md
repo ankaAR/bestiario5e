@@ -24,7 +24,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Resistance.*** The iron cobra has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or suffer one random poison effect:
 * 1. Poison Damage: The target takes 13 (3d8) poison damage.

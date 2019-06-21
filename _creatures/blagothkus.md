@@ -35,7 +35,7 @@ armor_class: "17 (splint)"
 
 * 3rd level (2 slots): fly, lightning bolt
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Blagothkus attacks twice with his morningstar.
 

@@ -29,7 +29,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
 3rd level (3 slots): fly, lightning bolt
 
-### Acciones
+### Actions
 
 ***Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
 

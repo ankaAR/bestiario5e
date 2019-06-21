@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Magic Weapons.*** Graz'zt's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Graz'zt attacks twice with Wave of Sorrow.
 
@@ -45,7 +45,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Teleport*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Graz'zt regains spent legendary actions at the start of his turn.
 

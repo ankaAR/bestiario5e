@@ -17,7 +17,7 @@ hit_points: "157 (15d12+60)"
 armor_class: "12"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The ape makes two fist attacks.
 

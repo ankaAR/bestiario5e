@@ -23,7 +23,7 @@ damage_resistances: "lightning, thunder; bludgeoning, piercing, and slashing fro
 
 ***Magic Weapons.*** The myrmidon's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The myrmidon makes three flail attacks.
 

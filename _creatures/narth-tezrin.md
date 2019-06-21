@@ -21,7 +21,7 @@ senses: " passive Perception 16"
 
 ***Cunning Action.*** On each of his turns, Narth can use a bonus action to take the Dash, Disengage, or Hide action.
 
-### Acciones
+### Actions
 
 ***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 

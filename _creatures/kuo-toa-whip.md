@@ -33,7 +33,7 @@ armor_class: "11 (armadura natural)"
 
 * 1st level (3 slots): bane, shield of faith
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
 

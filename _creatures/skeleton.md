@@ -20,7 +20,7 @@ damage_vulnerabilities: "bludgeoning"
 condition_immunities: "poisoned"
 ---
 
-### Acciones
+### Actions
 
 ***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 

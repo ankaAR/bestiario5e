@@ -26,7 +26,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Spell Immunity.*** The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The helmed horror makes two longsword attacks.
 

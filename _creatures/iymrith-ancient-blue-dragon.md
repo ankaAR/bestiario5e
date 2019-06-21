@@ -25,7 +25,7 @@ armor_class: "22 (armadura natural)"
 
 1/day: counterspell, detect magic, ice storm, stone shape, teleport
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -43,7 +43,7 @@ armor_class: "22 (armadura natural)"
 
 In storm giant form, Iymrith retains her alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Her statistics are otherwise replaced by those of the new form.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The iymrith, ancient blue dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The iymrith, ancient blue dragon regains spent legendary actions at the start of its turn.
 

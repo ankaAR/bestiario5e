@@ -30,7 +30,7 @@ armor_class: "15 (leather armor)"
 
 * 1st level (3 slots): charm person, color spray, disguise self, longstrider
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Jamna attacks twice with her shortswords.
 

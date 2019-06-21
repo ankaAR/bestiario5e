@@ -22,7 +22,7 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 
 ***Life Hunger.*** If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The Hungry makes two attacks: one with its bite and one with its claws.
 

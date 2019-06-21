@@ -22,6 +22,6 @@ armor_class: "15 (armadura natural)"
 
 ***Spider Climb.*** The piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Acciones
+### Actions
 
 ***Drop.*** Melee Weapon Attack: +3 to hit, one creature directly underneath the piercer. Hit: 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6). Miss: The piercer takes half the normal falling damage for the distance fallen.

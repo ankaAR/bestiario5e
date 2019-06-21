@@ -18,7 +18,7 @@ hit_points: "60 (8d12+8)"
 armor_class: "12"
 ---
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
 

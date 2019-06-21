@@ -26,13 +26,13 @@ armor_class: "18 (plate)"
 * 3/day each: jump, levitate (self only), misty step, nondetection (self only)
 * 1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis
 
-### Acciones
+### Actions
 
 ***Multiattack*** The githyanki makes two greatsword attacks.
 
 ***Silver Greatsword*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The githyanki regains spent legendary actions at the start of its turn.
 

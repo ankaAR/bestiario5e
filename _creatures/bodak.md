@@ -30,7 +30,7 @@ damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing f
 
 ***Sunlight Hypersensitivity.*** The bodak takes 5 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-### Acciones
+### Actions
 
 ***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) bludgeoning damage plus 9 (2d8) necrotic damage.
 

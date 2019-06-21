@@ -21,7 +21,7 @@ armor_class: "13 (leather armor)"
 
 ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The gnoll makes two melee attacks with its spear or two ranged attacks with its longbow.
 

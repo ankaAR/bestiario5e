@@ -33,7 +33,7 @@ Cantrips (at will): guidance, mending, resistance, thaumaturgy
 
 3rd level (2 slots): bestow curse, create food and water
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
 

@@ -17,7 +17,7 @@ hit_points: "121 (9d20+27)"
 armor_class: "15 (armadura natural)"
 ---
 
-### Acciones
+### Actions
 
 ***Stomp.*** Melee Weapon Attack: +8 al ataque, alcance 20 pies, un objetivo. Impacto: 27 (5d8+5) bludgeoning damage, and the target must succed on a DC 14 Strength saving throw or be knocked prone.
 

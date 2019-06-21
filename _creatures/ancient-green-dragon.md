@@ -26,7 +26,7 @@ condition_immunities: "poisoned"
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -40,7 +40,7 @@ condition_immunities: "poisoned"
 
 ***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The ancient green dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient green dragon regains spent legendary actions at the start of its turn.
 

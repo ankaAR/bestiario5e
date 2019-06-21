@@ -21,6 +21,6 @@ armor_class: "13"
 
 ***Water Breathing.*** The quipper can breathe only underwater.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

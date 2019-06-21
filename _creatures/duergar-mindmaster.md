@@ -26,7 +26,7 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The duergar makes two melee attacks. It can replace one of those attacks with a use of Mind Mastery.
 

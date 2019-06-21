@@ -24,7 +24,7 @@ armor_class: "18 (plate)"
 
 ***Tackle.*** When the giant enters any enemy's space for the first time on a turn, the enemy must succeed on a DC 19 Strength saving throw or be knocked prone.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The giant makes two greatsword attacks.
 

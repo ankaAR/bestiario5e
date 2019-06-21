@@ -38,7 +38,7 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Regeneration.*** Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Zariel attacks twice with her longsword or with her javelins. She can substitute Horrid Touch for one of these attacks.
 
@@ -50,7 +50,7 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Teleport*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of her turn.
 

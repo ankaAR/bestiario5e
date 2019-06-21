@@ -29,7 +29,7 @@ armor_class: "13 (natural armor, unarmored defense)"
 
 ***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The kuo-toa makes one bite attack and two unarmed strikes.
 

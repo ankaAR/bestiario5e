@@ -19,7 +19,7 @@ armor_class: "12"
 condition_immunities: "poisoned"
 ---
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +2 al ataque, alcance 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.
 

@@ -25,7 +25,7 @@ armor_class: "14 (armadura natural)"
 
 ***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The cloaker makes two attacks: one with its bite and one with its tail.
 

@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The shoosuva makes two attacks: one with its bite and one with its tail stinger.
 

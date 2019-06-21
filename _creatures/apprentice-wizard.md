@@ -24,6 +24,6 @@ Cantrips (at will): fire bolt, mending, prestidigitation
 
 1st level (2 slots): burning hands, disguise self, shield
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 2 (1d4) piercing damage.

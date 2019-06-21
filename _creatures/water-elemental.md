@@ -25,7 +25,7 @@ damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical w
 
 ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The elemental makes two slam attacks.
 

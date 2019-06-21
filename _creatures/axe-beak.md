@@ -16,6 +16,6 @@ hit_points: "19 (3d10+3)"
 armor_class: "11"
 ---
 
-### Acciones
+### Actions
 
 ***Beak.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage.

@@ -26,6 +26,6 @@ condition_immunities: "blinded, deafened, frightened"
 
 ***False Appearance.*** While the thorn slinger remains motionless, it is indistinguishable from an inanimate bush.
 
-### Acciones
+### Actions
 
 ***Thorns.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 30 pies, un objetivo. Impacto: 8 (2d6 + 1) piercing damage.

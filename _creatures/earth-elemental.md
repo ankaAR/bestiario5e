@@ -26,7 +26,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Siege Monster.*** The elemental deals double damage to objects and structures.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The elemental makes two slam attacks.
 

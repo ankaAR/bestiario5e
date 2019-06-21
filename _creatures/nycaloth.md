@@ -30,7 +30,7 @@ At will: darkness, detect magic, dispel magic, invisibility (self only), mirror 
 
 ***Magic Weapons.*** The nycaloth's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
 

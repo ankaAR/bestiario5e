@@ -20,6 +20,6 @@ armor_class: "11 (armadura natural)"
 
 ***Relentless (Recharges after a Short or Long Rest).*** If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-### Acciones
+### Actions
 
 ***Tusk.*** Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.

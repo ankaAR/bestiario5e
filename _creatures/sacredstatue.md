@@ -29,7 +29,7 @@ damage_resistances: "acid, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Inert.*** When not inhabited by an eidolon, the statue is an object.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The statue makes two slam attacks.
 

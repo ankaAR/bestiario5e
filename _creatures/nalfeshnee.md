@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The nalfeshnee uses Horror Nimbus if it can.  It then makes three attacks: one with its bite and two with its claws.
 

@@ -27,13 +27,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from magic weapons"
 
 ***Turn Immunity.*** The demilich is immune to effects that turn undead.
 
-### Acciones
+### Actions
 
 ***Howl (Recharge 5-6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is frightened until the end of its next turn.
 
 ***Life Drain.*** The demilich targets up to three creatures that it can see within 10 feet of it. Each target must succeed on a DC 19 Constitution saving throw or take 21 (6d6) necrotic damage, and the demilich regains hit points equal to the total damage dealt to all targets.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The demilich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of its turn.
 

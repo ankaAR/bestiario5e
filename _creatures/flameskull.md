@@ -38,7 +38,7 @@ damage_resistances: "lightning, necrotic, piercing"
 
 * 3rd level (1 slot): fireball
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The flameskull uses Fire Ray twice.
 

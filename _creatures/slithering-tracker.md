@@ -34,9 +34,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Spider Climb.*** The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Watery Stealth.*** While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.
+***Watery Stealth.*** Mientras está bajo el agua,the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.
 
-### Acciones
+### Actions
 
 ***Slam.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10+3) bludgeoning damage.
 

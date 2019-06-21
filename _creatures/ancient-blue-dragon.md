@@ -21,7 +21,7 @@ hit_points: "481 (26d20+208)"
 armor_class: "22 (armadura natural)"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -35,7 +35,7 @@ armor_class: "22 (armadura natural)"
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The ancient blue dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient blue dragon regains spent legendary actions at the start of its turn.
 

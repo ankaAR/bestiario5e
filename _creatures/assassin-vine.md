@@ -21,7 +21,7 @@ armor_class: "13 (armadura natural)"
 
 ***False Appearance.*** Whlle the assassin vine remains motionless, it is indistinguishable from a normal plant.
 
-### Acciones
+### Actions
 
 ***Constrict.***  Mele Weapon Attack: +6 al ataque, alcance 20 pies, un objetivo. Impacto: The target takes 11 (2d6 +4) bludgeoning damage, and It is grappled (escape DC 14). Until this grapple ends, the target is restrained, and it takes 21 (6d6) poison damage at the start of each of its turns. The vine can constrict only one target at a time.
 

@@ -19,7 +19,7 @@ armor_class: "13 (armadura natural)"
 
 ***Pounce.*** If the deinonychus moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the deinonychus can make one bite attack against it as a bonus action.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The deinonychus makes three attacks: one with its bite and two with its claws.
 

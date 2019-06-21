@@ -28,13 +28,13 @@ armor_class: "20"
 
 ***Psychic Defense.*** While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The anarch makes three unarmed strikes.
 
 ***Unarmed Strike*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The anarch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The anarch regains spent legendary actions at the start of its turn.
 

@@ -20,7 +20,7 @@ armor_class: "15 (armadura natural)"
 
 ***Charge.*** If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-### Acciones
+### Actions
 
 ***Ram.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
 

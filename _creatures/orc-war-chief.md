@@ -24,7 +24,7 @@ armor_class: "16 (chain mail)"
 
 ***Gruumsh's Fury.*** The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The orc makes two attacks with its greataxe or its spear.
 

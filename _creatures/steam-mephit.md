@@ -24,7 +24,7 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +2 al ataque, alcance 5 ft., one creature. Hit: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 

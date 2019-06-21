@@ -47,6 +47,6 @@ Cantrips (at will): light, mending, prestidigitation, ray of frost
 
 >If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.
 
-### Acciones
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.

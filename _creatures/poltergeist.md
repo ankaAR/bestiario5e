@@ -27,7 +27,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing
 
 ***Invisibility.*** The poltergeist is invisible.
 
-### Acciones
+### Actions
 
 ***Forceful Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft. one creature. Hit: 10 (3d6) force damage.
 

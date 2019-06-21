@@ -25,6 +25,6 @@ Spores invade an infected creature's system, killing the creature in a number of
 
 ***Eerie Resemblance.*** The gas spore resembles a beholder. A creature that can see the gas spore can discern its true nature with a successful DC 15 Intelligence (Nature) check.
 
-### Acciones
+### Actions
 
 ***Touch.*** Melee Weapon Attack: +0 al ataque, alcance 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.

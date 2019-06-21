@@ -23,7 +23,7 @@ armor_class: "17 (splint)"
 
 ***Shrapnel Explosion.*** When the razerblast drops to 0 hit points, a flaming orb in its chest explodes, destroying the razerblast's body and scattering its armor as shrapnel. Creatures within 10 feet of the razerblast when it explodes must succeed on a DC 12 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The razerblast makes three melee attacks.
 

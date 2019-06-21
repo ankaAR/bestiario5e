@@ -21,7 +21,7 @@ armor_class: "13 (hide armor)"
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-### Acciones
+### Actions
 
 ***Greataxe.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) slashing damage.
 

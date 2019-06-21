@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Two Heads.*** Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Demogorgon makes two tentacle attacks.
 
@@ -49,7 +49,7 @@ If the target fails the save, the target suffers one of the following effects of
 2. Hypnotic Gaze. The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its actions, reactions, and movement. Because this gaze requires Demogorgon to focus both heads on the target, he can't use his Maddening Gaze legendary action until the start of his next turn.
 3. Insanity Gaze. The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of his turn.
 

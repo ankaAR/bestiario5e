@@ -35,7 +35,7 @@ At will: minor illusion
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Droki makes two attacks with his shortsword
 

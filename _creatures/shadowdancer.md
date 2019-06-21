@@ -27,7 +27,7 @@ damage_resistances: "necrotic"
 
 ***Shadow Jump.*** As a bonus action, the shadow dancer can teleport up to 30 feet to an unoccupied space it can see. Both the space it teleports from and the space it teleports to must be in dim light or darkness. The shadow dancer can use this ability between the weapon attacks of another action it takes.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The shadow dancer makes three spiked chain attacks.
 

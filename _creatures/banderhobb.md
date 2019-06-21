@@ -24,7 +24,7 @@ condition_immunities: "charmed, frightened"
 
 ***Shadow Stealth.*** While in dim light or darkness, the banderhobb can take the Hide action as a bonus action.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d6+5) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.
 

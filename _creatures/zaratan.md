@@ -32,7 +32,7 @@ The shock wave deals 100 thunder damage to all structures in contact with the gr
 
 ***Siege Monster.*** The elemental deals double damage to objects and structures (included in Earth-Shaking Movement).
 
-### Acciones
+### Actions
 
 ***Multiattack*** The zaratan makes two attacks: one with its bite and one with its stomp.
 
@@ -44,7 +44,7 @@ The shock wave deals 100 thunder damage to all structures in contact with the gr
 
 ***Spew Debris (Recharge 5-6)*** The zaratan exhales rocky debris in a 90-foot cube. Each creature in that area must make a DC 25 Dexterity saving throw. A creature takes 33 (6d10) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save by 5 or more is knocked prone.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The zaratan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The zaratan regains spent legendary actions at the start of its turn.
 

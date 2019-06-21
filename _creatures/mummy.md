@@ -22,7 +22,7 @@ damage_vulnerabilities: "fire"
 condition_immunities: "necrotic, poisoned"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 

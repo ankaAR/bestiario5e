@@ -18,7 +18,7 @@ armor_class: "11 (armadura natural)"
 
 ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The bear makes two attacks: one with its bite and one with its claws.
 

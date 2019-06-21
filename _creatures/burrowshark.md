@@ -20,7 +20,7 @@ armor_class: "18 (plate)"
 
 ***Bond of the Black Earth.*** The burrowshark is magically bound to a bulette trained to serve as its mount. While mounted on its bulette, the burrowshark shares the bulette's senses and can ride the bulette while it burrows. The bonded bulette obeys the burrowshark's commands. If its mount dies, the burrowshark can train a new bulette to serve as its bonded mount, a process requiring a month.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The burrowshark makes three melee attacks.
 

@@ -22,11 +22,11 @@ armor_class: "17 (armadura natural)"
 
 ***Anfibio.*** El abolez puede respirar aire y agua.
 
-***Mucous Cloud.*** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.
+***Mucous Cloud.*** Mientras está bajo el agua,the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.
 
 ***Probing Telepathy.*** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** El abolez makes three tentacle attacks.
 
@@ -38,7 +38,7 @@ armor_class: "17 (armadura natural)"
 
 Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
-### Acciones Legendarias
+### Legendary Actions
 
 El abolez can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. El abolez regains spent legendary actions at the start of its turn.
 

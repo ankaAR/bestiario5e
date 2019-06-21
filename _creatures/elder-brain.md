@@ -34,7 +34,7 @@ At will: detect thoughts, levitate
 
 ***Telepathic Hub.*** The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.
 
-### Acciones
+### Actions
 
 ***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 30 pies, un objetivo. Impacto: 20 (4d8+2) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8+5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
 
@@ -44,7 +44,7 @@ At will: detect thoughts, levitate
 
 ***Sense Thoughts.*** The elder brain targets a creature with which it has a psychic link. The elder brain gains insight into the target's reasoning, its emotional state, and thoughts that loom large in its mind (including things the target worries about, loves, or hates). The elder brain can also make a Charisma (Deception) check with advantage to deceive the target's mind into thinking it believes one idea or feels a particular emotion. The target contests this attempt with a Wisdom (Insight) check. If the elder brain succeeds, the mind believes the deception for 1 hour or until evidence of the lie is presented to the target.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The elder brain can take 3 legendary actions, choosing from the options below. It can take only one legendary action at a time and only at the end of another creature's turn. The elder brain regains spent legendary actions at the start of its turn.
 

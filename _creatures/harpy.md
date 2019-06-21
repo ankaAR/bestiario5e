@@ -17,7 +17,7 @@ hit_points: "38 (7d8+7)"
 armor_class: "11"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The harpy makes two attacks: one with its claws and one with its club.
 

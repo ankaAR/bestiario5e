@@ -38,7 +38,7 @@ armor_class: "15 (studded leather)"
 
 * 5th level (2 slots): dominate person
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Vanifer makes two attacks.
 

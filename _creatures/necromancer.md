@@ -40,6 +40,6 @@ Cantrips (at will): chill touch, dancing lights, mage hand, mending
 
 ***Grim Harvest (1/Turn).*** When necromancer kills a creature that is neither a construct nor undead with a spell of 1st level or higher, the necromancer regains hit points equal to twice the spell's level, or three times if it is a necromancy spell.
 
-### Acciones
+### Actions
 
 ***Withering Touch.*** Melee Spell Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 5 (2d4) necrotic damage.

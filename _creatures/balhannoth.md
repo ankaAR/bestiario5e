@@ -24,7 +24,7 @@ condition_immunities: "blinded"
 
 ***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The balhannoth makes a bite attack and up to two tentacle attacks, or it makes up to four tentacle attacks.
 
@@ -32,7 +32,7 @@ condition_immunities: "blinded"
 
 ***Tentacle*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is restrained, and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The balhannoth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The balhannoth regains spent legendary actions at the start of its turn.
 

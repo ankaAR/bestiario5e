@@ -26,7 +26,7 @@ damage_resistances: "poison"
 
 ***Sneak Attack (1/Turn).*** The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The assassin makes two shortsword attacks.
 

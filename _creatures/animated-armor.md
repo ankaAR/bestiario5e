@@ -23,7 +23,7 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The armor makes two melee attacks.
 

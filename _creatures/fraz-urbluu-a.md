@@ -39,7 +39,7 @@ At will: alter self (can become Medium-sized when changing his appearance), dete
 
 ***Undetectable.*** Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 
@@ -47,7 +47,7 @@ At will: alter self (can become Medium-sized when changing his appearance), dete
 
 ***Fist.*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 27 (4d8 + 9) bludgeoning damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creautre's turn. Fraz-Urb'luu regains spent legendary actions at the start of his turn.
 

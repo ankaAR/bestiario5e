@@ -36,7 +36,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Magic Resistance.*** The planetar has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The planetar makes two melee attacks.
 

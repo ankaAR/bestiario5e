@@ -27,7 +27,7 @@ armor_class: "15 (leather armor, shield)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The kobold makes two melee attacks.
 

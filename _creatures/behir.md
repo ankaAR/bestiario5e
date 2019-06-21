@@ -20,7 +20,7 @@ hit_points: "168 (16d12+64)"
 armor_class: "17 (armadura natural)"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The behir makes two attacks: one with its bite and one to constrict.
 

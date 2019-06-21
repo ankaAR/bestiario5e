@@ -35,7 +35,7 @@ At will: detect magic, disguise self, mage armor
 
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The wight attacks twice with Grave Bolt.
 

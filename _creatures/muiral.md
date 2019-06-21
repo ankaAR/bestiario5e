@@ -41,7 +41,7 @@ armor_class: "16 (armadura natural)"
 
 ***Legendary Resistance (3/Day).*** If Muiral fails a saving throw, he can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Muiral makes three attacks: two with his longsword and one with his sting.
 
@@ -49,7 +49,7 @@ armor_class: "16 (armadura natural)"
 
 ***Sting.*** Melee Weapon Attack: +9 al ataque, alcance 10 ft., one creature. Hit: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Muiral can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Muiral regains spent legendary actions at the start of his turn.
 

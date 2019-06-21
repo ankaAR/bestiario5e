@@ -24,7 +24,7 @@ condition_immunities: "prone"
 
 ***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.
 

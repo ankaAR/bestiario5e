@@ -37,7 +37,7 @@ armor_class: "15 (studded leather armor)"
 
 ***Web Walker.*** The choldrith ignores movement restrictions caused by webbing.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage plus 10 (3d6) poison damage.
 

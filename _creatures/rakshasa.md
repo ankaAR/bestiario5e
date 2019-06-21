@@ -31,7 +31,7 @@ At will: detect thoughts, disguise self, mage hand, minor illusion
 
 1/day each: dominate person, fly, plane shift, true seeing
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The rakshasa makes two claw attacks
 

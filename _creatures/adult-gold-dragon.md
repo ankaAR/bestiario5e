@@ -25,7 +25,7 @@ armor_class: "19 (armadura natural)"
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -43,7 +43,7 @@ Fire Breath. The dragon exhales fire in a 60-foot cone. Each creature in that ar
 
 Weakening Breath. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The adult gold dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult gold dragon regains spent legendary actions at the start of its turn.
 

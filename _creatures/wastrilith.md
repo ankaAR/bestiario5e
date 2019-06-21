@@ -33,7 +33,7 @@ If another demon drinks the foul water as an action, it gains 11 (2d10) temporar
 
 ***Undertow.*** As a bonus action when the wastrilith is underwater, it can cause all water within 60 feet of it to be difficult terrain for other creatures until the start of its next turn.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The wastrilith uses Grasping Spout and makes three attacks: one with its bite and two with its claws.
 

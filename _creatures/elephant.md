@@ -18,7 +18,7 @@ armor_class: "12 (armadura natural)"
 
 ***Trampling Charge.*** If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 
-### Acciones
+### Actions
 
 ***Gore.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8 + 6) piercing damage.
 

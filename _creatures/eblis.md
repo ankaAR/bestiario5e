@@ -23,7 +23,7 @@ armor_class: "13"
 
 1/day each: blur, hypnotic pattern, minor illusion
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The eblis attacks twice with its beak.
 

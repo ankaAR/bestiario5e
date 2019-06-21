@@ -23,7 +23,7 @@ armor_class: "15 (armadura natural)"
 
 ***Standing Leap.*** The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 

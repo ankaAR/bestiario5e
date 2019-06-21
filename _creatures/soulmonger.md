@@ -35,7 +35,7 @@ condition_immunities: "charmed, exhaustion, frightened"
 
 ***Weight of Ages.*** Any beast or humanoid, other than a shadar-kai, that starts its turn within 5 feet of the soul monger has its speed reduced by 20 feet until the start of that creature's next turn.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The soul monger makes two phantasmal dagger attacks.
 

@@ -37,6 +37,6 @@ Cantrips (at will): acid splash, mage hand, poison spray, prestidigitation
 
 ***Benign Transportation (Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher).*** As a bonus action, the conjurer teleports up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.

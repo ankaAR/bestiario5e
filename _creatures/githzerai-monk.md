@@ -27,7 +27,7 @@ At will: mage hand (the hand is invisible)
 
 ***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The githzerai makes two unarmed strikes.
 

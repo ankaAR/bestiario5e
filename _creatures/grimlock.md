@@ -26,6 +26,6 @@ armor_class: "11"
 
 ***Stone Camouflage.*** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Acciones
+### Actions
 
 ***Spiked Bone Club.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.

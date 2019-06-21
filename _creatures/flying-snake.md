@@ -19,6 +19,6 @@ armor_class: "14"
 
 ***Flyby.*** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage plus 7 (3d4) poison damage.

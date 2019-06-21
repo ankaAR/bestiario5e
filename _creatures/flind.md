@@ -22,7 +22,7 @@ armor_class: "16 (chain mail)"
 
 ***Aura of Blood Thirst.*** If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The flind makes three attacks: one with each of its different flail attacks or three with its longbow.
 

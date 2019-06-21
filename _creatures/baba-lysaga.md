@@ -44,7 +44,7 @@ armor_class: "15 (armadura natural)"
 
 * 8th level (1 slot): power word stun
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Baba Lysaga makes three attacks with her quarterstaff
 

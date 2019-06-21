@@ -24,7 +24,7 @@ armor_class: "12"
 
 ***Water Breathing.*** The octopus can breathe only underwater.
 
-### Acciones
+### Actions
 
 ***Tentacles.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 

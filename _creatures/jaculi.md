@@ -22,7 +22,7 @@ armor_class: "14 (armadura natural)"
 
 ***Keen Smell.*** The jaculi has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 +2) piercing damage.
 

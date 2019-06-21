@@ -22,7 +22,7 @@ armor_class: "15 (armadura natural)"
 
 ***Disintegration.*** If the duodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The duodrone makes two fist attacks or two javelin attacks.
 

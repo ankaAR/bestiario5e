@@ -20,7 +20,7 @@ armor_class: "12"
 
 ***Keen Sight.*** The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The griffon makes two attacks: one with its beak and one with its claws.
 

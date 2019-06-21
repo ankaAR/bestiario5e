@@ -24,7 +24,7 @@ armor_class: "18 (chain mail, shield)"
 
 ***Foe Smiter of Ilneval.*** The orc deals an extra die of damage when it hits with a longsword attack (included in the attack).
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The orc makes two melee attacks with its longsword or two ranged attacks with its javelins. If Ilneval's Command is available to use, the orc can use it after these attacks.
 

@@ -29,7 +29,7 @@ armor_class: "16 (chain mail)"
 
 * 3rd level (2 slots): mass healing word, spirit guardians
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Frulam attacks twice with her halberd.
 

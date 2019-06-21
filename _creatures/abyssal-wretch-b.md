@@ -22,6 +22,6 @@ condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Acciones
+### Actions
 
 ***Bite*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.

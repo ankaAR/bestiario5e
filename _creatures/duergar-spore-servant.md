@@ -20,6 +20,6 @@ condition_immunities: "blinded, charmed, frightened, paralyzed"
 damage_resistances: "poison"
 ---
 
-### Acciones
+### Actions
 
 ***War Pick.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

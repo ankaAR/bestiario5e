@@ -32,13 +32,13 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Return to Worms.*** When the larva mage is reduced to 0 hit points, it breaks apart into a swarm of insects in the same space. Unless the swarm is destroyed, the larva mage reforms from it 24 hours later.
 
-### Acciones
+### Actions
 
 ***Slam*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19 Constitution saving throw or be poisoned until the end of its next turn.
 
 ***Plague of Worms (Recharge 6)*** Each creature other than a star spawn within 10 feet of the larva mage must make a DC 19 Dexterity saving throw. On a failure the target takes 22 (5d8) necrotic damage and is blinded and restrained by masses of swarming worms. The affected creature takes 22 (5d8) necrotic damage at the start of each of the larva mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The larva mage can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The larva mage regains spent legendary actions at the start of its turn.
 

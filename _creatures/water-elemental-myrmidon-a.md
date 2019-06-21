@@ -23,7 +23,7 @@ damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical w
 
 ***Magic Weapons.*** The myrmidon's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The myrmidon makes three trident attacks.
 

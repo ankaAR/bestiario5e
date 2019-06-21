@@ -39,7 +39,7 @@ condition_immunities: "exhaustion, frightened, poisoned"
 
 * 5th level (2 slots): destructive wave (necrotic)
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The death knight makes three longsword attacks.
 

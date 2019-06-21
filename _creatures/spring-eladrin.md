@@ -33,7 +33,7 @@ Whenever the eladrin deals damage to the charmed creature, it can repeat the sav
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The eladrin makes two weapon attacks. The eladrin can cast one spell in place of one of these attacks.
 

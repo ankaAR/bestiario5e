@@ -19,6 +19,6 @@ armor_class: "13"
 
 ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Talons.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

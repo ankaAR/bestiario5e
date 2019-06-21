@@ -25,6 +25,6 @@ condition_immunities: "poisoned"
 
 ***Poison Sense.*** The tressym can detect whether a substance is poisonous by taste, touch, or smell.
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

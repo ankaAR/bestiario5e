@@ -18,7 +18,7 @@ hit_points: "39 (6d8+12)"
 armor_class: "18 (plate)"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The guard makes two melee attacks.
 

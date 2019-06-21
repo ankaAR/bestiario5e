@@ -28,7 +28,7 @@ Cantrips (at will): guidance, thaumaturgy
 
 3rd level (2 slots): dispel magic, tongues
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.
 

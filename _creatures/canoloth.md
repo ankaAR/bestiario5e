@@ -31,7 +31,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Uncanny Senses.*** The canoloth can't be surprised while it isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The canoloth makes two attacks: one with its tongue or its bite and one with its claws.
 

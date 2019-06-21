@@ -21,6 +21,6 @@ armor_class: "12"
 
 ***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

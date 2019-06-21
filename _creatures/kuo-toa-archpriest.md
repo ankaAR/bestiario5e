@@ -41,7 +41,7 @@ armor_class: "13 (armadura natural)"
 
 * 5th level (2 slots): mass cure wounds, scrying
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The kuo-toa makes two melee attacks.
 

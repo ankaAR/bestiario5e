@@ -19,6 +19,6 @@ armor_class: "13 (hide armor)"
 
 ***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-### Acciones
+### Actions
 
 ***Greataxe.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) slashing damage.

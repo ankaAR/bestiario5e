@@ -19,7 +19,7 @@ armor_class: "17 (splint)"
 senses: " passive Perception 15"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Markham makes two melee attacks.
 

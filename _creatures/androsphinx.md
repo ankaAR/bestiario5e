@@ -42,7 +42,7 @@ condition_immunities: "charmed, frightened"
 
 * 6th level (1 slot): heroes' feast
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
@@ -56,7 +56,7 @@ Second Roar. Each creature that fails a DC 18 Wisdom saving throw is deafened an
 
 Third Roar. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The androsphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The androsphinx regains spent legendary actions at the start of its turn.
 

@@ -19,7 +19,7 @@ hit_points: "13 (3d6+3)"
 armor_class: "12"
 ---
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
 

@@ -40,6 +40,6 @@ armor_class: "18 (scale mail +1, shield)"
 
 ***Winter Strike (3/Day).*** Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.
 
-### Acciones
+### Actions
 
 ***Spear.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d6 + 2) piercing damage.

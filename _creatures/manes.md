@@ -21,6 +21,6 @@ condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) slashing damage.

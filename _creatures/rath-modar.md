@@ -37,7 +37,7 @@ armor_class: "13 (16 with mage armor)"
 
 * 6th level (1 slot): globe of invulnerability
 
-### Acciones
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) bludgeoning damage.
 

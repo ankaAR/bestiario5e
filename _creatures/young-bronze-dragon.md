@@ -23,7 +23,7 @@ armor_class: "18 (armadura natural)"
 
 ***Anfibio.*** The dragon puede respirar aire y agua.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 

@@ -20,7 +20,7 @@ armor_class: "16 (chain shirt, shield)"
 
 ***Anfibio.*** The firenewt puede respirar aire y agua.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The firenewt makes two attacks with its scimitar.
 

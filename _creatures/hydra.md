@@ -30,7 +30,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Wakeful.*** While the hydra sleeps, at least one of its heads is awake.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The hydra makes as many bite attacks as it has heads.
 

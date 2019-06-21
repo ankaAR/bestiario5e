@@ -30,7 +30,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Weapons.*** The golem's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The golem makes two slam attacks.
 

@@ -21,7 +21,7 @@ armor_class: "12"
 condition_immunities: "blinded, prone"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The grell makes two attacks: one with its tentacles and one with its beak.
 

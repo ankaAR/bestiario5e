@@ -21,7 +21,7 @@ hit_points: "52 (8d8+16)"
 armor_class: "17 (armadura natural)"
 ---
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 

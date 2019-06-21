@@ -34,7 +34,7 @@ At will: commune with nature, meld into stone, stone shape
 
 ***Stone's Strength.*** While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks).
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The korred makes two attacks with its greatclub or hurls two rocks.
 

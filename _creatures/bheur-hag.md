@@ -99,7 +99,7 @@ At will: hold person,* ray of frost
 
 6th level (1 slot): true seeing
 
-### Acciones
+### Actions
 
 ***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one target. Hit:10 (2d8+1) bludgeoning damage plus 3 (1d6) cold damage.
 

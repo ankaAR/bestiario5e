@@ -31,7 +31,7 @@ damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lig
 
 ***Legendary Resistance (5/Day).*** While wearing the Mask of the Dragon Queen, if Severin fails a saving throw, he can choose to succeed instead.
 
-### Acciones
+### Actions
 
 ***Burning Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d8) fire damage.
 
@@ -39,7 +39,7 @@ damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lig
 
 ***Scorching Burst.*** Severin chooses a point he can see within 60 feet of him. Each creature within 5 feet of that point must make a DC 17 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.
 
-### Acciones Legendarias
+### Legendary Actions
 
 If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature's turn. Severin regains spent legendary actions at the start of his turn.
 

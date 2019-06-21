@@ -20,7 +20,7 @@ hit_points: "138 (12d12+60)"
 armor_class: "15 (patchwork armor)"
 ---
 
-### Acciones
+### Actions
 
 ***Weighted Net.*** Ranged Weapon Attack: +5 to hit, ranged 20/60 ft., one Small, Medium, or Large creature. Hit: The target is restrained until it escapes the net. Any creature can use its action to make a DC 17 Strength check to free itself or another creature in the net, ending the effect on a success. Dealing 15 slashing damage to the net (AC 12) destroys the net and frees the target.
 

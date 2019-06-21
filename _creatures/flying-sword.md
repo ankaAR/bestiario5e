@@ -24,6 +24,6 @@ condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrif
 
 ***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
-### Acciones
+### Actions
 
 ***Longsword.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.

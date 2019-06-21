@@ -20,7 +20,7 @@ armor_class: "13"
 
 ***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The eagle makes two attacks: one with its beak and one with its talons.
 

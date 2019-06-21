@@ -29,6 +29,6 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Charge.*** If the table moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-### Acciones
+### Actions
 
 ***Ram.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.

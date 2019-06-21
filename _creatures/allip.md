@@ -26,7 +26,7 @@ damage_resistances: "acid, fire, lightning, thunder; bludgeoning, piercing, and 
 
 ***Incorporeal Movement.*** The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-### Acciones
+### Actions
 
 ***Maddening Touch*** Melee Spell Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) psychic damage.
 

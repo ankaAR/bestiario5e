@@ -19,7 +19,7 @@ armor_class: "12"
 senses: "qpassive Perception 13"
 ---
 
-### Acciones
+### Actions
 
 ***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage, .
 

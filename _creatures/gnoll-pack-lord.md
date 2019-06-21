@@ -20,7 +20,7 @@ armor_class: "15 (chain shirt)"
 
 ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.
 

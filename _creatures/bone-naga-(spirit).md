@@ -30,6 +30,6 @@ condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 
 * 3rd level (2 slots): lightning bolt
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.

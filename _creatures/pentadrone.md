@@ -23,7 +23,7 @@ armor_class: "16 (armadura natural)"
 
 ***Disintegration.*** If the pentadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The pentadrone makes five arm attacks.
 

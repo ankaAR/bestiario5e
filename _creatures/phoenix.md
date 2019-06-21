@@ -36,7 +36,7 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Siege Monster.*** The phoenix deals double damage to objects and structures.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The phoenix makes two attacks: one with its beak and one with its fiery talons.
 
@@ -44,7 +44,7 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Fiery Talons*** Melee Weapon Attack: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 17 (2d8 + 8) fire damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The phoenix can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The phoenix regains spent legendary actions at the start of its turn.
 

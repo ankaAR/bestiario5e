@@ -21,7 +21,7 @@ armor_class: "13 (armadura natural)"
 
 ***Innate Spellcasting.*** The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day: geas
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 

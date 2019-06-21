@@ -33,7 +33,7 @@ At will: detect evil and good, detect magic, detect thoughts
 
 ***Shielded Mind.*** The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 

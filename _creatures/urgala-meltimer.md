@@ -21,7 +21,7 @@ senses: "passive Perception 12"
 
 **Giant Slayer.** Any weapon attack that Urgala makes against a giant deals an extra 7 (2d6) damage on a hit.
 
-### Acciones
+### Actions
 
 **Multiattack.** Urgala makes two attacks with her morningstar or her shortbow.
 

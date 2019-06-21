@@ -19,7 +19,7 @@ armor_class: "14 (armadura natural)"
 
 ***Fire Absorption.*** Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
 

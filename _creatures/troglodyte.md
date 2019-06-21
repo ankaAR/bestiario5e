@@ -25,7 +25,7 @@ armor_class: "11 (armadura natural)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The troglodyte makes three attacks: one with its bite and two with its claws.
 

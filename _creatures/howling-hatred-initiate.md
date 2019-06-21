@@ -22,6 +22,6 @@ armor_class: "13 (leather)"
 
 ***Hold Breath.*** The initiate can hold its breath for 30 minutes.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

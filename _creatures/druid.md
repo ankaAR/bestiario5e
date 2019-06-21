@@ -26,6 +26,6 @@ armor_class: "11 (16 with barkskin)"
 
 * 2nd level (3 slots): animal messenger, barkskin
 
-### Acciones
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.

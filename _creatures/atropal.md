@@ -28,7 +28,7 @@ armor_class: "7"
 
 ***Turn Resistance Aura.*** The atropal and any other undead creature within 30 feet of it has advantage on saving throws against any effect that turns undead.
 
-### Acciones
+### Actions
 
 ***Touch.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) necrotic damage.
 
@@ -38,7 +38,7 @@ armor_class: "7"
 
 ***Summon Wraith (Recharge 6).*** The atropal summons a wraith, which materializes within 30 feet of it in an unoccupied space it can see. The wraith obeys its summoner's commands and can't be controlled by any other creature. The wraith vanishes when it drops to 0 hit points or when its summoner dies.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The atropal can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The atropal regains spent legendary actions at the start of its turn.
 

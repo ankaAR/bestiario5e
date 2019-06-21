@@ -20,7 +20,7 @@ armor_class: "17 (armadura natural)"
 
 ***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 

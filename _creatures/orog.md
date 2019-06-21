@@ -21,7 +21,7 @@ armor_class: "18 (plate)"
 
 ***Aggressive.*** As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The orog makes two greataxe attacks.
 

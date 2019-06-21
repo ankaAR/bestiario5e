@@ -33,6 +33,6 @@ armor_class: "17 (splint)"
 
 * 4th level (1 slot): stoneskin
 
-### Acciones
+### Actions
 
 ***Black Earth Rod.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage. The Stonemelder can also expend a spell slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level slot, plus an additional 1d8 for each level of the slot above 1st.

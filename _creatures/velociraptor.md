@@ -19,7 +19,7 @@ armor_class: "13 (armadura natural)"
 
 ***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The velociraptor makes two attacks: one with its bite and one with its claws.
 

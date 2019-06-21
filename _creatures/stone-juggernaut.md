@@ -27,6 +27,6 @@ armor_class: "15 (armadura natural)"
 
 ***Siege Monster.*** The juggernaut deals double damage to objects and structures.
 
-### Acciones
+### Actions
 
 ***Slam.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (3dl2 +6) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.

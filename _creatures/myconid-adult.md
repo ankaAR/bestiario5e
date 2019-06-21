@@ -21,7 +21,7 @@ armor_class: "12 (armadura natural)"
 
 ***Sun Sickness.*** While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
 
-### Acciones
+### Actions
 
 ***Fist.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) bludgeoning damage plus 5 (2d4) poison damage.
 

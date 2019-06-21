@@ -27,6 +27,6 @@ armor_class: "12"
 
 * 2nd Level (3 slots): hold person, misty step
 
-### Acciones
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one target.  Hit: 3 (1d8-1) bludgeoning damage.

@@ -18,7 +18,7 @@ hit_points: "22 (4d8+4)"
 armor_class: "14 (shield)"
 ---
 
-### Acciones
+### Actions
 
 ***Sharktoothed Longsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. Against a target is wearing no armor, the reaver deals an extra die of damage with this sword.
 

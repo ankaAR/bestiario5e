@@ -24,6 +24,6 @@ armor_class: "10"
 
 * 1st level (3 slots): bless, cure wounds, sanctuary
 
-### Acciones
+### Actions
 
 ***Club.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage.

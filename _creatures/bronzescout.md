@@ -26,7 +26,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Resistance.*** The bronze scout has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage plus 3 (1d6) lightning damage.
 

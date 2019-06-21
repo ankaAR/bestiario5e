@@ -21,7 +21,7 @@ senses: "passive Perception 15"
 
 ***Unarmored Defense.*** While Zi is wearing no armor and wielding no shield, her AC includes her Wisdom modifier.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Zi makes two melee attacks.
 

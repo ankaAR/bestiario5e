@@ -26,7 +26,7 @@ armor_class: "12 (armadura natural)"
 
 ***Snow Camouflage.*** The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The yeti can use its Chilling Gaze and makes two claw attacks.
 

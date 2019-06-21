@@ -29,7 +29,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Spider Climb.*** The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Acciones
+### Actions
 
 ***Proboscis.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration .
 

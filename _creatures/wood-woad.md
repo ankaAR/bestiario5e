@@ -30,7 +30,7 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Tree Stride.*** Once on each of its turns, the wood woad can use 10 feet of its movement to step magically into one living tree within 5 feet of it and emerge from a second living tree within 60 feet of it that it can see, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The wood woad makes two attacks with its club.
 

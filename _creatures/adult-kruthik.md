@@ -25,7 +25,7 @@ armor_class: "18 (armadura natural)"
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The kruthik makes two stab attacks or two spike attacks.
 

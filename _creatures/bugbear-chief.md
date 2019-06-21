@@ -25,7 +25,7 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Heart of Hruggek.*** The bugbear has advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The bugbear makes two melee attacks
 

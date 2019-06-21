@@ -31,6 +31,6 @@ Cantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation
 
 ***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 
-### Acciones
+### Actions
 
 ***Morningstar.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8+1) piercing damage.

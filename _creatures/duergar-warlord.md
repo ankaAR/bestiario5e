@@ -24,7 +24,7 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The duergar makes three hammer or javelin attacks and uses Call to Attack, or Enlarge if it is available.
 

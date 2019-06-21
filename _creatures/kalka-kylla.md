@@ -27,7 +27,7 @@ armor_class: "15 (armadura natural)"
 
 ***Shell.*** Kalka-Kylla can use a bonus action to retract into or emerge from its shell. While retracted, Kalka-Kylla gains a +4 bonus to AC, and it has a speed of 0 and can't benefit from bonuses to speed.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Kalka-Kylla makes two claw attacks.
 

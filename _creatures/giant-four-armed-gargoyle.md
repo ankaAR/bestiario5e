@@ -25,7 +25,7 @@ armor_class: "17 (armadura natural)"
 
 ***False appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The gargoyle makes five attacks: one with its bite and four with its claws.
 

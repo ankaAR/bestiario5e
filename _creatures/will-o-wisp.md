@@ -29,7 +29,7 @@ damage_resistances: "acid, cold, fire, necrotic, thunder, bludgeoning, piercing,
 
 ***Variable Illumination.*** The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of ft. equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
 
-### Acciones
+### Actions
 
 ***Shock.*** Melee Spell Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 9 (2d8) lightning damage.
 

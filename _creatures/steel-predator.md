@@ -30,7 +30,7 @@ damage_resistances: "cold, lightning, necrotic, thunder"
 
 ***Magic Weapons.*** The steel predator's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The steel predator makes three attacks: one with its bite and two with its claw.
 

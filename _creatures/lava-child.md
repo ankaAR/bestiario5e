@@ -22,6 +22,6 @@ armor_class: "11"
 
 ***Metal Immunity.*** The lava child can move through metal without hindrance, and it has advantage on attack rolls against any creature wearing metal armor or using a metal shield.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The lava child makes two attacks: one with its bite and one with its claws.

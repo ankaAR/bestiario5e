@@ -23,7 +23,7 @@ armor_class: "17 (armadura natural)"
 
 ***Anfibio.*** The dragon puede respirar aire y agua.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
 

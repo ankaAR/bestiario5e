@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***False Appearance.*** While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The gargoyle makes two attacks: one with its bite and one with its claws.
 

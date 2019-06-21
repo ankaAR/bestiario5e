@@ -39,7 +39,7 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 ***Magic Weapon.*** Graz'zt's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Graz'zt attacks twice with the Wave of Sorrow.
 
@@ -47,7 +47,7 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 ***Teleport.*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creautre's turn. Graz'zt regains spent legendary actions at the start of his turn.
 

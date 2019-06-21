@@ -21,7 +21,7 @@ senses: " passive Perception 12"
 
 ***Brave.*** Baric has advantage on saving throws against being frightened.
 
-### Acciones
+### Actions
 
 ***Maul.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
 

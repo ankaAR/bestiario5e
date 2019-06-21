@@ -31,7 +31,7 @@ damage_resistances: "necrotic, psychic"
 
 ***Vengeful Tracker.*** Vladimir knows the distance to and direction of any creature against which it seeks revenge, even if the creature and Vladimir are on different planes of existence. If the creature being tracked by Vladimir dies, Vladimir knows.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Vladimir makes two fist attacks or two attacks with his +2 Greatsword.
 

@@ -18,7 +18,7 @@ armor_class: "13 (armadura natural)"
 
 ***Trampling Charge.*** If the mammoth moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
-### Acciones
+### Actions
 
 ***Gore.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 25 (4d8 + 7) piercing damage.
 

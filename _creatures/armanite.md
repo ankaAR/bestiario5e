@@ -26,7 +26,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Magic Weapons.*** The armanite's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The armanite makes three attacks: one with its hooves, one with its claws, and one with its serrated tail.
 

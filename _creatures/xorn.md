@@ -26,7 +26,7 @@ damage_resistances: "piercing and slashing from nonmagical weapons that aren't a
 
 ***Treasure Sense.*** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The xorn makes three claw attacks and one bite attack.
 

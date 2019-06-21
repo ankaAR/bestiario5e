@@ -62,7 +62,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 >Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 
-### Acciones
+### Actions
 
 ***Multiattack (Vampire Form Only).*** Strahd makes two attacks, only one of which can be a bite attack.
 
@@ -76,7 +76,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Children of the Night (1/día).*** Strahd magically calls 2d4 swarms of bats or swarms rats, provided that the sun isn't up. While outdoors, Strahd can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd and obeying his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until he dismisses them as a bonus action.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of his turn.
 

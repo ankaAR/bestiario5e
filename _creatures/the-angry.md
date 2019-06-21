@@ -26,7 +26,7 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 ***Rising Anger.*** If another creature deals damage to the Angry, the Angry's attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack's target takes an extra 19 (3d12) psychic damage.
 On its turn, the Angry has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The Angry makes two hook attacks.
 

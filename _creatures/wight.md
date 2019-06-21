@@ -23,7 +23,7 @@ condition_immunities: "poisoned"
 
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 

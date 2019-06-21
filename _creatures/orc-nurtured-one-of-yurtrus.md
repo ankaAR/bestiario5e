@@ -24,7 +24,7 @@ armor_class: "9"
 
 ***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.
 
-### Acciones
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) slashing damage plus 2 (1d4) necrotic damage.
 

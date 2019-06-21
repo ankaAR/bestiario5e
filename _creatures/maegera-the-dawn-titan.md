@@ -34,13 +34,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Resistance.*** Maegera has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Maegera makes three slam attacks.
 
 ***Slam.*** Melee Weapon Attack: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (3d6 + 5) bludgeoning damage plus 35 (10d6) fire damage
 
-### Acciones Legendarias
+### Legendary Actions
 
 The maegera the dawn titan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The maegera the dawn titan regains spent legendary actions at the start of its turn.
 

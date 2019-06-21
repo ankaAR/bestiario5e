@@ -28,7 +28,7 @@ condition_immunities: "poisoned"
 
 ***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 

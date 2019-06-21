@@ -32,6 +32,6 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ***Telepathic Shroud.*** The swarm is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.
 
-### Acciones
+### Actions
 
 ***Bites.*** Melee Weapon Attack: +5 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.

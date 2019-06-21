@@ -31,7 +31,7 @@ condition_immunities: "frightened"
 
 8-10. The giant makes three attacks against one random target within its reach: one attack with its bite and two with its fists. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 15 (3d6+5) piercing damage, and the giant magically regains hit points equal to the damage dealt.
 

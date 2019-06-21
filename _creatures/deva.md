@@ -32,7 +32,7 @@ At will: detect evil and good
 
 ***Magic Resistance.*** The deva has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The deva makes two melee attacks.
 

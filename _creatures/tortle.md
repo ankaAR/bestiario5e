@@ -22,7 +22,7 @@ armor_class: "17 (natural)"
 
 ***Hold Breath.*** The tortle can hold its breath for 1 hour.
 
-### Acciones
+### Actions
 
 ***Claws*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) slashing damage.
 

@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Undetectable.*** Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends.
 
-### Acciones
+### Actions
 
 ***Multiattack*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 
@@ -45,7 +45,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Fist*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d8 + 9) bludgeoning damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. FrazUrb'luu regains spent legendary actions at the start of his turn.
 

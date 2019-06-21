@@ -22,6 +22,6 @@ armor_class: "12"
 
 ***False appearance.*** While the mantrap remains motionless, it is indistinguishable from an ordinary tropical plant.
 
-### Acciones
+### Actions
 
 ***Engulf.*** Melee Weapon Aitack: +4 al ataque, alcance 5 ft., one Medium or smaller creature. Hit: The target is trapped inside the mantrap's leafy jaws. While trapped in this way, the target is blinded and restrained, has total cover from attacks and other effects outside the mantrap, and takes 14 (4d6) acid damage at the start of each of the target's turns. If the mantrap dies, the creature inside it is no longer restrained by it. A mantrap can engulf only one creature at a time

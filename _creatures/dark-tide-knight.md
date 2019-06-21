@@ -22,7 +22,7 @@ armor_class: "13"
 
 ***Sneak Attack.*** The knight deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the knight that isn't incapacitated and the knight doesn't have disadvantage on the attack roll.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The knight makes two shortsword attacks.
 

@@ -36,7 +36,7 @@ condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Sever Silver Cord*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target’s silver cord instead of dealing damage.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
@@ -44,7 +44,7 @@ condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Claw*** Melee Weapon: +16 al ataque, alcance 20 ft., One target. Hit: (3d6+9) Slashing damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 Astral Dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Astral Dreadnought regains spent legendary actions at the start of their turn.
 

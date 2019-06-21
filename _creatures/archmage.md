@@ -46,6 +46,6 @@ damage_resistances: "damage from spells; non magical bludgeoning, piercing, and 
 
 * The archmage casts these spells on itself before combat.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

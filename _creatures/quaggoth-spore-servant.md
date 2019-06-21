@@ -19,7 +19,7 @@ armor_class: "13 (armadura natural)"
 condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The spore servant makes two claw attacks.
 

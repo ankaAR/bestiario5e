@@ -20,7 +20,7 @@ armor_class: "17 (armadura natural)"
 
 ***Standing Leap.*** The bulette's long jump is up to 30 ft. and its high jump is up to 15 ft., with or without a running start.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 30 (4d12 + 4) piercing damage.
 

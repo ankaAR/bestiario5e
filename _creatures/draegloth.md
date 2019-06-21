@@ -30,7 +30,7 @@ At will: darkness
 
 1/day each: confusion, dancing lights, faerie fire
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The draegloth makes three attacks: one with its bite and two with its claws.
 

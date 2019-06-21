@@ -26,7 +26,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Resistance.*** The merregon has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The merregon makes two halberd attacks, or if an allied fiend of challenge rating 6 or higher is within 60 feet of it, the merregon makes three halberd attacks.
 

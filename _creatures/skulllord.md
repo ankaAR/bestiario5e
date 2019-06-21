@@ -39,13 +39,13 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 * 6th level (1 slot): eyebite
 * 7th level (1 slot): finger of death
 
-### Acciones
+### Actions
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
 ***Bone Staff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The skull lord regains spent legendary actions at the start of its turn.
 

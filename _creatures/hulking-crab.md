@@ -23,7 +23,7 @@ armor_class: "17 (armadura natural)"
 
 ***Shell Camouflage.*** While the crab remains motionless with it's eyestalks and pincers tucked close to it's body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discren its true nature with a successful DC 15 intelligence (Nature) check.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The crab makes two attacks with its claws.
 

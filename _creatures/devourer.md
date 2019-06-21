@@ -21,7 +21,7 @@ condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The devourer makes two claw attacks and can use either Imprison Soul or Soul Rend.
 

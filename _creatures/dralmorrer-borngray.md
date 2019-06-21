@@ -34,7 +34,7 @@ armor_class: "16 (studded leather, shield)"
 
 ***Weapon Bond.*** Provided his longsword is on the same plane Dralmorrer can take a bonus action to teleport it to his hand.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Dralmorrer attacks twice, either with his longsword or dagger.
 

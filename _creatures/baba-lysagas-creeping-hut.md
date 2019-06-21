@@ -30,7 +30,7 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Siege Monster.*** The hut deals double damage to objects and structures.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.
 

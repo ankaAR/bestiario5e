@@ -33,7 +33,7 @@ At will: plane shift (self only)
 
 ***Magic Resistance.*** The marut has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The marut makes two slam attacks.
 

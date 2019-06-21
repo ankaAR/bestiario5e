@@ -24,6 +24,6 @@ condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
 
 ***Invisibility.*** The unseen servant is invisible.
 
-### Acciones
+### Actions
 
 ***Slam.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.

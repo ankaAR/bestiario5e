@@ -24,6 +24,6 @@ armor_class: "12 (armadura natural)"
 
 ***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 21 (5d6 + 4) piercing damage.

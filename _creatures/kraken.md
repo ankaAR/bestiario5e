@@ -27,7 +27,7 @@ condition_immunities: "frightened, paralyzed"
 
 ***Siege Monster.*** The kraken deals double damage to objects and structures.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
@@ -39,7 +39,7 @@ condition_immunities: "frightened, paralyzed"
 
 ***Lightning Storm.*** The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 
@@ -47,4 +47,4 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 ***Lightning Storm (Costs 2 Actions).*** The kraken uses Lightning Storm.
 
-***Ink Cloud (Costs 3 Actions).*** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
+***Ink Cloud (Costs 3 Actions).*** Mientras está bajo el agua,the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.

@@ -40,7 +40,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 * 6th level (1 slot): chain lightning
 * 7th level (1 slot): teleport
 
-### Acciones
+### Actions
 
 ***Multiattack*** The abishai makes two attacks: one with its quarterstaff and one with its bite.
 

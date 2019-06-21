@@ -27,7 +27,7 @@ armor_class: "14 (hide armor)"
 
 ***Web Walker.*** The chitine ignores movement restrictions caused by webbing.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The chitine makes three attacks with its daggers.
 

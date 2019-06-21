@@ -27,7 +27,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Turning Defiance.*** The sword wraith and any other sword wraiths within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The sword wraith makes two weapon attacks.
 

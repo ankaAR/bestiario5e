@@ -20,7 +20,7 @@ armor_class: "14 (armadura natural)"
 damage_resistances: "fire"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The drake attacks twice, once with its bite and once with its tail.
 

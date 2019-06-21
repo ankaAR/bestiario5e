@@ -21,7 +21,7 @@ armor_class: "14 (leather armor)"
 
 ***Feline agility.*** When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can't use it again until it moves 0 feet on one of its turns.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The tabaxi makes two attacks with its claws, its shortsword, or its shortbow.
 

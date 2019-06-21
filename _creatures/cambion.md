@@ -29,7 +29,7 @@ damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and s
 
 1/day: plane shift (self only)
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The cambion makes two melee attacks or uses its Fire Ray twice.
 

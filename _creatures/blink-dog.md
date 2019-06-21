@@ -20,7 +20,7 @@ armor_class: "13"
 
 ***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.
 

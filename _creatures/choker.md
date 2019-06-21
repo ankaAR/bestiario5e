@@ -26,7 +26,7 @@ armor_class: "16 (armadura natural)"
 
 ***Spider Climb.*** The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The choker makes two tentacle attacks.
 

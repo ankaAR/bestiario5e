@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Detect Sentience.*** The intellect devourer can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The intellect devourer makes one attack with its claws and uses Devour Intellect.
 

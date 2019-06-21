@@ -25,6 +25,6 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, prone"
 
 ***Aversion to Fire.*** If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
-### Acciones
+### Actions
 
 ***Pseudopod*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) psychic damage.

@@ -21,7 +21,7 @@ hit_points: "110 (13d10+39)"
 armor_class: "17 (armadura natural)"
 ---
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 

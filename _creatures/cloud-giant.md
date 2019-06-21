@@ -29,7 +29,7 @@ At will: detect magic, fog cloud, light
 
 1/day each: control weather, gaseous form
 
-### Acciones
+### Actions
 
 ***Fling.*** The giant tries to throw a Small or Medium creature within 10 feet of it. The target must succeed on a DC 20 Dexterity saving throw or be hurled up to 60 feet horizontally in a direction of the giant's choice and land prone, taking 1d8 bludgeoning damage for every 10 feet it was thrown.
 

@@ -32,7 +32,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
 

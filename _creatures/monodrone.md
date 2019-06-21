@@ -22,7 +22,7 @@ armor_class: "15 (armadura natural)"
 
 ***Disintegration.*** If the monodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
 

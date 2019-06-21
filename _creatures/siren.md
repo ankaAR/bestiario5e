@@ -29,7 +29,7 @@ armor_class: "14"
 
 ***Magic Resistance.*** Siren has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Shortsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
 

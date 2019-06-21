@@ -24,7 +24,7 @@ armor_class: "12"
 
 ***Mimicry.*** The wereraven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-### Acciones
+### Actions
 
 ***Multiattack (Human or Hybrid Form Only).*** The wereraven makes two weapon attacks, one of which can be with its hand crossbow.
 

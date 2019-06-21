@@ -18,7 +18,7 @@ hit_points: "2 (1d4)"
 armor_class: "15 (leather armor)"
 ---
 
-### Acciones
+### Actions
 
 ***Longsword.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.
 

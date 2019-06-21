@@ -25,7 +25,7 @@ condition_immunities: "poisoned"
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
-### Acciones
+### Actions
 
 ***Fists.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.
 

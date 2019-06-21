@@ -17,7 +17,7 @@ hit_points: "11 (2d8+2)"
 armor_class: "12 (leather armor)"
 ---
 
-### Acciones
+### Actions
 
 ***Scimitar.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.
 

@@ -24,7 +24,7 @@ armor_class: "14 (armadura natural)"
 
 ***Extraordinary Leap.*** The distance of the steeder's long jumps is tripled; every foot of its walking speed that it spends on the jump allows it to move 3 feet.
 
-### Acciones
+### Actions
 
 ***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 9 (2d8) poison damage.
 

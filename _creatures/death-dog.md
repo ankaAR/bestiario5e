@@ -20,7 +20,7 @@ armor_class: "12"
 
 ***Two-Headed.*** The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The dog makes two bite attacks.
 

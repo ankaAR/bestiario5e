@@ -25,7 +25,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Summon Specters (Recharges after a Short or Long Rest).*** As a bonus action, the cadaver collector calls up the enslaved spirits of those it has slain; 1d6 specters (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of the cadaver collector. The specters act right after the cadaver collector on the same initiative count and fight until they're destroyed. They disappear when the cadaver collector is destroyed.
 
-### Acciones
+### Actions
 
 ***Multiattack*** The cadaver collector makes two slam attacks.
 

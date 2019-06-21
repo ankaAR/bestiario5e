@@ -35,6 +35,6 @@ Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, pre
 
 ***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
 
-### Acciones
+### Actions
 
 ***Scimitar.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.

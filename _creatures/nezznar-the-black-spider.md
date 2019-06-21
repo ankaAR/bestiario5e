@@ -40,6 +40,6 @@ armor_class: "11 (14 with mage armor)"
 
 * 2nd Level (3 slots): invisibility, suggestion
 
-### Acciones
+### Actions
 
 ***Spider Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage plus 3 (1d6) poison damage.

@@ -27,7 +27,7 @@ armor_class: "15 (studded leather armor)"
 
 ***Slayer.*** In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The orc makes two scimitar or dart attacks.
 

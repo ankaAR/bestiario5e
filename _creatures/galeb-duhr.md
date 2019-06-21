@@ -25,7 +25,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Rolling Charge.*** If the galeb duhr rolls at least 20 ft. straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
-### Acciones
+### Actions
 
 ***Slam.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft ., one target. Hit: 12 (2d6 + 5) bludgeoning damage.
 

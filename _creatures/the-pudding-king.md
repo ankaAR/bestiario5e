@@ -48,7 +48,7 @@ Cantrips (at will): acid splash, light, mage hand, poison spray, prestidigitatio
 
 5th level (1 slot): cloudkill
 
-### Acciones
+### Actions
 
 ***War Pick.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one target. Hit 4 (1d8) piercing damage.
 

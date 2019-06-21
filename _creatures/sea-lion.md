@@ -27,7 +27,7 @@ armor_class: "15 (armadura natural)"
 
 ***Swimming Leap.*** With a 10-foot swimming start, the sea lion can long jump out of or across the water up to 25 feet.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The sea lion makes three attacks: one bite attack and two claw attacks.
 

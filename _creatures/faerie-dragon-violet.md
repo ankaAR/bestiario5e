@@ -47,7 +47,7 @@ A green or older faerie dragon's CR increases to 2.
 
 1/day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, polymorph, suggestion
 
-### Acciones
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 1 piercing damage.
 

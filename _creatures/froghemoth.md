@@ -24,7 +24,7 @@ damage_resistances: "fire, lightning"
 
 ***Shock Suscptibility.*** If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite.
 

@@ -28,7 +28,7 @@ armor_class: "11 (16 with barkskin)"
 
 * 2nd Level (3 slots): barkskin, spike growth, spiritual weapon
 
-### Acciones
+### Actions
 
 ***Multiataque.*** Wiggan makes two attacks with his wooden cane.
 

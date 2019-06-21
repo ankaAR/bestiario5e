@@ -40,13 +40,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 * 5th level (1 slot): legend lore
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
 ***Claw.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The gynosphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The gynosphinx regains spent legendary actions at the start of its turn.
 

@@ -37,7 +37,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Magic Resistance.*** The solar has advantage on saving throws against spells and other magical effects.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The solar makes two greatsword attacks.
 
@@ -49,7 +49,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Healing Touch (4/Day).*** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-### Acciones Legendarias
+### Legendary Actions
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.
 

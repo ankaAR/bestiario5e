@@ -16,6 +16,6 @@ hit_points: "68 (8d12+16)"
 armor_class: "15 (armadura natural)"
 ---
 
-### Acciones
+### Actions
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.

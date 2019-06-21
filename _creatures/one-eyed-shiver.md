@@ -31,7 +31,7 @@ armor_class: "12 (15 with mage armor)"
 
 * 3rd level (2 slots): fear
 
-### Acciones
+### Actions
 
 ***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 

@@ -21,6 +21,6 @@ armor_class: "10"
 
 ***Innate Spellcasting.*** The deep rothe's spellcasting ability is Charisma. It can innately cast dancing lights at will, requiring no components.
 
-### Acciones
+### Actions
 
 ***Gore.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.

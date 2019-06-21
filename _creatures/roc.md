@@ -20,7 +20,7 @@ armor_class: "15 (armadura natural)"
 
 ***Keen Sight.*** The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Acciones
+### Actions
 
 ***Multiataque.*** The roc makes two attacks: one with its beak and one with its talons.
 
