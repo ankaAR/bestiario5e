@@ -14,11 +14,11 @@ alignment: neutral evil
 challenge: "17 (18,000 XP)"
 languages: "Common plus up to five other languages"
 senses: "truesight 120 ft., passive Perception 20"
-skills: "Arcana +12, Deception +11, History +12, Insight +10, Perception +10"
-saving_throws: "Int +12, Wis +10, Cha +11"
+skills: "Arcana +12, Deception +11, Historia +12, Insight +10, Percepción +10"
+saving_throws: "Int +12, Sab +10, Car +11"
 speed: "30 ft."
 hit_points: "187  (34d8 + 34)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 ---
 
 ***Corruption.*** As a bonus action, the nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is charmed by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
@@ -36,6 +36,6 @@ armor_class: "19 (natural armor)"
 * 7th level (1 slot): etherealness, prismatic spray
 * 8th level (1 slot): feeblemind
 
-### Actions
+### Acciones
 
-***Staff*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
+***Staff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage.

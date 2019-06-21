@@ -14,10 +14,10 @@ challenge: "14 (11,500 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "blindsight 60 ft., darkvision 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Dex +7, Con +9, Wis +7, Cha +9"
+saving_throws: "Des +7, Con +9, Sab +7, Car +9"
 speed: "40 ft."
 hit_points: "180 (19d10+76)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
@@ -26,15 +26,15 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
+***Multiataque.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
-***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
 
-***Claws.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
+***Claws.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
 
-***Tail.*** Melee Weapon Attack:+10 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo:+10 al ataque, alcance 10 pies, un objetivo. Impacto: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 
 ***Wall of Ice.*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
 

@@ -13,11 +13,11 @@ alignment: chaotic evil
 challenge: "6 (2,300 XP)"
 languages: "Common, Giant, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Deception +5, Perception +5"
+skills: "Deception +5, Percepción +5"
 saving_throws: "Con +5"
 speed: "40 ft."
 hit_points: "75 (10d10+20)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -91,12 +91,12 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 6th level (1 slot): true seeing
 
-### Actions
+### Acciones
 
-***Multiattack.*** The annis makes three attacks: one with her bite and two with her claws.
+***Multiataque.*** The annis makes three attacks: one with her bite and two with her claws.
 
-***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6+5) piercing damage.
+***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6+5) slashing damage.
+***Claw.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) slashing damage.
 
-***Crushing Hug.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6+5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6+5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+***Crushing Hug.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 36 (9d6+5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6+5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.

@@ -16,7 +16,7 @@ senses: "darkvision 120 ft."
 damage_immunities: "fire, poison"
 speed: "20 ft., fly 40 ft."
 hit_points: "22 (5d6+5)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
@@ -29,12 +29,12 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
+***Multiataque.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
 
-***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
+***Bite.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) slashing damage.
 
-***Fork.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
+***Fork.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) piercing damage.
 
 ***Tail Spine.*** Ranged Weapon Attack: +4 to hit, range 20/80 ft ., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage.

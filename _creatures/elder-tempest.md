@@ -15,7 +15,7 @@ challenge: "23 (50,000 XP)"
 languages: "-"
 senses: "darkvision 60 ft., passive Perception 15"
 damage_immunities: "lightning, poison, thunder"
-saving_throws: "Wis +12, Cha +11"
+saving_throws: "Sab +12, Car +11"
 speed: "0 ft., fly 120 ft. (hover)"
 hit_points: "264  (16d20 + 96)"
 armor_class: "19"
@@ -34,15 +34,15 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Siege Monster.*** The tempest deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The tempest makes two attacks with its thunderous slam.
 
-***Thunderous Slam*** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 23 (4d6 + 9) thunder damage.
+***Thunderous Slam*** Melee Weapon Attack: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 23 (4d6 + 9) thunder damage.
 
 ***Lightning Storm (Recharge 6)*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The tempest can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tempest regains spent legendary actions at the start of its turn.
 

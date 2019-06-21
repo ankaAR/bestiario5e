@@ -12,20 +12,20 @@ size: Medium humanoid (human)
 alignment: neutral good
 challenge: "1 (200 XP)"
 languages: "Common"
-skills: "Perception +2"
+skills: "Percepción +2"
 saving_throws: "Str +3, Con +3"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "16 (chain mail)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** Sildar makes two melee attacks.
+***Multiataque.*** Sildar makes two melee attacks.
 
-***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
+***Longsword.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.
 
-***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100 ft./400 ft., one target. Hit: 5 (1d10) piercing damage.
+***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100 ft./400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
 
 ### Reactions
 

@@ -14,11 +14,11 @@ alignment: chaotic evil
 challenge: "12 (8400 XP)"
 languages: "Common plus the main language of its master"
 senses: "darkvision 60 ft., passive Perception 16"
-skills: "Perception +6, Stealth +7"
-saving_throws: "Dex +7, Con +6, Wis +6"
+skills: "Percepción +6, Stealth +7"
+saving_throws: "Des +7, Con +6, Sab +6"
 speed: "40 ft."
 hit_points: "127  (17d10 + 34)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -27,11 +27,11 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Shadow Stealth.*** While in dim light or darkness, the boneclaw can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The boneclaw makes two claw attacks.
 
-***Piercing Claw*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 20 (3d10 + 4) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is grappled (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
+***Piercing Claw*** Melee Weapon Attack: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (3d10 + 4) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is grappled (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
 
 ***Shadow Jump*** If the boneclaw is in dim light or darkness, each creature of the boneclaw's choice within 5 feet of it must succeed on a DC 14 Constitution saving throw or take 34 (5d12 + 2) necrotic damage.
 The boneclaw then magically teleports up to 60 feet to an unoccupied space it can see. It can bring one creature it's grappling, teleporting that creature to an unoccupied space it can see within 5 feet of its destination. The destination spaces of this teleportation must be in dim light or darkness.

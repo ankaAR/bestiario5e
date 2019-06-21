@@ -18,8 +18,8 @@ hit_points: "30 (4d10+8)"
 armor_class: "12 (hide armor)"
 ---
 
-### Actions
+### Acciones
 
-***Battleaxe.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
+***Battleaxe.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage.

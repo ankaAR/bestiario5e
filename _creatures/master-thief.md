@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "5 (1,800 XP)"
 languages: "any one language (usually Common) plus thieves' cant"
-skills: "Acrobatics +7, Athletics +3, Perception +3, Sleight of Hand +7, Stealth +7"
-saving_throws: "Dex +7, Int +3"
+skills: "Acrobatics +7, Athletics +3, Percepción +3, Sleight of Hand +7, Stealth +7"
+saving_throws: "Des +7, Int +3"
 speed: "30 ft."
 hit_points: "84 (13d8+26)"
 armor_class: "16 (studded leather armor)"
@@ -25,13 +25,13 @@ armor_class: "16 (studded leather armor)"
 
 ***Sneak Attack (1/Turn).*** The thief deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the thief that isn't incapacitated and the thief doesn't have disadvantage on the attack roll.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The thief makes three attacks with its shortsword.
+***Multiataque.*** The thief makes three attacks with its shortsword.
 
-***Shortsword.*** Melee Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 7 (1d6+4) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +7 al ataque, alcance 5pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
 
-***Light Crossbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit: 8 (1d8+4) piercing damage.
+***Light Crossbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
 
 ### Reactions
 

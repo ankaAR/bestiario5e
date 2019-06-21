@@ -13,11 +13,11 @@ alignment: chaotic evil
 challenge: "6 (2,300 XP)"
 languages: "Abyssal, the languages it knew in life"
 senses: "darkvision 120 ft."
-skills: "Perception +4, Stealth +6"
+skills: "Percepción +4, Stealth +6"
 damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -30,8 +30,8 @@ damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing f
 
 ***Sunlight Hypersensitivity.*** The bodak takes 5 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-### Actions
+### Acciones
 
-***Fist.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) bludgeoning damage plus 9 (2d8) necrotic damage.
+***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) bludgeoning damage plus 9 (2d8) necrotic damage.
 
 ***Withering Gaze.*** One creature that the bodak can see within 60 feet of it must make a DC 13 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.

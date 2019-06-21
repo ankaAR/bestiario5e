@@ -14,8 +14,8 @@ alignment: legal maligna
 challenge: "10 (5900 XP)"
 languages: "Gith"
 senses: "passive Perception 16"
-skills: "Insight +6, Perception +6, Stealth +6"
-saving_throws: "Con +6, Int +7, Wis +6"
+skills: "Insight +6, Percepción +6, Stealth +6"
+saving_throws: "Con +6, Int +7, Sab +6"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"
 armor_class: "17 (half plate)"
@@ -35,8 +35,8 @@ armor_class: "17 (half plate)"
 
 ***War Magic.*** When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action
 
-### Actions
+### Acciones
 
 ***Multiattack*** The githyanki makes two longsword attacks.
 
-***Longsword*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 18 (4d8) psychic damage, or 8 (1d10 + 3) slashing damage plus 18 (4d8) psychic damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage plus 18 (4d8) psychic damage, or 8 (1d10 + 3) slashing damage plus 18 (4d8) psychic damage if used with two hands.

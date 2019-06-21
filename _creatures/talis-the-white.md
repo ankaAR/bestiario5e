@@ -13,8 +13,8 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Common, Draconic, Elvish, Infernal"
 senses: "darkvision 60 ft."
-skills: "Deception +6, Insight +6, Perception +6, Persuasion +6"
-saving_throws: "Wis +6, Cha +6"
+skills: "Deception +6, Insight +6, Percepción +6, Persuasion +6"
+saving_throws: "Sab +6, Car +6"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "18 (scale mail +1, shield)"
@@ -40,6 +40,6 @@ armor_class: "18 (scale mail +1, shield)"
 
 ***Winter Strike (3/Day).*** Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.
 
-### Actions
+### Acciones
 
-***Spear.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 6 (1d6 + 2) piercing damage.
+***Spear.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d6 + 2) piercing damage.

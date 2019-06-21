@@ -34,10 +34,10 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 * 4th level (1 slots): banishment
 
-### Actions
+### Acciones
 
-***Multiattack.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
+***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 
-***Quarterstaff.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) bludgeoning damage, or 12 (2d8+3) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) bludgeoning damage, or 12 (2d8+3) bludgeoning damage if used with two hands.
 
-***Summon Earth Elemental (1/day).*** The yakfolk summons an earth elemental. The elemental appears in an unoccupied space within 60 feet of its summoner and acts as an ally of the summoner. It remains for 10 minutes, until it dies, or until its summoner dismisses it as an action.
+***Summon Earth Elemental (1/día).*** The yakfolk summons an earth elemental. The elemental appears in an unoccupied space within 60 feet of its summoner and acts as an ally of the summoner. It remains for 10 minutes, until it dies, or until its summoner dismisses it as an action.

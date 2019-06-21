@@ -36,6 +36,6 @@ damage_resistances: "acid, cold, fire"
 
 ***Killer Response.*** Any creature that starts its turn in White Maw's space is targeted by a pseudopod attack if White Maw isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Pseudopod.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage plus 9 (2d8) acid damage. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+***Pseudopod.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d8 + 4) bludgeoning damage plus 9 (2d8) acid damage. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.

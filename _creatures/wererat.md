@@ -13,7 +13,7 @@ alignment: shapechanger)
 challenge: "2 (450 XP)"
 languages: "Common (can't speak in rat form)"
 senses: "darkvision 60 ft. (rat form only)"
-skills: "Perception +2, Stealth +4"
+skills: "Percepción +2, Stealth +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
@@ -24,12 +24,12 @@ armor_class: "12"
 
 ***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite.
 
-***Bite (Rat or Hybrid Form Only)..*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
+***Bite (Rat or Hybrid Form Only)..*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
 
-***Shortsword (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Shortsword (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

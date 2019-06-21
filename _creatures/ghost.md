@@ -25,9 +25,9 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-### Actions
+### Acciones
 
-***Withering Touch.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) necrotic damage.
+***Withering Touch.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) necrotic damage.
 
 ***Etherealness.*** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 

@@ -13,7 +13,7 @@ alignment: shapechanger)
 challenge: "4 (1,100 XP)"
 languages: "Common (can't speak in tiger form)"
 senses: "darkvision 60 ft."
-skills: "Perception +5, Stealth +4"
+skills: "Percepción +5, Stealth +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "30 ft. (40 ft. in tiger form)"
 hit_points: "120 (16d8+48)"
@@ -26,14 +26,14 @@ armor_class: "12"
 
 ***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 
-### Actions
+### Acciones
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
-***Bite (Tiger or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+***Bite (Tiger or Hybrid Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
 
-***Claw (Tiger or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
+***Claw (Tiger or Hybrid Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage.
 
-***Scimitar (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Scimitar (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
 
-***Longbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+***Longbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Large monstrosity
 alignment: unaligned
 challenge: "1 (200 XP)"
-skills: "Perception +5"
+skills: "Percepción +5"
 speed: "40 ft, fly 60 ft."
 hit_points: "19 (3d10+3)"
 armor_class: "11"
@@ -19,10 +19,10 @@ armor_class: "11"
 
 ***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The hippogriff makes two attacks: one with its beak and one with its claws.
+***Multiataque.*** The hippogriff makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.
+***Beak.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+***Claws.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.

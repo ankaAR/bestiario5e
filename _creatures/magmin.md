@@ -16,7 +16,7 @@ senses: "darkvision 60 ft."
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "9 (2d6+2)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -24,6 +24,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Ignited Illumination.*** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 ft.
 
-### Actions
+### Acciones
 
-***Touch.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the creature takes 3 (1d6) fire damage at the end of each of its turns.
+***Touch.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the creature takes 3 (1d6) fire damage at the end of each of its turns.

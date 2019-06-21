@@ -17,7 +17,7 @@ skills: "Athletics +5"
 damage_immunities: "poison"
 speed: "30 ft., climb 30 ft."
 hit_points: "45 (6d8+18)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
@@ -29,8 +29,8 @@ At will: feather fall, mage hand (the hand is invisible)
 
 1/day each: cure wounds, enlarge/reduce, heat metal, mirror image
 
-### Actions
+### Acciones
 
-***Multiattack.*** The quaggoth makes two claw attacks.
+***Multiataque.*** The quaggoth makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.

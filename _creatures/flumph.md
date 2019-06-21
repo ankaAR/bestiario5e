@@ -13,7 +13,7 @@ alignment: lawful good
 challenge: "1/8 (25 XP)"
 languages: "understands Undercommon but can't speak, telepathy 60 ft."
 senses: "darkvision 60 ft."
-skills: "Arcana +4, History +4, Religion +4"
+skills: "Arcana +4, Historia +4, Religion +4"
 speed: "5 ft., fly 30 ft."
 hit_points: "7 (2d6)"
 armor_class: "12"
@@ -26,8 +26,8 @@ damage_vulnerabilities: "psychic"
 
 ***Telepathic Shroud.*** The flumph is immune to any effect that would sense its emotions or read its thoughts, as well as all divination spells.
 
-### Actions
+### Acciones
 
-***Tendrils.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (1d4) acid damage on a failure or ending the recurring acid damage on a success. A lesser restoration spell cast on the target also ends the recurring acid damage.
+***Tendrils.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (1d4) acid damage on a failure or ending the recurring acid damage on a success. A lesser restoration spell cast on the target also ends the recurring acid damage.
 
 ***Stench Spray (1/Day).*** Each creature in a 15-foot cone originating from the flumph must succeed on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A coated creature exudes a horrible stench for 1d4 hours. The coated creature is poisoned as long as the stench lasts, and other creatures are poisoned while with in 5 feet of the coated creature. A creature can remove the stench on itself by using a short rest to bathe in water, alcohol, or vinegar.

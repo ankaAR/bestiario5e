@@ -25,9 +25,9 @@ condition_immunities: "poisoned"
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
-### Actions
+### Acciones
 
-***Fists.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.
+***Fists.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.
 
 ***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 ft. of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

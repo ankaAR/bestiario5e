@@ -13,11 +13,11 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft."
-skills: "Deception +4, Intimidation +4, Perception +5, Stealth +4"
+skills: "Deception +4, Intimidation +4, Percepción +5, Stealth +4"
 damage_immunities: "acid, poison"
 speed: "60 ft. (30 ft.in goblin form)"
 hit_points: "90 (12d10+24)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -38,8 +38,8 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 >While a humanoid's soul is trapped in a barghest, any form of revival that could work has only a 50 percent chance of doing so, freeing the soul from the barghest if it is successful. Once a creature's soul is digested, however, no mortal magic can return that humanoid to life.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8+4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8+4) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) slashing damage.
+***Claws.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage.

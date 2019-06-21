@@ -12,7 +12,7 @@ size: Medium humanoid (shield dwarf)
 alignment: lawful good
 challenge: "0 (10 XP)"
 languages: "Common, Dwarfish"
-skills: "Athletics +6, Intimidation +2, Perception +2"
+skills: "Athletics +6, Intimidation +2, Percepción +2"
 speed: "30 ft."
 hit_points: "30 (4d8 + 12)"
 armor_class: "14 (breastplate, shield)"
@@ -23,11 +23,11 @@ senses: "passive Perception 12"
 
 **Giant Slayer.** Any weapon attack that Ghelryn makes against a giant deals an extra 7 (2d6) damage on a hit
 
-### Actions
+### Acciones
 
 **Multiattack.** Ghelryn makes two battleaxe attacks.
 
-**Battleaxe.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+**Battleaxe.** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
 ### Roleplaying Information
 

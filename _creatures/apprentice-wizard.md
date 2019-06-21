@@ -12,7 +12,7 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "1/4 (50 XP)"
 languages: "any one language (usually Common)"
-skills: "Arcana +4, History +4"
+skills: "Arcana +4, Historia +4"
 speed: "30 ft."
 hit_points: "9 (2d8)"
 armor_class: "10"
@@ -24,6 +24,6 @@ Cantrips (at will): fire bolt, mending, prestidigitation
 
 1st level (2 slots): burning hands, disguise self, shield
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft, one target. Hit: 2 (1d4) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 2 (1d4) piercing damage.

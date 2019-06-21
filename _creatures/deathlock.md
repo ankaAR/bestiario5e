@@ -14,9 +14,9 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 11"
-skills: "Arcana +4, History +4"
+skills: "Arcana +4, Historia +4"
 damage_immunities: "poison"
-saving_throws: "Int +4, Cha +5"
+saving_throws: "Int +4, Car +5"
 speed: "30 ft."
 hit_points: "36  (8d8)"
 armor_class: "12 (15 with mage armor)"
@@ -33,6 +33,6 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
-### Actions
+### Acciones
 
-***Deathly Claw*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.
+***Deathly Claw*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) necrotic damage.

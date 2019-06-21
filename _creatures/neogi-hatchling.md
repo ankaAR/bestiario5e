@@ -21,6 +21,6 @@ armor_class: "11"
 
 ***Spider Climb.*** The hatchling can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage plus 7 (2d6) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage plus 7 (2d6) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

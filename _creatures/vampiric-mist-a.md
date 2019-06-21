@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Wis +3"
+saving_throws: "Sab +3"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "45 (6d8+18)"
 armor_class: "13"
@@ -33,7 +33,7 @@ damage_resistances: "acid, cold, lightning, necrotic, thunder; bludgeoning, pier
 
 ***Sunlight Hypersensitivity.*** The vampiric mist takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.
 
-### Actions
+### Acciones
 
 ***Blood Drain.*** One creature in the vampiric mist's space must make a DC 13 Constitution saving throw (undead and constructs automatically succeed). On a failed save, the target takes 10 (2d6 + 3) necrotic damage, its hit point maximum is reduced by an amount equal to the necrotic damage taken, and the mist regains hit points equal to that amount.
 

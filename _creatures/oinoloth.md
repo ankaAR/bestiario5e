@@ -14,12 +14,12 @@ alignment: neutral evil
 challenge: "12 (8400 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 17"
-skills: "Deception +8, Intimidation +8, Perception +7"
+skills: "Deception +8, Intimidation +8, Percepción +7"
 damage_immunities: "acid, poison"
-saving_throws: "Con +8, Wis +7"
+saving_throws: "Con +8, Sab +7"
 speed: "40 ft."
 hit_points: "126  (12d10 + 60)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -36,11 +36,11 @@ The poisoned creature can't regain hit points. After every 24 hours that elapse,
 
 ***Magic Weapons.*** The oinoloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The oinoloth uses its Transfixing Gaze and makes two claw attacks.
 
-***Claw*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage plus 22 (4d10) necrotic damage.
+***Claw*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (3d6 + 4) slashing damage plus 22 (4d10) necrotic damage.
 
 ***Corrupted Healing (Recharge 6)*** The oinoloth touches one willing creature within 5 feet of it. The target regains all its hit points. In addition, the oinoloth can end one disease on the target or remove one of the following conditions from it: blinded, deafened, paralyzed, or poisoned. The target then gains 1 level of exhaustion, and its hit point maximum is reduced by 7 (2d6). This reduction can be removed only by a wish spell or by casting greater restoration on the target three times within the same hour. The target dies if its hit point maximum is reduced to 0.
 

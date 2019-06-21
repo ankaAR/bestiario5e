@@ -14,11 +14,11 @@ alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "understands Common but can't speak"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Perception +3"
+skills: "Percepción +3"
 damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
-armor_class: "21 (natural armor)"
+armor_class: "21 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
 damage_resistances: "cold, fire"
 ---
@@ -31,10 +31,10 @@ damage_resistances: "cold, fire"
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The armor makes two melee attacks or uses Shocking Bolt twice.
+***Multiataque.*** The armor makes two melee attacks or uses Shocking Bolt twice.
 
-***Greatsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) slashing damage plus 3 (1d6) lightning damage.
+***Greatsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) slashing damage plus 3 (1d6) lightning damage.
 
-***Shocking Bolt.*** Ranged Spell Attack: +4 to hit (with advantage on the attack roll if the target is wearing armor made of metal), range 60 ft., one target. Hit: 10 (3d6) lightning damage.
+***Shocking Bolt.*** Ranged Spell Attack: +4 to hit (with advantage on the attack roll if the target is wearing armor made of metal), range 60 pies, un objetivo. Impacto: 10 (3d6) lightning damage.

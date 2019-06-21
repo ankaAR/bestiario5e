@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "understands Deep Speech but can't speak, telepathy 60 ft."
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Perception +2, Stealth +4"
+skills: "Percepción +2, Stealth +4"
 speed: "40 ft."
 hit_points: "21 (6d4+6)"
 armor_class: "12"
@@ -23,11 +23,11 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Detect Sentience.*** The intellect devourer can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The intellect devourer makes one attack with its claws and uses Devour Intellect.
+***Multiataque.*** The intellect devourer makes one attack with its claws and uses Devour Intellect.
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) slashing damage.
 
 ***Devour Intellect.*** The intellect devourer targets one creature it can see within 10 feet of it that has a brain. The target must succeed on a DC 12 Intelligence saving throw against this magic or take 11 (2d10) psychic damage. Also on a failure, roll 3d6: If the total equals or exceeds the target's Intelligence score, that score is reduced to 0. The target is stunned until it regains at least one point of Intelligence.
 

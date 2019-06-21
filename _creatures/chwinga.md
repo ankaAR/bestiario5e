@@ -12,7 +12,7 @@ size: Tiny elemental
 alignment: neutral
 challenge: "0 (10 XP)"
 senses: "blindsight 60ft., passive Perception 17"
-skills: "Acrobatics +7, Perception +7, Stealth +7"
+skills: "Acrobatics +7, Percepción +7, Stealth +7"
 speed: "20 ft., climb 20 ft., swim 20 ft."
 hit_points: "5 (2d4)"
 armor_class: "15"
@@ -24,7 +24,7 @@ armor_class: "15"
 
 At will: druldcraft, guidance, pass without trace, resistance
 
-### Actions
+### Acciones
 
 ***Magical Gift (1/Day).*** The chwinga targets a humanoid it can see within S feet of it. The target gains a supernatural charm of the DM's choice. See chapter 7 of the Dungeon Master's Guide for more information on supernatural charms.
 

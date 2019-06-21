@@ -14,11 +14,11 @@ alignment: legal maligna
 challenge: "1/2 (100 XP)"
 languages: "understands Infernal but can't speak"
 senses: "blindsight 10 ft. (blind beyond this radius), passive Perception 11"
-skills: "Perception +1"
+skills: "Percepción +1"
 damage_immunities: "fire, poison"
 speed: "20 ft."
 hit_points: "11  (2d8 + 2)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 condition_immunities: "blinded, charmed, frightened, poisoned"
 damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -27,6 +27,6 @@ damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmag
 
 ***Hunger-Driven.*** In the Nine Hells, the nupperibos can flawlessly track any creature that has taken damage from any nupperibo's Cloud of Vermin within the previous 24 hours.
 
-### Actions
+### Acciones
 
-***Bite*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.

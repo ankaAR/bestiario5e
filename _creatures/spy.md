@@ -12,7 +12,7 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "1 (200 XP)"
 languages: "any two languages"
-skills: "Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4"
+skills: "Deception +5, Insight +4, Investigation +5, Percepción +6, Persuasion +5, Sleight of Hand +4, Stealth +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "12"
@@ -22,10 +22,10 @@ armor_class: "12"
 
 ***Sneak Attack (1/Turn).*** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The spy makes two melee attacks.
+***Multiataque.*** The spy makes two melee attacks.
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

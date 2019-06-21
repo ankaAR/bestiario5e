@@ -14,7 +14,7 @@ challenge: "4 (1,100 XP)"
 languages: "Common, Elvish"
 senses: "darkvision 60 ft."
 damage_immunities: "cold, necrotic, poison"
-saving_throws: "Wis +2, Cha +5"
+saving_throws: "Sab +2, Car +5"
 speed: "0 ft., fly 40 ft. (hover)"
 hit_points: "58 (13d8)"
 armor_class: "12"
@@ -26,9 +26,9 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ***Incorporeal Movement.*** The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 
-### Actions
+### Acciones
 
-***Corrupting Touch.*** Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 12 (3d6 + 2) necrotic damage.
+***Corrupting Touch.*** Melee Spell Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (3d6 + 2) necrotic damage.
 
 ***Horrifying Visage.*** Each non-undead creature within 60 ft. of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
 

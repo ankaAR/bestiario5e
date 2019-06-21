@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1/8 (25 XP)"
 languages: "Sylvan"
 senses: "darkvision 60 ft."
-skills: "Perception +3, Sleight of Hand +6, Stealth +6"
+skills: "Percepción +3, Sleight of Hand +6, Stealth +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "18 (4d6+4)"
 armor_class: "14"
@@ -30,9 +30,9 @@ Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (
 
 ***Uncanny Smell.*** The boggle has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
-***Pummel.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage.
+***Pummel.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage.
 
 ***Oil Puddle.*** The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is difficult terrain For all creatures except boggles and lasts for 1 hour.
 

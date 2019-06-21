@@ -14,8 +14,8 @@ alignment: any alignment
 challenge: "6 (2300 XP)"
 languages: "any four languages"
 senses: "darkvision, passive Perception 11"
-skills: "Arcana +6, History +6"
-saving_throws: "Int +6, Wis +4"
+skills: "Arcana +6, Historia +6"
+saving_throws: "Int +6, Sab +4"
 speed: "30 ft."
 hit_points: "40  (9d8)"
 armor_class: "12 (15 with mage armor)"
@@ -32,6 +32,6 @@ damage_resistances: "poison"
 * 4th level (3 slots): greater invisibility, ice storm
 * 5th level (1 slot): cone of cold
 
-### Actions
+### Acciones
 
-***Dagger*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

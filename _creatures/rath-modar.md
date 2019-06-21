@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Common, Draconic, Infernal, Primordial, Thayan"
 skills: "Arcana +7, Deception +3, Insight +5, Stealth +6"
-saving_throws: "Int +7, Wis +5"
+saving_throws: "Int +7, Sab +5"
 speed: "30 ft."
 hit_points: "71 (11d8+22)"
 armor_class: "13 (16 with mage armor)"
@@ -37,9 +37,9 @@ armor_class: "13 (16 with mage armor)"
 
 * 6th level (1 slot): globe of invulnerability
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage.
+***Quarterstaff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) bludgeoning damage.
 
 ### Reactions
 

@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "26 (90,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "darkvision 120 ft., passive Perception 26"
-skills: "Intimidation +18, Perception +16"
+skills: "Intimidation +18, Percepción +16"
 damage_immunities: "necrotic, poison"
-saving_throws: "Int +16, Wis +16, Cha +18"
+saving_throws: "Int +16, Sab +16, Car +18"
 speed: "50 ft., fly 150 ft."
 hit_points: "580  (40d10 + 360)"
-armor_class: "21 (natural armor)"
+armor_class: "21 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -38,19 +38,19 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Regeneration.*** Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Zariel attacks twice with her longsword or with her javelins. She can substitute Horrid Touch for one of these attacks.
 
-***Longsword*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.
 
-***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 ft., one target. Hit: 15 (2d6 + 8) piercing damage plus 36 (8d8) fire damage.
+***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 pies, un objetivo. Impacto: 15 (2d6 + 8) piercing damage plus 36 (8d8) fire damage.
 
-***Horrid Touch (Recharge 5-6)*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 44 (8d10) necrotic damage, and the target is poisoned for 1 minute. While poisoned in this way, the target is also blinded and deafened. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Horrid Touch (Recharge 5-6)*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 44 (8d10) necrotic damage, and the target is poisoned for 1 minute. While poisoned in this way, the target is also blinded and deafened. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Teleport*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of her turn.
 

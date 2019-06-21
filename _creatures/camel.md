@@ -16,6 +16,6 @@ hit_points: "15 (2d10+4)"
 armor_class: "9"
 ---
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage.

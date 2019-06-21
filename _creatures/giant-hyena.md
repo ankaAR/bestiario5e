@@ -11,7 +11,7 @@ str: 16 (+3)
 size: Large beast
 alignment: unaligned
 challenge: "1 (200 XP)"
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "50 ft."
 hit_points: "45 (6d10+12)"
 armor_class: "12"
@@ -19,6 +19,6 @@ armor_class: "12"
 
 ***Rampage.*** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage.

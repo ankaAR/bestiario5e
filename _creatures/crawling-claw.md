@@ -22,6 +22,6 @@ condition_immunities: "poisoned"
 
 ***Turn Immunity.*** The claw is immune to effects that turn undead.
 
-### Actions
+### Acciones
 
-***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning or slashing damage (claw's choice) .
+***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning or slashing damage (claw's choice) .

@@ -20,7 +20,7 @@ armor_class: "13"
 
 ***Source.*** tales from the yawning portal,  page 240
 
-***Amphibious.*** The nereid can breathe air and water.
+***Anfibio.*** The nereid puede respirar aire y agua.
 
 ***Aquatic Invisibility.*** If immersed in water, the nereid can make itself invisible as a bonus action. It remains invisible until it leaves the water, ends the invisibility as a bonus action, or dies.
 
@@ -30,9 +30,9 @@ armor_class: "13"
 
 ***Speak with Animals.*** The nereid can comprehend and verbally communicate with beasts.
 
-### Actions
+### Acciones
 
-***Blinding Acid.*** Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or range 30 ft., one target. Hit: 16 (2d12 + 3) acid damage, and the target is blinded until the start of the nereid's next turn.
+***Blinding Acid.*** Melee or Ranged Spell Attack: +5 al ataque, alcance 5 ft. or range 30 pies, un objetivo. Impacto: 16 (2d12 + 3) acid damage, and the target is blinded until the start of the nereid's next turn.
 
 ***Drowning Kiss (Recharge 5-6).*** The nereid touches one creature it can see within 5 feet of it. The target must succeed on a DC 13 Constitution saving throw or take 22 (3d12 + 3) acid damage. On a failure, it also runs out of breath and can't speak for 1 minute. At the end of each of its turns, it can repeat the save, ending the effect on itself on a success.
 

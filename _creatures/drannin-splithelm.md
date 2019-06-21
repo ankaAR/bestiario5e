@@ -32,8 +32,8 @@ damage_resistances: "cold, poison"
 
 ***Special Equipment.*** Drannin wears a control amulet for his shield guardian (see the Monster Manual) and a ring of cold resistance. He also carries a potion of frost giant strength.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Drannin makes three attacks with his greataxe.
+***Multiataque.*** Drannin makes three attacks with his greataxe.
 
-***Greataxe.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.
+***Greataxe.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) slashing damage.

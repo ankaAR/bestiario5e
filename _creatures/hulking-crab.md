@@ -16,15 +16,15 @@ senses: "blindsight 30 ft."
 skills: "Stealth +2"
 speed: "20 ft., swim 30 ft."
 hit_points: "76 (8d12+24)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-***Amphibious.*** The crab can breathe air and water.
+***Anfibio.*** The crab puede respirar aire y agua.
 
 ***Shell Camouflage.*** While the crab remains motionless with it's eyestalks and pincers tucked close to it's body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discren its true nature with a successful DC 15 intelligence (Nature) check.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The crab makes two attacks with its claws.
+***Multiataque.*** The crab makes two attacks with its claws.
 
-***Claw.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 20 (3d10+4) bludgeoning damage, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.
+***Claw.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d10+4) bludgeoning damage, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.

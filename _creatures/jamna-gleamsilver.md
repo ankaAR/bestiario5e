@@ -13,8 +13,8 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Common, Gnomish, Goblin, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7"
-saving_throws: "Dex +5, Int +4"
+skills: "Acrobatics +5, Deception +3, Insight +2, Percepción +4, Persuasion +3, Stealth +7"
+saving_throws: "Des +5, Int +4"
 speed: "25 ft."
 hit_points: "22 (4d6+8)"
 armor_class: "15 (leather armor)"
@@ -30,8 +30,8 @@ armor_class: "15 (leather armor)"
 
 * 1st level (3 slots): charm person, color spray, disguise self, longstrider
 
-### Actions
+### Acciones
 
-***Multiattack.*** Jamna attacks twice with her shortswords.
+***Multiataque.*** Jamna attacks twice with her shortswords.
 
-***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.
+***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.

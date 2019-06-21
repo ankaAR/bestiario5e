@@ -13,10 +13,10 @@ alignment: orc)
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Orc"
 senses: "darkvision 60 ft."
-skills: "Intimidation +2, Perception +2"
+skills: "Intimidation +2, Percepción +2"
 speed: "30 ft."
 hit_points: "95 (10d8+50)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 damage_resistances: "fire, poison"
 ---
 
@@ -24,13 +24,13 @@ damage_resistances: "fire, poison"
 
 ***Magic Resistance.*** The tanarukk has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The tanarukk makes two attacks: one with its bite and one with its greatsword.
+***Multiataque.*** The tanarukk makes two attacks: one with its bite and one with its greatsword.
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) piercing damage.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
 
-***Greatsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) slashing damage.
+***Greatsword.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) slashing damage.
 
 ### Reactions
 

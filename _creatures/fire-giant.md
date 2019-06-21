@@ -12,9 +12,9 @@ size: Huge giant
 alignment: legal maligna
 challenge: "9 (5,000 XP)"
 languages: "Giant"
-skills: "Athletics +11, Perception +6"
+skills: "Athletics +11, Percepción +6"
 damage_immunities: "fire"
-saving_throws: "Dex +3, Con +10, Cha +5"
+saving_throws: "Des +3, Con +10, Car +5"
 speed: "30 ft."
 hit_points: "162 (13d12+78)"
 armor_class: "18 (plate)"
@@ -24,10 +24,10 @@ armor_class: "18 (plate)"
 
 ***Tackle.*** When the giant enters any enemy's space for the first time on a turn, the enemy must succeed on a DC 19 Strength saving throw or be knocked prone.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The giant makes two greatsword attacks.
+***Multiataque.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.
+***Greatsword.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 28 (6d6 + 7) slashing damage.
 
-***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10 + 7) bludgeoning damage.

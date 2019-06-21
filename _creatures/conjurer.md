@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "6 (2,300 XP)"
 languages: "any four languages"
-skills: "Arcana +6, History +6"
-saving_throws: "Int +6, Wis +4"
+skills: "Arcana +6, Historia +6"
+saving_throws: "Int +6, Sab +4"
 speed: "30 ft."
 hit_points: "40 (9d8)"
 armor_class: "12 (15 with mage armor)"
@@ -37,6 +37,6 @@ Cantrips (at will): acid splash, mage hand, poison spray, prestidigitation
 
 ***Benign Transportation (Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher).*** As a bonus action, the conjurer teleports up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.

@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Common, Terran"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Acrobatics +7, Athletics +4, Insight +5, Perception +5"
+skills: "Acrobatics +7, Athletics +4, Insight +5, Percepción +5"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
@@ -29,11 +29,11 @@ condition_immunities: "blinded, poisoned"
 
 ***Unarmored Movement.*** While Hellenrae is wearing no armor and wielding no shield, her speed increases by 20 feet (included in her speed).
 
-### Actions
+### Acciones
 
-***Multiattack.*** Hellenrae makes three melee attacks.
+***Multiataque.*** Hellenrae makes three melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) bludgeoning damage.
 
 ### Reactions
 

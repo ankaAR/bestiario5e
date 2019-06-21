@@ -22,6 +22,6 @@ armor_class: "12"
 
 ***Telepathic Shroud.*** The cranium rat is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

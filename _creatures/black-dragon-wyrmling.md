@@ -13,18 +13,18 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Draconic"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Perception +4, Stealth +4"
+skills: "Percepción +4, Stealth +4"
 damage_immunities: "acid"
-saving_throws: "Dex +4, Con +3, Wis +2, Cha +3"
+saving_throws: "Des +4, Con +3, Sab +2, Car +3"
 speed: "30 ft., fly 60 ft., swim 30 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-***Amphibious.*** The dragon can breathe air and water.
+***Anfibio.*** The dragon puede respirar aire y agua.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (Sd8) acid damage on a failed save, or half as much damage on a successful one.

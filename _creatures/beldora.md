@@ -12,18 +12,18 @@ size: Medium humanoid (illuskan human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Common, Draconic, Dwarvish, Halfling"
-skills: "Deception +5, Insight +3, Investigation +5, Perception +5, Persuasion +5"
+skills: "Deception +5, Insight +3, Investigation +5, Percepción +5, Persuasion +5"
 speed: "30 ft."
 hit_points: "18 (4d8)"
 armor_class: "12"
 senses: "qpassive Perception 13"
 ---
 
-### Actions
+### Acciones
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage, .
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage, .
 
-***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6+2) piercing damage. Beldora carries ten crossbow bolts.
+***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage. Beldora carries ten crossbow bolts.
 
 ### Reactions
 

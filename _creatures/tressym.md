@@ -11,7 +11,7 @@ str: 3 (-4)
 size: Tiny beast
 alignment: chaotic neutral
 challenge: "0 (10 XP)"
-skills: "Perception +5, Stealth +4"
+skills: "Percepción +5, Stealth +4"
 damage_immunities: "poison"
 speed: "40 ft., climb 30 ft., fly 40' ft."
 hit_points: "5 (2d4)"
@@ -25,6 +25,6 @@ condition_immunities: "poisoned"
 
 ***Poison Sense.*** The tressym can detect whether a substance is poisonous by taste, touch, or smell.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+***Claws.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

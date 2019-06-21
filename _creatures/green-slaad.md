@@ -13,10 +13,10 @@ alignment: chaotic neutral
 challenge: "8 (3,900 XP)"
 languages: "Slaad, telepathy 60 ft."
 senses: "blindsight 30 ft., darkvision 60 ft."
-skills: "Arcana +3, Perception +2"
+skills: "Arcana +3, Percepción +2"
 speed: "30 ft."
 hit_points: "127 (15d10+45)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 damage_resistances: "acid, cold, fire, lightning, thunder"
 ---
 
@@ -42,14 +42,14 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.
+***Multiataque.*** The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.
 
-***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.
 
-***Claw (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+***Claw (Slaad Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) slashing damage.
 
-***Staff.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+***Staff.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
 
-***Hurl Flame.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren 't being worn or carried.
+***Hurl Flame.*** Ranged Spell Attack: +4 to hit, range 60 pies, un objetivo. Impacto: 10 (3d6) fire damage. The fire ignites flammable objects that aren 't being worn or carried.

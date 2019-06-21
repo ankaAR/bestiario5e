@@ -40,6 +40,6 @@ armor_class: "10 (13 with mage armor)"
 
 * 6th level (1 slot): move earth
 
-### Actions
+### Acciones
 
-***Staff.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage when used with two hands.
+***Staff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage when used with two hands.

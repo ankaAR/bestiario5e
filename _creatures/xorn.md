@@ -13,10 +13,10 @@ alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "Terran"
 senses: "darkvision 60 ft., tremorsense 60 ft."
-skills: "Perception +6, Stealth +3"
+skills: "Percepción +6, Stealth +3"
 speed: "20 ft., burrow 20 ft."
 hit_points: "73 (7d8+42)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 damage_resistances: "piercing and slashing from nonmagical weapons that aren't adamantine"
 ---
 
@@ -26,10 +26,10 @@ damage_resistances: "piercing and slashing from nonmagical weapons that aren't a
 
 ***Treasure Sense.*** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The xorn makes three claw attacks and one bite attack.
+***Multiataque.*** The xorn makes three claw attacks and one bite attack.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6 + 3) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.

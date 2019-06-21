@@ -17,7 +17,7 @@ senses: "darkvision 60 ft., passive Perception 7"
 damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "33  (6d8 + 6)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -25,10 +25,10 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Siege Monster.*** The hammerer deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The hammerer makes two attacks: one with its claw and one with its hammer.
 
-***Claw*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+***Claw*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
 
-***Hammer*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
+***Hammer*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage.

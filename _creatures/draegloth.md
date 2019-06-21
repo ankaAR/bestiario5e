@@ -13,11 +13,11 @@ alignment: chaotic evil
 challenge: "7 (2,900 XP)"
 languages: "Abyssal, Elvish, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +3, Stealth +5"
+skills: "Percepción +3, Stealth +5"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "123 (13d10+52)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -30,10 +30,10 @@ At will: darkness
 
 1/day each: confusion, dancing lights, faerie fire
 
-### Actions
+### Acciones
 
-***Multiattack.*** The draegloth makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The draegloth makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10+5) piercing damage.
+***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 16 (2d10+5) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +8 to hit, reach 10 ft, one target. Hit: 16 (2d10+5) slashing damage.
+***Claws.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10+5) slashing damage.

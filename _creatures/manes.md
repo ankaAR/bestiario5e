@@ -16,11 +16,11 @@ senses: "darkvision 60 ft."
 damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "9 (2d6+2)"
-armor_class: "9 (natural armor)"
+armor_class: "9 (armadura natural)"
 condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
+***Claws.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) slashing damage.

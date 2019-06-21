@@ -22,6 +22,6 @@ armor_class: "11"
 
 ***Aura of Madness.*** Creatures within 20 feet of the grue that aren't aberrations have disadvantage on saving throws, as well as on attack rolls against creatures other than a star spawn grue.
 
-### Actions
+### Acciones
 
-***Confounding Bite*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage, and the target must succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage until the start of the grue's next turn.
+***Confounding Bite*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage, and the target must succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage until the start of the grue's next turn.

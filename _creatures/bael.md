@@ -14,9 +14,9 @@ alignment: legal maligna
 challenge: "19 (22,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 23"
-skills: "Intimidation +13, Perception +13, Persuasion +13"
+skills: "Intimidation +13, Percepción +13, Persuasion +13"
 damage_immunities: "fire, poison"
-saving_throws: "Dex +9, Con +11, Int +11, Cha +13"
+saving_throws: "Des +9, Con +11, Int +11, Car +13"
 speed: "30 ft."
 hit_points: "189  (18d10 + 90)"
 armor_class: "18 (plate)"
@@ -39,15 +39,15 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Regeneration.*** Bael regains 20 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Bael makes two melee attacks.
 
-***Hellish Morningstar*** Melee Weapon Attack: +13 to hit, reach 20 ft., one target. Hit: 16 (2d8 + 7) piercing damage plus 13 (3d8) necrotic damage.
+***Hellish Morningstar*** Melee Weapon Attack: +13 al ataque, alcance 20 pies, un objetivo. Impacto: 16 (2d8 + 7) piercing damage plus 13 (3d8) necrotic damage.
 
 ***Infernal Command*** Each ally of Bael's within 60 feet of him can't be charmed or frightened until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Bael can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Bael regains spent legendary actions at the start of his turn.
 

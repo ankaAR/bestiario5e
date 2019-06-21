@@ -12,7 +12,7 @@ size: Medium humanoid (shou human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Common, Elvish, Goblin"
-skills: "Acrobatics +4, Athletics +3, Perception +5, Stealth +4"
+skills: "Acrobatics +4, Athletics +3, Percepción +5, Stealth +4"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "15"
@@ -21,13 +21,13 @@ senses: "passive Perception 15"
 
 ***Unarmored Defense.*** While Zi is wearing no armor and wielding no shield, her AC includes her Wisdom modifier.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Zi makes two melee attacks.
+***Multiataque.*** Zi makes two melee attacks.
 
-***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with both hands.
+***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with both hands.
 
-***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) bludgeoning damage. Zi carries twenty sling stones.
+***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4+2) bludgeoning damage. Zi carries twenty sling stones.
 
 ### Roleplaying Information
 

@@ -19,6 +19,6 @@ armor_class: "10"
 
 ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

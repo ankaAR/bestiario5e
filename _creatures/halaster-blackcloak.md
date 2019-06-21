@@ -14,8 +14,8 @@ alignment: chaotic evil
 challenge: "23 (50,000 XP)"
 languages: "Abyssal, Celestial, Common, Draconic, Dwarvish, Elvish, Infernal, Undercommon"
 senses: "darkvision 120 ft., passive Perception 21"
-skills: "Arcana +21, HIstory +21, Perception +11"
-saving_throws: "Int +14, Wis +11"
+skills: "Arcana +21, HIstory +21, Percepción +11"
+saving_throws: "Int +14, Sab +11"
 speed: "30 ft."
 hit_points: "246 (29d8+116)"
 armor_class: "14 (17 with *mage armor*)"
@@ -56,12 +56,12 @@ Halaster also wears a *horned ring* (a very rare magic item that requires attune
 
 * 9th level (1 slot): meteor swarm, wish
 
-### Actions
+### Acciones
 
 ***Blast Scepter.*** Halaster uses his *blast scepter* to cast *thunderwave* as a 4th-level spell (save DC 16).
 
 
-### Legendary Actions
+### Acciones Legendarias
 
 Halaster can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Halaster regains spent legendary actions at the start of his turn.
 

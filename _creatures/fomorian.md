@@ -13,17 +13,17 @@ alignment: chaotic evil
 challenge: "8 (3,900 XP)"
 languages: "Giant, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +8, Stealth +3"
+skills: "Percepción +8, Stealth +3"
 speed: "30 ft."
 hit_points: "149 (13d12+65)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The fomorian attacks twice with its greatclub or makes one greatclub attack and uses Evil Eye once.
+***Multiataque.*** The fomorian attacks twice with its greatclub or makes one greatclub attack and uses Evil Eye once.
 
-***Greatclub.*** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
+***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (3d8 + 6) bludgeoning damage.
 
 ***Evil Eye.*** The fomorian magically forces a creature it can see within 60 feet of it to make a DC 14 Charisma saving throw. The creature takes 27 (6d8) psychic damage on a failed save, or half as much damage on a successful one.
 

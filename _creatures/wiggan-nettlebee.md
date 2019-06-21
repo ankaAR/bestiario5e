@@ -28,8 +28,8 @@ armor_class: "11 (16 with barkskin)"
 
 * 2nd Level (3 slots): barkskin, spike growth, spiritual weapon
 
-### Actions
+### Acciones
 
-***Multiattack.*** Wiggan makes two attacks with his wooden cane.
+***Multiataque.*** Wiggan makes two attacks with his wooden cane.
 
-***Wooden Cane.*** Melee Weapon Attack: +0 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 1 (1d4-1) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
+***Wooden Cane.*** Melee Weapon Attack: +0 to hit (+4 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 1 (1d4-1) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh.

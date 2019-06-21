@@ -13,11 +13,11 @@ alignment: neutral evil
 challenge: "13 (10,000 XP)"
 languages: "Abyssal, Infernal, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Intimidation +9, Perception +7, Stealth +8"
+skills: "Intimidation +9, Percepción +7, Stealth +8"
 damage_immunities: "acid, poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -34,11 +34,11 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 
 ***Magic Weapons.*** The ultroloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
+***Multiataque.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
 
-***Longsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
 ***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed until the end of the ultroloth's next turn. The charmed target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
 

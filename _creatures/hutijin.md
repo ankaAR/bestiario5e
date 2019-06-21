@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "21 (33,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 21"
-skills: "Intimidation +14, Perception +11"
+skills: "Intimidation +14, Percepción +11"
 damage_immunities: "fire, poison"
-saving_throws: "Dex +9, Con +14, Wis +11"
+saving_throws: "Des +9, Con +14, Sab +11"
 speed: "30 ft., fly 60 ft."
 hit_points: "200  (16d10 + 112)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -39,21 +39,21 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Regeneration.*** Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Hutijin makes four attacks: one with his bite, one with his claw, one with his mace, and one with his tail.
 
-***Bite*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) piercing damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) piercing damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claw*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.
+***Claw*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
 
-***Mace*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage.
+***Mace*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) bludgeoning damage.
 
-***Tail*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) bludgeoning damage.
+***Tail*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) bludgeoning damage.
 
 ***Teleport*** Hutijin magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Hutijin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hutijin regains spent legendary actions at the start of his turn.
 

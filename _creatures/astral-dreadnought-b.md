@@ -14,11 +14,11 @@ alignment: unaligned
 challenge: "21 (33,000 XP)"
 languages: "-"
 senses: "darkvision 120 ft., passive Perception 19"
-skills: "Perception +9"
-saving_throws: "Dex +5, Wis +9"
+skills: "Percepción +9"
+saving_throws: "Des +5, Sab +9"
 speed: "15 ft., fly 80 ft. (hover)"
 hit_points: "297  (17d20 + 119)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -36,15 +36,15 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Sever Silver Cord.*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target's silver cord instead of dealing damage.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36 (5d10 + 9) piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.
+***Bite*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (5d10 + 9) piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.
 
-***Claw*** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19 (3d6 + 9) slashing damage.
+***Claw*** Melee Weapon Attack: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d6 + 9) slashing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The astral dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary option can be used at a time and only at the end of another creature's turn. The dreadnought regains spent legendary actions at the start of its turn.
 

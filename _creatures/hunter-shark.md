@@ -12,16 +12,16 @@ size: Large beast
 alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "darkvision 30 ft."
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "swim 40 ft."
 hit_points: "45 (6d10+12)"
-armor_class: "12 (natural armor)"
+armor_class: "12 (armadura natural)"
 ---
 
 ***Blood Frenzy.*** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage.

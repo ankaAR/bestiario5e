@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "9 (5,000 XP)"
 languages: "any four languages"
-skills: "Arcana +8, History +8"
-saving_throws: "Int +8, Wis +5"
+skills: "Arcana +8, Historia +8"
+saving_throws: "Int +8, Sab +5"
 speed: "30 ft."
 hit_points: "84 (13d8+26)"
 armor_class: "12 (15 with mage armor)"
@@ -41,6 +41,6 @@ Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
 
 ***Arcane Ward.*** The abjurer has a magical ward that has 30 hit points. Whenever the abjurer takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the abjurer takes any remaining damage. When the abjurer casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d6-l) bludgeoning damage, or 3 (1d8-l) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) bludgeoning damage, or 3 (1d8-l) bludgeoning damage if used with two hands.

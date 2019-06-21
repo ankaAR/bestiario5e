@@ -13,9 +13,9 @@ alignment: chaotic evil
 challenge: "12 (8,400 XP)"
 languages: "Giant"
 senses: "darkvision 60 ft."
-skills: "Athletics +11, Perception +4"
+skills: "Athletics +11, Percepción +4"
 damage_immunities: "cold"
-saving_throws: "Str +11, Con +11, Wis +4"
+saving_throws: "Str +11, Con +11, Sab +4"
 speed: "40 ft."
 hit_points: "189 (14d12+98)"
 armor_class: "15 (patchwork armor)"
@@ -33,10 +33,10 @@ armor_class: "15 (patchwork armor)"
 
 - The giant has resistance to bludgeoning, piercing, and slashing damage.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The giant makes two attacks with its greataxe.
+***Multiataque.*** The giant makes two attacks with its greataxe.
 
-***Greataxe.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26 (3d12+7) slashing damage, or 30 (3d12+11) slashing damage while raging.
+***Greataxe.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 26 (3d12+7) slashing damage, or 30 (3d12+11) slashing damage while raging.
 
-***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10+7) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10+7) bludgeoning damage.

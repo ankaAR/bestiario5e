@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Abyssal, Common"
 skills: "Arcana +5, Investigation +5, Medicine +1"
-saving_throws: "Wis +1"
+saving_throws: "Sab +1"
 speed: "30 ft."
 hit_points: "39 (6d8+12)"
 armor_class: "11 (14 with mage armor)"
@@ -33,6 +33,6 @@ armor_class: "11 (14 with mage armor)"
 
 ***Swift Animation (Recharges after a Long Rest).*** When a living Medium or Small humanoid within 30 feet of Oreioth dies, he can use an action on his next turn to cast animate dead on that humanoid's corpse, instead of using the spell's normal casting time.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+***Dagger.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

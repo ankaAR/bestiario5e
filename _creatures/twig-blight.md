@@ -16,13 +16,13 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 skills: "Stealth +3"
 speed: "20 ft."
 hit_points: "4 (1d6+1)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 damage_vulnerabilities: "fire"
 condition_immunities: "blinded, deafened"
 ---
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

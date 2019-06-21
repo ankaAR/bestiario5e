@@ -12,10 +12,10 @@ size: Huge beast
 alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "blindsight 120 ft."
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "swim 60 ft."
 hit_points: "90 (12d12+12)"
-armor_class: "12 (natural armor)"
+armor_class: "12 (armadura natural)"
 ---
 
 ***Echolocation.*** The whale can't use its blindsight while deafened.
@@ -24,6 +24,6 @@ armor_class: "12 (natural armor)"
 
 ***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 21 (5d6 + 4) piercing damage.

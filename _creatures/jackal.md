@@ -11,7 +11,7 @@ str: 8 (-1)
 size: Small beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "40 ft."
 hit_points: "3 (1d6)"
 armor_class: "12"
@@ -21,6 +21,6 @@ armor_class: "12"
 
 ***Pack Tactics.*** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage.
+***Bite.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4 - 1) piercing damage.

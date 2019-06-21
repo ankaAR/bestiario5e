@@ -26,7 +26,7 @@ page_number: 30
 
 ***Aura of Death (Orcus).*** This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn't incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly undead are immune to the frightened condition and have resistance to radiant damage. Enemies suffer disadvantage on death saving throws while in the aura.
 
-***Gnashing Jaws (Yeenoghu).*** Melee Weapon Attack: bonus to hit equal to this creature's proficiency bonus plus its Strength modifier, reach 5 ft., one target. Hit: 1d4 + this creature's Strength modifier piercing damage.
+***Gnashing Jaws (Yeenoghu).*** Melee Weapon Attack: bonus to hit equal to this creature's proficiency bonus plus its Strength modifier, reach 5 pies, un objetivo. Impacto: 1d4 + this creature's Strength modifier piercing damage.
 
 ***Rampage (Yeenoghu).*** When this creature reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make its Gnashing Jaws attack once.
 

@@ -24,13 +24,13 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The duergar makes three hammer or javelin attacks and uses Call to Attack, or Enlarge if it is available.
 
-***Psychic-Attuned Hammer*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage plus 5 (1d10) psychic damage, or 15 (2d10 + 4) bludgeoning damage plus 5 (1d10) psychic damage while enlarged,
+***Psychic-Attuned Hammer*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) bludgeoning damage plus 5 (1d10) psychic damage, or 15 (2d10 + 4) bludgeoning damage plus 5 (1d10) psychic damage while enlarged,
 
-***Javelin*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
+***Javelin*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
 
 ***Call to Attack*** Up to three allied duergar within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
 

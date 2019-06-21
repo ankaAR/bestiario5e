@@ -13,18 +13,18 @@ alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Hook Horror"
 senses: "blindsight 60 ft., darkvision 10 ft."
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d10+20)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Echolocation.*** The hook horror can't use its blindsight while deafened.
 
 ***Keen Hearing.*** The hook horror has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The hook horror makes two hook attacks.
+***Multiataque.*** The hook horror makes two hook attacks.
 
-***Hook.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+***Hook.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.

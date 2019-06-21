@@ -14,11 +14,11 @@ alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
 senses: "darkvision 120 ft."
-skills: "Arcana +15, Perception +12, Religion +10, Stealth +14"
-saving_throws: "Dex +9, Wis +7, Cha +9"
+skills: "Arcana +15, Percepción +12, Religion +10, Stealth +14"
+saving_throws: "Des +9, Sab +7, Car +9"
 speed: "30 ft."
 hit_points: "144 (17d8+68)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -62,21 +62,21 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 >Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 
-### Actions
+### Acciones
 
 ***Multiattack (Vampire Form Only).*** Strahd makes two attacks, only one of which can be a bite attack.
 
-***Unarmed Strike (Vampire Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 8 (1d8+4) bludgeoning damage, plus 14 (4d6) necrotic damage. If the target is a creature, Strahd can grapple it (escape DC 18) instead of dealing the bludgeoning damage.
+***Unarmed Strike (Vampire Form Only).*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one creature. Hit: 8 (1d8+4) bludgeoning damage, plus 14 (4d6) necrotic damage. If the target is a creature, Strahd can grapple it (escape DC 18) instead of dealing the bludgeoning damage.
 
-***Bite (Bat or Vampire Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. Hit: 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if  its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strahd's control.
+***Bite (Bat or Vampire Form Only).*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. Hit: 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if  its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strahd's control.
 
 ***Charm.*** Strahd targets one humanoid he can see within 30 ft. of him. If the target can see Strahd, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed. The charmed target regards Strahd as a trusted friend to be heeded and protected. The target isn't under Strahd's control, but it takes Strahd's requests and actions in the most favorable way and lets Strahd bite it.
 
 >Each time Strahd or his companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until Strahd is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
-***Children of the Night (1/day).*** Strahd magically calls 2d4 swarms of bats or swarms rats, provided that the sun isn't up. While outdoors, Strahd can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd and obeying his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until he dismisses them as a bonus action.
+***Children of the Night (1/día).*** Strahd magically calls 2d4 swarms of bats or swarms rats, provided that the sun isn't up. While outdoors, Strahd can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd and obeying his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until he dismisses them as a bonus action.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of his turn.
 

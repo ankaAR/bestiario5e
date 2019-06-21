@@ -14,10 +14,10 @@ challenge: "5 (1,800 XP)"
 languages: "understands the languages it knew in life but can't speak"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Wis + 1"
+saving_throws: "Sab + 1"
 speed: "30 ft."
 hit_points: "97 (13d8+39)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "cold, necrotic"
 ---
@@ -30,8 +30,8 @@ damage_resistances: "cold, necrotic"
 
 ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The zombie makes two melee attacks.
+***Multiataque.*** The zombie makes two melee attacks.
 
-***Empowered Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage and 7 (2d6) necrotic damage.
+***Empowered Slam.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) bludgeoning damage and 7 (2d6) necrotic damage.

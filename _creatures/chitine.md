@@ -27,8 +27,8 @@ armor_class: "14 (hide armor)"
 
 ***Web Walker.*** The chitine ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The chitine makes three attacks with its daggers.
+***Multiataque.*** The chitine makes three attacks with its daggers.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.

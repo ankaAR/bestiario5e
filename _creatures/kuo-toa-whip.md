@@ -13,13 +13,13 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +6, Religion +4"
+skills: "Percepción +6, Religion +4"
 speed: "32 ft., swim 30 ft."
 hit_points: "65 (10d8+20)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
-***Amphibious.*** The kuo-toa can breathe air and water.
+***Anfibio.*** The kuo-toa puede respirar aire y agua.
 
 ***Otherwordly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
@@ -33,10 +33,10 @@ armor_class: "11 (natural armor)"
 
 * 1st level (3 slots): bane, shield of faith
 
-### Actions
+### Acciones
 
-***Multiattack.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
+***Multiataque.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Pincer Staff.*** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
+***Pincer Staff.*** Melee Weapon Attack: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.

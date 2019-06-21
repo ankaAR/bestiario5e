@@ -14,12 +14,12 @@ alignment: lawful neutral
 challenge: "25 (75,000 XP)"
 languages: "all but rarely speaks"
 senses: "darkvision 60 ft., passive Perception 20"
-skills: "Insight +10, Intimidation +12, Perception +10"
+skills: "Insight +10, Intimidation +12, Percepción +10"
 damage_immunities: "poison"
-saving_throws: "Int +12, Wis +10, Cha +12"
+saving_throws: "Int +12, Sab +10, Car +12"
 speed: "40 ft., fly 30 ft. (hover)"
 hit_points: "432  (32d10 + 256)"
-armor_class: "22 (natural armor)"
+armor_class: "22 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, poisoned, unconscious"
 damage_resistances: "thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -33,11 +33,11 @@ At will: plane shift (self only)
 
 ***Magic Resistance.*** The marut has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The marut makes two slam attacks.
 
-***Unerring Slam*** Melee Weapon Attack: automatic hit, reach 5 ft., one target. Hit: 60 force damage, and the target is pushed up to 5 feet away from the marut if it is Huge or smaller.
+***Unerring Slam*** Melee Weapon Attack: automatic hit, reach 5 pies, un objetivo. Impacto: 60 force damage, and the target is pushed up to 5 feet away from the marut if it is Huge or smaller.
 
 ***Blazing Edict (Recharge 5-6)*** Arcane energy emanates from the marut's chest in a 60-foot cube. Every creature in that area takes 45 radiant damage. Each creature that takes any of this damage must succeed on a DC 20 Wisdom saving throw or be stunned until the end of the marut's next turn.
 

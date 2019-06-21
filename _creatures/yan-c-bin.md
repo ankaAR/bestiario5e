@@ -14,10 +14,10 @@ challenge: "18 (20,000 XP)"
 languages: "Auran"
 senses: "blindsight 120 ft."
 damage_immunities: "lightning, poison, thunder"
-saving_throws: "Dex +13, Wis +11, Cha +12"
+saving_throws: "Des +13, Sab +11, Car +12"
 speed: "50 ft., fly 150 ft."
 hit_points: "283 (21d12+147)"
-armor_class: "22 (natural armor)"
+armor_class: "22 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
 damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -36,11 +36,11 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Magic Resistance.*** Yan-C-Bin has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Yan-C-Bin makes two slam attacks.
+***Multiataque.*** Yan-C-Bin makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) force damage plus 10 (3d6) lightning damage.
+***Slam.*** Melee Weapon Attack: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 + 7) force damage plus 10 (3d6) lightning damage.
 
 ***Thundercrack (Recharges after a Short or Long Rest).*** Yan-C-Bin unleashes a terrible thundercrack in a 100-foot- radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be deafened for 1 minute. On a successful save, a creature takes half as much damage and is deafened until the start of Yan-C-Bin's next turn.
 
@@ -48,7 +48,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Summon Elementals (1/Day).*** Yan-C-Bin summons up to three air elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The yan-c-bin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The yan-c-bin regains spent legendary actions at the start of its turn.
 

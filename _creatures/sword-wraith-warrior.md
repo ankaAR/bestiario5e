@@ -24,8 +24,8 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Martial Fury.*** As a bonus action, the sword wraith can make one weapon attack. If it does so, attack rolls against it have advantage until the start of its next turn.
 
-### Actions
+### Acciones
 
-***Longsword*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+***Longbow*** Ranged Weapon Attack: +3 to hit, range 150/600 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.

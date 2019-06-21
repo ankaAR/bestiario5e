@@ -15,7 +15,7 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 damage_immunities: "poison, psychic"
 speed: "40 ft."
 hit_points: "39 (6d10+6)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -29,6 +29,6 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Charge.*** If the table moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-### Actions
+### Acciones
 
-***Ram.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+***Ram.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.

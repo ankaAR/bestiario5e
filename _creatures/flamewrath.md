@@ -33,6 +33,6 @@ armor_class: "12 (15 with mage armor)"
 
 ***Wreathed in Flame.*** For the flamewrath, the warm version of the fire shield spell has a duration of "until dispelled." The fire shield burns for 10 minutes after the flamewrath dies, consuming its body.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

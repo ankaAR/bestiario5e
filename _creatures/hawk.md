@@ -11,7 +11,7 @@ str: 5 (-3)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-skills: "Perception +4"
+skills: "Percepción +4"
 speed: "10 ft., fly 60 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "13"
@@ -19,6 +19,6 @@ armor_class: "13"
 
 ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+***Talons.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

@@ -14,7 +14,7 @@ challenge: "0 (10 XP)"
 languages: "Common"
 speed: "20 ft."
 hit_points: "59 (7d12+14)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 senses: " passive Perception 10"
 damage_vulnerabilities: "fire"
 damage_resistances: "blugdeoning, piercing"
@@ -22,11 +22,11 @@ damage_resistances: "blugdeoning, piercing"
 
 ***False Appearance.*** While Lifferlas remains motionless, it is indistinguishable from a normal tree.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Lifferlas makes two slam attacks.
+***Multiataque.*** Lifferlas makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6+4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6+4) bludgeoning damage.
 
 ### Roleplaying Information
 

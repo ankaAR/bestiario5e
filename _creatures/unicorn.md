@@ -32,19 +32,19 @@ At will: detect evil and good, druidcraft, pass without trace
 
 ***Magic Weapons.*** The unicorn's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The unicorn makes two attacks: one with its hooves and one with its horn.
+***Multiataque.*** The unicorn makes two attacks: one with its hooves and one with its horn.
 
-***Hooves.*** Melee Weapon Attack: +7 to hit, reach 5 ft ., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 
-***Horn.*** Melee Weapon Attack: +7 to hit, reach 5 ft ., one target. Hit: 8 (1d8 + 4) piercing damage.
+***Horn.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 8 (1d8 + 4) piercing damage.
 
 ***Healing Touch (3/Day).*** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 
 ***Teleport (1/Day).*** The unicorn magically teleports itself and up to three willing creatures it can see within 5 ft. of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 

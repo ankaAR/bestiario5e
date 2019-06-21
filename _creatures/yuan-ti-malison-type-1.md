@@ -39,12 +39,12 @@ Type 2: Human head and body with snakes for arms
 
 Type 3: Human head and upper body with a serpentine lower body instead of legs
 
-### Actions
+### Acciones
 
 ***Multiattack (Yuan_ti Form Only).*** The yuan_ti makes two ranged attacks or two melee attacks, but can use its bite only once.
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 
-***Scimitar (Yuan_ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Scimitar (Yuan_ti Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
 
-***Longbow (Yuan_ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+***Longbow (Yuan_ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.

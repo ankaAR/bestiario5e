@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Auran, Terran"
 senses: "darkvision 60 ft."
-skills: "Perception +2, Stealth +4"
+skills: "Percepción +2, Stealth +4"
 damage_immunities: "poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "17 (5d6)"
@@ -26,9 +26,9 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
 
 ***Blinding Breath (Recharge 6).*** The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

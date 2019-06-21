@@ -13,10 +13,10 @@ alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Common, Terran"
 senses: "darkvision 60 ft., tremorsense 60 ft."
-skills: "Arcana +4, Deception +6, Perception +4"
+skills: "Arcana +4, Deception +6, Percepción +4"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 damage_resistances: "acid"
 ---
 
@@ -32,10 +32,10 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 If Marlos sees himself reflected on a polished surface within 30 feet of him and in an area of bright light, Marlos is, due to his curse, affected by his own gaze.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Marlos makes three melee attacks, one with his snake hair and two with Ironfang.
+***Multiataque.*** Marlos makes three melee attacks, one with his snake hair and two with Ironfang.
 
-***Snake Hair.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage.
+***Snake Hair.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage.
 
-***Ironfang.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) thunder damage.
+***Ironfang.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) thunder damage.

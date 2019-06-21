@@ -14,11 +14,11 @@ challenge: "5 (1,800 XP)"
 saving_throws: "Con +6"
 speed: "30 ft."
 hit_points: "121 (9d20+27)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Stomp.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27 (5d8+5) bludgeoning damage, and the target must succed on a DC 14 Strength saving throw or be knocked prone.
+***Stomp.*** Melee Weapon Attack: +8 al ataque, alcance 20 pies, un objetivo. Impacto: 27 (5d8+5) bludgeoning damage, and the target must succed on a DC 14 Strength saving throw or be knocked prone.
 
-***Tail.*** Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32 (6d8+5) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 20 pies, un objetivo. Impacto: 32 (6d8+5) bludgeoning damage.

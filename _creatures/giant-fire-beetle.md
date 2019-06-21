@@ -14,11 +14,11 @@ challenge: "0 (10 XP)"
 senses: "blindsight 30 ft."
 speed: "30 ft."
 hit_points: "4 (1d6+1)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
 ***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) slashing damage.
+***Bite.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) slashing damage.

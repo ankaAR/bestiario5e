@@ -14,9 +14,9 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
-skills: "History +5, Nature +5, Perception +4, Survival +4"
+skills: "Historia +5, Nature +5, Percepción +4, Survival +4"
 damage_immunities: "acid, poison"
-saving_throws: "Dex +5, Int +5"
+saving_throws: "Des +5, Int +5"
 speed: "30 ft., swim 40 ft."
 hit_points: "40  (9d8)"
 armor_class: "13"
@@ -35,10 +35,10 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Teleport.*** As a bonus action, the merrenoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The merrenoloth uses Fear Gaze once and makes one oar attack.
 
-***Oar*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
+***Oar*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage.
 
 ***Fear Gaze*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

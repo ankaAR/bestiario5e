@@ -14,10 +14,10 @@ challenge: "9 (5,000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "truesight 120 ft."
 damage_immunities: "poison"
-saving_throws: "Str +9, Con +9, Wis +7, Cha +7"
+saving_throws: "Str +9, Con +9, Sab +7, Car +7"
 speed: "40 ft."
 hit_points: "157 (15d10+75)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -30,13 +30,13 @@ At will: darkness, detect magic, dispel magic
 
 ***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
+***Multiataque.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
-***Pincer.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+***Pincer.*** Melee Weapon Attack: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 
-***Fist.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) bludgeoning damage.
 
 ***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
 

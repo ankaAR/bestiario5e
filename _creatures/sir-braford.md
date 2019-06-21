@@ -12,7 +12,7 @@ size: Medium humanoid (human)
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Common"
-skills: "Athletics +S, Perception +3"
+skills: "Athletics +S, Percepción +3"
 speed: "30 ft."
 hit_points: "19 (3d8+6)"
 armor_class: "18 (chain mail, shield)"
@@ -26,9 +26,9 @@ armor_class: "18 (chain mail, shield)"
 
 ***Tree Thrall.*** If the Gulthias Tree dies, Sir Braford dies 24 hours later.
 
-### Actions
+### Acciones
 
-***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands.
+***Longsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands.
 
 ### Reactions
 

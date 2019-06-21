@@ -24,9 +24,9 @@ damage_resistances: "acid"
 
 ***Spider Climb.*** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
-***Pseudopod.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
+***Pseudopod.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
 ### Reactions
 

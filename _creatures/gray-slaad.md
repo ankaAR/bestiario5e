@@ -13,10 +13,10 @@ alignment: chaotic neutral
 challenge: "9 (5,000 XP)"
 languages: "Slaad, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft."
-skills: "Arcana +5, Perception +6"
+skills: "Arcana +5, Percepción +6"
 speed: "30 ft."
 hit_points: "127 (17d8+51)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 damage_resistances: "acid, cold, fire, lightning, thunder"
 ---
 
@@ -44,12 +44,12 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
+***Multiataque.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 
-***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Bite (Slaad Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
 
-***Claws (Slaad Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
+***Claws (Slaad Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) slashing damage.
 
-***Greatsword.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+***Greatsword.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.

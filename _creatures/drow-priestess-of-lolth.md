@@ -13,8 +13,8 @@ alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Elvish, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Insight +6, Perception +6, Religion +4, Stealth +5"
-saving_throws: "Con +4, Wis +6, Cha +7"
+skills: "Insight +6, Percepción +6, Religion +4, Stealth +5"
+saving_throws: "Con +4, Sab +6, Car +7"
 speed: "30 ft."
 hit_points: "71 (13d8+13)"
 armor_class: "15 (scale mail)"
@@ -44,10 +44,10 @@ At will: dancing lights
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The drow makes two scourge attacks.
+***Multiataque.*** The drow makes two scourge attacks.
 
-***Scourge.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
+***Scourge.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
 
 ***Summon Demon (1/Day).*** The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.

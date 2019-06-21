@@ -16,7 +16,7 @@ languages: "Common, Elvish, Sylvan"
 senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -31,8 +31,8 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 ***Sorrowful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature is charmed for 1 minute. While charmed in this way, the creature has disadvantage on ability checks and saving throws. The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours.
 Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.
 
-### Actions
+### Acciones
 
-***Longsword*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage.
+***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) piercing damage.

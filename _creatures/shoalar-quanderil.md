@@ -19,7 +19,7 @@ armor_class: "10 (13 with mage armor)"
 damage_resistances: "acid"
 ---
 
-***Amphibious.*** Shoalar can breathe air and water.
+***Anfibio.*** Shoalar puede respirar aire y agua.
 
 ***Innate Spellcasting.*** Shoalar's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:
 
@@ -37,6 +37,6 @@ damage_resistances: "acid"
 
 * 3rd level (2 slots): tidal wave
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or ranged 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or ranged 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

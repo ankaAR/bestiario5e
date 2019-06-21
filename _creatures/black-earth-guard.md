@@ -12,17 +12,17 @@ size: Medium humanoid (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common"
-skills: "Intimidation +1, Perception +2"
+skills: "Intimidation +1, Percepción +2"
 speed: "30 ft."
 hit_points: "39 (6d8+12)"
 armor_class: "18 (plate)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The guard makes two melee attacks.
+***Multiataque.*** The guard makes two melee attacks.
 
-***Morningstar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+***Morningstar.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.
 
 ### Reactions
 

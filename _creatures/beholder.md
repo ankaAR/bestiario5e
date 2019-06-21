@@ -13,19 +13,19 @@ alignment: legal maligna
 challenge: "13 (10,000 XP)"
 languages: "Deep Speech, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +12"
-saving_throws: "Int +8, Wis +7, Cha +8"
+skills: "Percepción +12"
+saving_throws: "Int +8, Sab +7, Car +8"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "180 (19d10+76)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "prone"
 ---
 
 ***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
 
 ***Eye Rays.*** The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 ft. of it:
 
@@ -53,7 +53,7 @@ If the target is a Large or smaller nonmagical object or creation of magical for
 
 10. Death Ray. The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The beholder can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.
 

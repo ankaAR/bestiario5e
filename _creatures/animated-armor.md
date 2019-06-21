@@ -15,7 +15,7 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 damage_immunities: "poison, psychic"
 speed: "25 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -23,8 +23,8 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The armor makes two melee attacks.
+***Multiataque.*** The armor makes two melee attacks.
 
-***Slam.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage.

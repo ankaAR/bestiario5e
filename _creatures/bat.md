@@ -21,6 +21,6 @@ armor_class: "12"
 
 ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +0 al ataque, alcance 5 ft., one creature. Hit: 1 piercing damage.

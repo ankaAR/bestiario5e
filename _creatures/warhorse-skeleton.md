@@ -20,6 +20,6 @@ damage_vulnerabilities: "bludgeoning"
 condition_immunities: "exhaustion, poisoned"
 ---
 
-### Actions
+### Acciones
 
-***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.

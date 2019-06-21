@@ -14,11 +14,11 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "darkvision 60 ft., truesight 120 ft., passive Perception 19"
-skills: "Investigation +3, Perception +9"
+skills: "Investigation +3, Percepción +9"
 damage_immunities: "acid, poison"
 speed: "50 ft."
 hit_points: "120  (16d8 + 48)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -31,12 +31,12 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Uncanny Senses.*** The canoloth can't be surprised while it isn't incapacitated.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The canoloth makes two attacks: one with its tongue or its bite and one with its claws.
 
-***Bite*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 25 (6d6 + 4) piercing damage.
+***Bite*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (6d6 + 4) piercing damage.
 
-***Claws*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage.
+***Claws*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) slashing damage.
 
-***Tongue*** Ranged Weapon Attack: +7 to hit, range 30 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 15), pulled up to 30 feet toward the canoloth, and is restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue.
+***Tongue*** Ranged Weapon Attack: +7 to hit, range 30 pies, un objetivo. Impacto: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 15), pulled up to 30 feet toward the canoloth, and is restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue.

@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "5 (1,800 XP)"
 languages: "Sylvan"
 senses: "darkvision 60 ft."
-skills: "Athletics +7, Perception +4, Stealth +4"
+skills: "Athletics +7, Percepción +4, Stealth +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "18 (natural armor, shield)"
@@ -30,8 +30,8 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Tree Stride.*** Once on each of its turns, the wood woad can use 10 feet of its movement to step magically into one living tree within 5 feet of it and emerge from a second living tree within 60 feet of it that it can see, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The wood woad makes two attacks with its club.
+***Multiataque.*** The wood woad makes two attacks with its club.
 
-***Club.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (4d4+4) bludgeoning damage.
+***Club.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d4+4) bludgeoning damage.

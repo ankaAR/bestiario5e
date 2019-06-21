@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Elvish, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Perception +4, Stealth +5"
+skills: "Percepción +4, Stealth +5"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "11 (16 with barkskin)"
@@ -33,9 +33,9 @@ At will: druidcraft
 
 ***Tree Stride.*** Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 ft. of the second tree. Both trees must be large or bigger.
 
-### Actions
+### Acciones
 
-***Club.*** Melee Weapon Attack: +2 to hit (+6 to hit with shillelagh), reach 5 ft., one target. Hit: 2 (1 d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.
+***Club.*** Melee Weapon Attack: +2 to hit (+6 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 2 (1 d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.
 
 ***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 

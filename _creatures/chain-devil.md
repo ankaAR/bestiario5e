@@ -14,10 +14,10 @@ challenge: "11 (7,200 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "darkvision 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Con +7, Wis +4, Cha +5"
+saving_throws: "Con +7, Sab +4, Car +5"
 speed: "30 ft."
 hit_points: "85 (10d8+40)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
@@ -26,11 +26,11 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The devil makes two attacks with its chains.
+***Multiataque.*** The devil makes two attacks with its chains.
 
-***Chain.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
+***Chain.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
 
 ***Animate Chains (Recharges after a Short or Long Rest).*** Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
 

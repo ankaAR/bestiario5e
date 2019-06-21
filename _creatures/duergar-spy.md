@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Deception +5, Insight +2, Investigation +5, Perception +4, Persuasion +3, Sleight of Hand +5, Stealth +7"
+skills: "Deception +5, Insight +2, Investigation +5, Percepción +4, Persuasion +3, Sleight of Hand +5, Stealth +7"
 speed: "25 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "15 (studded leather)"
@@ -30,13 +30,13 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the spy has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The spy makes two shortsword attacks.
+***Multiataque.*** The spy makes two shortsword attacks.
 
 ***Eniarge (Recharges after a Short or Long Rest).*** For 1 minute, the spy magically increases in size, along with anything it is wearing or carrying. While enlarged, the spy is Large, doubles her damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the spy lacks the room to become Large, it attains the maximum size possible in the space available.
 
-***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 10 (2d6 + 3) piercing damage while enlarged.
+***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 10 (2d6 + 3) piercing damage while enlarged.
 
 ***Hand Crossbow.*** Ranged Weapon Attack: +5 to hit, range 30/120 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
 

@@ -11,16 +11,16 @@ str: 12 (+1)
 size: Medium beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-skills: "Perception +3, Stealth +4"
+skills: "Percepción +3, Stealth +4"
 speed: "40 ft."
 hit_points: "11 (2d8+2)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
 ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.

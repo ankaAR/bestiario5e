@@ -13,7 +13,7 @@ size: Medium humanoid (human)
 alignment: chaotic neutral
 challenge: "10 (5,900 XP)"
 languages: "Abyssal, Common, Elvish, Infernal"
-skills: "Arcana +7, Deception +8, Insight +13, Intimidation +8, Perception +9, Religion +7"
+skills: "Arcana +7, Deception +8, Insight +13, Intimidation +8, Percepción +9, Religion +7"
 saving_throws: "Con +5"
 speed: "20 ft."
 hit_points: "88 (16d8+16)"
@@ -40,9 +40,9 @@ armor_class: "10"
 
 * 8th level (1 slot): earthquake
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.
+***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.
 
 ***Curse (Recharges after a Long Rest).*** Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage.
 

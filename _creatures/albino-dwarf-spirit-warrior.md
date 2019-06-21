@@ -14,7 +14,7 @@ challenge: "1 (200 XP)"
 languages: "Common, Dwarvish"
 senses: "darkvision 60ft., passive Perception 14"
 damage_resistances: "poison"
-skills: "Perception +4, Stealth +3, Survival +4"
+skills: "Percepción +4, Stealth +3, Survival +4"
 speed: "25 ft."
 hit_points: "30 (4d8 +12)"
 armor_class: "13 (hide armor)"
@@ -26,6 +26,6 @@ armor_class: "13 (hide armor)"
 
 1/day each: hunter's mark, jump, pass without trace, speak with animals, speak with plants.
 
-### Actions
+### Acciones
 
-***Handaxe.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 +1) slashing damage.
+***Handaxe.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d6 +1) slashing damage.

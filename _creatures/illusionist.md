@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "3 (700 XP)"
 languages: "any four languages"
-skills: "Arcana +5, History +5"
-saving_throws: "Int +5, Wis +2"
+skills: "Arcana +5, Historia +5"
+saving_throws: "Int +5, Sab +2"
 speed: "30 ft."
 hit_points: "38 (7d8+7)"
 armor_class: "12 (15 with mage armor)"
@@ -35,6 +35,6 @@ Cantrips (at will): dancing lights, mage hand, minor illusion, poison spray
 
 ***Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher).*** As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is incapacitated, or its speed becomes 0.
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.

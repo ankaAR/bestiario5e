@@ -12,8 +12,8 @@ size: Medium humanoid (human)
 alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Common, Draconic, Dwarvish, Elvish"
-skills: "Arcana +5, History +5"
-saving_throws: "Int +5, Wis +3"
+skills: "Arcana +5, Historia +5"
+saving_throws: "Int +5, Sab +3"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"
@@ -27,6 +27,6 @@ armor_class: "12"
 
 * 2nd Level (3 slots): hold person, misty step
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target.  Hit: 3 (1d8-1) bludgeoning damage.
+***Quarterstaff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one target.  Hit: 3 (1d8-1) bludgeoning damage.

@@ -20,8 +20,8 @@ condition_immunities: "blinded, deafened, frightened"
 
 ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The fungus makes 1d4 Rotting Touch attacks.
+***Multiataque.*** The fungus makes 1d4 Rotting Touch attacks.
 
-***Rotting Touch.*** Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.
+***Rotting Touch.*** Melee Weapon Attack: +2 al ataque, alcance 10 ft., one creature. Hit: 4 (1d8) necrotic damage.

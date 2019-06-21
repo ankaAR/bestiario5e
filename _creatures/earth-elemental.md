@@ -16,7 +16,7 @@ senses: "darkvision 60 ft., tremorsense 60 ft."
 damage_immunities: "poison"
 speed: "30 ft., burrow 30 ft."
 hit_points: "126 (12d10+60)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 damage_vulnerabilities: "thunder"
 condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
@@ -26,8 +26,8 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Siege Monster.*** The elemental deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The elemental makes two slam attacks.
+***Multiataque.*** The elemental makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) bludgeoning damage.

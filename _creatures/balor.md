@@ -14,10 +14,10 @@ challenge: "19 (22,000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "truesight 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Str +14, Con +12, Wis +9, Cha +12"
+saving_throws: "Str +14, Con +12, Sab +9, Car +12"
 speed: "40 ft., fly 80 ft."
 hit_points: "262 (21d12+126)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -30,13 +30,13 @@ damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from n
 
 ***Magic Weapons.*** The balor's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The balor makes two attacks: one with its longsword and one with its whip.
+***Multiataque.*** The balor makes two attacks: one with its longsword and one with its whip.
 
-***Longsword.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
+***Longsword.*** Melee Weapon Attack: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
 
-***Whip.*** Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
+***Whip.*** Melee Weapon Attack: +14 al ataque, alcance 30 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
 
 ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 

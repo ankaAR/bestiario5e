@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "18 (20,000 XP)"
 languages: "Common, Infernal, telepathy 1,000 ft."
 senses: "darkvision 120 ft., passive Perception 17"
-skills: "Perception +7"
+skills: "Percepción +7"
 damage_immunities: "fire, poison"
-saving_throws: "Dex +7, Con +9, Wis +7, Cha +10"
+saving_throws: "Des +7, Con +9, Sab +7, Car +10"
 speed: "30 ft., fly 40 ft."
 hit_points: "202  (27d8 + 81)"
-armor_class: "21 (natural armor)"
+armor_class: "21 (armadura natural)"
 condition_immunities: "charmed, poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -33,13 +33,13 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Resistance.*** The amnizu has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The amnizu uses Poison Mind. It also makes two attacks: one with its whip and one with its Disruptive Touch.
 
-***Taskmaster Whip*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.
+***Taskmaster Whip*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.
 
-***Disruptive Touch*** Melee Spell Attack: +11 to hit, reach 5 ft., one target. Hit: 44 (8d10) necrotic damage.
+***Disruptive Touch*** Melee Spell Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 44 (8d10) necrotic damage.
 
 ***Poison Mind*** The amnizu targets one or two creatures that it can see within 60 feet of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26 (4d12) necrotic damage and is blinded until the start of the amnizu's next turn.
 

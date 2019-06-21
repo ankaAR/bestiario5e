@@ -12,7 +12,7 @@ size: Tiny fey
 alignment: neutral good
 challenge: "1/4 (50 XP)"
 languages: "Sylvan"
-skills: "Perception +4, Stealth +7"
+skills: "Percepción +4, Stealth +7"
 speed: "10 ft., fly 30 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "15"
@@ -26,6 +26,6 @@ At will: druidcraft
 
 1/day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep
 
-### Actions
+### Acciones
 
 ***Superior Invisibility.*** The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it.

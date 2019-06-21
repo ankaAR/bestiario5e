@@ -16,7 +16,7 @@ senses: "darkvision 60 ft."
 skills: "Arcana +2, Medicine +1"
 speed: "30 ft."
 hit_points: "27 (5d6+10)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Spellcasting.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
@@ -37,6 +37,6 @@ Subtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cas
 
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 it, one target. Hit: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 4 (1d4+2) piercing damage.

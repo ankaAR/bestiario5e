@@ -14,8 +14,8 @@ alignment: legal maligna
 challenge: "10 (5,900 XP)"
 languages: "Common, Elvish"
 senses: "darkvision 60 ft."
-skills: "Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14"
-saving_throws: "Con +7, Wis +7"
+skills: "Deception +8, Insight +7, Intimidation +12, Percepción +11, Stealth +14"
+saving_throws: "Con +7, Sab +7"
 speed: "35 ft."
 hit_points: "135 (18d8+54)"
 armor_class: "18 (studded leather)"
@@ -33,10 +33,10 @@ armor_class: "18 (studded leather)"
 
 ***Mask of the Wild.*** Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Rahadin attacks three times with his scimitar, or twice with his poisoned darts.
+***Multiataque.*** Rahadin attacks three times with his scimitar, or twice with his poisoned darts.
 
-***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d6+6) slashing damage.
+***Scimitar.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d6+6) slashing damage.
 
-***Poisoned Dart.*** Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit: 8 (1d4+6) piercing damage plus 5 (2d4) poison damage.
+***Poisoned Dart.*** Ranged Weapon Attack: +10 to hit, range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) piercing damage plus 5 (2d4) poison damage.

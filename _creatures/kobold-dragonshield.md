@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Common, Draconic"
 senses: "darkvision 60 ft."
-skills: "Perception +1"
+skills: "Percepción +1"
 speed: "20 ft."
 hit_points: "44 (8d6+16)"
 armor_class: "15 (leather armor, shield)"
@@ -27,8 +27,8 @@ armor_class: "15 (leather armor, shield)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The kobold makes two melee attacks.
+***Multiataque.*** The kobold makes two melee attacks.
 
-***Spear.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 it, one target. Hit: 4 (ld6+l) piercing damage, or 5 (ld8+l) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 4 (ld6+l) piercing damage, or 5 (ld8+l) piercing damage if used with two hands to make a melee attack.

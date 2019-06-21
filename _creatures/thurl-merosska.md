@@ -28,13 +28,13 @@ armor_class: "16 (breastplate)"
 
 * 3rd level (2 slots): haste
 
-### Actions
+### Acciones
 
-***Multiattack.*** Thurl makes two melee attacks.
+***Multiataque.*** Thurl makes two melee attacks.
 
-***Greatsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+***Greatsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.
 
-***Lance.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage.
+***Lance.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
 
 ### Reactions
 

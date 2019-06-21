@@ -14,11 +14,11 @@ alignment: chaotic evil
 challenge: "7 (2900 XP)"
 languages: "Giant"
 senses: "darkvision 60 ft., passive Perception 12"
-skills: "Perception +2"
+skills: "Percepción +2"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "94  (9d10 + 45)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
@@ -28,12 +28,12 @@ condition_immunities: "poisoned"
 
 ***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 4 (1d8) poison damage, and the creature is poisoned until the start of the troll's next turn.
+***Bite*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 4 (1d8) poison damage, and the creature is poisoned until the start of the troll's next turn.
 
-***Claws*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 4 (1d8) poison damage.
+***Claws*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage plus 4 (1d8) poison damage.
 
 ***Venom Spray (Recharge 6)*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

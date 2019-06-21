@@ -12,8 +12,8 @@ size: Tiny aberration
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 senses: "darkvision 60 ft."
-skills: "Perception +4, Stealth +2"
-saving_throws: "Wis +2"
+skills: "Percepción +4, Stealth +2"
+saving_throws: "Sab +2"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "13 (3d4+6)"
 armor_class: "13"
@@ -24,9 +24,9 @@ condition_immunities: "prone"
 
 ***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.
 
 ***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 

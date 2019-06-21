@@ -13,21 +13,21 @@ alignment: lawful good
 challenge: "9 (5,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Arcana +6, History +6, Perception +8, Stealth +4"
+skills: "Arcana +6, Historia +6, Percepción +8, Stealth +4"
 damage_immunities: "cold"
-saving_throws: "Dex +4, Con +9, Wis +4, Cha +8"
+saving_throws: "Des +4, Con +9, Sab +4, Car +8"
 speed: "40 ft., fly 80 ft."
 hit_points: "168 (16d10+80)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d10 + 6) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+***Claw.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 

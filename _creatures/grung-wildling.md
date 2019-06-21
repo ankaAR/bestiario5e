@@ -12,16 +12,16 @@ size: Small humanoid (grung)
 alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Grung"
-skills: "Athletics +2, Perception +4, Stealth +5, Survival +4"
+skills: "Athletics +2, Percepción +4, Stealth +5, Survival +4"
 damage_immunities: "poison"
-saving_throws: "Dex +5"
+saving_throws: "Des +5"
 speed: "25 ft., climb 25 ft."
 hit_points: "27 (5d6+10)"
 armor_class: "13 (16 with barkskin)"
 condition_immunities: "poisoned"
 ---
 
-***Amphibious.*** The grung can breathe air and water.
+***Anfibio.*** The grung puede respirar aire y agua.
 
 ***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -41,8 +41,8 @@ condition_immunities: "poisoned"
 
 Red. The poisoned creature must use its action to eat if food is within reach.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 
-***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
+***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.

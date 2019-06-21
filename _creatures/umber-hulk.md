@@ -15,7 +15,7 @@ languages: "Umber Hulk"
 senses: "darkvision 120 ft., tremorsense 60 ft."
 speed: "30 ft., burrow 20 ft."
 hit_points: "93 (11d10+33)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 ---
 
 ***Confusing Gaze.*** When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk's eyes, the umber hulk can magically force it to make a DC 15 Charisma saving throw, unless the umber hulk is incapacitated.
@@ -26,10 +26,10 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 ***Tunneler.*** The umber hulk can burrow through solid rock at half its burrowing speed and leaves a 5 foot-wide, 8-foot-high tunnel in its wake.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The umber hulk makes three attacks: two with its claws and one with its mandibles.
+***Multiataque.*** The umber hulk makes three attacks: two with its claws and one with its mandibles.
 
-***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
+***Claw.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) slashing damage.
 
-***Mandibles.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
+***Mandibles.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) slashing damage.

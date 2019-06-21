@@ -13,11 +13,11 @@ alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Deep Speech, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +5"
-saving_throws: "Int +5, Wis +5, Cha +4"
+skills: "Percepción +5"
+saving_throws: "Int +5, Sab +5, Car +4"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "67 (9d8+27)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "prone"
 ---
 
@@ -25,9 +25,9 @@ condition_immunities: "prone"
 
 ***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
+***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) piercing damage.
 
 ***Eye Rays.*** The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 

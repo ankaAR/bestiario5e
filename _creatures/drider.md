@@ -13,10 +13,10 @@ alignment: chaotic evil
 challenge: "6 (2,300 XP)"
 languages: "Elvish, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +5, Stealth +9"
+skills: "Percepción +5, Stealth +9"
 speed: "30 ft., climb 30 ft."
 hit_points: "123 (13d10+52)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 ---
 
 ***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
@@ -33,12 +33,12 @@ At will: dancing lights
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
+***Multiataque.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
-***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
+***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.

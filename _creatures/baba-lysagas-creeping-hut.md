@@ -15,10 +15,10 @@ challenge: "11 (7,200 XP)"
 languages: "-"
 senses: "blindsight 120 ft. (blind beyond this radius)"
 damage_immunities: "poison, psychic"
-saving_throws: "Con +9, Wis +0, Cha +0"
+saving_throws: "Con +9, Sab +0, Car +0"
 speed: "30 ft."
 hit_points: "263 (17d10+85)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone"
 ---
 
@@ -30,10 +30,10 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Siege Monster.*** The hut deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.
+***Multiataque.*** The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.
 
-***Root.*** Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 30 (4d10+8) bludgeoning damage.
+***Root.*** Melee Weapon Attack: +12 al ataque, alcance 60 pies, un objetivo. Impacto: 30 (4d10+8) bludgeoning damage.
 
-***Rock.*** Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: 21 (3d8+8) bludegoning damage.
+***Rock.*** Ranged Weapon Attack: +12 to hit, range 120 pies, un objetivo. Impacto: 21 (3d8+8) bludegoning damage.

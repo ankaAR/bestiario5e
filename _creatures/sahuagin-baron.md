@@ -13,8 +13,8 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Sahuagin"
 senses: "darkvision 120 ft."
-skills: "Perception +7"
-saving_throws: "Dex +5, Con +6, Int +5, Wis +4"
+skills: "Percepción +7"
+saving_throws: "Des +5, Con +6, Int +5, Sab +4"
 speed: "30 ft., swim 50 ft."
 hit_points: "76 (9d10+27)"
 armor_class: "16 (breastplate)"
@@ -26,12 +26,12 @@ armor_class: "16 (breastplate)"
 
 ***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The sahuagin makes three attacks: one with his bite and two with his claws or trident.
+***Multiataque.*** The sahuagin makes three attacks: one with his bite and two with his claws or trident.
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
 
-***Trident.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+***Trident.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.

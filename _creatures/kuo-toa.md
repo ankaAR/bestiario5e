@@ -13,13 +13,13 @@ alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +4"
+skills: "Percepción +4"
 speed: "30 ft., swim 30 ft."
 hit_points: "18 (4d8)"
 armor_class: "13 (natural armor, shield)"
 ---
 
-***Amphibious.*** The kuo-toa can breathe air and water.
+***Anfibio.*** The kuo-toa puede respirar aire y agua.
 
 ***Otherwordly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
@@ -27,11 +27,11 @@ armor_class: "13 (natural armor, shield)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
 
-***Spear.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 ***Net.*** Ranged Weapon Attack: +3 to hit, range 5/15 ft., one Large or smaller creature. Hit: The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
 

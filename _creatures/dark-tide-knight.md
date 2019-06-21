@@ -22,13 +22,13 @@ armor_class: "13"
 
 ***Sneak Attack.*** The knight deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the knight that isn't incapacitated and the knight doesn't have disadvantage on the attack roll.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The knight makes two shortsword attacks.
+***Multiataque.*** The knight makes two shortsword attacks.
 
-***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
 
-***Lance.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage.
+***Lance.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
 
 ### Reactions
 

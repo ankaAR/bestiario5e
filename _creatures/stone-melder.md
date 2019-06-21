@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Common, Terran"
 senses: "tremorsense 30 ft."
-skills: "Intimidation +5, Perception +2"
+skills: "Intimidation +5, Percepción +2"
 speed: "30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "17 (splint)"
@@ -33,6 +33,6 @@ armor_class: "17 (splint)"
 
 * 4th level (1 slot): stoneskin
 
-### Actions
+### Acciones
 
-***Black Earth Rod.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. The Stonemelder can also expend a spell slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level slot, plus an additional 1d8 for each level of the slot above 1st.
+***Black Earth Rod.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage. The Stonemelder can also expend a spell slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level slot, plus an additional 1d8 for each level of the slot above 1st.

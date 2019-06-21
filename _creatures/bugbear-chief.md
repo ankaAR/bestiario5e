@@ -25,10 +25,10 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Heart of Hruggek.*** The bugbear has advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The bugbear makes two melee attacks
+***Multiataque.*** The bugbear makes two melee attacks
 
-***Morningstar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 3) piercing damage.
+***Morningstar.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8 + 3) piercing damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range.
+***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range.

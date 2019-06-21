@@ -15,10 +15,10 @@ languages: "Abyssal, Common, Draconic"
 senses: "darkvision 120 ft. (penetrates magical darkness)"
 skills: "Deception +5, Stealth +4"
 damage_immunities: "poison"
-saving_throws: "Wis +3, Cha +5"
+saving_throws: "Sab +3, Car +5"
 speed: "30 ft."
 hit_points: "88 (16d8+16)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
@@ -42,10 +42,10 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-### Actions
+### Acciones
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two bite attacks using its snake arms.
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
 
 ***Merrshaulk's Slumber (1/Day).*** The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.

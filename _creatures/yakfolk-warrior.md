@@ -22,10 +22,10 @@ armor_class: "11 (leather)"
 
 The possession lats until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as dispel evil and good spell. When the possession ends, the yakfolk appears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well and its body does not reappear.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
+***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 
-***Greatsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) slashing damage.
+***Greatsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 + 4) slashing damage.
 
-***Longbow.*** Ranged Weapon Attack: +2 to hit, range 150/600 ft., one target. Hit: 9 (2d8) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +2 to hit, range 150/600 pies, un objetivo. Impacto: 9 (2d8) piercing damage.

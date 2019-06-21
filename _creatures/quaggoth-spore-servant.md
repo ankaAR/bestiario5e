@@ -15,12 +15,12 @@ senses: "blindsight 30 ft. (blind beyond this radius)"
 damage_immunities: "poison"
 speed: "20 ft., climb 20 ft."
 hit_points: "45 (6d8+18)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The spore servant makes two claw attacks.
+***Multiataque.*** The spore servant makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.

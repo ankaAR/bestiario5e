@@ -13,13 +13,13 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +6, Religion +4"
+skills: "Percepción +6, Religion +4"
 speed: "33 ft., swim 30 ft."
 hit_points: "65 (10d8+20)"
 armor_class: "13 (natural armor, unarmored defense)"
 ---
 
-***Amphibious.*** The kuo-toa can breathe air and water.
+***Anfibio.*** The kuo-toa puede respirar aire y agua.
 
 ***Otherwordly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
@@ -29,10 +29,10 @@ armor_class: "13 (natural armor, unarmored defense)"
 
 ***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The kuo-toa makes one bite attack and two unarmed strikes.
+***Multiataque.*** The kuo-toa makes one bite attack and two unarmed strikes.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Unarmed Strike.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+***Unarmed Strike.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.

@@ -13,12 +13,12 @@ alignment: chaotic evil
 challenge: "13 (10,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Perception +8, Stealth +8"
+skills: "Percepción +8, Stealth +8"
 damage_immunities: "fire"
-saving_throws: "Dex +4, Con +9, Wis +4, Cha +8"
+saving_throws: "Des +4, Con +9, Sab +4, Car +8"
 speed: "40 ft., climb 40 ft., fly 80 ft."
 hit_points: "178 (17d10+85)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 damage_resistances: "necrotic"
 ---
 
@@ -28,12 +28,12 @@ damage_resistances: "necrotic"
 
 ***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 3 (1d6) necrotic damage.
+***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d10 + 6) piercing damage plus 3 (1d6) necrotic damage.
 
-***Claw.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+***Claw.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage.
 
 ***Shadow Breath (Recharge 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (16d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead shadow rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.

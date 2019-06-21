@@ -13,16 +13,16 @@ alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Draconic"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Perception +4, Stealth +2"
+skills: "Percepción +4, Stealth +2"
 damage_immunities: "lightning"
-saving_throws: "Dex +2, Con +4, Wis +2, Cha +4"
+saving_throws: "Des +2, Con +4, Sab +2, Car +4"
 speed: "30 ft., burrow 15 ft., fly 60 ft."
 hit_points: "52 (8d8+16)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.

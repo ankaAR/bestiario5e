@@ -19,8 +19,8 @@ hit_points: "59  (7d10 + 21)"
 armor_class: "13 (hide armor)"
 ---
 
-### Actions
+### Acciones
 
-***Fist*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
+***Fist*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) bludgeoning damage.
 
-***Bolt Launcher*** Ranged Weapon Attack: +3 to hit, range 120/480 ft., one target. Hit: 17 (3d10 + 1) piercing damage.
+***Bolt Launcher*** Ranged Weapon Attack: +3 to hit, range 120/480 pies, un objetivo. Impacto: 17 (3d10 + 1) piercing damage.

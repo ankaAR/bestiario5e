@@ -24,8 +24,8 @@ condition_immunities: "poisoned"
 
 ***Turn Defiance.*** The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

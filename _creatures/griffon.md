@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "darkvision 60 ft."
-skills: "Perception +5"
+skills: "Percepción +5"
 speed: "30 ft., fly 80 ft."
 hit_points: "59 (7d10+21)"
 armor_class: "12"
@@ -20,10 +20,10 @@ armor_class: "12"
 
 ***Keen Sight.*** The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The griffon makes two attacks: one with its beak and one with its claws.
+***Multiataque.*** The griffon makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+***Beak.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.

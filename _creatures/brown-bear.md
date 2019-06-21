@@ -11,18 +11,18 @@ str: 19 (+4)
 size: Large beast
 alignment: unaligned
 challenge: "1 (200 XP)"
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "40 ft., climb 30 ft."
 hit_points: "34 (4d10+12)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
 ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
+***Multiataque.*** The bear makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+***Bite.*** Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.

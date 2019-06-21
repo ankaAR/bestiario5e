@@ -13,17 +13,17 @@ alignment: lawful good
 challenge: "2 (450 XP)"
 languages: "Draconic"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Perception +4, Stealth +2"
+skills: "Percepción +4, Stealth +2"
 damage_immunities: "cold"
-saving_throws: "Dex +2, Con +5, Wis +2, Cha +4"
+saving_throws: "Des +2, Con +5, Sab +2, Car +4"
 speed: "30 ft., fly 60 ft."
 hit_points: "45 (6d8+18)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 

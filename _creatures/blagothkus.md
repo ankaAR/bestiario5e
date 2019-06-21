@@ -12,8 +12,8 @@ size: Huge giant (cloud giant)
 alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Common, Draconic, Giant"
-skills: "Arcana +7, Insight +6, Intimidation +6, Perception +6"
-saving_throws: "Con +9, Wis +6, Cha +6"
+skills: "Arcana +7, Insight +6, Intimidation +6, Percepción +6"
+saving_throws: "Con +9, Sab +6, Car +6"
 speed: "40 ft."
 hit_points: "138 (12d12+60)"
 armor_class: "17 (splint)"
@@ -35,8 +35,8 @@ armor_class: "17 (splint)"
 
 * 3rd level (2 slots): fly, lightning bolt
 
-### Actions
+### Acciones
 
-***Multiattack.*** Blagothkus attacks twice with his morningstar.
+***Multiataque.*** Blagothkus attacks twice with his morningstar.
 
-***Morningstar.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.
+***Morningstar.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage.

@@ -12,7 +12,7 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "3 (700 XP)"
 languages: "any one language (usually Common)"
-skills: "Acrobatics +6, Perception +5"
+skills: "Acrobatics +6, Percepción +5"
 speed: "30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "16 (studded leather armor)"
@@ -20,10 +20,10 @@ armor_class: "16 (studded leather armor)"
 
 ***Archer's Eye.*** As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.
 
-### Actions
+### Acciones
 
 ***Multiattack .*** The archer makes two attacks with its longbow.
 
-***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft. one target. Hit: 7 (1d6+4) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
 
-***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft, one target. Hit: 8 (1d8+4) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.

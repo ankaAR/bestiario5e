@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Abyssal, Common, Draconic"
 senses: "darkvision 60 ft."
-skills: "Deception +6, Perception +3, Stealth +3"
+skills: "Deception +6, Percepción +3, Stealth +3"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "40 (9d8)"
@@ -29,10 +29,10 @@ At will: animal friendship (snakes only)
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The yuan-ti makes two melee attacks.
+***Multiataque.*** The yuan-ti makes two melee attacks.
 
-***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
+***Scimitar.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.
 
-***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.
+***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.

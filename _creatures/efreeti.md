@@ -14,10 +14,10 @@ challenge: "11 (7,200 XP)"
 languages: "Ignan"
 senses: "darkvision 120 ft."
 damage_immunities: "fire"
-saving_throws: "Int +7, Wis +6, Cha +7"
+saving_throws: "Int +7, Sab +6, Car +7"
 speed: "40 ft., fly 60 ft."
 hit_points: "200 (16d10+112)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.
@@ -42,10 +42,10 @@ The genie power to grant wishes is legendary among mortals. Only the most potent
 
 To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
+***Multiataque.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
-***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
+***Scimitar.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 
-***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.
+***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 17 (5d6) fire damage.

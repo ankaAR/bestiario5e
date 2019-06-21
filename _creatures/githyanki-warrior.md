@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Gith"
 senses: "passive Perception 11"
-saving_throws: "Con +3, Int +3, Wis +3"
+saving_throws: "Con +3, Int +3, Sab +3"
 speed: "30 ft."
 hit_points: "49 (9d8 + 9)"
 armor_class: "17 (half plate)"
@@ -24,8 +24,8 @@ armor_class: "17 (half plate)"
 * At will: mage hand (the hand is invisible)
 * 3/day each: jump, misty step, nondetection (self only)
 
-### Actions
+### Acciones
 
-***Multiattack.*** The githyanki makes two greatsword attacks.
+***Multiataque.*** The githyanki makes two greatsword attacks.
 
-***Greatsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage.
+***Greatsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage.

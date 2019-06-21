@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "9 (5,000 XP)"
 languages: "any four languages"
-skills: "Arcana +7, History +7"
-saving_throws: "Int +7, Wis +5"
+skills: "Arcana +7, Historia +7"
+saving_throws: "Int +7, Sab +5"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "12 (15 with mage armor)"
@@ -39,6 +39,6 @@ Cantrips (at will): fire bolt*, light*, prestidigitation, ray of frost*
 
 ***Sculpt Spells.*** When the evoker casts an evocation spell that forces other creatures it can see to make a saving throw, it can choose a number of them equal to 1+the spell's level. These creatures automatically succeed on their saving throws against the spell. If a successful save means a chosen creature would take half damage from the spell, it instead takes no damage from it.
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.

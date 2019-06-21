@@ -16,10 +16,10 @@ languages: "Draconic, Infernal, telepathy 120 ft."
 senses: "darkvision 120 ft., passive Perception 16"
 skills: "Arcana +12"
 damage_immunities: "fire, lightning, poison"
-saving_throws: "Int +12, Wis +12"
+saving_throws: "Int +12, Sab +12"
 speed: "30 ft., fly 50 ft."
 hit_points: "195  (26d8 + 78)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -40,10 +40,10 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 * 6th level (1 slot): chain lightning
 * 7th level (1 slot): teleport
 
-### Actions
+### Acciones
 
 ***Multiattack*** The abishai makes two attacks: one with its quarterstaff and one with its bite.
 
-***Quarterstaff*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.
+***Quarterstaff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.
 
-***Bite*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.
+***Bite*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.

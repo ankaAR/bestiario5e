@@ -13,10 +13,10 @@ alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Abyssal, Gnoll"
 senses: "darkvision 60 ft."
-skills: "Deception +2, Perception +3"
+skills: "Deception +2, Percepción +3"
 speed: "50 ft."
 hit_points: "67 (9d10+18)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
 ***Keen Smell.*** The leucrotta has advantage on Wisdom (Perception) checks that rely on smell.
@@ -27,10 +27,10 @@ armor_class: "14 (natural armor)"
 
 ***Rampage.*** When the leucrotta reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make an attack with its hooves.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The leucrotta makes two attacks: one with its bite and one with its hooves.
+***Multiataque.*** The leucrotta makes two attacks: one with its bite and one with its hooves.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) piercing damage. If the leucrotta scores a critical hit, it rolls the damage dice three times, instead of twice.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage. If the leucrotta scores a critical hit, it rolls the damage dice three times, instead of twice.
 
-***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) bludgeoning damage.

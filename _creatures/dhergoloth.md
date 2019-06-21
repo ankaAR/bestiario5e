@@ -18,7 +18,7 @@ damage_immunities: "acid, poison"
 saving_throws: "Str +6"
 speed: "30 ft."
 hit_points: "119  (14d8 +56)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -31,11 +31,11 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The dhergoloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The dhergoloth makes two claw attacks.
 
-***Claw*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.
+***Claw*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) slashing damage.
 
 ***Flailing Claws (Recharge 5-6)*** The dhergoloth moves up to its walking speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14 Dexterity saving throw or take 22 (3d12 + 3) slashing damage.
 

@@ -12,7 +12,7 @@ size: Medium humanoid (tethyrian human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Common, Dwarvish"
-skills: "Insight +4, Investigation +3, Perception +6, Persuasion +5"
+skills: "Insight +4, Investigation +3, Percepción +6, Persuasion +5"
 speed: "30 ft."
 hit_points: "18 (4d8)"
 armor_class: "12"
@@ -21,11 +21,11 @@ senses: " passive Perception 16"
 
 ***Cunning Action.*** On each of his turns, Narth can use a bonus action to take the Dash, Disengage, or Hide action.
 
-### Actions
+### Acciones
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 
-***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6+2) piercing damage. Narth carries twenty crossbow bolts.
+***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage. Narth carries twenty crossbow bolts.
 
 ### Roleplaying Information
 

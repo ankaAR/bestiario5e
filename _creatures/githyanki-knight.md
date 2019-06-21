@@ -13,7 +13,7 @@ size: Medium humanoid (gith)
 alignment: legal maligna
 challenge: "8 (3,900 XP)"
 languages: "Gith"
-saving_throws: "Con +5, Int +5, Wis +5"
+saving_throws: "Con +5, Int +5, Sab +5"
 speed: "30 ft."
 hit_points: "91 (14d8 + 28)"
 armor_class: "18 (plate)"
@@ -24,8 +24,8 @@ armor_class: "18 (plate)"
 * 3/day each: jump, misty step, nondetection (self only), tongues
 * 1/day each: plane shift, telekinesis
 
-### Actions
+### Acciones
 
-***Multiattack.*** The githyanki makes two silver greatsword attacks.
+***Multiataque.*** The githyanki makes two silver greatsword attacks.
 
-***Silver Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+***Silver Greatsword.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.

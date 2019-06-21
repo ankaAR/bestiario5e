@@ -14,10 +14,10 @@ challenge: "18 (20,000 XP)"
 languages: "Aquan"
 senses: "blindsight 120 ft."
 damage_immunities: "acid, cold, poison"
-saving_throws: "Str +11, Con +13, Wis +10"
+saving_throws: "Str +11, Con +13, Sab +10"
 speed: "50 ft., swim 100 ft."
 hit_points: "324 (24d12+168)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
 damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -38,17 +38,17 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 ***Water Form.*** Olhydra can enter a hostile creature's space and stop there. She can move through a space as narrow as 1 inch wide without squeezing.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Olhydra makes two slam attacks or two water jet attacks.
+***Multiataque.*** Olhydra makes two slam attacks or two water jet attacks.
 
-***Slam.*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage, and the target is grappled (escape DC 19). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her.
+***Slam.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d10 + 5) bludgeoning damage, and the target is grappled (escape DC 19). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her.
 
-***Water Jet.*** Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: 21 (6d6) bludgeoning damage, and the target is knocked prone if it fails a DC 19 Strength saving throw.
+***Water Jet.*** Ranged Weapon Attack: +12 to hit, range 120 pies, un objetivo. Impacto: 21 (6d6) bludgeoning damage, and the target is knocked prone if it fails a DC 19 Strength saving throw.
 
 ***Summon Elementals (1/Day).*** Olhydra summons up to three water elementals and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The olhydra regains spent legendary actions at the start of its turn.
 

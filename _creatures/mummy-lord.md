@@ -13,12 +13,12 @@ alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft."
-skills: "History +5, Religion +5"
+skills: "Historia +5, Religion +5"
 damage_immunities: "necrotic, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
-saving_throws: "Con +8, Int +5, Wis +9, Cha +8"
+saving_throws: "Con +8, Int +5, Sab +9, Car +8"
 speed: "20 ft."
 hit_points: "97 (13d8+39)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 damage_vulnerabilities: "bludgeoning"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
@@ -43,15 +43,15 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 * 6th level (1 slot): harm
 
-### Actions
+### Acciones
 
-***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+***Multiataque.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-***Rotting Fist.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
+***Rotting Fist.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
 
 ***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 

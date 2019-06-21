@@ -17,7 +17,7 @@ senses: "darkvision 60 ft., passive Perception 10"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
 speed: "30 ft."
 hit_points: "52  (7d8 + 21)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -25,6 +25,6 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Resistance.*** The stone defender has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Slam*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked prone.
+***Slam*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked prone.

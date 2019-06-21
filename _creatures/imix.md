@@ -14,7 +14,7 @@ challenge: "19 (22,000 XP)"
 languages: "Common, Ignan"
 senses: "blindsight 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Dex +14, Con +13, Cha +13"
+saving_throws: "Des +14, Con +13, Car +13"
 speed: "50 ft., fly 50 ft."
 hit_points: "325 (26d12+156)"
 armor_class: "17"
@@ -40,17 +40,17 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Resistance.*** Imix has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Imix makes two slam attacks or two flame blast attacks.
+***Multiataque.*** Imix makes two slam attacks or two flame blast attacks.
 
-***Slam.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) bludgeoning damage plus 18 (5d6) fire damage.
+***Slam.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) bludgeoning damage plus 18 (5d6) fire damage.
 
-***Flame Blast.*** Ranged Spell Attack: +12 to hit, range 250 ft., one target. Hit: 35 (10d6) fire damage.
+***Flame Blast.*** Ranged Spell Attack: +12 to hit, range 250 pies, un objetivo. Impacto: 35 (10d6) fire damage.
 
 ***Summon Elementals (1/Day).*** Imix summons up to three fire elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The imix can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The imix regains spent legendary actions at the start of its turn.
 

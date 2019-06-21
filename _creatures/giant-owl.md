@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Giant Owl, understands Common, Elvish, and Sylvan but can't speak"
 senses: "darkvision 120 ft."
-skills: "Perception +5, Stealth +4"
+skills: "Percepción +5, Stealth +4"
 speed: "5 ft., fly 60 ft."
 hit_points: "19 (3d10+3)"
 armor_class: "12"
@@ -23,6 +23,6 @@ armor_class: "12"
 
 ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+### Acciones
 
-***Talons.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) slashing damage.
+***Talons.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d6 + 1) slashing damage.

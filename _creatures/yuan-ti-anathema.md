@@ -13,11 +13,11 @@ alignment: yuan-ti)
 challenge: "12 (8,400 XP)"
 languages: "Abyssal, Common, Draconic"
 senses: "darkvision 60 ft."
-skills: "Perception +7, Stealth +5"
+skills: "Percepción +7, Stealth +5"
 damage_immunities: "poison"
 speed: "40 ft., climb 30 ft., swim 30 ft."
 hit_points: "189 (18d12+72)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "acid, fire, lightning"
 ---
@@ -44,12 +44,12 @@ At will: animal friendship (snakes only)
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-### Actions
+### Acciones
 
 ***Multiattack (Anathema Form Only).*** The anathema makes two claw attacks, one constrict attack, and one Flurry of Bites attack.
 
-***Claw (Anathema Form Only).*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 13 (2d6+6) slashing damage.
+***Claw (Anathema Form Only).*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d6+6) slashing damage.
 
-***Constrict.*** Melee Weapon Attack: +10 to hit, reach 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) bludgeoning damage plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) bludgeoning damage plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
+***Constrict.*** Melee Weapon Attack: +10 al ataque, alcance 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) bludgeoning damage plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) bludgeoning damage plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
 
-***Flurry of Bites.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hit: 27 (6d6+6) piercing damage plus 14 (4d6) poison damage.
+***Flurry of Bites.*** Melee Weapon Attack: +10 al ataque, alcance 10 ft., one creature. Hit: 27 (6d6+6) piercing damage plus 14 (4d6) poison damage.

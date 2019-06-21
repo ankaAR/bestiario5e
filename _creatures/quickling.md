@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "1 (200 XP)"
 languages: "Common, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Acrobatics +8, Perception +5, Sleight of Hand +8, Stealth +8"
+skills: "Acrobatics +8, Percepción +5, Sleight of Hand +8, Stealth +8"
 speed: "120 ft."
 hit_points: "10 (3d4+3)"
 armor_class: "16"
@@ -23,8 +23,8 @@ armor_class: "16"
 
 ***Evasion.*** If the quickling is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The quickling makes three dagger attacks.
+***Multiataque.*** The quickling makes three dagger attacks.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 8 (1d4+6) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +8 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) piercing damage.

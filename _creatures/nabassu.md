@@ -14,12 +14,12 @@ alignment: chaotic evil
 challenge: "15 (13,000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "darkvision 60 ft., passive Perception 17"
-skills: "Perception +7"
+skills: "Percepción +7"
 damage_immunities: "poison"
-saving_throws: "Str +11, Dex +7"
+saving_throws: "Str +11, Des +7"
 speed: "40 ft., fly 60 ft."
 hit_points: "190  (20d8 + 100)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -32,12 +32,12 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The nabassu's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The nabassu uses its Soul-Stealing Gaze and makes two attacks: one with its claws and one with its bite.
 
-***Claws*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
+***Claws*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
 
-***Bite*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 32 (4d12 + 6) piercing damage.
+***Bite*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 32 (4d12 + 6) piercing damage.
 
 ***Soul-Stealing Gaze*** The nabassu targets one creature it can see within 30 feet of it. If the target can see the nabassu and isn't a construct or an undead, it must succeed on a DC 16 Charisma saving throw or reduce its hit point maximum by 13 (2d12) damage and give the nabassu an equal number of temporary hit points. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a humanoid, it immediately rises as a ghoul under the nabassu's control.

@@ -13,10 +13,10 @@ alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Vegepygmy"
 senses: "darkvision 60 ft."
-skills: "Perception +2, Stealth +4"
+skills: "Percepción +2, Stealth +4"
 speed: "30 ft."
 hit_points: "9 (2d6+2)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 damage_resistances: "lightning, piercing"
 ---
 
@@ -24,8 +24,8 @@ damage_resistances: "lightning, piercing"
 
 ***Regeneration.*** The vegepygmy regains 5 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
-***Claws .*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.
+***Claws .*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
 
-***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) bludgeoning damage.
+***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4+2) bludgeoning damage.

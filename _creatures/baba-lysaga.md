@@ -14,10 +14,10 @@ alignment: shapechanger)
 challenge: "11 (7,200 XP)"
 languages: "Abyssal, Common, Draconic, Dwarvish, Giant"
 skills: "Arcana +13, Religion +13"
-saving_throws: "Wis +7"
+saving_throws: "Sab +7"
 speed: "30 ft."
 hit_points: "120 (16d8+48)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Shapechanger.*** Baba Lysaga can use an action to polymorph into a swarm of insects (flies) or back into her true form. While in swarm form, she has a walking speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with her, but nothing she is carrying does.
@@ -44,10 +44,10 @@ armor_class: "15 (natural armor)"
 
 * 8th level (1 slot): power word stun
 
-### Actions
+### Acciones
 
-***Multiattack.*** Baba Lysaga makes three attacks with her quarterstaff
+***Multiataque.*** Baba Lysaga makes three attacks with her quarterstaff
 
-***Quarterstaff.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) bludgeoning damage if wielded with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) bludgeoning damage if wielded with two hands.
 
 ***Summon Swarms of Insects (Recharges after a Short or Long Rest).*** Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.

@@ -12,11 +12,11 @@ size: Huge giant
 alignment: neutral good (50%) or neutral evil (50%)
 challenge: "9 (5,000 XP)"
 languages: "Common, Giant"
-skills: "Insight +7, Perception +7"
-saving_throws: "Con +10, Wis +7, Cha +7"
+skills: "Insight +7, Percepción +7"
+saving_throws: "Con +10, Sab +7, Car +7"
 speed: "40 ft."
 hit_points: "200 (16d12+96)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
 ***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
@@ -29,14 +29,14 @@ At will: detect magic, fog cloud, light
 
 1/day each: control weather, gaseous form
 
-### Actions
+### Acciones
 
 ***Fling.*** The giant tries to throw a Small or Medium creature within 10 feet of it. The target must succeed on a DC 20 Dexterity saving throw or be hurled up to 60 feet horizontally in a direction of the giant's choice and land prone, taking 1d8 bludgeoning damage for every 10 feet it was thrown.
 
 ***Wind Aura.*** A magical aura of wind surrounds the giant. The aura is a 10-foot-radius sphere that lasts as long as the giant maintains concentration on it (as if concentrating on a spell). While the aura is in effect, the giant gains a +2 bonus to its AC against ranged weapon attacks, and all open flames within the aura are extinguished unless they are magical.
 
-***Multiattack.*** The giant makes two morningstar attacks.
+***Multiataque.*** The giant makes two morningstar attacks.
 
-***Morningstar.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.
+***Morningstar.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage.
 
-***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10 + 8) bludgeoning damage.

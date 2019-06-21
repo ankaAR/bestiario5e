@@ -16,7 +16,7 @@ languages: "Kruthik"
 senses: "darkvision 30 ft., tremorsense 60 ft., passive Perception 10"
 speed: "30 ft., burrow 10 ft., climb 30 ft."
 hit_points: "9  (2d6 + 2)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 ---
 
 ***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.
@@ -25,6 +25,6 @@ armor_class: "16 (natural armor)"
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2 1/2-foot-diameter tunnel in its wake.
 
-### Actions
+### Acciones
 
-***Stab*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+***Stab*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

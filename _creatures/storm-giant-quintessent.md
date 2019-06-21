@@ -13,26 +13,26 @@ alignment: chaotic good
 challenge: "16 (15,000 XP)"
 languages: "Common, Giant"
 senses: "truesight 60 ft."
-skills: "Arcana +8, History +8, Perception +10"
+skills: "Arcana +8, Historia +8, Percepción +10"
 damage_immunities: "lightning, thunder"
-saving_throws: "Str +14, Con +10, Wis +10, Cha +9"
+saving_throws: "Str +14, Con +10, Sab +10, Car +9"
 speed: "50 ft., fly 50 ft. (hover), swim 50 ft."
 hit_points: "230 (20d12+100)"
 armor_class: "12"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Amphibious.*** The giant can breathe air and water.
+***Anfibio.*** The giant puede respirar aire y agua.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The giant makes two Lightning Sword attacks or uses Wind Javelin twice.
+***Multiataque.*** The giant makes two Lightning Sword attacks or uses Wind Javelin twice.
 
-***Lightning Sword.*** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 40 (9d6+9) lightning damage.
+***Lightning Sword.*** Melee Weapon Attack: +14 al ataque, alcance 15 pies, un objetivo. Impacto: 40 (9d6+9) lightning damage.
 
 ***Windjavelin.*** The giant coalesces wind into a javeIin-like form and hurls it at a creature it can see within 600 feet of it. The javelin is considered a magic weapon and deals 19 (3d6+9) piercing damage to the target, striking unerringly. The javelin disappears after it hits.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The giant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The giant regains spent legendary actions at the start of its turn.
 

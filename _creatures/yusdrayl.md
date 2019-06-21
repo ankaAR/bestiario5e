@@ -31,6 +31,6 @@ Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
 
 ***Pack Tactics.*** Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

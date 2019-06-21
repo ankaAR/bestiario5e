@@ -14,10 +14,10 @@ challenge: "8 (3,900 XP)"
 languages: "Abyssal, Common"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Dex +6, Con +5, Wis +5, Cha +6"
+saving_throws: "Des +6, Con +5, Sab +5, Car +6"
 speed: "40 ft."
 hit_points: "75 (10d10+20)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, poisoned"
 ---
 
@@ -37,6 +37,6 @@ condition_immunities: "charmed, poisoned"
 
 * 5th level (2 slots): dominate person
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.

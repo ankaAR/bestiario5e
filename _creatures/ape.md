@@ -11,16 +11,16 @@ str: 16 (+3)
 size: Medium beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-skills: "Athletics +5, Perception +3"
+skills: "Athletics +5, Percepción +3"
 speed: "30 ft., climb 30 ft."
 hit_points: "19 (3d8+6)"
 armor_class: "12"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The ape makes two fist attacks.
+***Multiataque.*** The ape makes two fist attacks.
 
-***Fist.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
 
-***Rock.*** Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +5 to hit, range 25/50 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.

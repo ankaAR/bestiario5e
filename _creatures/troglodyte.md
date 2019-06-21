@@ -16,7 +16,7 @@ senses: "darkvision 60 ft."
 skills: "Stealth +2"
 speed: "30 ft."
 hit_points: "13 (2d8+4)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
 ***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.
@@ -25,10 +25,10 @@ armor_class: "11 (natural armor)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The troglodyte makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The troglodyte makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) slashing damage.

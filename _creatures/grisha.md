@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Common, Undercommon"
 skills: "Persuasion +5, Religion +2"
-saving_throws: "Wis +4, Cha +5"
+saving_throws: "Sab +4, Car +5"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "18 (chain mail, shield)"
@@ -29,8 +29,8 @@ Cantrips (at will): guidance, light, sacred flame, thaumaturgy
 
 3rd level (3 slots): bestow curse, dispel magic, spirit guardian
 
-### Actions
+### Acciones
 
-***Multiattack.*** Grisha makes two attacks with his +1 flail.
+***Multiataque.*** Grisha makes two attacks with his +1 flail.
 
-***+1 Flail.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit:7 (1d8 + 3) bludgeoning damage
+***+1 Flail.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target. Hit:7 (1d8 + 3) bludgeoning damage

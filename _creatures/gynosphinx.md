@@ -13,11 +13,11 @@ alignment: lawful neutral
 challenge: "11 (7,200 XP)"
 languages: "Common, Sphinx"
 senses: "truesight 120 ft."
-skills: "Arcana +12, History +12, Perception +8, Religion +8"
+skills: "Arcana +12, Historia +12, Percepción +8, Religion +8"
 damage_immunities: "psychic"
 speed: "40 ft., fly 60 ft."
 hit_points: "136 (16d10+48)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, frightened"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -40,13 +40,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 * 5th level (1 slot): legend lore
 
-### Actions
+### Acciones
 
-***Multiattack.*** The sphinx makes two claw attacks.
+***Multiataque.*** The sphinx makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+***Claw.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The gynosphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The gynosphinx regains spent legendary actions at the start of its turn.
 

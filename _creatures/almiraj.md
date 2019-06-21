@@ -12,7 +12,7 @@ size: Small beast
 alignment: unaligned
 challenge: "0 (10 XP)"
 senses: "darkvision 30ft., passive Perception 14"
-skills: "Perception +4, Stealth +5"
+skills: "Percepción +4, Stealth +5"
 speed: "50 ft."
 hit_points: "3 (1d6)"
 armor_class: "13"
@@ -20,6 +20,6 @@ armor_class: "13"
 
 ***Keen Senses.*** The almiraj has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+### Acciones
 
-***Horn.*** Mele Weapon Attack: +5 to hit, reach 5ft., one target. Hit: 5 (1d4 +3) piercing damage.
+***Horn.*** Mele Weapon Attack: +5 al ataque, alcance 5pies, un objetivo. Impacto: 5 (1d4 +3) piercing damage.

@@ -12,7 +12,7 @@ size: Medium beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "darkvision 60 ft."
-skills: "Perception +3, Stealth +5"
+skills: "Percepción +3, Stealth +5"
 speed: "40 ft."
 hit_points: "9 (2d8)"
 armor_class: "13"
@@ -20,6 +20,6 @@ armor_class: "13"
 
 ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+### Acciones
 
-***Bite.*** Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+***Bite.*** Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

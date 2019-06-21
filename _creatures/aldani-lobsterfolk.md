@@ -13,16 +13,16 @@ alignment: lawful neutral
 challenge: "1 (200 XP)"
 languages: "Common"
 senses: "darkvision 60ft., passive Perception 14"
-skills: "Perception +4, Survival +4"
+skills: "Percepción +4, Survival +4"
 speed: "20 ft., swim 30 ft."
 hit_points: "49 (9d8 +9)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
-***Amphibious.*** The aldani can breathe air and water.
+***Anfibio.*** The aldani puede respirar aire y agua.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The aldani makes two attacks with its claws.
+***Multiataque.*** The aldani makes two attacks with its claws.
 
-***Claw.*** Mele Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 +1) slashing damage, and the target is grappled (escape DC 11). The aldani has two claws, each of which can grapple only one target.
+***Claw.*** Mele Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 +1) slashing damage, and the target is grappled (escape DC 11). The aldani has two claws, each of which can grapple only one target.

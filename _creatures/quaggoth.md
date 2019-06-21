@@ -17,14 +17,14 @@ skills: "Athletics +5"
 damage_immunities: "poison"
 speed: "30 ft., climb 30 ft."
 hit_points: "45 (6d8+18)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
 ***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The quaggoth makes two claw attacks.
+***Multiataque.*** The quaggoth makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.

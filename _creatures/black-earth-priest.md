@@ -28,11 +28,11 @@ armor_class: "17 (splint)"
 
 * 3rd level (2 slots): slow
 
-### Actions
+### Acciones
 
-***Multiattack.*** The priest makes two melee attacks.
+***Multiataque.*** The priest makes two melee attacks.
 
-***Glaive.*** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) slashing damage.
+***Glaive.*** Melee Weapon Attack: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) slashing damage.
 
 ### Reactions
 

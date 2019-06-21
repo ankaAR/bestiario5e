@@ -13,12 +13,12 @@ alignment: lawful neutral
 challenge: "17 (18,000 XP)"
 languages: "Common, Sphinx"
 senses: "truesight 120 ft."
-skills: "Arcana +9, Perception +10, Religion +15"
+skills: "Arcana +9, Percepción +10, Religion +15"
 damage_immunities: "psychic, bludgeoning, piercing, and slashing from nonmagical weapons"
-saving_throws: "Dex +6, Con +11, Int +9, Wis +10"
+saving_throws: "Des +6, Con +11, Int +9, Sab +10"
 speed: "40 ft., fly 60 ft."
 hit_points: "199 (19d10+95)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, frightened"
 ---
 
@@ -42,11 +42,11 @@ condition_immunities: "charmed, frightened"
 
 * 6th level (1 slot): heroes' feast
 
-### Actions
+### Acciones
 
-***Multiattack.*** The sphinx makes two claw attacks.
+***Multiataque.*** The sphinx makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
+***Claw.*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
 
 ***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
@@ -56,7 +56,7 @@ Second Roar. Each creature that fails a DC 18 Wisdom saving throw is deafened an
 
 Third Roar. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The androsphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The androsphinx regains spent legendary actions at the start of its turn.
 

@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "8 (3900 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 14"
-skills: "Perception +4"
+skills: "Percepción +4"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "127  (15d8 + 60)"
@@ -27,12 +27,12 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Turning Defiance.*** The sword wraith and any other sword wraiths within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The sword wraith makes two weapon attacks.
 
-***Longsword*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+***Longbow*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
 
 ***Call to Honor (1/Day)*** To use this action, the sword wraith must have taken damage during the current combat. If the sword wraith can use this action, it gives itself advantage on attack rolls until the end of its next turn, and 1d4 + 1 sword wraith warriors appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander's turn on the same initiative count.

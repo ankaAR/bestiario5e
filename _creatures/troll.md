@@ -13,10 +13,10 @@ alignment: chaotic evil
 challenge: "5 (1,800 XP)"
 languages: "Giant"
 senses: "darkvision 60 ft."
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "30 ft."
 hit_points: "84 (8d10+40)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
@@ -43,10 +43,10 @@ If its head is severed, the troll loses its bite attack and its body is blinded 
 
 The troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+***Claw.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.

@@ -12,10 +12,10 @@ size: Huge monstrosity
 alignment: unaligned
 challenge: "8 (3,900 XP)"
 senses: "darkvision 60 ft."
-skills: "Perception +6"
+skills: "Percepción +6"
 speed: "30 ft., swim 30 ft."
 hit_points: "172 (15d12+75)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Hold Breath.*** The hydra can hold its breath for 1 hour.
@@ -30,8 +30,8 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Wakeful.*** While the hydra sleeps, at least one of its heads is awake.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The hydra makes as many bite attacks as it has heads.
+***Multiataque.*** The hydra makes as many bite attacks as it has heads.
 
-***Bite.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
+***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d10 + 5) piercing damage.

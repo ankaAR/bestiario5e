@@ -22,8 +22,8 @@ armor_class: "12"
 
 ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4 + 2) bludgeoning damage.

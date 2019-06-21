@@ -13,8 +13,8 @@ alignment: legal maligna
 challenge: "9 (5,000 XP)"
 languages: "Deep Speech, Undercommon, telepathy 2 miles"
 senses: "darkvision 120 ft."
-skills: "Arcana +9, Insight +8, Perception +8, Stealth +5"
-saving_throws: "Int +9, Wis +8, Cha +9"
+skills: "Arcana +9, Insight +8, Percepción +8, Stealth +5"
+saving_throws: "Int +9, Sab +8, Car +9"
 speed: "30 ft."
 hit_points: "127 (17d10+34)"
 armor_class: "15 (breastplate)"
@@ -32,10 +32,10 @@ At will: detect thoughts, levitate
 
 1/day each: confusion, dominate monster, eyebite, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis
 
-### Actions
+### Acciones
 
-***Tentacles.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 27 (4d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Melee Weapon Attack: +9 al ataque, alcance 10 ft., one creature. Hit: 27 (4d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be stunned until this grapple ends.
 
-***Extract Brain.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one incapacitated humanoid grappled by the ulitharid. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.
+***Extract Brain.*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the ulitharid. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.
 
 ***Mind Blast (Recharge 5-6).*** The ulitharid magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17 Intelligence saving throw or take 31 (4d12+5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

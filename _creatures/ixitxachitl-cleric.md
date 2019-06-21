@@ -15,7 +15,7 @@ languages: "Abyssal, Ixitxachitl"
 senses: "darkvision 60 ft."
 speed: "0 ft., swim 30 ft."
 hit_points: "18 (4d6+4)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Spellcasting.*** The ixtachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl has the following cleric spells prepared:
@@ -28,12 +28,12 @@ Cantrips (at will): guidance, thaumaturgy
 
 3rd level (2 slots): dispel magic, tongues
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.
 
 ### Reactions
 
 ***Barbed Tail.*** When a creature provokes an opportunity attack from the ixitxachitl, the ixitxachitl can make the following attack instead of using its bite.
 
-Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.

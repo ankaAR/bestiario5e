@@ -17,14 +17,14 @@ skills: "Performance +3"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "10 (3d6)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "paralyzed, petrified, poisoned"
 ---
 
 ***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.
 
-### Actions
+### Acciones
 
-***Club.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+***Club.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage.
 
-***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.
+***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.

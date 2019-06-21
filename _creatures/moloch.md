@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "21 (33,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "darkvision 120 ft., passive Perception 21"
-skills: "Deception +13, Intimidation +13, Perception +11"
+skills: "Deception +13, Intimidation +13, Percepción +11"
 damage_immunities: "fire, poison"
-saving_throws: "Dex +11, Con +13, Wis +11, Cha +13"
+saving_throws: "Des +11, Con +13, Sab +11, Car +13"
 speed: "30 ft."
 hit_points: "253  (22d10 + 132)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -36,21 +36,21 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Regeneration.*** Moloch regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Moloch dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Moloch makes three attacks: one with his bite, one with his claw, and one with his whip.
 
-***Bite*** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 26 (4d8 + 8) piercing damage.
+***Bite*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d8 + 8) piercing damage.
 
-***Claw*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.
+***Claw*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
 
-***Many-Tailed Whip*** Melee Weapon Attack: +15 to hit, reach 30 ft., one target. Hit: 13 (2d4 + 8) slashing damage plus 11 (2d10) lightning damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet in a straight line toward Moloch.
+***Many-Tailed Whip*** Melee Weapon Attack: +15 al ataque, alcance 30 pies, un objetivo. Impacto: 13 (2d4 + 8) slashing damage plus 11 (2d10) lightning damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet in a straight line toward Moloch.
 
 ***Breath of Despair (Recharge 5-6)*** Moloch exhales in a 30-foot cube. Each creature in that area must succeed on a DC 21 Wisdom saving throw or take 27 (5d10) psychic damage, drop whatever it is holding, and become frightened for 1 minute. While frightened in this way, a creature must take the Dash action and move away from Moloch by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. If the creature ends its turn in a location where it doesn't have line of sight to Moloch, the creature can repeat the saving throw. On a success, the effect ends.
 
 ***Teleport*** Moloch magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Moloch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Moloch regains spent legendary actions at the start of his turn.
 

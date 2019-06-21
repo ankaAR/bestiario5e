@@ -13,12 +13,12 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Abyssal, Common, Draconic"
 senses: "darkvision 60 ft."
-skills: "Perception +2"
+skills: "Percepción +2"
 damage_immunities: "poison"
-saving_throws: "Str +4, Dex +4, Wis +2"
+saving_throws: "Str +4, Des +4, Sab +2"
 speed: "30 ft."
 hit_points: "45 (7d8+14)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
@@ -30,10 +30,10 @@ condition_immunities: "poisoned"
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The broodguard makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The broodguard makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.

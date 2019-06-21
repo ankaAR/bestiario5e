@@ -16,17 +16,17 @@ senses: "darkvision 60 ft."
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "22 (5d8)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 damage_vulnerabilities: "cold"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 ft. of it takes 3 (1d6) fire damage.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The snake makes two attacks: one with its bite and one with its tail.
+***Multiataque.*** The snake makes two attacks: one with its bite and one with its tail.
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage.
 
-***Tail.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage.

@@ -13,11 +13,11 @@ alignment: lawful good
 challenge: "12 (8,400 XP)"
 languages: "all, telepathy 120 ft."
 senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Insight +9, Perception +9, Religion +8"
+skills: "Insight +9, Percepción +9, Religion +8"
 damage_immunities: "poison"
 speed: "60 ft., fly 120 ft. (hover)"
 hit_points: "152 (16d12+48)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
@@ -55,19 +55,19 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 9th level (1 slot): true resurrection
 
-### Actions
+### Acciones
 
-***Multiattack.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
+***Multiataque.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
 
-***Hoof.*** Melee Weapon Attack: +9 to hit, reach 15 ft, one target. Hit: 10 (2d4+5) bludgeoning damage.
+***Hoof.*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) bludgeoning damage.
 
-***Horn.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8+5) piercing damage.
+***Horn.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The ki-rin regains spent legendary actions at the start of its turn.
 
-***Detect.*** The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight) check.
+***Detectar.*** The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight) check.
 
 ***Smite.*** The ki-rin makes a hoof attack or casts sacred flame.
 

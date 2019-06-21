@@ -14,10 +14,10 @@ challenge: "20 (25,000 XP)"
 languages: "Common, Terran"
 senses: "blindsight 120 ft., tremorsense 120 ft."
 damage_immunities: "poison"
-saving_throws: "Str +14, Con +15, Wis +8"
+saving_throws: "Str +14, Con +15, Sab +8"
 speed: "50 ft., burrow 50 ft."
 hit_points: "526 (27d20+243)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -36,17 +36,17 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Siege Monster.*** Ogremoch deals double damage to objects and structures with his melee and ranged weapon attacks.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Ogremoch makes two slam attacks.
+***Multiataque.*** Ogremoch makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +14 al ataque, alcance 15 pies, un objetivo. Impacto: 30 (4d10 + 8) bludgeoning damage.
 
-***Boulder.*** Ranged Weapon Attack: +6 to hit, range 500 ft., one target. Hit: 46 (7d10 + 8) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Strength saving throw or be knocked prone.
+***Boulder.*** Ranged Weapon Attack: +6 to hit, range 500 pies, un objetivo. Impacto: 46 (7d10 + 8) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Strength saving throw or be knocked prone.
 
 ***Summon Elementals (1/Day).*** Ogremoch summons up to three earth elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogremoch, and disappear if Ogremoch is reduced to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ogremoch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ogremoch regains spent legendary actions at the start of its turn.
 

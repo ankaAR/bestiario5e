@@ -12,7 +12,7 @@ size: Small humanoid (strongheart halfling)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Common, Halfling"
-skills: "Perception +2, Performance +7, Persuasion +5"
+skills: "Percepción +2, Performance +7, Persuasion +5"
 speed: "25 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "11"
@@ -26,9 +26,9 @@ damage_resistances: "poison"
 
 ***Stout Resilience.*** Oren has advantage on saving throws against poison
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60ft., one target. Hit: 3 (1d4+1) piercing damage. Duvessa carries only one dagger.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60pies, un objetivo. Impacto: 3 (1d4+1) piercing damage. Duvessa carries only one dagger.
 
 ### Roleplaying Information
 

@@ -13,12 +13,12 @@ alignment: legal maligna
 challenge: "17 (18,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Perception +12, Stealth +5"
+skills: "Percepción +12, Stealth +5"
 damage_immunities: "lightning, poison"
-saving_throws: "Dex +5, Con +11, Wis +7, Cha +9"
+saving_throws: "Des +5, Con +11, Sab +7, Car +9"
 speed: "40 ft., burrow 30 ft., fly 80 ft."
 hit_points: "225 (18d12+108)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "necrotic"
 ---
@@ -27,25 +27,25 @@ damage_resistances: "necrotic"
 
 ***Magic Resistance.*** The dracolich has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
+***Bite.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
 
-***Claw.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
+***Claw.*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) slashing damage.
 
-***Tail.*** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 16 (2d8 + 7) bludgeoning damage.
 
 ***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
 
 ***Lightning Breath (Recharge 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The adult blue dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult blue dracolich regains spent legendary actions at the start of its turn.
 
-***Detect.*** The dracolich makes a Wisdom (Perception) check.
+***Detectar.*** The dracolich hace una prueba de Sabiduría (Percepción).
 
 ***Tail Attack.*** The dracolich makes a tail attack.
 

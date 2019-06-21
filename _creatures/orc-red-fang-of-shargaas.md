@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common, Orc"
 senses: "darkvision 60 ft."
-skills: "Intimidation +1, Perception +2, Stealth +5"
+skills: "Intimidation +1, Percepción +2, Stealth +5"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "15 (studded leather armor)"
@@ -27,12 +27,12 @@ armor_class: "15 (studded leather armor)"
 
 ***Slayer.*** In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The orc makes two scimitar or dart attacks.
+***Multiataque.*** The orc makes two scimitar or dart attacks.
 
-***Scimitar.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (3d6+3) slashing damage.
+***Scimitar.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6+3) slashing damage.
 
-***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 10 (3d4+3) piercing damage.
+***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 10 (3d4+3) piercing damage.
 
 ***Veil of Shargaas (Recharges after a Short or Long Rest).*** The orc casts darkness without any components. Wisdom is its spellcasting ability.

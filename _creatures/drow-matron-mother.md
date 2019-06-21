@@ -14,8 +14,8 @@ alignment: neutral evil
 challenge: "20 (25,000 XP)"
 languages: "Elvish, Undercommon"
 senses: "darkvision 120 ft., passive Perception 21"
-skills: "Insight +11, Perception +11, Religion +9, Stealth +10"
-saving_throws: "Con +9, Wis +11, Cha +12"
+skills: "Insight +11, Percepción +11, Religion +9, Stealth +10"
+saving_throws: "Con +9, Sab +11, Car +12"
 speed: "30 ft."
 hit_points: "262  (35d8 + 105)"
 armor_class: "17 (half plate)"
@@ -46,17 +46,17 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The matron mother makes two demon staff attacks or three tentacle rod attacks.
 
-***Demon Staff*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands, plus 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become frightened of the drow for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Demon Staff*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if used with two hands, plus 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become frightened of the drow for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Tentacle Rod*** Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 3 (1d6) bludgeoning damage. If the target is hit three times by the rod on one turn, the target must succeed on a DC 15 Constitution saving throw or suffer the following effects for 1 minute: the target's speed is halved, it has disadvantage on Dexterity saving throws, and it can't use reactions. Moreover, on each of its turns, it can take either an action or a bonus action, but not both. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.
+***Tentacle Rod*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage. If the target is hit three times by the rod on one turn, the target must succeed on a DC 15 Constitution saving throw or suffer the following effects for 1 minute: the target's speed is halved, it has disadvantage on Dexterity saving throws, and it can't use reactions. Moreover, on each of its turns, it can take either an action or a bonus action, but not both. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.
 
 ***Summon Servant (1/Day)*** The drow magically summons a retriever or a yochlol. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The drow can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The drow regains spent legendary actions at the start of her turn.
 

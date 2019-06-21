@@ -13,23 +13,23 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Deep Speech, Undercommon, telepathy 600 ft."
 senses: "darkvision 120 ft."
-skills: "Perception +8"
-saving_throws: "Int +5, Wis +5"
+skills: "Percepción +8"
+saving_throws: "Int +5, Sab +5"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "75 (10d10+20)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "prone"
 ---
 
 ***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.
+***Multiataque.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16 (4d6+2) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 16 (4d6+2) piercing damage.
 
-***Tentacles.*** Melee Weapon Attack: +5 to hit, reach 5 it, one creature. Hit: 20 (4d8+2) psychic damage. if the target is Large or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Melee Weapon Attack: +5 al ataque, alcance 5 it, one creature. Hit: 20 (4d8+2) psychic damage. if the target is Large or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends.
 
 ***Eye Rays.*** Eye Rays. The mindwitness shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 

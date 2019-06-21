@@ -14,18 +14,18 @@ challenge: "5 (1,800 XP)"
 languages: "understands Deep Speech and Undercommon but can't speak"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Wis +2"
+saving_throws: "Sab +2"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "93 (11d10+33)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned, prone"
 ---
 
 ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
 
 ***Eye Ray.*** The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.
 

@@ -11,14 +11,14 @@ str: 18 (+4)
 size: Large beast
 alignment: unaligned
 challenge: "2 (450 XP)"
-skills: "Perception +3, Stealth +4"
+skills: "Percepción +3, Stealth +4"
 speed: "20 ft., swim 40 ft."
 hit_points: "68 (8d10+24)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
 ***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) piercing damage.

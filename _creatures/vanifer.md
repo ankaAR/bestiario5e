@@ -38,8 +38,8 @@ armor_class: "15 (studded leather)"
 
 * 5th level (2 slots): dominate person
 
-### Actions
+### Acciones
 
-***Multiattack.*** Vanifer makes two attacks.
+***Multiataque.*** Vanifer makes two attacks.
 
-***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage plus 7 (2d6) fire damage.
+***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d4 + 5) piercing damage plus 7 (2d6) fire damage.

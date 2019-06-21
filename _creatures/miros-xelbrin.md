@@ -12,20 +12,20 @@ size: Medium humanoid (damaran human)
 alignment: neutral good
 challenge: "0 (10 XP)"
 languages: "Common"
-skills: "Intimidation +4, Perception +3"
+skills: "Intimidation +4, Percepción +3"
 speed: "30 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "10"
 senses: " passive Perception 13"
 ---
 
-### Actions
+### Acciones
 
-***Bear Hug.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4+3) bludgeoning damage, and the target grappled (escape DC 13) and takes 5 (1d4 + 3) bludgeoning damage at the start of each of Miros's turns until the grapple ends. Miros cannot make attacks while grappling a creature.
+***Bear Hug.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4+3) bludgeoning damage, and the target grappled (escape DC 13) and takes 5 (1d4 + 3) bludgeoning damage at the start of each of Miros's turns until the grapple ends. Miros cannot make attacks while grappling a creature.
 
-***Club.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+1) bludgeoning damage
+***Club.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+1) bludgeoning damage
 
-***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage. Miros carries ten crossbow bolts.
+***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage. Miros carries ten crossbow bolts.
 
 ### Roleplaying Information
 

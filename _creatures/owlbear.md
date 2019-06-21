@@ -12,18 +12,18 @@ size: Large monstrosity
 alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft."
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "40 ft."
 hit_points: "59 (7d10+21)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
 ***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The owlbear makes two attacks: one with its beak and one with its claws.
+***Multiataque.*** The owlbear makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.
+***Beak.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
+***Claws.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) slashing damage.

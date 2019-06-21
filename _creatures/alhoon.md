@@ -13,12 +13,12 @@ alignment: any evil alignment
 challenge: "10 (5,900 XP)"
 languages: "Deep Speech, Undercommon, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Arcana +8, Deception +7, History +8, Insight +7, Perception +7, Stealth +5"
+skills: "Arcana +8, Deception +7, Historia +8, Insight +7, Percepción +7, Stealth +5"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
-saving_throws: "Con +7, Int +8, Wis +7, Cha +7"
+saving_throws: "Con +7, Int +8, Sab +7, Car +7"
 speed: "30 ft."
 hit_points: "120 (16d8+48)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "cold, lightning, necrotic"
 ---
@@ -49,8 +49,8 @@ Cantrips (at will): chill touch, dancing lights, mage hand, prestidigitation, sh
 
 ***Turn Resistance.*** The alhoon has advantage on saving throws against any effect that turns undead.
 
-### Actions
+### Acciones
 
-***Chilling Grasp.*** Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (3d6) cold damage.
+***Chilling Grasp.*** Melee Spell Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) cold damage.
 
 ***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8+4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

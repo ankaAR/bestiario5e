@@ -13,10 +13,10 @@ alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Sahuagin"
 senses: "darkvision 120 ft."
-skills: "Perception +6, Religion +3"
+skills: "Percepción +6, Religion +3"
 speed: "30 ft., swim 40 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "12 (natural armor)"
+armor_class: "12 (armadura natural)"
 ---
 
 ***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
@@ -35,10 +35,10 @@ armor_class: "12 (natural armor)"
 
 * 3rd level (3 slots): mass healing word, tongues
 
-### Actions
+### Acciones
 
-***Multiattack.*** The sahuagin makes two melee attacks: one with her bite and one with her claws.
+***Multiataque.*** The sahuagin makes two melee attacks: one with her bite and one with her claws.
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) slashing damage.

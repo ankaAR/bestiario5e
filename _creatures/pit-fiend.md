@@ -14,10 +14,10 @@ challenge: "20 (25,000 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "truesight 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Dex +8, Con +13, Wis +10"
+saving_throws: "Des +8, Con +13, Sab +10"
 speed: "30 ft., fly 60 ft."
 hit_points: "300 (24d10+168)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
@@ -34,14 +34,14 @@ At will: detect magic, fireball
 
 3/day each: hold monster, wall of fire
 
-### Actions
+### Acciones
 
-***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+***Multiataque.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
-***Bite.*** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** Melee Weapon Attack: +14 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claw.*** Melee Weapon Attack: +14 to hit, reach 10 ft. , one target. Hit: 17 (2d8 + 8) slashing damage.
+***Claw.*** Melee Weapon Attack: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) slashing damage.
 
-***Mace.*** Melee Weapon Attack: +14 to hit, reach 10ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+***Mace.*** Melee Weapon Attack: +14 al ataque, alcance 10pies, un objetivo. Impacto: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
 
-***Tail.*** Melee Weapon Attack: +14 to hit, reach 10ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 24 (3d10 + 8) bludgeoning damage.

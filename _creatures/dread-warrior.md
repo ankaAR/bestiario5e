@@ -13,9 +13,9 @@ alignment: neutral evil
 challenge: "l"
 languages: "Common"
 senses: "darkvision 60 ft."
-skills: "Athletics +4, Perception +3"
+skills: "Athletics +4, Percepción +3"
 damage_immunities: "poison"
-saving_throws: "Wis +3"
+saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "37 (5d8+15)"
 armor_class: "18 (chain mail, shield)"
@@ -28,10 +28,10 @@ condition_immunities: "exhaustion, poisoned"
 
 ***Undead Fortitude.*** If damage reduces the dread warrior to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken , unless the damage is radiant or from a critical hit. On a success, the dread warrior drops to 1 hit point instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dread warrior makes two melee attacks.
+***Multiataque.*** The dread warrior makes two melee attacks.
 
-***Battleaxe.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if wielded with two hands.
+***Battleaxe.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if wielded with two hands.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

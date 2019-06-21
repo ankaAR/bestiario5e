@@ -15,7 +15,7 @@ senses: "darkvision 60 ft., tremorsense 60 ft."
 damage_immunities: "fire, poison"
 speed: "10 ft."
 hit_points: "52 (5d10+25)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "poisoned"
 ---
 
@@ -29,11 +29,11 @@ condition_immunities: "poisoned"
 
 ***Flail Tentacles.*** The flail snail has five flail tentacles. Whenever the snail takes 10 damage or more on a single turn, one of its tentacles dies. If even one tentacle remains, the snail regrows all dead ones within 1d4 days. If all its tentacles die, the snail retracts into its shell, gaining total cover, and it begins wailing, a sound that can be heard for 600 feet, stopping only when it dies 5d6 minutes later. Healing magic that restores limbs, such as the regenerate spell, can halt this dying process.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The flail snail makes as many flail tentacle attacks as it has flail tentacles, all against the same target.
+***Multiataque.*** The flail snail makes as many flail tentacle attacks as it has flail tentacles, all against the same target.
 
-***Flail Tentacle.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6+3) bludgeoning damage.
+***Flail Tentacle.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 6 (1d6+3) bludgeoning damage.
 
 ***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be stunned until the light ends.
 

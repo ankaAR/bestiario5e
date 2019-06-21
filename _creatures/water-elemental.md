@@ -16,7 +16,7 @@ senses: "darkvision 60 ft."
 damage_immunities: "poison"
 speed: "30 ft., swim 90 ft."
 hit_points: "114 (12d10+48)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
 damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -25,11 +25,11 @@ damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical w
 
 ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The elemental makes two slam attacks.
+***Multiataque.*** The elemental makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.
 
 ***Whelm (Recharge 4-6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
 

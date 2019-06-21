@@ -17,7 +17,7 @@ senses: "darkvision 60 ft., passive Perception 13"
 skills: "Insight +7, Medicine +7"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -33,8 +33,8 @@ Whenever the eladrin deals damage to the charmed creature, the creature can repe
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Longsword*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage plus 18 (4d8) psychic damage, or 6 (1d10 + 1) slashing damage plus 18 (4d8) psychic damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage plus 18 (4d8) psychic damage, or 6 (1d10 + 1) slashing damage plus 18 (4d8) psychic damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 18 (4d8) psychic damage.
+***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 18 (4d8) psychic damage.

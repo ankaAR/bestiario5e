@@ -13,21 +13,21 @@ alignment: chaotic good
 challenge: "7 (2,900 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Deception +5, Perception +7, Stealth +4"
+skills: "Deception +5, Percepción +7, Stealth +4"
 damage_immunities: "acid"
-saving_throws: "Dex +4, Con +6, Wis +4, Cha +5"
+saving_throws: "Des +4, Con +6, Sab +4, Car +5"
 speed: "40 ft., climb 40 ft., fly 80 ft."
 hit_points: "119 (14d10+42)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+***Claw.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 

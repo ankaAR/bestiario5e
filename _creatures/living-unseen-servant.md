@@ -14,7 +14,7 @@ alignment: unaligned
 challenge: "0 (10 XP)"
 languages: "understands one language (usually Common) but can’t speak"
 senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
-skills: "Perception +2, Stealth +4"
+skills: "Percepción +2, Stealth +4"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "4 (1d8)"
@@ -24,6 +24,6 @@ condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
 
 ***Invisibility.*** The unseen servant is invisible.
 
-### Actions
+### Acciones
 
-***Slam.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.

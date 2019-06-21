@@ -15,10 +15,10 @@ challenge: "22 (41,000 XP)"
 languages: "-"
 senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
 damage_immunities: "poison"
-saving_throws: "Wis +12, Cha +11"
+saving_throws: "Sab +12, Car +11"
 speed: "40 ft., swim 40 ft."
 hit_points: "307  (15d20 + 150)"
-armor_class: "21 (natural armor)"
+armor_class: "21 (armadura natural)"
 condition_immunities: "exhaustion, paralyzed, petrified, poisoned, stunned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -32,19 +32,19 @@ The shock wave deals 100 thunder damage to all structures in contact with the gr
 
 ***Siege Monster.*** The elemental deals double damage to objects and structures (included in Earth-Shaking Movement).
 
-### Actions
+### Acciones
 
 ***Multiattack*** The zaratan makes two attacks: one with its bite and one with its stomp.
 
-***Bite*** Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 28 (4d8 + 10) piercing damage.
+***Bite*** Melee Weapon Attack: +17 al ataque, alcance 20 pies, un objetivo. Impacto: 28 (4d8 + 10) piercing damage.
 
-***Stomp*** Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 26 (3d10 + 10) bludgeoning damage.
+***Stomp*** Melee Weapon Attack: +17 al ataque, alcance 20 pies, un objetivo. Impacto: 26 (3d10 + 10) bludgeoning damage.
 
-***Spit Rock*** Ranged Weapon Attack: +17 to hit, range 120 ft./240 ft., one target. Hit: 31 (6d8 + 10) bludgeoning damage.
+***Spit Rock*** Ranged Weapon Attack: +17 to hit, range 120 ft./240 pies, un objetivo. Impacto: 31 (6d8 + 10) bludgeoning damage.
 
 ***Spew Debris (Recharge 5-6)*** The zaratan exhales rocky debris in a 90-foot cube. Each creature in that area must make a DC 25 Dexterity saving throw. A creature takes 33 (6d10) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save by 5 or more is knocked prone.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The zaratan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The zaratan regains spent legendary actions at the start of its turn.
 

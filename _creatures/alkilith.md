@@ -16,10 +16,10 @@ languages: "understands Abyssal but can't speak"
 senses: "darkvision 120 ft., passive Perception 10"
 skills: "Stealth +8"
 damage_immunities: "poison"
-saving_throws: "Dex +8, Con +10"
+saving_throws: "Des +8, Con +10"
 speed: "40 ft."
 hit_points: "157  (15d8 + 90)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -33,8 +33,8 @@ If the saving throw against Foment Madness fails by 5 or more, the creature is i
 
 ***Magic Resistance.*** The alkilith has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The alkilith makes three tentacle attacks.
 
-***Tentacle*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18 (4d6 + 4) acid damage.
+***Tentacle*** Melee Weapon Attack: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 18 (4d6 + 4) acid damage.

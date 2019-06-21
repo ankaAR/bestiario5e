@@ -18,7 +18,7 @@ damage_immunities: "cold, fire, poison"
 saving_throws: "Str +6, Con +7"
 speed: "30 ft., fly 40 ft."
 hit_points: "68  (8d8 + 32)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -31,12 +31,12 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Reckless.*** At the start of its turn, the abishai can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The abishai makes two attacks: one with its longsword and one with its claw.
 
-***Longsword*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Claw*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
+***Claw*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) slashing damage.
 
-***Bite*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) cold damage.
+***Bite*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage plus 3 (1d6) cold damage.

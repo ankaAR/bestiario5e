@@ -15,10 +15,10 @@ languages: "Aquan, Common, Giant"
 senses: "darkvision 60 ft."
 speed: "30 ft., swim 40 ft."
 hit_points: "52 (7d8+21)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
-***Amphibious.*** The hag can breathe air and water.
+***Anfibio.*** The hag puede respirar aire y agua.
 
 ***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 
@@ -48,9 +48,9 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
+***Claws.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.
 
 ***Death Glare.*** The hag targets one frightened creature she can see within 30 ft. of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 

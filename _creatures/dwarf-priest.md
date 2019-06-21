@@ -31,6 +31,6 @@ damage_resistances: "poison"
 * 2nd level (3 slots): lesser restoration, spiritual weapon
 * 3rd level (2 slots): dispel magic, spirit guardians
 
-### Actions
+### Acciones
 
-***Mace*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.
+***Mace*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage.

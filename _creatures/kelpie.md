@@ -13,27 +13,27 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Common, Sylvan"
 senses: "blindsight 60 ft."
-skills: "Perception +3, Stealth +4"
+skills: "Percepción +3, Stealth +4"
 speed: "10 ft., swim 30 ft."
 hit_points: "67 (9d8+27)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "blinded, deafened, exhaustion"
 damage_resistances: "bludgeoning, fire, piercing"
 ---
 
 ***Source.*** tales from the yawning portal,  page 238
 
-***Amphibious.*** The kelpie can breathe air and water.
+***Anfibio.*** The kelpie puede respirar aire y agua.
 
 ***Seaweed Shape.*** The kelpie can use its action to reshape its body into the form of a humanoid or beast that is Small, Medium, or Large. Its statistics are otherwise unchanged. The disguise is convincing, unless the kelpie is in bright light or the viewer is within 30 feet of it, in which case the seams between the seaweed strands are visible. The kelpie returns to its true form if takes a bonus action to do so or if it dies.
 
 ***False Appearance.*** While the kelpie remains motionless in its true form, it is indistinguishable from normal seaweed.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The kelpie makes two slam attacks.
+***Multiataque.*** The kelpie makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 11 (2d8 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 12).
+***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d8 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 12).
 
 ***Drowning Hypnosis.*** The kelpie chooses one humanoid it can see within 150 feet of it. If the target can see the kelpie, the target must succeed on a DC 11 Wisdom saving throw or be magically charmed while the kelpie maintains concentration, up to 10 minutes (as if concentrating on a spell).
 

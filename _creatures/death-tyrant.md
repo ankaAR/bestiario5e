@@ -13,12 +13,12 @@ alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "Deep Speech, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Perception +12"
+skills: "Percepción +12"
 damage_immunities: "poison"
-saving_throws: "Str +5, Con +7, Int +9, Wis +7, Cha +9"
+saving_throws: "Str +5, Con +7, Int +9, Sab +7, Car +9"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "187 (25d10+50)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, paralyzed, petrified, poisoned, prone"
 ---
 
@@ -26,9 +26,9 @@ condition_immunities: "charmed, exhaustion, paralyzed, petrified, poisoned, pron
 
 Any creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
 
 ***Eye Rays.*** The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 ft. of it:
 
@@ -56,7 +56,7 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 10. Death Ray. The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The death tyrant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The death tyrant regains spent legendary actions at the start of its turn.
 

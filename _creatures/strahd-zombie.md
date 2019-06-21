@@ -15,7 +15,7 @@ challenge: "1 (200 XP)"
 languages: "understands the languages it knew in life but can't speak"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Wis +0"
+saving_throws: "Sab +0"
 speed: "20 ft."
 hit_points: "30 (4d8+12)"
 armor_class: "8"
@@ -40,10 +40,10 @@ condition_immunities: "poisoned"
 
 >The zombie's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The zombie makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The zombie makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) slashing damage.
+***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage.

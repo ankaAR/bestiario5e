@@ -13,19 +13,19 @@ alignment: neutral
 challenge: "2 (450 XP)"
 languages: "Vegepygmy"
 senses: "darkvision 60 ft."
-skills: "Perception +3, Stealth +4"
+skills: "Percepción +3, Stealth +4"
 speed: "30 ft."
 hit_points: "33 (6d6+12)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 damage_resistances: "lightning, piercing"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The vegepygmy makes two attacks with its claws or two melee attacks with its spear.
+***Multiataque.*** The vegepygmy makes two attacks with its claws or two melee attacks with its spear.
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
 
-***Spear.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6+2) piercing damage, or 6 (id8+2) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage, or 6 (id8+2) piercing damage if used with two hands to make a melee attack.
 
 ***Spores (1/Day).*** A 15-foot-radius cloud of toxic spores extends out from the vegepygmy. The spores spread around corners. Each creature in that area that isn't a plant must succeed on a DC 12 Constitution saving throw or be poisoned. While poisoned in this way, a target takes 9 (2d8) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

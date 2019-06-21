@@ -18,8 +18,8 @@ armor_class: "10"
 
 ***Charge.*** If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-### Actions
+### Acciones
 
-***Ram.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+***Ram.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
 
-***Hooves.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage.

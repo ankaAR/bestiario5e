@@ -16,7 +16,7 @@ languages: "Kruthik"
 senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 12"
 speed: "40 ft., burrow 20 ft., climb 40 ft."
 hit_points: "102  (12d10 + 36)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 ---
 
 ***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.
@@ -25,12 +25,12 @@ armor_class: "20 (natural armor)"
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The kruthik makes two stab attacks or two spike attacks.
 
-***Stab*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+***Stab*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
 
-***Spike*** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+***Spike*** Ranged Weapon Attack: +6 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
 
 ***Acid Spray (Recharge 5-6)*** The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one.

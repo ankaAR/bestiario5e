@@ -14,9 +14,9 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 15"
-skills: "Perception +5, Stealth +6"
+skills: "Percepción +5, Stealth +6"
 damage_immunities: "cold, necrotic, poison"
-saving_throws: "Int +6, Wis +5"
+saving_throws: "Int +6, Sab +5"
 speed: "0 ft., fly 40 ft. (hover)"
 hit_points: "40  (9d8)"
 armor_class: "13"
@@ -26,9 +26,9 @@ damage_resistances: "acid, fire, lightning, thunder; bludgeoning, piercing, and 
 
 ***Incorporeal Movement.*** The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-### Actions
+### Acciones
 
-***Maddening Touch*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage.
+***Maddening Touch*** Melee Spell Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) psychic damage.
 
 ***Whispers of Madness*** The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 7 (1d8 + 3) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and undead are immune to this effect.
 

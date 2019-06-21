@@ -13,12 +13,12 @@ alignment: chaotic evil
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Perception +5, Stealth +5"
+skills: "Percepción +5, Stealth +5"
 damage_immunities: "poison"
-saving_throws: "Dex +5, Con +6"
+saving_throws: "Des +5, Con +6"
 speed: "40 ft., climb 40 ft."
 hit_points: "68 (8d10+24)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -33,13 +33,13 @@ damage_resistances: "cold, fire, lightning"
 
 ***Running Leap.*** The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The barlgura makes three attacks: one with its bite and two with its fists.
+***Multiataque.*** The barlgura makes three attacks: one with its bite and two with its fists.
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.
 
-***Fist.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) bludgeoning damage.
 
 ***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
 

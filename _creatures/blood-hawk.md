@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Small beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
-skills: "Perception +4"
+skills: "Percepción +4"
 speed: "10 ft., fly 60 ft."
 hit_points: "7 (2d6)"
 armor_class: "12"
@@ -21,6 +21,6 @@ armor_class: "12"
 
 ***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Beak.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

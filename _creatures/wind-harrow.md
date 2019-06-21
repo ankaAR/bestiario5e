@@ -33,8 +33,8 @@ armor_class: "15 (studded leather)"
 
 * 4th level (2 slots): confusion, dimension door
 
-### Actions
+### Acciones
 
-***Multiattack.*** Windharrow makes two melee attacks.
+***Multiataque.*** Windharrow makes two melee attacks.
 
-***Rapier.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.
+***Rapier.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.

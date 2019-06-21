@@ -12,7 +12,7 @@ size: Large beast
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understands Common but can't speak"
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "10 ft., fly 60 ft."
 hit_points: "22 (3d10+6)"
 armor_class: "10"
@@ -22,10 +22,10 @@ armor_class: "10"
 
 ***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The vulture makes two attacks: one with its beak and one with its talons.
+***Multiataque.*** The vulture makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
+***Beak.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) piercing damage.
 
-***Talons.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+***Talons.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage.

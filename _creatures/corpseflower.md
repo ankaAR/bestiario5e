@@ -29,10 +29,10 @@ While it has at least one humanoid corpse in its body, the corpse flower can use
 
 ***Stench of Death.*** Each creature that starts its turn within 10 feet of the corpse flower or one of its zombies must make a DC 14 Constitution saving throw, unless the creature is a construct or undead. On a failed save, the creature is incapacitated until the end of the turn. Creatures that are immune to poison damage or the poisoned condition automatically succeed on this saving throw. On a successful save, the creature is immune to the stench of all corpse flowers for 24 hours.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The corpse flower makes three tentacle attacks.
 
-***Tentacle*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or take 14 (4d6) poison damage.
+***Tentacle*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage, and the target must succeed on a DC 14 Constitution saving throw or take 14 (4d6) poison damage.
 
 ***Harvest the Dead*** The corpse flower grabs one unsecured dead humanoid within 10 feet of it and stuffs the corpse into itself, along with any equipment the corpse is wearing or carrying. The remains can be used with the Corpses trait.

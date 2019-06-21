@@ -14,8 +14,8 @@ alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "Gith"
 senses: "passive Perception 18"
-skills: "Insight +8, Intimidation +9, Perception +8"
-saving_throws: "Con +9, Int +8, Wis +8"
+skills: "Insight +8, Intimidation +9, Percepción +8"
+saving_throws: "Con +9, Int +8, Sab +8"
 speed: "30 ft."
 hit_points: "187  (22d8 + 88)"
 armor_class: "18 (plate)"
@@ -26,13 +26,13 @@ armor_class: "18 (plate)"
 * 3/day each: jump, levitate (self only), misty step, nondetection (self only)
 * 1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis
 
-### Actions
+### Acciones
 
 ***Multiattack*** The githyanki makes two greatsword attacks.
 
-***Silver Greatsword*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+***Silver Greatsword*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The githyanki can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The githyanki regains spent legendary actions at the start of its turn.
 

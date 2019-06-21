@@ -14,10 +14,10 @@ alignment: neutral evil
 challenge: "13 (10,000 XP)"
 languages: "Common"
 senses: "darkvision 60 ft., passive Perception 16"
-skills: "Perception +6"
+skills: "Percepción +6"
 speed: "30 ft."
 hit_points: "255  (30d8 + 120)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
 
@@ -26,8 +26,8 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 ***Rising Anger.*** If another creature deals damage to the Angry, the Angry's attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack's target takes an extra 19 (3d12) psychic damage.
 On its turn, the Angry has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The Angry makes two hook attacks.
 
-***Hook*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d12 + 3) piercing damage.
+***Hook*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d12 + 3) piercing damage.

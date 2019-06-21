@@ -13,10 +13,10 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "telepathy 120 ft."
 senses: "darkvision 120 ft."
-skills: "Perception +4, Stealth +6, Survival +2"
+skills: "Percepción +4, Stealth +6, Survival +2"
 speed: "30 ft."
 hit_points: "31 (7d6+7)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "frightened"
 ---
 
@@ -26,6 +26,6 @@ condition_immunities: "frightened"
 
 ***Shadow Teleport (Recharge 5-6).*** As a bonus action, the meenlock can teleport to an unoccupied space within 30 feet of it, provided that both the space it's teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4+2) slashing damage, and the target must succeed on a DC 11 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4+2) slashing damage, and the target must succeed on a DC 11 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

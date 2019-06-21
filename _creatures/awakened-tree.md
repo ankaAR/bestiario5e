@@ -14,13 +14,13 @@ challenge: "2 (450 XP)"
 languages: "one language known by its creator"
 speed: "20 ft."
 hit_points: "59 (7d12+14)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 damage_vulnerabilities: "fire"
 damage_resistances: "bludgeoning, piercing"
 ---
 
 ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.
 
-### Actions
+### Acciones
 
-***Slam.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) bludgeoning damage.

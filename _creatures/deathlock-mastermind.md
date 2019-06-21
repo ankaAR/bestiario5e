@@ -14,9 +14,9 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 120 ft. (including magical darkness), passive Perception 14"
-skills: "Arcana +5, History +5, Perception +4"
+skills: "Arcana +5, Historia +5, Percepción +4"
 damage_immunities: "poison"
-saving_throws: "Int +5, Cha +6"
+saving_throws: "Int +5, Car +6"
 speed: "30 ft."
 hit_points: "110  (20d8 + 20)"
 armor_class: "13 (16 with mage armor)"
@@ -33,8 +33,8 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
-### Actions
+### Acciones
 
-***Deathly Claw*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3 necrotic damage).
+***Deathly Claw*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6 + 3 necrotic damage).
 
 ***Grave Bolts*** Ranged Spell Attack: +6 to hit, range 120 ft., one or two targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success.

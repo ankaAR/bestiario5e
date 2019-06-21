@@ -27,10 +27,10 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Life Eater.*** A creature reduced to 0 hit points from damage dealt by the nightwalker dies and can't be revived by any means short of a wish spell.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The nightwalker uses Enervating Focus twice, or it uses Enervating Focus and Finger of Doom, if available.
 
-***Enervating Focus*** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 28 (5d8 + 6) necrotic damage. The target must succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest.
+***Enervating Focus*** Melee Weapon Attack: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (5d8 + 6) necrotic damage. The target must succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest.
 
 ***Finger of Doom (Recharge 6)*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 26 (4d12) necrotic damage and become frightened until the end of the nightwalker's next turn. While frightened in this way, the creature is also paralyzed. If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.

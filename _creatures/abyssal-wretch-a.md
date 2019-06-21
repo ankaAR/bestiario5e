@@ -24,6 +24,6 @@ condition_immunities: "Charmed, frightened, poisoned"
 **Damage Resistance** Cold, fire, lightning
 
 
-### Actions
+### Acciones
 
-***Bite*** Melee Weapon: +3 to hit, reach 5 ft., One target. Hit: (1d8+1) Slashing damage.
+***Bite*** Melee Weapon: +3 al ataque, alcance 5 ft., One target. Hit: (1d8+1) Slashing damage.

@@ -33,11 +33,11 @@ Cantrips (at will): eldritch blast, friends, poison spray
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Armor of Shadows (Recharges after a Short or Long Rest).*** Narrak casts mage armor on himself
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit:5 (1d6 + 2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one target. Hit:5 (1d6 + 2) piercing damage.
 
 ### Reactions
 

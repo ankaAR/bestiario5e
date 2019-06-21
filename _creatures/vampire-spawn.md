@@ -13,11 +13,11 @@ alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft."
-skills: "Perception +3, Stealth +6"
-saving_throws: "Dex +6, Wis +3"
+skills: "Percepción +3, Stealth +6"
+saving_throws: "Des +6, Sab +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 damage_resistances: "necrotic, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -35,10 +35,10 @@ Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood i
 
 Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack.
+***Multiataque.*** The vampire makes two attacks, only one of which can be a bite attack.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+***Claws.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).

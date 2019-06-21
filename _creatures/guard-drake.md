@@ -13,16 +13,16 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "understands Draconic but can't speak it"
 senses: "darkvision 60 ft."
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "30 ft."
 hit_points: "52 (7d8+21)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The drake attacks twice, once with its bite and once with its tail.
+***Multiataque.*** The drake attacks twice, once with its bite and once with its tail.
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8+3) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) piercing damage.
 
-***Tail.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) bludgeoning damage.

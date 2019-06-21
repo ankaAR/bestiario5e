@@ -15,15 +15,15 @@ languages: "Abyssal, Ixitxachitl"
 senses: "darkvision 60 ft."
 speed: "0 ft., swim 30 ft."
 hit_points: "44 (8d8+8)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Vampiric Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. The target must succeed on a DC 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken, and the ixitxachitl regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
+***Vampiric Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage. The target must succeed on a DC 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken, and the ixitxachitl regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 
 ### Reactions
 
 ***Barbed Tail.*** When a creature provokes an opportunity attack from the ixitxachitl, the ixitxachitl can make the following attack instead of using its bite.
 
-Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.

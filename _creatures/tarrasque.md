@@ -13,10 +13,10 @@ alignment: unaligned
 challenge: "30 (155,000 XP)"
 senses: "blindsight 120 ft."
 damage_immunities: "fire, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
-saving_throws: "Int +5, Wis +9, Cha +9"
+saving_throws: "Int +5, Sab +9, Car +9"
 speed: "40 ft."
 hit_points: "676 (33d20+330)"
-armor_class: "25 (natural armor)"
+armor_class: "25 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, poisoned"
 ---
 
@@ -28,17 +28,17 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Siege Monster.*** The tarrasque deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tai l. It can use its Swallow instead of its bite.
+***Multiataque.*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tai l. It can use its Swallow instead of its bite.
 
-***Bite.*** Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
+***Bite.*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
 
-***Claw.*** Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28 (4d8 + 10) slashing damage.
+***Claw.*** Melee Weapon Attack: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (4d8 + 10) slashing damage.
 
-***Horns.*** Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 32 (4d10 + 10) piercing damage.
+***Horns.*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 32 (4d10 + 10) piercing damage.
 
-***Tail.*** Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 
 ***Frightful Presence.*** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
 
@@ -46,7 +46,7 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 

@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "1/4 (50 XP)"
 Languages: "Common plus any two languages"
 senses: "darkvision 60 ft., passive Perception 13"
-skills: "Perception +3, Performance +7, Persuasion +5, Stealth +4"
+skills: "Percepción +3, Performance +7, Persuasion +5, Stealth +4"
 speed: "30 ft., climb 20 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"
@@ -23,10 +23,10 @@ armor_class: "12"
 
 ***Inspire (1/Day).*** While taking a short rest, the tabaxi can spend 1 minute singing, playing an instrument, telling a story, or reciting a poem to soothe and inspire creatures other than itself. Up to five creatures of the tabaxi's choice that can see and hear its performance gain 8 temporary hit points at the end of the tabaxi's short rest.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The tabaxi makes two claws attacks or two dart attacks.
+***Multiataque.*** The tabaxi makes two claws attacks or two dart attacks.
 
-***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., o e target. Hit: 2 (ld4) slashing damage.
+***Claws.*** Melee Weapon Attack: +2 al ataque, alcance 5 ft., o e target. Hit: 2 (ld4) slashing damage.
 
-***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 ft., one target. Hit: 4 (ld4 +2) piercing damage.
+***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 pies, un objetivo. Impacto: 4 (ld4 +2) piercing damage.

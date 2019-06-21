@@ -13,12 +13,12 @@ alignment: any evil alignment
 challenge: "21 (33,000 XP)"
 languages: "Common plus up to five other languages"
 senses: "truesight 120 ft."
-skills: "Arcana +18, History +12, Insight +9, Perception +9"
+skills: "Arcana +18, Historia +12, Insight +9, Percepción +9"
 damage_immunities: "poison, bludgeoning, piercing, and slashing from nonmagical weapons"
-saving_throws: "Con +10, Int +12, Wis +9"
+saving_throws: "Con +10, Int +12, Sab +9"
 speed: "30 ft."
 hit_points: "135 (18d8+54)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "cold, lightning, necrotic"
 ---
@@ -51,11 +51,11 @@ damage_resistances: "cold, lightning, necrotic"
 
 ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 
-### Actions
+### Acciones
 
-***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** Melee Spell Attack: +12 al ataque, alcance 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 

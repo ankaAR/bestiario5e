@@ -14,23 +14,23 @@ challenge: "13 (10,000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "truesight 120 ft."
 damage_immunities: "poison"
-saving_throws: "Con +11, Int +9, Wis +6, Cha +7"
+saving_throws: "Con +11, Int +9, Sab +6, Car +7"
 speed: "20 ft., fly 30 ft."
 hit_points: "184 (16d10+96)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The nalfeshnee uses Horror Nimbus if it can.  It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The nalfeshnee uses Horror Nimbus if it can.  It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.
+***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 32 (5d10 + 5) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
+***Claw.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (3d6 + 5) slashing damage.
 
 ***Horror Nimbus (Recharge 5-6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 

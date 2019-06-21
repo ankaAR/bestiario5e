@@ -12,7 +12,7 @@ size: Medium humanoid (human)
 alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common"
-skills: "Arcana +3, Perception +3, Intimidation +5"
+skills: "Arcana +3, Percepción +3, Intimidation +5"
 damage_immunities: "cold"
 speed: "30 ft."
 hit_points: "49 (9d8+9)"
@@ -31,8 +31,8 @@ armor_class: "12 (15 with mage armor)"
 
 * 3rd level (2 slots): fear
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
 ***Eye of Frost.*** The one-eyed shiver casts ray of frost from its missing eye. If it hits, the target is also restrained. A target restrained in this way can end the condition by using an action, succeeding on a DC 13 Strength check.

@@ -15,10 +15,10 @@ languages: "Abyssal, Elvish, Undercommon"
 senses: "darkvision 120 ft."
 skills: "Deception +10, Insight +6"
 damage_immunities: "poison"
-saving_throws: "Dex +6, Int +5, Wis +6, Cha +6"
+saving_throws: "Des +6, Int +5, Sab +6, Car +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "136 (16d8+64)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -37,11 +37,11 @@ At will: detect thoughts, web
 
 ***Web Walker.*** The yochlol ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The yochlol makes two melee attacks.
+***Multiataque.*** The yochlol makes two melee attacks.
 
-***Slam (Bite in Spider Form).*** Melee Weapon Attack: +6 to hit, reach 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
+***Slam (Bite in Spider Form).*** Melee Weapon Attack: +6 al ataque, alcance 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
 
 ***Mist Form.*** The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
 

@@ -17,16 +17,16 @@ senses: "darkvision 60 ft., passive Perception 7"
 damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "38  (7d8 + 7)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
 ***Engine of Pain.*** Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The screamer makes one drill attack and uses its Sonic Scream.
 
-***Drill*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) piercing damage.
+***Drill*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) piercing damage.
 
 ***Sonic Scream*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (2d6) thunder damage and be knocked prone.

@@ -12,10 +12,10 @@ size: Huge giant (hill giant)
 alignment: chaotic evil
 challenge: "6 (2,300 XP)"
 languages: "Giant"
-skills: "Perception +1"
+skills: "Percepción +1"
 speed: "50 ft."
 hit_points: "105 (10d12+40)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "frightened"
 ---
 
@@ -31,8 +31,8 @@ condition_immunities: "frightened"
 
 8-10. The giant makes three attacks against one random target within its reach: one attack with its bite and two with its fists. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 15 (3d6+5) piercing damage, and the giant magically regains hit points equal to the damage dealt.
+***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 15 (3d6+5) piercing damage, and the giant magically regains hit points equal to the damage dealt.
 
-***Fist.*** Melee Weapon Attack: +8 to hit, reach 10 ft, one target. Hit: 18 (3d8+5) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8+5) bludgeoning damage.

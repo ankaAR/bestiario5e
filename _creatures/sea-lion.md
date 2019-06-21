@@ -11,15 +11,15 @@ str: 17 (+3)
 size: Large monstrosity
 alignment: unaligned
 challenge: "5 (1,800 XP)"
-skills: "Perception +4, Stealth +5"
+skills: "Percepción +4, Stealth +5"
 speed: "10 ft., swim 40 ft."
 hit_points: "90 (12d10+24)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Source.*** tales from the yawning portal,  page 242
 
-***Amphibious.*** The sea lion can breathe air and water.
+***Anfibio.*** The sea lion puede respirar aire y agua.
 
 ***Keen Smell.*** The sea lion has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -27,10 +27,10 @@ armor_class: "15 (natural armor)"
 
 ***Swimming Leap.*** With a 10-foot swimming start, the sea lion can long jump out of or across the water up to 25 feet.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The sea lion makes three attacks: one bite attack and two claw attacks.
+***Multiataque.*** The sea lion makes three attacks: one bite attack and two claw attacks.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage

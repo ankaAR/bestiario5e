@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "22 (41,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 20"
-skills: "Deception +13, Intimidation +13, Perception +10"
+skills: "Deception +13, Intimidation +13, Percepción +10"
 damage_immunities: "cold, fire, poison"
-saving_throws: "Dex +10, Con +13, Wis +10, Cha +13"
+saving_throws: "Des +10, Con +13, Sab +10, Car +13"
 speed: "30 ft., fly 50 ft."
 hit_points: "300  (24d12 + 144)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -36,17 +36,17 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Regeneration.*** Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Geryon makes two attacks: one with his claws and one with his stinger.
 
-***Claws*** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) slashing damage.
+***Claws*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) slashing damage.
 
-***Stinger*** Melee Weapon Attack: +16 to hit, reach 20 ft., one creature. Hit: 14 (2d4 + 9) piercing damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.
+***Stinger*** Melee Weapon Attack: +16 al ataque, alcance 20 ft., one creature. Hit: 14 (2d4 + 9) piercing damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.
 
 ***Teleport*** Geryon magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of his turn.
 

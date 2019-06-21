@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "12 (8,400 XP)"
 languages: "Druidic plus any two languages"
-skills: "Medicine +9, Nature +5, Perception +9"
-saving_throws: "Int +5, Wis +9"
+skills: "Medicine +9, Nature +5, Percepción +9"
+saving_throws: "Int +5, Sab +9"
 speed: "30 ft."
 hit_points: "132 (24d8+24)"
 armor_class: "16 (hide armor, shield)"
@@ -41,9 +41,9 @@ Cantrips (at will): druidcraft, mending, poison spray, produce flame
 
 9th level (1 slot): foresight
 
-### Actions
+### Acciones
 
-***Scimitar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.
+***Scimitar.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
 
 ***Change Shape (2/Day).*** The archdruid magically polymorphs into a beast or elemental with a challenge rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The archdruid reverts to its true form if it dies or falls unconscious. The archdruid can revert to its true form using a bonus action on its turn.
 

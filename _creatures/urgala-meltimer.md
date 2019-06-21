@@ -21,13 +21,13 @@ senses: "passive Perception 12"
 
 **Giant Slayer.** Any weapon attack that Urgala makes against a giant deals an extra 7 (2d6) damage on a hit.
 
-### Actions
+### Acciones
 
 **Multiattack.** Urgala makes two attacks with her morningstar or her shortbow.
 
-**Morningstar.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+**Morningstar.** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.
 
-**Shortbow.** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 1) piercing damage. Urgala carries a quiver of twenty arrows
+**Shortbow.** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 1) piercing damage. Urgala carries a quiver of twenty arrows
 
 ### Roleplaying Information
 

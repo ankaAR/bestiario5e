@@ -21,10 +21,10 @@ armor_class: "18 (plate)"
 
 ***Aggressive.*** As a bonus action, the orog can move up to its speed toward a hostile creature that it can see.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The orog makes two greataxe attacks.
+***Multiataque.*** The orog makes two greataxe attacks.
 
-***Greataxe.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.
+***Greataxe.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) slashing damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.

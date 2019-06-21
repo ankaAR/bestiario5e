@@ -13,10 +13,10 @@ alignment: unaligned
 challenge: "1/2 (100 XP)"
 languages: "understands Draconic but can't speak it"
 senses: "darkvision 60 ft."
-skills: "Perception +4, Stealth +4"
+skills: "Percepción +4, Stealth +4"
 speed: "30 ft."
 hit_points: "22 (4d6+8)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 damage_resistances: "poison"
 ---
 
@@ -24,6 +24,6 @@ damage_resistances: "poison"
 
 ***Surprise Attack.*** If the drake surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.

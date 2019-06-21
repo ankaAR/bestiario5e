@@ -14,7 +14,7 @@ challenge: "1/2 (100 XP)"
 senses: "blindsight 10 ft."
 speed: "20 ft., climb 20 ft."
 hit_points: "22 (5d8)"
-armor_class: "12 (natural armor)"
+armor_class: "12 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, petrified, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
@@ -27,6 +27,6 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ***Web Walker.*** The swarm ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
-***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+***Bites.*** Melee Weapon Attack: +3 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.

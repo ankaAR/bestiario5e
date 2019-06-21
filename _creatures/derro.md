@@ -24,8 +24,8 @@ armor_class: "13 (leather armor)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Hooked Spear*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
+***Hooked Spear*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
 
-***Light Crossbow*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+***Light Crossbow*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

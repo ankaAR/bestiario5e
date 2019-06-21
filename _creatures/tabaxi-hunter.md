@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "1 (200 XP)"
 Languages: "Common plus any one language"
 senses: "darkvision 60 ft., passive Perception 14"
-skills: "Athletics +2, Perception +4, Stealth +5, Survival +6"
+skills: "Athletics +2, Percepción +4, Stealth +5, Survival +6"
 speed: "30 ft., climb 20 ft."
 hit_points: "40 (9d8)"
 armor_class: "14 (leather armor)"
@@ -21,12 +21,12 @@ armor_class: "14 (leather armor)"
 
 ***Feline agility.*** When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can't use it again until it moves 0 feet on one of its turns.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The tabaxi makes two attacks with its claws, its shortsword, or its shortbow.
+***Multiataque.*** The tabaxi makes two attacks with its claws, its shortsword, or its shortbow.
 
-***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (ld4) slashing damage.
+***Claws.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (ld4) slashing damage.
 
-***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (l d6 +3) slashing damage.
+***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (l d6 +3) slashing damage.
 
-***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (ld6 +3) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (ld6 +3) piercing damage.

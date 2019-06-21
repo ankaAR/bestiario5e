@@ -30,6 +30,6 @@ armor_class: "13 (chain shirt)"
 
 * 3rd level (2 slots): dispel magic, spirit guardians
 
-### Actions
+### Acciones
 
-***Mace.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.
+***Mace.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage.

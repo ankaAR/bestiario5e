@@ -11,12 +11,12 @@ str: 15 (+2)
 size: Large beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "40 ft."
 hit_points: "19 (3d10+3)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Tail.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10+2) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10+2) bludgeoning damage.

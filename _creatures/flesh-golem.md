@@ -34,8 +34,8 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Magic Weapons.*** The golem's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The golem makes two slam attacks.
+***Multiataque.*** The golem makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.

@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "5 (1,800 XP)"
 languages: "any four languages"
-skills: "Arcana +6, History +6"
-saving_throws: "Int +6, Wis +4"
+skills: "Arcana +6, Historia +6"
+saving_throws: "Int +6, Sab +4"
 speed: "30 ft."
 hit_points: "40 (9d8)"
 armor_class: "12 (15 with mage armor)"
@@ -35,9 +35,9 @@ Cantrips (at will): friends, mage hand, mending, message
 
 *Enchantment spell of 1st level or higher
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
 
 ### Reactions
 

@@ -13,25 +13,25 @@ alignment: lawful good
 challenge: "16 (15,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Arcana +8, History +8, Perception +11, Stealth +5"
+skills: "Arcana +8, Historia +8, Percepción +11, Stealth +5"
 damage_immunities: "cold"
-saving_throws: "Dex +5, Con +12, Wis +6, Cha +10"
+saving_throws: "Des +5, Con +12, Sab +6, Car +10"
 speed: "40 ft., fly 80 ft."
 hit_points: "243 (18d12+126)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 ---
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+***Bite.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+***Claw.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage.
 
-***Tail.*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 17 (2d8 + 8) bludgeoning damage.
 
 ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -41,11 +41,11 @@ Cold Breath. The dragon exhales an icy blast in a 60-foot cone. Each creature in
 
 Paralyzing Breath. The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The adult silver dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult silver dragon regains spent legendary actions at the start of its turn.
 
-***Detect.*** The dragon makes a Wisdom (Perception) check.
+***Detectar.*** The dragon hace una prueba de Sabiduría (Percepción).
 
 ***Tail Attack.*** The dragon makes a tail attack.
 

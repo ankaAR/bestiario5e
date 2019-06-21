@@ -12,14 +12,14 @@ size: Medium humanoid (bullywug)
 alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common, Bullywug"
-skills: "Perception +5, Religion +2, Stealth +3"
+skills: "Percepción +5, Religion +2, Stealth +3"
 saving_throws: "Str +4, Con +6"
 speed: "20 ft., swim 40 ft."
 hit_points: "59 (7d8+28)"
 armor_class: "15 (studded leather armor, shield)"
 ---
 
-***Amphibious.*** Pharblex can breathe air and water.
+***Anfibio.*** Pharblex puede respirar aire y agua.
 
 ***Poison Strike (3/Day).*** Once per turn, when Pharblex hits with a melee attack, he can expend a use of this trait to deal an extra 9 (2d8) poison damage.
 
@@ -37,10 +37,10 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Swamp Camouflage.*** Pharblex has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Pharblex attacks twice. Once with his bite and once with his spear.
+***Multiataque.*** Pharblex attacks twice. Once with his bite and once with his spear.
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Spear.*** Melee or Ranged Weapon Attack: +5 to hit. reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Spear.*** Melee or Ranged Weapon Attack: +5 to hit. reach 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

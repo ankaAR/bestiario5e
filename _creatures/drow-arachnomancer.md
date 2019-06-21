@@ -14,8 +14,8 @@ alignment: chaotic evil
 challenge: "13 (10,000 XP)"
 languages: "Elvish, Undercommon, can speak with spiders"
 senses: "blindsight 10 ft., darkvision 120 ft., passive Perception 17"
-skills: "Arcana +9, Nature +9, Perception +7, Stealth +8"
-saving_throws: "Con +7, Int +9, Cha +8"
+skills: "Arcana +9, Nature +9, Percepción +7, Stealth +8"
+saving_throws: "Con +7, Int +9, Car +8"
 speed: "30 ft., climb 30 ft."
 hit_points: "162  (25d8 + 50)"
 armor_class: "15 (studded leather)"
@@ -44,12 +44,12 @@ damage_resistances: "poison"
 
 ***Web Walker.*** The drow ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The drow makes two poisonous touch attacks or two bite attacks. The first of these attacks that hits each round deals an extra 26 (4d12) poison damage to the target.
 
-***Poisonous Touch (Humanoid Form Only)*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 28 (8d6) poison damage.
+***Poisonous Touch (Humanoid Form Only)*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 28 (8d6) poison damage.
 
-***Bite (Giant Spider Form Only)*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+***Bite (Giant Spider Form Only)*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-***Web (Giant Spider Form Only Recharge 5-6)*** Ranged Weapon Attack: +8 to hit, range 30/60 ft., one target. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+***Web (Giant Spider Form Only Recharge 5-6)*** Ranged Weapon Attack: +8 to hit, range 30/60 pies, un objetivo. Impacto: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).

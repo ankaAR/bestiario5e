@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "19 (22,000 XP)"
 languages: "Draconic, Infernal, telepathy 120 ft."
 senses: "darkvision 120 ft., passive Perception 18"
-skills: "Intimidation +10, Perception +8"
+skills: "Intimidation +10, Percepción +8"
 damage_immunities: "fire, poison"
-saving_throws: "Str +12, Con +10, Wis +8"
+saving_throws: "Str +12, Con +10, Sab +8"
 speed: "30 ft., fly 50 ft."
 hit_points: "255  (30d8 + 120)"
-armor_class: "22 (natural armor)"
+armor_class: "22 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
@@ -30,15 +30,15 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Weapons.*** The abishai's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The abishai can use its Frightful Presence. It also makes three attacks: one with its morningstar, one with its claw, and one with its bite.
 
-***Morningstar*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) piercing damage.
+***Morningstar*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8 + 6) piercing damage.
 
-***Claw*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
+***Claw*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
 
-***Bite*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 22 (5d10 + 6) piercing damage plus 38 (7d10) fire damage.
+***Bite*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d10 + 6) piercing damage plus 38 (7d10) fire damage.
 
 ***Frightful Presence*** Each creature of the abishai's choice that is within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abishai's Frightful Presence for the next 24 hours.
 

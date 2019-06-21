@@ -14,12 +14,12 @@ alignment: chaotic evil
 challenge: "26 (90,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 22"
-skills: "Arcana +12, Perception +12"
+skills: "Arcana +12, Percepción +12"
 damage_immunities: "necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks"
-saving_throws: "Dex +10, Con +15, Wis +13"
+saving_throws: "Des +10, Con +15, Sab +13"
 speed: "40 ft., fly 40 ft."
 hit_points: "405  (30d12 + 210)"
-armor_class: "17 (natural armor), 20 with the Wand of Orcus"
+armor_class: "17 (armadura natural), 20 with the Wand of Orcus"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -40,15 +40,15 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Master of Undeath.*** When Orcus casts animate dead or create undead, he chooses the level at which the spell is cast, and the creatures created by the spells remain under his control indefinitely. Additionally, he can cast create undead even when it isn't night.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Orcus makes two Wand of Orcus attacks.
 
-***Wand of Orcus*** Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage plus 13 (2d12) necrotic damage.
+***Wand of Orcus*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) bludgeoning damage plus 13 (2d12) necrotic damage.
 
-***Tail*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
+***Tail*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Orcus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Orcus regains spent legendary actions at the start of his turn.
 

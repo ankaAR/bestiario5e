@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
 senses: "darkvision 120 ft."
-skills: "Perception +3, Stealth +3"
+skills: "Percepción +3, Stealth +3"
 speed: "5 ft., fly 60 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "11"
@@ -22,6 +22,6 @@ armor_class: "11"
 
 ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+### Acciones
 
-***Talons.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
+***Talons.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

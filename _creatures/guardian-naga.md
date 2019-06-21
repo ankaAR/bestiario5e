@@ -14,10 +14,10 @@ challenge: "10 (5,900 XP)"
 languages: "Celestial, Common"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Dex +8, Con +7, Int +7, Wis +8, Cha +8"
+saving_throws: "Des +8, Con +7, Int +7, Sab +8, Car +8"
 speed: "40 ft."
 hit_points: "127 (15d10+45)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "charmed, poisoned"
 ---
 
@@ -39,8 +39,8 @@ condition_immunities: "charmed, poisoned"
 
 * 6th level (1 slot): true seeing
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Spit Poison.*** Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.

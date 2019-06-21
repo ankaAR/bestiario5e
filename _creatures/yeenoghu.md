@@ -14,12 +14,12 @@ alignment: chaotic evil
 challenge: "24 (62,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 24"
-skills: "Intimidation +9, Perception +14"
+skills: "Intimidation +9, Percepción +14"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
-saving_throws: "Dex +10, Con +15, Wis +14"
+saving_throws: "Des +10, Con +15, Sab +14"
 speed: "50 ft."
 hit_points: "333  (23d12 + 184)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -37,18 +37,18 @@ damage_resistances: "cold, fire, lightning"
 
 ***Rampage.*** When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):
 1. The attack deals an extra 13 (2d12) bludgeoning damage.
 2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu's next turn.
 3. The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu's next turn.
 
-***Flail*** Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 15 (1d12 + 9) bludgeoning damage.
+***Flail*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (1d12 + 9) bludgeoning damage.
 
-***Bite*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 14 (1d10 + 9) piercing damage.
+***Bite*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) piercing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Yeenoghu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Yeenoghu regains spent legendary actions at the start of his turn.
 

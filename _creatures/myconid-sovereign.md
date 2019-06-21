@@ -14,18 +14,18 @@ challenge: "2 (450 XP)"
 senses: "darkvision 120 ft."
 speed: "30 ft."
 hit_points: "60 (8d10+16)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
 ***Distress Spores.*** When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.
 
 ***Sun Sickness.*** While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The myconid uses either its Hallucination Spores or its Pacifying Spores, then makes a fist attack.
+***Multiataque.*** The myconid uses either its Hallucination Spores or its Pacifying Spores, then makes a fist attack.
 
-***Fist.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (3d4 + 1) bludgeoning damage plus 7 (3d4) poison damage.
+***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (3d4 + 1) bludgeoning damage plus 7 (3d4) poison damage.
 
 ***Animating Spores.*** The myconid targets one corpse of a humanoid or a Large or smaller beast within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse rises as a spore servant. The corpse stays animated for 1d4 + 1 weeks or until destroyed, and it can't be animated again in this way.
 

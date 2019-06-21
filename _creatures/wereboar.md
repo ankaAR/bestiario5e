@@ -12,7 +12,7 @@ size: Medium humanoid (human
 alignment: shapechanger)
 challenge: "4 (1,100 XP)"
 languages: "Common (can't speak in boar form)"
-skills: "Perception +2"
+skills: "Percepción +2"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "30 ft. (40 ft. in boar form)"
 hit_points: "78 (12d8+24)"
@@ -25,10 +25,10 @@ armor_class: "10 (in humanoid form, 11 in boar and hybrid forms )"
 
 ***Relentless (Recharges after a Short or Long Rest).*** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-### Actions
+### Acciones
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** The wereboar makes two attacks, only one of which can be with its tusks.
 
-***Maul (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
+***Maul (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage.
 
-***Tusks (Boar or Hybrid Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+***Tusks (Boar or Hybrid Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.

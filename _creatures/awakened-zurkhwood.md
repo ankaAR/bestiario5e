@@ -15,7 +15,7 @@ languages: "one language known by its creator"
 senses: "darkvision 120 ft."
 speed: "20 ft."
 hit_points: "59 (7d12+14)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 damage_vulnerabilities: "fire"
 damage_resistances: "bludgeoning, piercing"
 ---
@@ -24,6 +24,6 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Mute.*** If the awakened zurkhwood was created by a myconid sovereign, it can't speak.
 
-### Actions
+### Acciones
 
-***Slam.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) bludgeoning damage.

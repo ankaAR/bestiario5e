@@ -13,15 +13,15 @@ alignment: unaligned
 challenge: "1/2 (100 XP)"
 speed: "40 ft., climb 30 ft."
 hit_points: "19 (3d8+6)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
 ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
+***Multiataque.*** The bear makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.
+***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) slashing damage.

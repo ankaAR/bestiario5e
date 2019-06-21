@@ -11,14 +11,14 @@ str: 14 (+2)
 size: Medium beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "30 ft., swim 20 ft."
 hit_points: "19 (3d8+6)"
-armor_class: "12 (natural armor)"
+armor_class: "12 (armadura natural)"
 ---
 
 ***Source.*** Volo's Guide to Monsters, p. 139
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6+2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6+2) piercing damage.

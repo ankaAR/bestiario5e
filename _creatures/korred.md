@@ -13,10 +13,10 @@ alignment: chaotic neutral
 challenge: "7 (2,900 XP)"
 languages: "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"
 senses: "darkvision 120 ft., tremorsense 120 ft."
-skills: "Athletics +9, Perception +5, Stealth +5"
+skills: "Athletics +9, Percepción +5, Stealth +5"
 speed: "30 ft., burrow 30 ft."
 hit_points: "102 (12d6+60)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -34,10 +34,10 @@ At will: commune with nature, meld into stone, stone shape
 
 ***Stone's Strength.*** While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks).
 
-### Actions
+### Acciones
 
-***Multiattack.*** The korred makes two attacks with its greatclub or hurls two rocks.
+***Multiataque.*** The korred makes two attacks with its greatclub or hurls two rocks.
 
-***Greatclub.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8+6) bludgeoning damage, or 19 (3d8+6) bludgeoning damage if the korred is on the ground.
+***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8+6) bludgeoning damage, or 19 (3d8+6) bludgeoning damage if the korred is on the ground.
 
-***Rock.*** Ranged Weapon Attack: +9 to hit, range 60/120 ft., one target. Hit: 15 (2d8+6) bludgeoning damage, or 24 (4d8+6) bludgeoning damage if the korred is on the ground.
+***Rock.*** Ranged Weapon Attack: +9 to hit, range 60/120 pies, un objetivo. Impacto: 15 (2d8+6) bludgeoning damage, or 24 (4d8+6) bludgeoning damage if the korred is on the ground.

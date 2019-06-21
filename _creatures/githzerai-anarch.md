@@ -14,8 +14,8 @@ alignment: lawful neutral
 challenge: "16 (15,000 XP)"
 languages: "Gith"
 senses: "passive Perception 20"
-skills: "Arcana +9, Insight +10, Perception +10"
-saving_throws: "Str +8, Dex +10, Int +9, Wis +10"
+skills: "Arcana +9, Insight +10, Percepción +10"
+saving_throws: "Str +8, Des +10, Int +9, Sab +10"
 speed: "30 ft., fly 40 ft. (hover)"
 hit_points: "144  (17d8 + 68)"
 armor_class: "20"
@@ -28,13 +28,13 @@ armor_class: "20"
 
 ***Psychic Defense.*** While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The anarch makes three unarmed strikes.
 
-***Unarmed Strike*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
+***Unarmed Strike*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The anarch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The anarch regains spent legendary actions at the start of its turn.
 

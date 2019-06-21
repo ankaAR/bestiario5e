@@ -26,12 +26,12 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The duergar makes two war pick attacks.
 
-***War Pick*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.
+***War Pick*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.
 
-***Heavy Crossbow*** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
+***Heavy Crossbow*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
 
 ***Shared Invisibility (Recharges after a Short or Long Rest)*** The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it. While the invisible duergar is mounted on a female steeder, the steeder is invisible as well. The invisibility ends early on the steeder immediately after it attacks.

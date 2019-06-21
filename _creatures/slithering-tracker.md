@@ -36,8 +36,8 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Watery Stealth.*** While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
-***Slam.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10+3) bludgeoning damage.
 
 ***Life Leech.*** One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be grappled (escape DC 13). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. In addition, the grappled target takes 16 (3d10) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.

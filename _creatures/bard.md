@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "2 (450 XP)"
 languages: "any two languages"
-skills: "Acrobatics +4, Perception +5, Performance +6"
-saving_throws: "Dex +4, Wis +3"
+skills: "Acrobatics +4, Percepción +5, Performance +6"
+saving_throws: "Des +4, Sab +3"
 speed: "30 ft."
 hit_points: "44 (8d8+8)"
 armor_class: "15 (chain shirt)"
@@ -29,10 +29,10 @@ Cantrips (at will): friends, mage hand, vicious mockery
 
 ***Song of Rest.*** The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra ld6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.
 
-***Taunt (2/day).*** The bard can use a bonus action on its turn to target one creature within 30 feet of it. If the target can hear the bard, the target must succeed on a DC 12 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bard's next turn.
+***Taunt (2/día).*** The bard can use a bonus action on its turn to target one creature within 30 feet of it. If the target can hear the bard, the target must succeed on a DC 12 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bard's next turn.
 
-### Actions
+### Acciones
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one: target. Hit: 5 (1d6+2) piercing damage.

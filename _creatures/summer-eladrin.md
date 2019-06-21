@@ -17,7 +17,7 @@ senses: "darkvision 60 ft., passive Perception 9"
 skills: "Athletics +8, Intimidation +8"
 speed: "50 ft."
 hit_points: "127  (17d8 + 51)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -27,10 +27,10 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The eladrin makes two weapon attacks.
 
-***Longsword*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 4 (1d8) fire damage, or 15 (2d10 + 4) slashing damage plus 4 (1d8) fire damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage plus 4 (1d8) fire damage, or 15 (2d10 + 4) slashing damage plus 4 (1d8) fire damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 4 (1d8) fire damage.
+***Longbow*** Ranged Weapon Attack: +9 to hit, range 150/600 pies, un objetivo. Impacto: 14 (2d8 + 5) piercing damage plus 4 (1d8) fire damage.

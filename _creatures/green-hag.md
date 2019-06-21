@@ -13,13 +13,13 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Common, Draconic, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Arcana +3, Deception +4, Perception +4, Stealth +3"
+skills: "Arcana +3, Deception +4, Percepción +4, Stealth +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-***Amphibious.*** The hag can breathe air and water.
+***Anfibio.*** The hag puede respirar aire y agua.
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 
@@ -51,9 +51,9 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
 
 ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 

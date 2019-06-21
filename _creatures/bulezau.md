@@ -17,7 +17,7 @@ senses: "darkvision 120 ft., passive Perception 9"
 damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "52  (7d8 + 21)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -28,6 +28,6 @@ damage_resistances: "cold, fire, lightning"
 
 ***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+### Acciones
 
-***Barbed Tail*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced to 0.
+***Barbed Tail*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d12 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced to 0.

@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "1/4 (50 XP)"
 languages: "understands Common and Draconic but can't speak"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Perception +3, Stealth +4"
+skills: "Percepción +3, Stealth +4"
 speed: "15 ft., fly 60 ft."
 hit_points: "7 (2d4+2)"
 armor_class: "13"
@@ -27,8 +27,8 @@ armor_class: "13"
 
 ***Variant: Familiar.*** The pseudodragon can serve another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded, the companion can sense what the pseudodragon senses as long as they are within 1 mile of each other. While the pseudodragon is within 10 feet of its companion, the companion shares the pseudodragon's Magic Resistance trait. At any time and for any reason, the pseudodragon can end its service as a familiar, ending the telepathic bond.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Sting.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+***Sting.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.

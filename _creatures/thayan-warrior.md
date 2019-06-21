@@ -12,7 +12,7 @@ size: Medium humanoid (human)
 alignment: any non-good alignment
 challenge: "2 (450 XP)"
 languages: "Common, Thayan"
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "16 (chain shirt, shield)"
@@ -24,10 +24,10 @@ armor_class: "16 (chain shirt, shield)"
 
 ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The warrior makes two melee attacks.
+***Multiataque.*** The warrior makes two melee attacks.
 
-***Longsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1dlO + 3) slashing damage if used with two hands.
+***Longsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1dlO + 3) slashing damage if used with two hands.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.

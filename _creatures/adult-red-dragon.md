@@ -13,25 +13,25 @@ alignment: chaotic evil
 challenge: "17 (18,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Perception +13, Stealth +6"
+skills: "Percepción +13, Stealth +6"
 damage_immunities: "fire"
-saving_throws: "Dex +6, Con +13, Wis +7, Cha +11"
+saving_throws: "Des +6, Con +13, Sab +7, Car +11"
 speed: "40 ft., climb 40 ft., fly 80 ft."
 hit_points: "256 (19d12+133)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 ---
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage.
+***Bite.*** Melee Weapon Attack: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage.
 
-***Claw.*** Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+***Claw.*** Melee Weapon Attack: +14 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage.
 
-***Tail.*** Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 15 pies, un objetivo. Impacto: 17 (2d8 + 8) bludgeoning damage.
 
 ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -45,11 +45,11 @@ armor_class: "19 (natural armor)"
 
 >* Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The adult red dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult red dragon regains spent legendary actions at the start of its turn.
 
-***Detect.*** The dragon makes a Wisdom (Perception) check.
+***Detectar.*** The dragon hace una prueba de Sabiduría (Percepción).
 
 ***Tail Attack.*** The dragon makes a tail attack.
 

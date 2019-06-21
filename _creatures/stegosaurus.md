@@ -13,9 +13,9 @@ alignment: unaligned
 challenge: "4 (1,100 XP)"
 speed: "40 ft."
 hit_points: "76 (8d12+24)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Tail.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 26 (6d6+5) piercing damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 26 (6d6+5) piercing damage.

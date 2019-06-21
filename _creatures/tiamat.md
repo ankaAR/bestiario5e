@@ -13,12 +13,12 @@ alignment: chaotic evil
 challenge: "30 (155,000 XP)"
 languages: "Common, Draconic, Infernal"
 senses: "darkvision 240 ft., truesight 120 ft."
-skills: "Arcana +17, Perception +26, Religion +17"
+skills: "Arcana +17, Percepción +26, Religion +17"
 damage_immunities: "acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
-saving_throws: "Str +19, Dex +9, Wis +17"
+saving_throws: "Str +19, Des +9, Sab +17"
 speed: "60 ft., fly 120 ft."
 hit_points: "615 (30d20+300)"
-armor_class: "25 (natural armor)"
+armor_class: "25 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned"
 ---
 
@@ -36,17 +36,17 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Regeneration.*** Tiamat regains 30 hit points at the start of her turn.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.
+***Multiataque.*** Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.
 
-***Claw.*** Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 24 (4d6 + 10) slashing damage.
+***Claw.*** Melee Weapon Attack: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 24 (4d6 + 10) slashing damage.
 
-***Tail.*** Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 28 (4d8 + 10) piercing damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 25 pies, un objetivo. Impacto: 28 (4d8 + 10) piercing damage.
 
 ***Frightful Presence.*** Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of her must succeed on a DC 26 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Tiamat's Frightful Presence for the next 24 hours.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The tiamat can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The tiamat regains spent legendary actions at the start of its turn.
 
@@ -54,7 +54,7 @@ The tiamat can take 3 legendary actions, choosing from the options below. Only o
 
 Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.
 
-Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
+Melee Weapon Attack: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
 
 ***Black Dragon Head: Acid Breath (Costs 2 Actions).*** Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 

@@ -12,7 +12,7 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "1/2 (100 XP)"
 languages: "any one language (usually Common)"
-skills: "Nature +4, Perception +5, Stealth +6, Survival +5"
+skills: "Nature +4, Percepción +5, Stealth +6, Survival +5"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"
 armor_class: "13 (leather armor)"
@@ -20,10 +20,10 @@ armor_class: "13 (leather armor)"
 
 ***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The scout makes two melee attacks or two ranged attacks.
+***Multiataque.*** The scout makes two melee attacks or two ranged attacks.
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Longbow.*** Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +4 to hit, ranged 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

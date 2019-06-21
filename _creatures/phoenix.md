@@ -15,7 +15,7 @@ challenge: "16 (15,000 XP)"
 languages: "-"
 senses: "darkvision 60 ft., passive Perception 15"
 damage_immunities: "fire, poison"
-saving_throws: "Wis +10, Cha +9"
+saving_throws: "Sab +10, Car +9"
 speed: "20 ft., fly 120 ft."
 hit_points: "175  (10d20 + 70)"
 armor_class: "18"
@@ -36,15 +36,15 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Siege Monster.*** The phoenix deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The phoenix makes two attacks: one with its beak and one with its fiery talons.
 
-***Beak*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 15 (2d6 + 8) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+***Beak*** Melee Weapon Attack: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (2d6 + 8) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
-***Fiery Talons*** Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) fire damage.
+***Fiery Talons*** Melee Weapon Attack: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 17 (2d8 + 8) fire damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The phoenix can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The phoenix regains spent legendary actions at the start of its turn.
 

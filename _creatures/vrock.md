@@ -14,23 +14,23 @@ challenge: "6 (2,300 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "darkvision 120 ft."
 damage_immunities: "poison"
-saving_throws: "Dex +5, Wis +4, Cha +2"
+saving_throws: "Des +5, Sab +4, Car +2"
 speed: "40 ft., fly 60 ft."
 hit_points: "104 (11d10+44)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The vrock makes two attacks: one with its beak and one with its talons.
+***Multiataque.*** The vrock makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+***Beak.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage.
 
-***Talons.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.
+***Talons.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) slashing damage.
 
 ***Spores (Recharge 6).*** A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.
 

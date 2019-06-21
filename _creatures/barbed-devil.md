@@ -13,12 +13,12 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "darkvision 120 ft."
-skills: "Deception +5, Insight +5, Perception +8"
+skills: "Deception +5, Insight +5, Percepción +8"
 damage_immunities: "fire, poison"
-saving_throws: "Str +6, Con +7, Wis +5, Cha +5"
+saving_throws: "Str +6, Con +7, Sab +5, Car +5"
 speed: "30 ft."
 hit_points: "110 (13d8+52)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
@@ -29,12 +29,12 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
+***Multiataque.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
-***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
 
-***Tail.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage.
 
-***Hurl Flame.*** Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+***Hurl Flame.*** Ranged Spell Attack: +5 to hit, range 150 pies, un objetivo. Impacto: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.

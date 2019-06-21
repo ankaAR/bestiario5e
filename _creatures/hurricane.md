@@ -30,11 +30,11 @@ armor_class: "14"
 
 ***Unarmored Movement.*** While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed).
 
-### Actions
+### Acciones
 
-***Multiattack.*** The hurricane makes two melee attacks.
+***Multiataque.*** The hurricane makes two melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
 
 ### Reactions
 

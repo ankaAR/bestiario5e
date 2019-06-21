@@ -13,8 +13,8 @@ alignment: any alignment
 challenge: "6 (2,300 XP)"
 languages: "any two languages, telepathy 30 ft."
 senses: "darkvision 60 ft."
-skills: "Arcana +4, History +4"
-saving_throws: "Wis +4, Cha +7"
+skills: "Arcana +4, Historia +4"
+saving_throws: "Sab +4, Car +7"
 speed: "30 ft."
 hit_points: "91 (14d8+28)"
 armor_class: "12 (15 with mage armor)"
@@ -35,6 +35,6 @@ Cantrips (at will): chill touch, eldritch blast, guidance, mage hand, minor illu
 
 ***Whispering Aura.*** At the start of each of the warlock's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the warlock isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.

@@ -13,25 +13,25 @@ alignment: chaotic good
 challenge: "21 (33,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Deception +11, Perception +17, Stealth +8"
+skills: "Deception +11, Percepción +17, Stealth +8"
 damage_immunities: "acid"
-saving_throws: "Dex +8, Con +14, Wis +10, Cha +11"
+saving_throws: "Des +8, Con +14, Sab +10, Car +11"
 speed: "40 ft., climb 40 ft., fly 80 ft."
 hit_points: "350 (20d20+140)"
-armor_class: "21 (natural armor)"
+armor_class: "21 (armadura natural)"
 ---
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
+***Bite.*** Melee Weapon Attack: +15 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (2d10 + 8) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
+***Claw.*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage.
 
-***Tail.*** Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 20 pies, un objetivo. Impacto: 17 (2d8 + 8) bludgeoning damage.
 
 ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -45,11 +45,11 @@ Slowing Breath. The dragon exhales gas in a 90-foot cone. Each creature in that 
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ancient copper dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient copper dragon regains spent legendary actions at the start of its turn.
 
-***Detect.*** The dragon makes a Wisdom (Perception) check.
+***Detectar.*** The dragon hace una prueba de Sabiduría (Percepción).
 
 ***Tail Attack.*** The dragon makes a tail attack.
 

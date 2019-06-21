@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Common"
 senses: "darkvision 60 ft."
-skills: "Arcana +5, Perception +2"
+skills: "Arcana +5, Percepción +2"
 damage_immunities: "cold, fire, poison"
 speed: "0 ft., fly 40 ft. It can hover."
 hit_points: "40 (9d4+18)"
@@ -38,8 +38,8 @@ damage_resistances: "lightning, necrotic, piercing"
 
 * 3rd level (1 slot): fireball
 
-### Actions
+### Acciones
 
-***Multiattack.*** The flameskull uses Fire Ray twice.
+***Multiataque.*** The flameskull uses Fire Ray twice.
 
-***Fire Ray.*** Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 10 (3d6) fire damage.
+***Fire Ray.*** Ranged Spell Attack: +5 to hit, range 30 pies, un objetivo. Impacto: 10 (3d6) fire damage.

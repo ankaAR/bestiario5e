@@ -13,11 +13,11 @@ alignment: lawful good
 challenge: "10 (5,900 XP)"
 languages: "all, telepathy 120 ft."
 senses: "darkvision 120 ft."
-skills: "Insight +9, Perception +9"
-saving_throws: "Wis +9, Cha +9"
+skills: "Insight +9, Percepción +9"
+saving_throws: "Sab +9, Car +9"
 speed: "30 ft., fly 90 ft."
 hit_points: "136 (16d8+64)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened"
 damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -32,11 +32,11 @@ At will: detect evil and good
 
 ***Magic Resistance.*** The deva has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The deva makes two melee attacks.
+***Multiataque.*** The deva makes two melee attacks.
 
-***Mace.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
+***Mace.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
 ***Healing Touch (3/Day).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 

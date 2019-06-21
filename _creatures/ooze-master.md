@@ -15,10 +15,10 @@ languages: "Common, Primordial, Thayan"
 senses: "blindsight 120 ft."
 skills: "Arcana +7, Insight +4"
 damage_immunities: "acid, cold, poison"
-saving_throws: "Int +7, Wis +4"
+saving_throws: "Int +7, Sab +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "138 (12d12+60)"
-armor_class: "9 (natural armor)"
+armor_class: "9 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone"
 damage_resistances: "lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -49,9 +49,9 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ***Spider Climb.*** The Ooze Master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
-***Pseudopod.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (3d6 + 3) bludgeoning damage plus 10 (3d6) acid damage.
+***Pseudopod.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) bludgeoning damage plus 10 (3d6) acid damage.
 
 ### Reactions
 

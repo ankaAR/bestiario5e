@@ -14,12 +14,12 @@ alignment: chaotic evil
 challenge: "23 (50,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 24"
-skills: "Intimidation +17, Perception +14"
+skills: "Intimidation +17, Percepción +14"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
-saving_throws: "Dex +9, Con +15, Wis +14"
+saving_throws: "Des +9, Con +15, Sab +14"
 speed: "40 ft."
 hit_points: "275  (19d12 + 152)"
-armor_class: "22 (natural armor)"
+armor_class: "22 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -41,20 +41,20 @@ damage_resistances: "cold, fire, lightning"
 
 ***Reckless.*** At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Baphomet makes three attacks: one with Heartcleaver, one with his bite, and one with his gore attack.
 
-***Heartcleaver*** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) slashing damage.
+***Heartcleaver*** Melee Weapon Attack: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) slashing damage.
 
-***Bite*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 19 (2d8 + 10) piercing damage.
+***Bite*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d8 + 10) piercing damage.
 
-***Gore*** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) piercing damage.
+***Gore*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d6 + 10) piercing damage.
 
 ***Frightful Presence*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
 If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Baphomet can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Baphomet regains spent legendary actions at the start of his turn.
 

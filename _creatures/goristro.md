@@ -13,12 +13,12 @@ alignment: chaotic evil
 challenge: "17 (18,000 XP)"
 languages: "Abyssal"
 senses: "darkvision 120 ft."
-skills: "Perception +7"
+skills: "Percepción +7"
 damage_immunities: "poison"
-saving_throws: "Str +13, Dex +6, Con +13, Wis +7"
+saving_throws: "Str +13, Des +6, Con +13, Sab +7"
 speed: "40 ft."
 hit_points: "310 (23d12+161)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -31,12 +31,12 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Siege Monster.*** The goristro deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The goristro makes three attacks: two with its fists and one with its hoof.
+***Multiataque.*** The goristro makes three attacks: two with its fists and one with its hoof.
 
-***Fist.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 + 7) bludgeoning damage.
 
-***Hoof.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
+***Hoof.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 23 (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
 
-***Gore.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 45 (7d10 + 7) piercing damage.
+***Gore.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 45 (7d10 + 7) piercing damage.

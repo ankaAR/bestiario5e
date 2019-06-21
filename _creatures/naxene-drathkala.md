@@ -12,7 +12,7 @@ size: Medium humanoid (turami human)
 alignment: neutral good
 challenge: "0 (10 XP)"
 languages: "Common, Draconic, Dwarvish, Elvish"
-skills: "Arcana +5, History +5"
+skills: "Arcana +5, Historia +5"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "10 (13 with mage armor)"
@@ -29,9 +29,9 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
 3rd level (3 slots): fly, lightning bolt
 
-### Actions
+### Acciones
 
-***Staff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one creature. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
+***Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
 
 ### Roleplaying Information
 

@@ -13,12 +13,12 @@ alignment: neutral evil
 challenge: "12 (8,400 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Arcana +13, Deception +9, Insight +9, Perception +7"
+skills: "Arcana +13, Deception +9, Insight +9, Percepción +7"
 damage_immunities: "acid, poison"
-saving_throws: "Dex +5, Int +9, Wis +7, Cha +7"
+saving_throws: "Des +5, Int +9, Sab +7, Car +7"
 speed: "30 ft., fly 30 ft."
 hit_points: "104 (16d8+32)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -51,9 +51,9 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 * 8th level (1 slot): mind blank
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+***Claws.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 

@@ -14,8 +14,8 @@ alignment: legal maligna
 challenge: "12 (8400 XP)"
 languages: "Gith"
 senses: "passive Perception 16"
-skills: "Intimidation +7, Perception +6"
-saving_throws: "Con +7, Int +7, Wis +6"
+skills: "Intimidation +7, Percepción +6"
+saving_throws: "Con +7, Int +7, Sab +6"
 speed: "30 ft."
 hit_points: "180  (24d8 + 72)"
 armor_class: "18 (plate)"
@@ -28,8 +28,8 @@ armor_class: "18 (plate)"
 
 ***Rally the Troops.*** As a bonus action, the githyanki can magically end the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The githyanki makes three greatsword attacks.
 
-***Greatsword*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.
+***Greatsword*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.

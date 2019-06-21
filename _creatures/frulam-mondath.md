@@ -12,8 +12,8 @@ size: Medium humanoid (human)
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Common, Draconic, Infernal"
-skills: "Deception +4, History +2, Religion +2"
-saving_throws: "Wis +6, Cha +4"
+skills: "Deception +4, Historia +2, Religion +2"
+saving_throws: "Sab +6, Car +4"
 speed: "30 ft."
 hit_points: "44 (8d8+8)"
 armor_class: "16 (chain mail)"
@@ -29,8 +29,8 @@ armor_class: "16 (chain mail)"
 
 * 3rd level (2 slots): mass healing word, spirit guardians
 
-### Actions
+### Acciones
 
-***Multiattack.*** Frulam attacks twice with her halberd.
+***Multiataque.*** Frulam attacks twice with her halberd.
 
-***Halberd.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage.
+***Halberd.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) bludgeoning damage.

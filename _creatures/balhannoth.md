@@ -14,25 +14,25 @@ alignment: chaotic evil
 challenge: "11 (7200 XP)"
 languages: "understands Deep Speech, telepathy 1 mile"
 senses: "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
-skills: "Perception +6"
+skills: "Percepción +6"
 saving_throws: "Con +8"
 speed: "25 ft., climb 25 ft."
 hit_points: "114  (12d10 + 48)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "blinded"
 ---
 
 ***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The balhannoth makes a bite attack and up to two tentacle attacks, or it makes up to four tentacle attacks.
 
-***Bite*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 25 (4d10 + 3) piercing damage.
+***Bite*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) piercing damage.
 
-***Tentacle*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is restrained, and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
+***Tentacle*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is restrained, and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The balhannoth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The balhannoth regains spent legendary actions at the start of its turn.
 

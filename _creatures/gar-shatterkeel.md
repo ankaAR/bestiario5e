@@ -15,11 +15,11 @@ languages: "Aquan, Common"
 skills: "Nature +8, Survival +8"
 speed: "30 ft., swim 30 ft."
 hit_points: "112 (15d8+45)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 damage_resistances: "cold"
 ---
 
-***Amphibious.*** Gar can breathe air and water.
+***Anfibio.*** Gar puede respirar aire y agua.
 
 ***Legendary Resistance (2/Day).*** If Gar fails a saving throw, he can choose to succeed instead.
 
@@ -41,10 +41,10 @@ damage_resistances: "cold"
 
 ***Watery Fall.*** When Gar drops to 0 hit points, his body collapses into a pool of inky water that rapidly disperses. Anything he was wearing or carrying is left behind.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Gar makes two melee attacks, one with his claw and one with Drown.
+***Multiataque.*** Gar makes two melee attacks, one with his claw and one with Drown.
 
-***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
 
-***Drown.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 4 (1d8) cold damage.
+***Drown.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 4 (1d8) cold damage.

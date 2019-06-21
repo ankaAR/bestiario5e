@@ -13,11 +13,11 @@ alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft."
-skills: "Perception +3"
+skills: "Percepción +3"
 damage_immunities: "acid, poison"
 speed: "40 ft."
 hit_points: "75 (10d8+30)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -32,13 +32,13 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
+***Multiataque.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
 
-***Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) slashing damage.
 
-***Trident.*** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.
+***Trident.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.
 
 ***Teleport.*** The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 

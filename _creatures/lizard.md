@@ -17,6 +17,6 @@ hit_points: "2 (1d4)"
 armor_class: "10"
 ---
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

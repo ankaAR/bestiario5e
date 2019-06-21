@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Common, Bullywug, Draconic, Elvish, Goblin, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5"
+skills: "Arcana +5, Deception +1, Insight +2, Percepción +2, Religion +5"
 saving_throws: "Str +6, Con +4"
 speed: "30 ft."
 hit_points: "52 (7d10+14)"
@@ -34,10 +34,10 @@ armor_class: "16 (studded leather, shield)"
 
 ***Weapon Bond.*** Provided his longsword is on the same plane Dralmorrer can take a bonus action to teleport it to his hand.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Dralmorrer attacks twice, either with his longsword or dagger.
+***Multiataque.*** Dralmorrer attacks twice, either with his longsword or dagger.
 
-***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+***Longsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.

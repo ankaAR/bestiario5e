@@ -14,12 +14,12 @@ alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "understands Abyssal, Elvish, and Undercommon but can't speak"
 senses: "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
-skills: "Perception +5, Stealth +8"
+skills: "Percepción +5, Stealth +8"
 damage_immunities: "necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
-saving_throws: "Dex +8, Con +10, Wis +5"
+saving_throws: "Des +8, Con +10, Sab +5"
 speed: "40 ft., climb 40 ft."
 hit_points: "210  (20d10 + 100)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
 
@@ -28,11 +28,11 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ***Innate Spellcasting.*** The retriever's innate spellcasting ability is Wisdom. The retriever can innately cast the following spells, requiring no material components.
 * 3/day each: plane shift (only self and up to one incapacitated creature which is considered willing for the spell), web
 
-### Actions
+### Acciones
 
 ***Multiattack*** The retriever makes two foreleg attacks and uses its force or paralyzing beam once, if available.
 
-***Foreleg*** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) slashing damage.
+***Foreleg*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d8 + 6) slashing damage.
 
 ***Force Beam*** The retriever targets one creature it can see within 60 feet of it. The target must make a DC 16 Dexterity saving throw, taking 27 (5d10) force damage on a failed save, or half as much damage on a successful one.
 

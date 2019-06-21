@@ -13,25 +13,25 @@ alignment: chaotic good
 challenge: "13 (10,000 XP)"
 languages: "Common, Draconic"
 senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "History +7, Perception +11, Persuasion +8, Stealth +5"
+skills: "Historia +7, Percepción +11, Persuasion +8, Stealth +5"
 damage_immunities: "fire"
-saving_throws: "Dex +5, Con +10, Wis +6, Cha +8"
+saving_throws: "Des +5, Con +10, Sab +6, Car +8"
 speed: "40 ft., burrow 40 ft., fly 80 ft."
 hit_points: "172 (15d12+75)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 ---
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +11 to hit, reach,.0 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
+***Bite.*** Melee Weapon Attack: +11 to hit, reach,.0 pies, un objetivo. Impacto: 17 (2d10 + 6) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+***Claw.*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage.
 
-***Tail.*** Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (2d8 + 6) bludgeoning damage.
 
 ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 

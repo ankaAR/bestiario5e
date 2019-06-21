@@ -13,10 +13,10 @@ alignment: unaligned
 challenge: "1/4 (50 XP)"
 senses: "blindsight 60 ft. (blind beyond this radius)"
 damage_immunities: "poison, psychic"
-saving_throws: "Dex +4"
+saving_throws: "Des +4"
 speed: "0 ft., fly 50 ft. It can hover."
 hit_points: "17 (5d6)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -24,6 +24,6 @@ condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrif
 
 ***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
-### Actions
+### Acciones
 
-***Longsword.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
+***Longsword.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.

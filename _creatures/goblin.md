@@ -21,8 +21,8 @@ armor_class: "15 (leather armor, shield)"
 
 ***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-### Actions
+### Acciones
 
-***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+***Scimitar.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.
 
-***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

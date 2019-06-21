@@ -14,15 +14,15 @@ challenge: "6 (2,300 XP)"
 languages: "Giant"
 speed: "30 ft."
 hit_points: "138 (12d12+60)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
 ***Poor Depth Perception.*** The cyclops has disadvantage on any attack roll against a target more than 30 ft. away.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The cyclops makes two greatclub attacks.
+***Multiataque.*** The cyclops makes two greatclub attacks.
 
-***Greatclub.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
+***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (3d8 + 6) bludgeoning damage.
 
-***Rock.*** Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +9 to hit, range 30/120 pies, un objetivo. Impacto: 28 (4d10 + 6) bludgeoning damage.

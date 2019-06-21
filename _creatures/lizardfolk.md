@@ -12,7 +12,7 @@ size: Medium humanoid (lizardfolk)
 alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "Draconic"
-skills: "Perception +3, Stealth +4, Survival +5"
+skills: "Percepción +3, Stealth +4, Survival +5"
 speed: "30 ft., swim 30 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "15 (natural armor, shield)"
@@ -20,14 +20,14 @@ armor_class: "15 (natural armor, shield)"
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The lizardfolk makes two melee attacks, each one with a different weapon.
+***Multiataque.*** The lizardfolk makes two melee attacks, each one with a different weapon.
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Heavy Club.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+***Heavy Club.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Spiked Shield.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Spiked Shield.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

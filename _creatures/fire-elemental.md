@@ -27,8 +27,8 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Water Susceptibility.*** For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The elemental makes two touch attacks.
+***Multiataque.*** The elemental makes two touch attacks.
 
-***Touch.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+***Touch.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.

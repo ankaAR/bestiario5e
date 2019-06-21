@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Auran, Common, Elvish"
 senses: "darkvision 60 ft."
-skills: "Arcana +6, History +6, Perception +3"
+skills: "Arcana +6, Historia +6, Percepción +3"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "13 (16 with mage armor)"
@@ -42,6 +42,6 @@ damage_resistances: "lightning"
 
 * 6th level (1 slot): chain lightning
 
-### Actions
+### Acciones
 
-***Windvane.*** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 9 (1d6 + 6) piercing damage, or 10 (1d8 + 6) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.
+***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) piercing damage, or 10 (1d8 + 6) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.

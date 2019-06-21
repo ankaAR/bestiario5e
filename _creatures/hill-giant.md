@@ -12,18 +12,18 @@ size: Huge giant
 alignment: chaotic evil
 challenge: "5 (1,800 XP)"
 languages: "Giant"
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "40 ft."
 hit_points: "105 (10d12+40)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
-***Squash.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creature. Hit: 26 (6d6 + 5) bludgeoning damage, the giant lands prone in the target's space, and the target is grappled (escape DC 15). Until this grapple ends, the target is prone. The grapple ends early if the giant stands up.
+***Squash.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one Medium or Smaller creature. Hit: 26 (6d6 + 5) bludgeoning damage, the giant lands prone in the target's space, and the target is grappled (escape DC 15). Until this grapple ends, the target is prone. The grapple ends early if the giant stands up.
 
-***Multiattack.*** The giant makes two greatclub attacks.
+***Multiataque.*** The giant makes two greatclub attacks.
 
-***Greatclub.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
+***Greatclub.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8 + 5) bludgeoning damage.
 
-***Rock.*** Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +8 to hit, range 60/240 pies, un objetivo. Impacto: 21 (3d10 + 5) bludgeoning damage.

@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "2 (450 XP)"
 languages: "Draconic, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Arcana +4, Perception +3, Stealth +7"
+skills: "Arcana +4, Percepción +3, Stealth +7"
 speed: "10 ft., fly 60 ft."
 hit_points: "14 (4d4+4)"
 armor_class: "15"
@@ -47,9 +47,9 @@ A green or older faerie dragon's CR increases to 2.
 
 1/day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, polymorph, suggestion
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 1 piercing damage.
 
 ***Euphoria Breath (Recharge 5-6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:
 

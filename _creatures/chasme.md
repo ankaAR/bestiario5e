@@ -13,12 +13,12 @@ alignment: chaotic evil
 challenge: "6 (2,300 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "blindsight 10 ft., darkvision 120 ft."
-skills: "Perception +5"
+skills: "Percepción +5"
 damage_immunities: "poison"
-saving_throws: "Dex +5, Wis +5"
+saving_throws: "Des +5, Sab +5"
 speed: "20 ft., fly 60 ft."
 hit_points: "84 (13d10+13)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -29,9 +29,9 @@ damage_resistances: "cold, fire, lightning"
 
 ***Spider Climb.*** The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
-***Proboscis.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration .
+***Proboscis.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration .
 
 ***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
 

@@ -13,10 +13,10 @@ alignment: neutral evil
 challenge: "11 (7,200 XP)"
 languages: "Terran"
 senses: "darkvision 120 ft."
-saving_throws: "Int +5, Wis +5, Cha +6"
+saving_throws: "Int +5, Sab +5, Car +6"
 speed: "30 ft., burrow 30 ft., fly 30 ft."
 hit_points: "187 (15d10+105)"
-armor_class: "18 (natural armor)"
+armor_class: "18 (armadura natural)"
 condition_immunities: "petrified"
 ---
 
@@ -46,10 +46,10 @@ The genie power to grant wishes is legendary among mortals. Only the most potent
 
 To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The Dao makes two fist attacks or two maul attacks.
+***Multiataque.*** The Dao makes two fist attacks or two maul attacks.
 
-***Fist.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d8 + 6) bludgeoning damage.
 
-***Maul.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.
+***Maul.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.

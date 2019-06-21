@@ -13,8 +13,8 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Elvish, Undercommon"
 senses: "darkvision 120 ft."
-skills: "Arcana +5, Perception +4, Stealth +3"
-saving_throws: "Int +5, Wis +4"
+skills: "Arcana +5, Percepción +4, Stealth +3"
+saving_throws: "Int +5, Sab +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "11 (14 with mage armor)"
@@ -40,6 +40,6 @@ armor_class: "11 (14 with mage armor)"
 
 * 2nd Level (3 slots): invisibility, suggestion
 
-### Actions
+### Acciones
 
-***Spider Staff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage plus 3 (1d6) poison damage.
+***Spider Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage plus 3 (1d6) poison damage.

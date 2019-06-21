@@ -17,7 +17,7 @@ skills: "Deception +10, Insight +8"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "40 ft."
 hit_points: "110 (13d8+52)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 damage_vulnerabilities: "piercing from magic weapons wielded by good creatures"
 ---
 
@@ -31,8 +31,8 @@ At will: detect thoughts, disguise self, mage hand, minor illusion
 
 1/day each: dominate person, fly, plane shift, true seeing
 
-### Actions
+### Acciones
 
-***Multiattack.*** The rakshasa makes two claw attacks
+***Multiataque.*** The rakshasa makes two claw attacks
 
-***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
+***Claw.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.

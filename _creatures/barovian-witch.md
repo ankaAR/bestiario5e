@@ -14,7 +14,7 @@ alignment: chaotic evil
 challenge: "1/2 (100 XP)"
 languages: "Common"
 senses: "darkvision 60 ft."
-skills: "Arcana +4, Perception +2"
+skills: "Arcana +4, Percepción +2"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"
 armor_class: "10"
@@ -28,8 +28,8 @@ armor_class: "10"
 
 * 2nd level (2 slots): alter self, invisibility
 
-### Actions
+### Acciones
 
-***Claws (Requires Alter Self).*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) slashing damage. This attack is magical.
+***Claws (Requires Alter Self).*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage. This attack is magical.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (1d4) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 2 (1d4) piercing damage.

@@ -13,15 +13,15 @@ size: Medium humanoid (mongrelfolk)
 alignment: any alignment
 challenge: "1/4 (50 XP)"
 languages: "Common"
-skills: "Deception +2, Perception +2, Stealth +3"
+skills: "Deception +2, Percepción +2, Stealth +3"
 speed: "20 ft."
 hit_points: "26 (4d8+8)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
 ***Extraordinary Feature.*** The mongrelfolk has one of the following extraordinary features, determined randomly by rolling a d20 or chosen by the DM:
 
-1-3 - Amphibious: The mongrelfolk can breathe air and water.
+1-3 - Amphibious: The mongrelfolk puede respirar aire y agua.
 
 4-9 - Darkvision: The mongrelfolk has darkvision out to a range of 60 feet.
 
@@ -37,12 +37,12 @@ armor_class: "11 (natural armor)"
 
 ***Mimicry.*** The mongrelfolk can mimic any sounds it has beard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.
+***Multiataque.*** The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) slashing damage.
+***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) slashing damage.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4+1) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.

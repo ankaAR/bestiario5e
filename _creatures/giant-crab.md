@@ -15,11 +15,11 @@ senses: "blindsight 30 ft."
 skills: "Stealth +4"
 speed: "30 ft., swim 30 ft."
 hit_points: "13 (3d8)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
-***Amphibious.*** The crab can breathe air and water.
+***Anfibio.*** The crab puede respirar aire y agua.
 
-### Actions
+### Acciones
 
-***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.

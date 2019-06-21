@@ -13,20 +13,20 @@ alignment: construct
 challenge: "1 (200 XP)"
 languages: "Modron"
 senses: "truesight 120 ft."
-skills: "Perception +2"
+skills: "Percepción +2"
 speed: "30 ft., fly 30 ft."
 hit_points: "22 (4d8+4)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 ---
 
 ***Axiomatic Mind.*** The quadrone can't be compelled to act in a manner contrary to its nature or its instructions.
 
 ***Disintegration.*** If the quadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The quadrone makes two fist attacks or four shortbow attacks.
+***Multiataque.*** The quadrone makes two fist attacks or four shortbow attacks.
 
-***Fist.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning damage.
 
-***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

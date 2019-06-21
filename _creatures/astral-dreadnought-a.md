@@ -14,11 +14,11 @@ alignment: unaligned
 challenge: "21 (33,000 XP)"
 languages: "---"
 senses: "Darkvision 120 ft., passive Perception 19"
-skills: "Perception +9"
-saving_throws: "Dex +5, Wis +9"
+skills: "Percepción +9"
+saving_throws: "Des +5, Sab +9"
 speed: "15 ft., fly 80 ft. (hover)"
 hit_points: "297 (17d20+119)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
 ---
 
@@ -36,15 +36,15 @@ condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Sever Silver Cord*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target’s silver cord instead of dealing damage.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Melee Weapon: +16 to hit, reach 10 ft., One target. Hit: (5d10+9) Piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought’s Demiplanar Donjon.
+***Bite*** Melee Weapon: +16 al ataque, alcance 10 ft., One target. Hit: (5d10+9) Piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought’s Demiplanar Donjon.
 
-***Claw*** Melee Weapon: +16 to hit, reach 20 ft., One target. Hit: (3d6+9) Slashing damage.
+***Claw*** Melee Weapon: +16 al ataque, alcance 20 ft., One target. Hit: (3d6+9) Slashing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Astral Dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Astral Dreadnought regains spent legendary actions at the start of their turn.
 

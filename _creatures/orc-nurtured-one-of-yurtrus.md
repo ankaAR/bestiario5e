@@ -24,8 +24,8 @@ armor_class: "9"
 
 ***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.
 
-### Actions
+### Acciones
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) slashing damage plus 2 (1d4) necrotic damage.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) slashing damage plus 2 (1d4) necrotic damage.
 
 ***Corrupted Vengeance.*** The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait.

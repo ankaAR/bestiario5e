@@ -11,7 +11,7 @@ str: 3 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-skills: "Perception +3, Stealth +5"
+skills: "Percepción +3, Stealth +5"
 speed: "30 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "13"
@@ -19,6 +19,6 @@ armor_class: "13"
 
 ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 1 piercing damage.

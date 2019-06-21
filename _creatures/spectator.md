@@ -13,16 +13,16 @@ alignment: lawful neutral
 challenge: "3 (700 XP)"
 languages: "Deep Speech, Undercommon, telepathy 120 ft."
 senses: "darkvision 120 ft."
-skills: "Perception +6"
+skills: "Percepción +6"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "39 (6d8+12)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "prone"
 ---
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) piercing damage.
+***Bite.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) piercing damage.
 
 ***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 ft. of it. It can use each ray only once on a turn.
 

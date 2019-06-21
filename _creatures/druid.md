@@ -12,7 +12,7 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "2 (450 XP)"
 languages: "Druidic plus any two languages"
-skills: "Medicine +4, Nature +3, Perception +4"
+skills: "Medicine +4, Nature +3, Percepción +4"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "11 (16 with barkskin)"
@@ -26,6 +26,6 @@ armor_class: "11 (16 with barkskin)"
 
 * 2nd level (3 slots): animal messenger, barkskin
 
-### Actions
+### Acciones
 
-***Quarterstaff.*** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.

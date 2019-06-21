@@ -12,10 +12,10 @@ size: Medium monstrosity
 alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "understands Common and Elvish but can't speak"
-skills: "Perception +5"
+skills: "Percepción +5"
 speed: "20 ft., fly 60 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -25,10 +25,10 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Keen Sight and Smell.*** The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The peryton makes one gore attack and one talon attack.
+***Multiataque.*** The peryton makes one gore attack and one talon attack.
 
-***Gore.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+***Gore.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.
 
-***Talons.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
+***Talons.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) piercing damage.

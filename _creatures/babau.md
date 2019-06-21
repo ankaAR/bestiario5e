@@ -13,11 +13,11 @@ alignment: chaotic evil
 challenge: "4 (1,100 XP)"
 languages: "Abyssal"
 senses: "darkvision 120 ft."
-skills: "Perception +5, Stealth +5"
+skills: "Percepción +5, Stealth +5"
 damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "82 (11d8+33)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -26,12 +26,12 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 At will: darkness, dispel magic, fear, heat metal, levitate
 
-### Actions
+### Acciones
 
-***Multiattack.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
+***Multiataque.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
 
-***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft, one target. Hit: 8 (1d8+4) slashing damage.
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 it, one target. Hit: 7 (1d6+4) piercing damage, or 8 (1d8+4) piercing damage when used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 7 (1d6+4) piercing damage, or 8 (1d8+4) piercing damage when used with two hands to make a melee attack.
 
 ***Weakening Gaze.*** The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -15,7 +15,7 @@ challenge: "7 (2,900 XP)"
 languages: "Common, Draconic"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
-saving_throws: "Str +7, Con +7, Wis +6, Cha +7"
+saving_throws: "Str +7, Con +7, Sab +6, Car +7"
 speed: "30 ft."
 hit_points: "192 (16d8+64)"
 armor_class: "17 (half plate)"
@@ -31,12 +31,12 @@ damage_resistances: "necrotic, psychic"
 
 ***Vengeful Tracker.*** Vladimir knows the distance to and direction of any creature against which it seeks revenge, even if the creature and Vladimir are on different planes of existence. If the creature being tracked by Vladimir dies, Vladimir knows.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Vladimir makes two fist attacks or two attacks with his +2 Greatsword.
+***Multiataque.*** Vladimir makes two fist attacks or two attacks with his +2 Greatsword.
 
-***Fist.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) bludgeoning damage. If the target is a creature against which Vladimir has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.
+***Fist.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) bludgeoning damage. If the target is a creature against which Vladimir has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.
 
-***Greatsword +2.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 20 (4d6+4) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6) slashing damage with this weapon.
+***Greatsword +2.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (4d6+4) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6) slashing damage with this weapon.
 
 ***Vengeful Glare.*** Vladimir targets one creature he can see within 30 feet of him and against which he has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralyzed until Vladimir deals damage to it, or until the end of Vladimir's next turn. When the paralysis ends, the target is frightened of Vladimir for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see Vladimir, ending the frightened condition on itself on a success.

@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "9 (5,000 XP)"
 languages: "any four languages"
-skills: "Arcana +7, History +7"
-saving_throws: "Int +7, Wis +5"
+skills: "Arcana +7, Historia +7"
+saving_throws: "Int +7, Sab +5"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "12 (15 with mage armor)"
@@ -40,6 +40,6 @@ Cantrips (at will): chill touch, dancing lights, mage hand, mending
 
 ***Grim Harvest (1/Turn).*** When necromancer kills a creature that is neither a construct nor undead with a spell of 1st level or higher, the necromancer regains hit points equal to twice the spell's level, or three times if it is a necromancy spell.
 
-### Actions
+### Acciones
 
-***Withering Touch.*** Melee Spell Attack: +7 to hit, reach 5 ft., one creature. Hit: 5 (2d4) necrotic damage.
+***Withering Touch.*** Melee Spell Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 5 (2d4) necrotic damage.

@@ -13,7 +13,7 @@ alignment: any alignment
 challenge: "4 (1,100 XP)"
 languages: "any two languages (usually Sylvan)"
 skills: "Arcana +2, Deception +6, Nature +2, Persuasion +6"
-saving_throws: "Wis +3, Cha +6"
+saving_throws: "Sab +3, Car +6"
 speed: "30 ft."
 hit_points: "49 (11d8)"
 armor_class: "11 (14 with mage armor)"
@@ -32,9 +32,9 @@ Cantrips (at will): dancing lights, eldritch blast, friends, mage hand, minor il
 
 1st-5th level (3 5th-level slots): blink, charm person, dimension door, dominate beast, faerie fire, fear, hold monster, misty step, phantasmal force, seeming, sleep
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
 
 ### Reactions
 

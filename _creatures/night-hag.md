@@ -13,10 +13,10 @@ alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Infernal, Primordial"
 senses: "darkvision 120 ft."
-skills: "Deception +7, Insight +6, Perception +6, Stealth +6"
+skills: "Deception +7, Insight +6, Percepción +6, Stealth +6"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "charmed"
 damage_resistances: "cold, fire, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
@@ -59,9 +59,9 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
-### Actions
+### Acciones
 
-***Claws (Hag Form Only).*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+***Claws (Hag Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
 
 ***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 

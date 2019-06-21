@@ -13,8 +13,8 @@ size: Medium humanoid (human)
 alignment: lawful good
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Elvish, Infernal"
-skills: "Arcana +9, Insight +7, Medicine +7, Perception +7, Religion +6, Sleight of Hand +4"
-saving_throws: "Con +4, Wis +7"
+skills: "Arcana +9, Insight +7, Medicine +7, Percepción +7, Religion +6, Sleight of Hand +4"
+saving_throws: "Con +4, Sab +7"
 speed: "30 ft."
 hit_points: "77 (14d8+14)"
 armor_class: "12 (leather armor)"
@@ -38,8 +38,8 @@ armor_class: "12 (leather armor)"
 
 ***Undead Slayer.*** When Rictavio hits an undead with a weapon attack, the undead takes an extra 10 (3d6) damage of the weapon's type.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Rictavio makes two attacks with his sword cane.
+***Multiataque.*** Rictavio makes two attacks with his sword cane.
 
-***Sword Cane.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).
+***Sword Cane.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).

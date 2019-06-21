@@ -13,7 +13,7 @@ alignment: any alignment
 challenge: "9 (5,000 XP)"
 languages: "any two languages"
 skills: "Intimidation +5, Religion +4"
-saving_throws: "Con +6, Wis +7"
+saving_throws: "Con +6, Sab +7"
 speed: "30 ft."
 hit_points: "117 (18d8+36)"
 armor_class: "18 (plate)"
@@ -33,11 +33,11 @@ Cantrips (at will): light, mending, sacred flame, spare the dying
 
 5th level (1 slot): flame strike, mass cure wounds, hold monster
 
-### Actions
+### Acciones
 
-***Multiattack.*** The priest makes two melee attacks.
+***Multiataque.*** The priest makes two melee attacks.
 
-***Maul.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 +3) bludgeoning damage.
+***Maul.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 +3) bludgeoning damage.
 
 ### Reactions
 

@@ -16,7 +16,7 @@ senses: "darkvision 60 ft."
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "58 (9d10+9)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 ---
 
@@ -30,6 +30,6 @@ condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 
 * 3rd level (2 slots): lightning bolt
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
+***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.

@@ -16,17 +16,17 @@ senses: "darkvision 60 ft."
 damage_immunities: "poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "52 (7d8+21)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 condition_immunities: "exhaustion, petrified, poisoned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 ---
 
 ***False Appearance.*** While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws.
+***Multiataque.*** The gargoyle makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
+***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.

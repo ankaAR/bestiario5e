@@ -14,7 +14,7 @@ challenge: "23 (50,000 XP)"
 languages: "Ignan"
 senses: "blindsight 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Con +12, Wis +7, Cha +11"
+saving_throws: "Con +12, Sab +7, Car +11"
 speed: "50 ft.."
 hit_points: "341 (22d20+110)"
 armor_class: "16"
@@ -34,13 +34,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Resistance.*** Maegera has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Maegera makes three slam attacks.
+***Multiataque.*** Maegera makes three slam attacks.
 
-***Slam.*** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 15 (3d6 + 5) bludgeoning damage plus 35 (10d6) fire damage
+***Slam.*** Melee Weapon Attack: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (3d6 + 5) bludgeoning damage plus 35 (10d6) fire damage
 
-### Legendary Actions
+### Acciones Legendarias
 
 The maegera the dawn titan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The maegera the dawn titan regains spent legendary actions at the start of its turn.
 

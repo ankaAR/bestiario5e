@@ -15,7 +15,7 @@ challenge: "9 (5,000 XP)"
 languages: "Common, Elvish"
 senses: "darkvision 60 ft., passive Perception 11"
 damage_immunities: "necrotic"
-saving_throws: "Dex +8, Con +6"
+saving_throws: "Des +8, Con +6"
 speed: "30 ft."
 hit_points: "104  (16d8 + 32)"
 armor_class: "14 (17 with mage armor)"
@@ -35,8 +35,8 @@ condition_immunities: "charmed, exhaustion"
 * 5th level (3 slots): armor of Agathys, blight, darkness, dream, invisibility, fear, hypnotic pattern, major image, contact other plane, vampiric touch, witch bolt
 
 
-### Actions
+### Acciones
 
 ***Multiattack*** The gloom weaver makes two spear attacks and casts one spell that takes 1 action to cast.
 
-***Shadow Spear*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) piercing damage plus 26 (4d12) necrotic damage if used with two hands.
+***Shadow Spear*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) piercing damage plus 26 (4d12) necrotic damage if used with two hands.

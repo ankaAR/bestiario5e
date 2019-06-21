@@ -25,8 +25,8 @@ armor_class: "13 (leather armor)"
 
 ***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
 
-### Actions
+### Acciones
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 
-***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) bludgeoning damage.
+***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4+2) bludgeoning damage.

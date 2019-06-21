@@ -16,7 +16,7 @@ senses: "darkvision 60 ft."
 damage_immunities: "acid, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "20 ft."
 hit_points: "133 (14d10+56)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -30,10 +30,10 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Weapons.*** The golem's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The golem makes two slam attacks.
+***Multiataque.*** The golem makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.
+***Slam.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.

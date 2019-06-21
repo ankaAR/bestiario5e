@@ -12,8 +12,8 @@ size: Medium humanoid (gith)
 alignment: lawful neutral
 challenge: "2 (450 XP)"
 languages: "Gith"
-skills: "Insight +4, Perception +4"
-saving_throws: "Str +3, Dex +4, Int +3, Wis +4"
+skills: "Insight +4, Percepción +4"
+saving_throws: "Str +3, Des +4, Int +3, Sab +4"
 speed: "30 ft."
 hit_points: "38 (7d8+7)"
 armor_class: "14"
@@ -27,8 +27,8 @@ At will: mage hand (the hand is invisible)
 
 ***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The githzerai makes two unarmed strikes.
+***Multiataque.*** The githzerai makes two unarmed strikes.
 
-***Unarmed Strike.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack.
+***Unarmed Strike.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack.

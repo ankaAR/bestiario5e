@@ -12,20 +12,20 @@ size: Medium humanoid (turami human)
 alignment: lawful good
 challenge: "0 (10 XP)"
 languages: "Common"
-skills: "Perception +5, Survival +5"
+skills: "Percepción +5, Survival +5"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "17 (splint)"
 senses: " passive Perception 15"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** Markham makes two melee attacks.
+***Multiataque.*** Markham makes two melee attacks.
 
-***Longsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) slashing damage, or 7 (1d10+2) slashing damage if used with two hands.
+***Longsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) slashing damage, or 7 (1d10+2) slashing damage if used with two hands.
 
-***Heavy Crossbow.*** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10+1) piercing damage. Markham carries twenty crossbow bolts.
+***Heavy Crossbow.*** Ranged Weapon Attack: +3 to hit, range 100/400 pies, un objetivo. Impacto: 6 (1d10+1) piercing damage. Markham carries twenty crossbow bolts.
 
 ### Roleplaying Information
 

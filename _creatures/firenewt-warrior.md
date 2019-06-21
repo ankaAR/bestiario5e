@@ -18,12 +18,12 @@ hit_points: "22 (4d8+4)"
 armor_class: "16 (chain shirt, shield)"
 ---
 
-***Amphibious.*** The firenewt can breathe air and water.
+***Anfibio.*** The firenewt puede respirar aire y agua.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The firenewt makes two attacks with its scimitar.
+***Multiataque.*** The firenewt makes two attacks with its scimitar.
 
-***Scimitar.*** Melee Weapon Attack: +3 to hit, reach 5 ft. one target. Hit: 4 (1d6+1) slashing damage.
+***Scimitar.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage.
 
 ***Spit Fire (Recharges after a Short or Long Rest).*** The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one

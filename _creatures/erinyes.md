@@ -14,7 +14,7 @@ challenge: "12 (8,400 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "truesight 120 ft."
 damage_immunities: "fire, poison"
-saving_throws: "Dex +7, Con +8, Wis +6, Cha +8"
+saving_throws: "Des +7, Con +8, Sab +6, Car +8"
 speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
 armor_class: "18 (plate)"
@@ -26,13 +26,13 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Magic Resistance.*** The erinyes has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The erinyes makes three attacks
+***Multiataque.*** The erinyes makes three attacks
 
-***Longsword.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
+***Longsword.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 
-***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
+***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 
 ***Variant: Rope of Entanglement.*** Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 

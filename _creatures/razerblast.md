@@ -12,7 +12,7 @@ size: Medium humanoid (human)
 alignment: chaotic evil
 challenge: "5 (1,800 XP)"
 languages: "Common, Ignan"
-skills: "Intimidation +4, Perception +3"
+skills: "Intimidation +4, Percepción +3"
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
@@ -23,8 +23,8 @@ armor_class: "17 (splint)"
 
 ***Shrapnel Explosion.*** When the razerblast drops to 0 hit points, a flaming orb in its chest explodes, destroying the razerblast's body and scattering its armor as shrapnel. Creatures within 10 feet of the razerblast when it explodes must succeed on a DC 12 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The razerblast makes three melee attacks.
+***Multiataque.*** The razerblast makes three melee attacks.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.

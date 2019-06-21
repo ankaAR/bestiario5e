@@ -33,8 +33,8 @@ Cantrips (at will): guidance, mending, resistance, thaumaturgy
 
 3rd level (2 slots): bestow curse, create food and water
 
-### Actions
+### Acciones
 
-***Multiattack.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
+***Multiataque.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
 
-***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) slashing damage.
+***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) slashing damage.

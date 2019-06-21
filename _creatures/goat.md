@@ -20,6 +20,6 @@ armor_class: "10"
 
 ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+### Acciones
 
-***Ram.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
+***Ram.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning damage.

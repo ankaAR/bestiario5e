@@ -13,19 +13,19 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Undercommon"
 senses: "truesight 120 ft."
-skills: "Arcana +3, Insight +4, Perception +2, Stealth +5"
+skills: "Arcana +3, Insight +4, Percepción +2, Stealth +5"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
-armor_class: "15 (natural armor)"
+armor_class: "15 (armadura natural)"
 ---
 
 ***Keen Sight.*** The nothic has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The nothic makes two claw attacks.
+***Multiataque.*** The nothic makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
 
 ***Rotting Gaze.*** The nothic targets one creature it can see within 30 ft. of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
 

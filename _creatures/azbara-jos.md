@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Common, Draconic, Infernal, Primordial, Thayan"
 skills: "Arcana +5, Deception +2, Insight +3, Stealth +5"
-saving_throws: "Int +5, Wis +3"
+saving_throws: "Int +5, Sab +3"
 speed: "30 ft."
 hit_points: "39 (6d8+12)"
 armor_class: "13 (16 with mage armor)"
@@ -35,6 +35,6 @@ armor_class: "13 (16 with mage armor)"
 
 * 3rd level (3 slots): counterspell, dispel magic, fireball
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

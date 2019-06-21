@@ -13,19 +13,19 @@ alignment: lawful good
 challenge: "3 (700 XP)"
 languages: "Draconic"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Perception +4, Stealth +4"
+skills: "Percepción +4, Stealth +4"
 damage_immunities: "fire"
-saving_throws: "Dex +4, Con +5, Wis +2, Cha +5"
+saving_throws: "Des +4, Con +5, Sab +2, Car +5"
 speed: "30 ft., fly 60 ft., swim 30 ft."
 hit_points: "60 (8d8+24)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 ---
 
-***Amphibious.*** The dragon can breathe air and water.
+***Anfibio.*** The dragon puede respirar aire y agua.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 

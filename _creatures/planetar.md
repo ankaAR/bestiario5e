@@ -13,11 +13,11 @@ alignment: lawful good
 challenge: "16 (15,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Perception +11"
-saving_throws: "Con +12, Wis +11, Cha +12"
+skills: "Percepción +11"
+saving_throws: "Con +12, Sab +11, Car +12"
 speed: "40 ft., fly 120 ft."
 hit_points: "200 (16d10+112)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened"
 damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
@@ -36,10 +36,10 @@ At will: detect evil and good, invisibility (self only)
 
 ***Magic Resistance.*** The planetar has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The planetar makes two melee attacks.
+***Multiataque.*** The planetar makes two melee attacks.
 
-***Greatsword.*** Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
+***Greatsword.*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
 ***Healing Touch (4/Day).*** The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.

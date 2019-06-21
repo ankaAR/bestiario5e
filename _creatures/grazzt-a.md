@@ -13,12 +13,12 @@ alignment: shapechanger)
 challenge: "24 (62,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Deception +15, Insight +12, Perception +12, Persuasion +15"
+skills: "Deception +15, Insight +12, Percepción +12, Persuasion +15"
 damage_immunities: "poison; bludgeoning, piercing, and slashing that is nonmagical"
-saving_throws: "Dex +9, Con +12, Wis +12"
+saving_throws: "Des +9, Con +12, Sab +12"
 speed: "40 ft."
 hit_points: "378 (36d10+180)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
@@ -39,15 +39,15 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 ***Magic Weapon.*** Graz'zt's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Graz'zt attacks twice with the Wave of Sorrow.
+***Multiataque.*** Graz'zt attacks twice with the Wave of Sorrow.
 
-***Wave of Sorrow (Greatsword).*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target, Hit; 20 (4d6 + 6) slashing damage plus 14 (4d6) acid damage.
+***Wave of Sorrow (Greatsword).*** Melee Weapon Attack: +13 al ataque, alcance 10 ft., one target, Hit; 20 (4d6 + 6) slashing damage plus 14 (4d6) acid damage.
 
 ***Teleport.*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creautre's turn. Graz'zt regains spent legendary actions at the start of his turn.
 

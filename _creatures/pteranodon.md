@@ -11,14 +11,14 @@ str: 12 (+1)
 size: Medium beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-skills: "Perception +1"
+skills: "Percepción +1"
 speed: "10 ft., fly 60 ft."
 hit_points: "13 (3d8)"
-armor_class: "13 (natural armor)"
+armor_class: "13 (armadura natural)"
 ---
 
 ***Flyby.*** The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage

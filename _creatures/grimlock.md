@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Undercommon"
 senses: "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius)"
-skills: "Athletics +5, Perception +3, Stealth +3"
+skills: "Athletics +5, Percepción +3, Stealth +3"
 damage_immunities: "blinded"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"
@@ -26,6 +26,6 @@ armor_class: "11"
 
 ***Stone Camouflage.*** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Actions
+### Acciones
 
-***Spiked Bone Club.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+***Spiked Bone Club.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.

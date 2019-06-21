@@ -15,11 +15,11 @@ senses: "darkvision 60 ft., tremorsense 60 ft."
 damage_immunities: "cold, fire"
 speed: "30 ft., burrow 20 ft."
 hit_points: "93 (11d10+33)"
-armor_class: "14 (natural armor)"
+armor_class: "14 (armadura natural)"
 ---
 
 ***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.

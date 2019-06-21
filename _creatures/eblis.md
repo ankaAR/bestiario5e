@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 Languages: "Auran, Common"
 senses: "passive Perception 14"
-skills: "Perception +4"
+skills: "Percepción +4"
 speed: "30 ft., fly 40 ft."
 hit_points: "26 (4d10 +4)"
 armor_class: "13"
@@ -23,8 +23,8 @@ armor_class: "13"
 
 1/day each: blur, hypnotic pattern, minor illusion
 
-### Actions
+### Acciones
 
-***Multiattack.*** The eblis attacks twice with its beak.
+***Multiataque.*** The eblis attacks twice with its beak.
 
-***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 +3) piercing damage.
+***Beak.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 +3) piercing damage.

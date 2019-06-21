@@ -19,7 +19,7 @@ hit_points: "33 (6d8+6)"
 armor_class: "10 (13 with mage armor)"
 ---
 
-***Amphibious.*** The firenewt can breathe air and water.
+***Anfibio.*** The firenewt puede respirar aire y agua.
 
 ***Innate Spellcasting.*** The firenewt's innate spellcasting ability is Charisma. It can innately cast mage armor (self only) at will, requiring no material components.
 
@@ -31,6 +31,6 @@ Cantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation
 
 ***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 
-### Actions
+### Acciones
 
-***Morningstar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8+1) piercing damage.
+***Morningstar.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8+1) piercing damage.

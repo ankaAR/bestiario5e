@@ -13,7 +13,7 @@ size: Medium humanoid (human
 alignment: shapechanger)
 challenge: "2 (450 XP)"
 languages: "Common (can't speak in raven form)"
-skills: "Insight +4, Perception +6"
+skills: "Insight +4, Percepción +6"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
 speed: "30 ft., fly 50 ft. in raven and hybrid forms"
 hit_points: "31 (7d8)"
@@ -24,12 +24,12 @@ armor_class: "12"
 
 ***Mimicry.*** The wereraven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-### Actions
+### Acciones
 
 ***Multiattack (Human or Hybrid Form Only).*** The wereraven makes two weapon attacks, one of which can be with its hand crossbow.
 
-***Beak (Raven or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage in raven form, or 4 (1d4+2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.
+***Beak (Raven or Hybrid Form Only).*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage in raven form, or 4 (1d4+2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.
 
-***Shortsword (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) piercing damage.
+***Shortsword (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 
-***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6+2) piercing damage.
+***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.

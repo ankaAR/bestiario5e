@@ -16,7 +16,7 @@ senses: "darkvision 120 ft."
 damage_immunities: "fire, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "30 ft."
 hit_points: "210 (20d10+100)"
-armor_class: "20 (natural armor)"
+armor_class: "20 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
 
@@ -28,12 +28,12 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Weapons.*** The golem's weapon attacks are magical.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The golem makes two melee attacks.
+***Multiataque.*** The golem makes two melee attacks.
 
-***Slam.*** Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d8 + 7) bludgeoning damage.
 
-***Sword.*** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing damage.
+***Sword.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 23 (3d10 + 7) slashing damage.
 
 ***Poison Breath (Recharge 5-6).*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (l0d8) poison damage on a failed save, or half as much damage on a successful one.

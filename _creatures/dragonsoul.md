@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Common, Draconic, Infernal"
 skills: "Deception +6, Stealth +7"
-saving_throws: "Wis +4"
+saving_throws: "Sab +4"
 speed: "30 ft."
 hit_points: "110 (17d8+34)"
 armor_class: "16 (studded leather)"
@@ -28,10 +28,10 @@ damage_resistances: "one of the following: acid, cold, fire, lightning or poison
 
 ***Pack Tactics.*** The dragonsoul has advantage on an attack roll against a creature if at least one of the dragonclaw's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The Dragonsoul attacks twice with its shortsword.
+***Multiataque.*** The Dragonsoul attacks twice with its shortsword.
 
-***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has resistance.
+***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has resistance.
 
-***Orb of Dragon's Breath (3/Day).*** Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which the dragonsoul has damage resistance.
+***Orb of Dragon's Breath (3/Day).*** Ranged Spell Attack: +7 to hit, range 90 pies, un objetivo. Impacto: 27 (6d8) damage of the type to which the dragonsoul has damage resistance.

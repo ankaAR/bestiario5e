@@ -14,11 +14,11 @@ alignment: chaotic evil
 challenge: "13 (10,000 XP)"
 languages: "Common, Dwarvish, Elvish, Goblin, Undercommon"
 senses: "darkvision 120 ft., passive Perception 16"
-skills: "Arcana +9, Athletics +9, Perception +6, Stealth +5"
+skills: "Arcana +9, Athletics +9, Percepción +6, Stealth +5"
 saving_throws: "Con +8, Int +9"
 speed: "50 ft."
 hit_points: "195 (23d10+69)"
-armor_class: "16 (natural armor)"
+armor_class: "16 (armadura natural)"
 ---
 
 ***Spellcasting.*** Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
@@ -41,15 +41,15 @@ armor_class: "16 (natural armor)"
 
 ***Legendary Resistance (3/Day).*** If Muiral fails a saving throw, he can choose to succeed instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** Muiral makes three attacks: two with his longsword and one with his sting.
+***Multiataque.*** Muiral makes three attacks: two with his longsword and one with his sting.
 
-***Longsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.
+***Longsword.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.
 
-***Sting.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
+***Sting.*** Melee Weapon Attack: +9 al ataque, alcance 10 ft., one creature. Hit: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Muiral can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Muiral regains spent legendary actions at the start of his turn.
 

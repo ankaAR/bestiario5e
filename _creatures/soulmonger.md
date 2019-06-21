@@ -14,9 +14,9 @@ alignment: neutral
 challenge: "11 (7200 XP)"
 languages: "Common, Elvish"
 senses: "darkvision 60 ft., passive Perception 17"
-skills: "Perception +7"
+skills: "Percepción +7"
 damage_immunities: "necrotic, psychic"
-saving_throws: "Dex +7, Wis +7, Cha +5"
+saving_throws: "Des +7, Sab +7, Car +5"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"
 armor_class: "15 (studded leather)"
@@ -35,10 +35,10 @@ condition_immunities: "charmed, exhaustion, frightened"
 
 ***Weight of Ages.*** Any beast or humanoid, other than a shadar-kai, that starts its turn within 5 feet of the soul monger has its speed reduced by 20 feet until the start of that creature's next turn.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The soul monger makes two phantasmal dagger attacks.
 
-***Phantasmal Dagger*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.
+***Phantasmal Dagger*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.
 
 ***Wave of Weariness (Recharge 4-6)*** The soul monger emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes 22 (5d8) psychic damage.

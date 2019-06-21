@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "all the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 22"
-skills: "Athletics +7, History +8, Perception +12, Stealth +8"
+skills: "Athletics +7, Historia +8, Percepción +12, Stealth +8"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "105  (14d8 + 42)"
@@ -39,13 +39,13 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 * 6th level (1 slot): eyebite
 * 7th level (1 slot): finger of death
 
-### Actions
+### Acciones
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
-***Bone Staff*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
+***Bone Staff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The skull lord regains spent legendary actions at the start of its turn.
 

@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any non-good alignment
 challenge: "8 (3,900 XP)"
 languages: "Thieves' cant plus any two languages"
-skills: "Acrobatics +6, Deception +3, Perception +3, Stealth +9"
-saving_throws: "Dex +6, Int +4"
+skills: "Acrobatics +6, Deception +3, Percepción +3, Stealth +9"
+saving_throws: "Des +6, Int +4"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "15 (studded leather)"
@@ -26,10 +26,10 @@ damage_resistances: "poison"
 
 ***Sneak Attack (1/Turn).*** The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The assassin makes two shortsword attacks.
+***Multiataque.*** The assassin makes two shortsword attacks.
 
-***Shortsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Shortsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
-***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.

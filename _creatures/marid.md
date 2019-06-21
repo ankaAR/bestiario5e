@@ -13,14 +13,14 @@ alignment: chaotic neutral
 challenge: "11 (7,200 XP)"
 languages: "Aquan"
 senses: "blindsight 30 ft., darkvision 120 ft."
-saving_throws: "Dex +5, Wis +7, Cha +8"
+saving_throws: "Des +5, Sab +7, Car +8"
 speed: "30 ft., fly 60 ft., swim 90 ft."
 hit_points: "229 (17d10+136)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 damage_resistances: "acid, cold, lightning"
 ---
 
-***Amphibious.*** The marid can breathe air and water.
+***Anfibio.*** The marid puede respirar aire y agua.
 
 ***Elemental Demise.*** If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.
 
@@ -44,10 +44,10 @@ The genie power to grant wishes is legendary among mortals. Only the most potent
 
 To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The marid makes two trident attacks.
+***Multiataque.*** The marid makes two trident attacks.
 
-***Trident.*** Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.
+***Trident.*** Melee or Ranged Weapon Attack: +10 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.
 
 ***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone.

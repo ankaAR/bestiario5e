@@ -16,17 +16,17 @@ condition_immunities: "poisoned"
 damage_immunities: "poison"
 speed: "30 ft., climb 30 ft."
 hit_points: "59 (7d10 +21)"
-armor_class: "11 (natural armor)"
+armor_class: "11 (armadura natural)"
 ---
 
 ***Aggressive.*** As a bonus action, the zombie can move up to its speed toward a hostile creature that it can see.
 
 ***Undead fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+### Acciones
 
-***Multiattack.*** The zombie makes five attacks: one with its bite and four with its claws.
+***Multiataque.*** The zombie makes five attacks: one with its bite and four with its claws.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (ld6 +4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (ld6 +4) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (ld4 +4) slashing damage.
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld4 +4) slashing damage.

@@ -12,13 +12,13 @@ size: Large celestial
 alignment: chaotic good
 challenge: "2 (450 XP)"
 languages: "understands Celestial, Common, Elvish, and Sylvan but can't speak"
-skills: "Perception +6"
-saving_throws: "Dex +4, Wis +4, Cha +3"
+skills: "Percepción +6"
+saving_throws: "Des +4, Sab +4, Car +3"
 speed: "60 ft., fly 90 ft."
 hit_points: "59 (7d10+21)"
 armor_class: "12"
 ---
 
-### Actions
+### Acciones
 
-***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.

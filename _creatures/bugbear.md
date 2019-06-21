@@ -23,8 +23,8 @@ armor_class: "16 (hide armor, shield)"
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-### Actions
+### Acciones
 
-***Morningstar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
+***Morningstar.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8 + 2) piercing damage.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.

@@ -19,6 +19,6 @@ armor_class: "10"
 
 ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

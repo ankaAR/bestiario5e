@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "1/2 (100 XP)"
 languages: "Common"
 senses: "tremorsense 10 ft."
-skills: "Acrobatics +4, Athletics +3, Perception +4"
+skills: "Acrobatics +4, Athletics +3, Percepción +4"
 speed: "40 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "14"
@@ -23,11 +23,11 @@ armor_class: "14"
 
 ***Unarmored Movement.*** While the monk is wearing no armor and wielding no shield, its walking speed increases by 10 feet (included in its speed).
 
-### Actions
+### Acciones
 
-***Multiattack.*** The monk makes two melee attacks.
+***Multiataque.*** The monk makes two melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage.
 
 ### Reactions
 

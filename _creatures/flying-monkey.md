@@ -19,6 +19,6 @@ armor_class: "12"
 
 ***Pack Tactics.*** The flying monkey has advantage on an attack roll against a creature if at least one of the monkey's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +l to hit, reach 5 ft., one target. Hit: 1 (1d4 -1) piercing damage.
+***Bite.*** Melee Weapon Attack: +l al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4 -1) piercing damage.

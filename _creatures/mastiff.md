@@ -11,7 +11,7 @@ str: 13 (+1)
 size: Medium beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
-skills: "Perception +3"
+skills: "Percepción +3"
 speed: "40 ft."
 hit_points: "5 (1d8+1)"
 armor_class: "12"
@@ -19,6 +19,6 @@ armor_class: "12"
 
 ***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+### Acciones
 
-***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.

@@ -14,12 +14,12 @@ alignment: neutral evil
 challenge: "11 (7200 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
-skills: "Deception +8, Insight +6, Perception +6, Persuasion +8"
+skills: "Deception +8, Insight +6, Percepción +6, Persuasion +8"
 damage_immunities: "acid, poison"
-saving_throws: "Dex +6, Int +7, Wis +6, Cha +8"
+saving_throws: "Des +6, Int +7, Sab +6, Car +8"
 speed: "40 ft."
 hit_points: "147  (14d10 + 70)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -32,13 +32,13 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The yagnoloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The yagnoloth makes one massive arm attack and one electrified touch attack, or it makes one massive arm attack and teleports before or after the attack.
 
-***Electrified Touch*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 27 (6d8) lightning damage.
+***Electrified Touch*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 27 (6d8) lightning damage.
 
-***Massive Arm*** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23 (3d12 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or is stunned until the end of the yagnoloth's next turn.
+***Massive Arm*** Melee Weapon Attack: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (3d12 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or is stunned until the end of the yagnoloth's next turn.
 
 ***Life Leech*** The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.
 

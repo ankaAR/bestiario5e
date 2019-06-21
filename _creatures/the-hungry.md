@@ -16,16 +16,16 @@ languages: "Common"
 senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft."
 hit_points: "225  (30d8 + 90)"
-armor_class: "17 (natural armor)"
+armor_class: "17 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
 
 ***Life Hunger.*** If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The Hungry makes two attacks: one with its bite and one with its claws.
 
-***Bite*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage.
+***Bite*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage.
 
-***Claws*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 16) and is restrained until the grapple ends. While grappling a creature, the Hungry can't attack with its claws.
+***Claws*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (4d6 + 4) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 16) and is restrained until the grapple ends. While grappling a creature, the Hungry can't attack with its claws.

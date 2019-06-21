@@ -14,7 +14,7 @@ alignment: any alignment
 challenge: "3 (700 XP)"
 languages: "any one language (usually Common)"
 senses: "darkvision, passive Perception 12"
-skills: "Athletics +5, Perception +2"
+skills: "Athletics +5, Percepción +2"
 speed: "30 ft."
 hit_points: "58  (9d8 + 18)"
 armor_class: "17 (splint)"
@@ -23,12 +23,12 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-### Actions
+### Acciones
 
 ***Multiattack*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
-***Longsword*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Shortsword*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Shortsword*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
 
-***Heavy Crossbow*** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
+***Heavy Crossbow*** Ranged Weapon Attack: +3 to hit, range 100/400 pies, un objetivo. Impacto: 6 (1d10 + 1) piercing damage.

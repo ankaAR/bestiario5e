@@ -18,8 +18,8 @@ hit_points: "16 (3d8+3)"
 armor_class: "14 (studded leather armor)"
 ---
 
-### Actions
+### Acciones
 
-***Multiattack.*** The ruffian makes two melee attacks.
+***Multiataque.*** The ruffian makes two melee attacks.
 
-***Shortsword.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

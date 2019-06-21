@@ -12,8 +12,8 @@ size: Medium humanoid (any race)
 alignment: any alignment
 challenge: "12 (8,400 XP)"
 languages: "any six languages"
-skills: "Arcana +13, History +13"
-saving_throws: "Int +9, Wis +6"
+skills: "Arcana +13, Historia +13"
+saving_throws: "Int +9, Sab +6"
 speed: "30 ft."
 hit_points: "99 (18d8+18)"
 armor_class: "12 (15 with mage armor)"
@@ -46,6 +46,6 @@ damage_resistances: "damage from spells; non magical bludgeoning, piercing, and 
 
 * The archmage casts these spells on itself before combat.
 
-### Actions
+### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

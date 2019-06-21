@@ -15,10 +15,10 @@ challenge: "0 (0 XP)"
 languages: "the languages the eidolon knew in life"
 senses: "darkvision 60 ft., passive Perception 14"
 damage_immunities: "cold, necrotic, poison"
-saving_throws: "Wis +8"
+saving_throws: "Sab +8"
 speed: "25 ft."
 hit_points: "95  (10d10 + 40)"
-armor_class: "19 (natural armor)"
+armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 damage_resistances: "acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -29,10 +29,10 @@ damage_resistances: "acid, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Inert.*** When not inhabited by an eidolon, the statue is an object.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The statue makes two slam attacks.
 
-***Slam*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 43 (6d12 + 4) bludgeoning damage.
+***Slam*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 43 (6d12 + 4) bludgeoning damage.
 
-***Rock*** Ranged Weapon Attack: +8 to hit, range 60 ft./240 ft., one target. Hit: 37 (6d10 + 4) bludgeoning damage.
+***Rock*** Ranged Weapon Attack: +8 to hit, range 60 ft./240 pies, un objetivo. Impacto: 37 (6d10 + 4) bludgeoning damage.
