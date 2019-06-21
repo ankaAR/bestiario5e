@@ -21,6 +21,6 @@ armor_class: "12"
 
 ***Multiataque.*** The ape makes two fist attacks.
 
-***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
-***Rock.*** Ranged Weapon Attack: +5 to hit, range 25/50 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +5 to hit, range 25/50 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.

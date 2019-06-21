@@ -33,4 +33,4 @@ armor_class: "16 (chain mail)"
 
 ***Multiataque.*** Frulam attacks twice with her halberd.
 
-***Halberd.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) bludgeoning damage.
+***Halberd.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño contundente.

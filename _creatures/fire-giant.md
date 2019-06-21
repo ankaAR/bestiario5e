@@ -30,4 +30,4 @@ armor_class: "18 (plate)"
 
 ***Greatsword.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 28 (6d6 + 7) slashing damage.
 
-***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10 + 7) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10 + 7) puntos de daño contundente.

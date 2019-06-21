@@ -34,4 +34,4 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Multiataque.*** The wood woad makes two attacks with its club.
 
-***Club.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d4+4) bludgeoning damage.
+***Club.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d4+4) puntos de daño contundente.

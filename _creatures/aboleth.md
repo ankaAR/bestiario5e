@@ -15,35 +15,35 @@ languages: "Habla profunda, telepatía 120 pies (36 mts)"
 senses: "Visión en la oscuridad 120 pies (36)"
 skills: "Historia +12, Percepción +10"
 saving_throws: "Con +6, Int +8, Sab +6"
-speed: "10 ft., swim 40 ft."
+speed: "10 pies (3 mts), nadando 40 pies (12 mts)"
 hit_points: "135 (18d10+36)"
 armor_class: "17 (armadura natural)"
 ---
 
 ***Anfibio.*** El abolez puede respirar aire y agua.
 
-***Mucous Cloud.*** Mientras está bajo el agua,the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.
+***Mucous Cloud.*** Mientras está bajo el agua, el abolez está envuelto en una mucosa cambiante. Una criatura que toque al abolez o que lo golpee con un ataque cuerpo a cuerpo mientras esté a 5 pies (1.5 mts) o menos de él debe hacer una tirada de salvación de Constitución CD 14. Si falla, queda enferma durante 1d4 horas. La criatura enferma solo puede respirar bajo el agua.
 
-***Probing Telepathy.*** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
+***Telepatía interrogatoria.*** Si una criatura que el abolez pueda ver se comunica telepáticamente con el abolez, este averigua sus mayores deseos.
 
 ### Actions
 
-***Multiataque.*** El abolez makes three tentacle attacks.
+***Multiataque.*** El abolez hace tres ataques de tentáculos.
 
-***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente. Si el objetivo es una criatura, debe superar una tirada de salvación de Constitución CD 14 para no quedar enferma. La enfermedad empieza a tener efecto después de 1 minuto, tiempo durante el cual se puede eliminar mediante cualquier magia que cure una enfermedad. Después de 1 minuto, la piel de la criatura enferma se vuelve translúcida y viscosa, la criatura no puede recuperar puntos de golpe a menos que se encuentre bajo el agua y la enfermedad solo se puede eliminar con Sanar u otro conjuro de nivel 6 o superior que cure enfermedades. Cuando la criatura está fuera del agua, recibe 6 (1d12) puntos de daño por ácido cada 10 minutos a menos que se le aplique algo húmedo sobre la piel en ese tiempo.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (3d6 + 5) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (3d6 + 5) puntos de daño contundente.
 
-***Esclavizar (3/día).*** El abolez targets one creature it can see within 30 ft. of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.
+***Esclavizar (3/día).*** El abolez elige a una criatura que pueda ver a 30 pies (9 mts) o menos de él. El objetivo debe superar una tirada de salvación de Sabiduría CD 14 para no quedar hechizado mágicamente por el abolez hasta que este muera o se encuentre en un plano de existencia diferente al plano en el que se encuentre el objetivo. El objetivo hechizado está bajo el control del abolez y no puede realizar reacciones, y ambos se pueden comunicar telepáticamente entre sí a cualquier distancia.
 
-Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
+WCuando el objetivo hechizado recibe daño, puede repetir la tirada de salvación. Si tiene éxito, el efecto termina. Una vez cada 24 horas, el objetivo puede repetir la tirada de salvación si está al menos a 1 milla de distancia del abolez.
 
 ### Legendary Actions
 
-El abolez can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. El abolez regains spent legendary actions at the start of its turn.
+El abolez puede realizar las siguientes 3 acciones legendarias, solo una a la vez y al final del turno de otra criatura. Recupera las acciones legendarias gastadas al principio de su turno.
 
 ***Detectar.*** El abolez hace una prueba de Sabiduría (Percepción).
 
-***Coletazo.*** El abolez makes one tail attack.
+***Coletazo.*** El abolez hace un ataque de cola.
 
-***Psychic Drain (Costs 2 Actions).*** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+***Drenar psique (cuesta 2 acciones).*** Una criatura hechizada por el abolez recibe 10 (3d6) puntos de daño psíquico y el abolez recupera tantos puntos de golpe como daño reciba la criatura.

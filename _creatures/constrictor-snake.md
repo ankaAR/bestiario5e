@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 senses: "blindsight 10 ft."
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "13 (2d10+2)"
 armor_class: "12"
 ---
@@ -21,4 +21,4 @@ armor_class: "12"
 
 ***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 
-***Constrict.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+***Constrict.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 6 (1d8 + 2) puntos de daño contundente, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.

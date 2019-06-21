@@ -43,12 +43,12 @@ damage_resistances: "cold, fire, lightning"
 
 ***Bite*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (3d6 + 9) piercing damage.
 
-***Fist*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d8 + 9) bludgeoning damage.
+***Fist*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d8 + 9) puntos de daño contundente.
 
 ### Legendary Actions
 
 Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. FrazUrb'luu regains spent legendary actions at the start of his turn.
 
-***Tail*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+***Tail*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) puntos de daño contundente. If the target is a Large or smaller creature, it is also grappled (escape DC 24). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.
 
-***Phantasmal Killer (Costs 2 Actions)*** Fraz-Urb'luu casts phantasmal killer, no concentration required.
+***Phantasmal Killer (cuesta 2 acciones)*** Fraz-Urb'luu casts phantasmal killer, no concentration required.

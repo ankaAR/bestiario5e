@@ -42,4 +42,4 @@ armor_class: "12 (leather armor)"
 
 ***Multiataque.*** Rictavio makes two attacks with his sword cane.
 
-***Sword Cane.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).
+***Sword Cane.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente (wooden cane) or piercing damage (silvered sword).

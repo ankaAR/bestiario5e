@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "Abyssal, Ixitxachitl"
 senses: "darkvision 60 ft."
-speed: "0 ft., swim 30 ft."
+speed: "0 ft., nadando 30 ft."
 hit_points: "18 (4d6+4)"
 armor_class: "15 (armadura natural)"
 ---

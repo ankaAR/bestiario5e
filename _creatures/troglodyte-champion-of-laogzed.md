@@ -33,6 +33,6 @@ armor_class: "14 (armadura natural)"
 
 ***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) slashing damage.
 
-***Greatclub.*** Melee Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) bludgeoning damage.
+***Greatclub.*** Melee Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño contundente.
 
 ***Acid Spray (Recharge 6).*** The troglodyte spits acid in a line 15 feet long and 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.

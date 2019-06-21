@@ -52,7 +52,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 Titivilus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Titivilus regains spent legendary actions at the start of his turn.
 
-***Assault (Costs 2 Actions)*** Titivilus attacks with his silver sword or uses his Frightful Word.
+***Assault (cuesta 2 acciones)*** Titivilus attacks with his silver sword or uses his Frightful Word.
 
 ***Corrupting Guidance*** Titivilus uses Twisting Words. Alternatively, he targets one creature charmed by him that is within 60 feet of him; that charmed target must make a DC 21 Charisma saving throw. On a failure, Titivilus decides how the target acts during its next turn.
 

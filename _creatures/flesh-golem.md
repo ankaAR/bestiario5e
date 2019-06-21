@@ -38,4 +38,4 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Multiataque.*** The golem makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.

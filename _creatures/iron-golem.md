@@ -32,7 +32,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Multiataque.*** The golem makes two melee attacks.
 
-***Slam.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d8 + 7) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d8 + 7) puntos de daño contundente.
 
 ***Sword.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 23 (3d10 + 7) slashing damage.
 

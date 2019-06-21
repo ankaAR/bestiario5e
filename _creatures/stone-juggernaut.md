@@ -19,7 +19,7 @@ hit_points: "157 (15d10 +75)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Devastating Roll.*** The juggernaut can move through the space of a prone creature. A creature whoses pace the juggernaut enters for the first time on a turn must make a DC 17 Dexterity saving throw, taking 55 (lOdlO) bludgeoning damage on a failed save, or half as much damage on a successful one.
+***Devastating Roll.*** The juggernaut can move through the space of a prone creature. A creature whoses pace the juggernaut enters for the first time on a turn must make a DC 17 Dexterity saving throw, taking 55 (lOdlO) puntos de daño contundente on a failed save, or half as much damage on a successful one.
 
 ***Immutable Form.*** The juggernaut is immune to any spell or effect that would alter its form.
 
@@ -29,4 +29,4 @@ armor_class: "15 (armadura natural)"
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (3dl2 +6) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+***Slam.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (3dl2 +6) puntos de daño contundente. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.

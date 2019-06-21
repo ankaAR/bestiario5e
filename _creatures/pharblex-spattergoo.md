@@ -14,7 +14,7 @@ challenge: "3 (700 XP)"
 languages: "Común, Bullywug"
 skills: "Percepción +5, Religión +2, Sigilo +3"
 saving_throws: "Str +4, Con +6"
-speed: "20 ft., swim 40 ft."
+speed: "20 ft., nadando 40 pies (12 mts)"
 hit_points: "59 (7d8+28)"
 armor_class: "15 (studded leather armor, shield)"
 ---

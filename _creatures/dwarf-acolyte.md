@@ -29,4 +29,4 @@ damage_resistances: "poison"
 
 ### Actions
 
-***Club*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage.
+***Club*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.

@@ -55,6 +55,6 @@ Muiral can take 3 legendary actions, choosing from the options below. Only one l
 
 ***Cast Cantrip.*** Muiral casts a cantrip.
 
-***Lunging Attack (Costs 2 Actions).*** Muiral makes one longsword attack that has a reach of 10 feet.
+***Lunging Attack (cuesta 2 acciones).*** Muiral makes one longsword attack that has a reach of 10 feet.
 
 ***Retreating Strike (Costs 3 Actions).*** Muiral moves up to his speed without provoking opportunity attacks. Before the move, he can make one longsword attack.

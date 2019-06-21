@@ -20,6 +20,6 @@ armor_class: "10"
 
 ### Actions
 
-***Ram.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
+***Ram.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
-***Hooves.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one prone creature. Hit: 8 (2d4 + 3) puntos de daño contundente.

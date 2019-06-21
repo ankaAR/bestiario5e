@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft., passive Perception 11"
-speed: "30 ft., swim 40 ft."
+speed: "30 ft., nadando 40 pies (12 mts)"
 hit_points: "75 (10d10 +20)"
 armor_class: "17 (armadura natural), 12 while prone"
 ---

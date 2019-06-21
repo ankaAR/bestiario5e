@@ -22,7 +22,7 @@ armor_class: "14 (leather armor)"
 
 ### Actions
 
-***Ram.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) bludgeoning damage.
+***Ram.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño contundente.
 
 ***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1 d6 + 3) piercing damage.
 

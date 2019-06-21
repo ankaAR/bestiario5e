@@ -33,6 +33,6 @@ Sheriff's deputy Augrek guards the southwest gate of BRyn Shander and welcomes v
 
 ### Actions
 
-***Warhammer.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) bludgeoning damage, or 7 (1d10+2) bludgeoning damage if used with two hands.
+***Warhammer.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño contundente, or 7 (1d10+2) puntos de daño contundente if used with two hands.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage. Augrek carries ten crossbow bolts.

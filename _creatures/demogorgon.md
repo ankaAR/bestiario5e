@@ -17,7 +17,7 @@ senses: "truesight 120 ft., passive Perception 29"
 skills: "Insight +11, Percepción +19"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
 saving_throws: "Des +10, Con +16, Sab +11, Car +15"
-speed: "50 ft., swim 50 ft."
+speed: "50 ft., nadando 50 ft."
 hit_points: "406  (28d12 +224)"
 armor_class: "22 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Demogorgon makes two tentacle attacks.
 
-***Tentacle*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 28 (3d12 + 9) bludgeoning damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
+***Tentacle*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 28 (3d12 + 9) puntos de daño contundente. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 
 ***Gaze*** Demogorgon turns his magical gaze toward one creature that he can see within 120 feet of him. That target must make a DC 23 Wisdom saving throw. Unless the target is incapacitated, it can avert its eyes to avoid the gaze and to automatically succeed on the save. If the target does so, it can't see Demogorgon until the start of his next turn. If the target looks at him in the meantime, it must immediately make the save.
 If the target fails the save, the target suffers one of the following effects of Demogorgon's choice or at random:
@@ -53,6 +53,6 @@ If the target fails the save, the target suffers one of the following effects of
 
 Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of his turn.
 
-***Tail*** Melee Weapon Attack: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.
+***Tail*** Melee Weapon Attack: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) puntos de daño contundente plus 11 (2d10) necrotic damage.
 
 ***Maddening Gaze*** Demogorgon uses his Gaze action, and must choose either the Beguiling Gaze or the Insanity Gaze effect.

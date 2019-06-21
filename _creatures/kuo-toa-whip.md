@@ -14,7 +14,7 @@ challenge: "1 (200 XP)"
 languages: "Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +6, Religión +4"
-speed: "32 ft., swim 30 ft."
+speed: "32 ft., nadando 30 ft."
 hit_points: "65 (10d8+20)"
 armor_class: "11 (armadura natural)"
 ---

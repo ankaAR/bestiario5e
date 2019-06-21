@@ -39,4 +39,4 @@ armor_class: "15 (patchwork armor)"
 
 ***Greataxe.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 26 (3d12+7) slashing damage, or 30 (3d12+11) slashing damage while raging.
 
-***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10+7) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10+7) puntos de daño contundente.

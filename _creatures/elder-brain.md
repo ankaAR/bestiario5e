@@ -15,7 +15,7 @@ languages: "understands Common, Deep Speech, and Undercommon but can't speak, te
 senses: "blindsight 120 ft."
 skills: "Arcana +10, Deception +12, Insight +14, Intimidation +12, Persuasion +12"
 saving_throws: "Int +10, Sab +9, Car +12"
-speed: "5ft., swim 10 ft."
+speed: "5ft., nadando 10 ft."
 hit_points: "210 (20d10+100)"
 armor_class: "10"
 ---
@@ -36,7 +36,7 @@ At will: detect thoughts, levitate
 
 ### Actions
 
-***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 30 pies, un objetivo. Impacto: 20 (4d8+2) bludgeoning damage. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8+5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
+***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 30 pies, un objetivo. Impacto: 20 (4d8+2) puntos de daño contundente. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8+5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
 
 ***Mind Blast (Recharge 5-6).*** The elder brain magically emits psychic energy. Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10+5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

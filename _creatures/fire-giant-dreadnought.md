@@ -26,8 +26,8 @@ armor_class: "21 (plate, shields)"
 
 ***Multiataque.*** The giant makes two fireshield attacks.
 
-***Fireshield.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6+8) bludgeoning damage plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.
+***Fireshield.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6+8) puntos de daño contundente plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.
 
-***Rock.*** Ranged Weapon Attack: +13 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10+8) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +13 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10+8) puntos de daño contundente.
 
-***Shield Charge.*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, it makes a fireshield attack against that creature. If the attack hits, the target must also succeed on a DC 21 Strength saving throw or be pushed ahead of the giant for the rest of this move. If a creature fails the save by 5 or more, it is also knocked prone and takes 18 (3d6+8) bludgeoning damage, or 29 (6d6+8) bludgeoning damage if it was already prone.
+***Shield Charge.*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, it makes a fireshield attack against that creature. If the attack hits, the target must also succeed on a DC 21 Strength saving throw or be pushed ahead of the giant for the rest of this move. If a creature fails the save by 5 or more, it is also knocked prone and takes 18 (3d6+8) puntos de daño contundente, or 29 (6d6+8) puntos de daño contundente if it was already prone.

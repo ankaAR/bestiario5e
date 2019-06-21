@@ -27,6 +27,6 @@ armor_class: "19 (splint, shield)"
 
 ***Multiataque.*** Othelstan attacks twice with his flail or spear, or makes two ranged attacks with his spears.
 
-***Flail.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) bludgeoning damage.
+***Flail.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño contundente.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.

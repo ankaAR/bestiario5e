@@ -44,6 +44,6 @@ The atropal can take 3 legendary actions, choosing from the options below. Only 
 
 ***Touch.*** The atropal makes a touch attack.
 
-***Ray of Cold (Costs 2 Actions).*** The atropal uses its Ray of Cold.
+***Ray of Cold (cuesta 2 acciones).*** The atropal uses its Ray of Cold.
 
 ***Wail (Costs 3 Actions).*** The atropal lets out a withering wail. Any creature within 120 feet of the atropal that can hear the wail must succeed on a DC 19 Constitution saving throw or gain 1 level of exhaustion.

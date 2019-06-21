@@ -38,7 +38,7 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Horns.*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 32 (4d10 + 10) piercing damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 24 (4d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 
 ***Frightful Presence.*** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
 
@@ -54,4 +54,4 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ***Move.*** The tarrasque moves up to half its speed.
 
-***Chomp (Costs 2 Actions).*** The tarrasque makes one bite attack or uses its Swallow.
+***Chomp (cuesta 2 acciones).*** The tarrasque makes one bite attack or uses its Swallow.

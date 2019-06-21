@@ -66,7 +66,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Multiattack (Vampire Form Only).*** Strahd makes two attacks, only one of which can be a bite attack.
 
-***Unarmed Strike (Vampire Form Only).*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one creature. Hit: 8 (1d8+4) bludgeoning damage, plus 14 (4d6) necrotic damage. If the target is a creature, Strahd can grapple it (escape DC 18) instead of dealing the bludgeoning damage.
+***Unarmed Strike (Vampire Form Only).*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one creature. Hit: 8 (1d8+4) puntos de daño contundente, plus 14 (4d6) necrotic damage. If the target is a creature, Strahd can grapple it (escape DC 18) instead of dealing the bludgeoning damage.
 
 ***Bite (Bat or Vampire Form Only).*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. Hit: 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if  its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strahd's control.
 
@@ -84,4 +84,4 @@ Strahd can take 3 legendary actions, choosing from the options below. Only one l
 
 ***Unarmed Strike.*** Strahd makes one unarmed strike.
 
-***Bite (Costs 2 Actions).*** Strahd makes one bite attack.
+***Bite (cuesta 2 acciones).*** Strahd makes one bite attack.

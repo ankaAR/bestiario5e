@@ -24,7 +24,7 @@ armor_class: "16"
 
 ***Multiataque.*** The adept makes three unarmed strikes or three dart attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) bludgeoning damage. If the target is a creature, the adept can choose one of the following additional effects:
+***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) puntos de daño contundente. If the target is a creature, the adept can choose one of the following additional effects:
 
 * The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept's choice).
 

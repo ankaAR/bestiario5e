@@ -14,7 +14,7 @@ challenge: "2 (450 XP)"
 languages: "understands Draconic but can't speak it"
 senses: "darkvision 60 ft."
 skills: "Percepción +2"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "14 (armadura natural)"
 damage_resistances: "poison"
@@ -28,4 +28,4 @@ damage_resistances: "poison"
 
 ***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) piercing damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño contundente.

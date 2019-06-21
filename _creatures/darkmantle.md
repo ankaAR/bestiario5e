@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/2 (100 XP)"
 senses: "blindsight 60 ft."
 skills: "Sigilo +3"
-speed: "10 ft., fly 30 ft."
+speed: "10 pies (3 mts), fly 30 ft."
 hit_points: "22 (5d6+5)"
 armor_class: "11"
 ---
@@ -24,7 +24,7 @@ armor_class: "11"
 
 ### Actions
 
-***Crush.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
+***Crush.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 6 (1d6 + 3) puntos de daño contundente, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
 
 While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
 

@@ -25,4 +25,4 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The displacer beast makes two attacks with its tentacles.
 
-***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage.
+***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente plus 3 (1d6) piercing damage.

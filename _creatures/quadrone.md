@@ -27,6 +27,6 @@ armor_class: "16 (armadura natural)"
 
 ***Multiataque.*** The quadrone makes two fist attacks or four shortbow attacks.
 
-***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning damage.
+***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente.
 
 ***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

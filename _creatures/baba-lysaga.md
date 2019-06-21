@@ -48,6 +48,6 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** Baba Lysaga makes three attacks with her quarterstaff
 
-***Quarterstaff.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) bludgeoning damage if wielded with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) puntos de daño contundente if wielded with two hands.
 
 ***Summon Swarms of Insects (Recharges after a Short or Long Rest).*** Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.

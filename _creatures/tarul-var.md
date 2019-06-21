@@ -65,6 +65,6 @@ Var can take 3 legendary actions, choosing from the options below. Only one lege
 
 ***Cantrip.*** Var casts a cantrip.
 
-***Paralyzing Touch (Costs 2 Actions).*** Var uses Paralyzing Touch .
+***Paralyzing Touch (cuesta 2 acciones).*** Var uses Paralyzing Touch .
 
-***Frightening Gaze (Costs 2 Actions).*** Var fixes his gaze on one creature he can see within 10 feet of him . The target must succeed on a DC 17 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
+***Frightening Gaze (cuesta 2 acciones).*** Var fixes his gaze on one creature he can see within 10 feet of him . The target must succeed on a DC 17 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.

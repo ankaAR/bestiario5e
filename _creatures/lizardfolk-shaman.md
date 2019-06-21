@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "2 (450 XP)"
 languages: "Dragón"
 skills: "Percepción +4, Sigilo +4, Survival +6"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "13 (armadura natural)"
 ---

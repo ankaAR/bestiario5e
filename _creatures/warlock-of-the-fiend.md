@@ -37,4 +37,4 @@ Cantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusio
 
 ### Actions
 
-***Mace.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage.
+***Mace.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente plus 10 (3d6) fire damage.

@@ -39,4 +39,4 @@ Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with two hands.

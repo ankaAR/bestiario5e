@@ -77,7 +77,7 @@ The illithilich can take 3 legendary actions, choosing from the options below. O
 
 ***Tentacles.*** The illithilich makes one attack with its tentacles.
 
-***Extract Brain (Costs 2 Actions).*** The illithilich uses Extract Brain.
+***Extract Brain (cuesta 2 acciones).*** The illithilich uses Extract Brain.
 
 ***Mind Blast (Costs 3 Actions).*** The illithilich recharges its Mind Blast and uses it.
 

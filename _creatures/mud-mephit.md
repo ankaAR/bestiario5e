@@ -15,7 +15,7 @@ languages: "Aquan, Terran"
 senses: "darkvision 60 ft."
 skills: "Sigilo +3"
 damage_immunities: "poison"
-speed: "20 ft., fly 20 ft., swim 20 ft."
+speed: "20 ft., fly 20 ft., nadando 20 ft."
 hit_points: "27 (6d6+6)"
 armor_class: "11"
 condition_immunities: "poisoned"
@@ -27,7 +27,7 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Fists.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) bludgeoning damage.
+***Fists.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) puntos de daño contundente.
 
 ***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 ft. of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

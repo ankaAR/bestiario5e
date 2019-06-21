@@ -28,4 +28,4 @@ armor_class: "11"
 
 ### Actions
 
-***Spiked Bone Club.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+***Spiked Bone Club.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente plus 2 (1d4) piercing damage.

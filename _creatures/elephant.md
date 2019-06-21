@@ -22,4 +22,4 @@ armor_class: "12 (armadura natural)"
 
 ***Gore.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8 + 6) piercing damage.
 
-***Stomp.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage.
+***Stomp.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one prone creature. Hit: 22 (3d10 + 6) puntos de daño contundente.

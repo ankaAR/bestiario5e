@@ -32,4 +32,4 @@ armor_class: "13 (leather armor)"
 
 ### Actions
 
-***Quarterstaff*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) bludgeoning damage.
+***Quarterstaff*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente.

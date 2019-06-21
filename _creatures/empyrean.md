@@ -16,7 +16,7 @@ senses: "truesight 120 ft."
 skills: "Insight +13, Persuasion +15"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Str +17, Int +12, Sab +13, Car +15"
-speed: "50 ft., fly 50 ft., swim 50 ft."
+speed: "50 ft., fly 50 ft., nadando 50 ft."
 hit_points: "313 (19d12+190)"
 armor_class: "22 (armadura natural)"
 ---
@@ -35,7 +35,7 @@ At will: greater restoration, pass without trace, water breathing, water walk
 
 ### Actions
 
-***Maul.*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 31 (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be stunned until the end of the empyrean's next turn.
+***Maul.*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 31 (6d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be stunned until the end of the empyrean's next turn.
 
 ***Bolt.*** Ranged Spell Attack: +15 to hit, range 600 pies, un objetivo. Impacto: 24 (7d6) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder.
 
@@ -47,4 +47,4 @@ The empyrean can take 3 legendary actions, choosing from the options below. Only
 
 ***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be charmed or frightened, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
 
-***Trembling Strike (Costs 2 Actions).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked prone.
+***Trembling Strike (cuesta 2 acciones).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked prone.

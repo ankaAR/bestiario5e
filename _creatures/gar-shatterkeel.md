@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Aquan, Common"
 skills: "Nature +8, Survival +8"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "16 (armadura natural)"
 damage_resistances: "cold"
@@ -45,6 +45,6 @@ damage_resistances: "cold"
 
 ***Multiataque.*** Gar makes two melee attacks, one with his claw and one with Drown.
 
-***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
+***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
 
 ***Drown.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 4 (1d8) cold damage.

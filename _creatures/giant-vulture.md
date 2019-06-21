@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understands Common but can't speak"
 skills: "Percepción +3"
-speed: "10 ft., fly 60 ft."
+speed: "10 pies (3 mts), fly 60 ft."
 hit_points: "22 (3d10+6)"
 armor_class: "10"
 ---

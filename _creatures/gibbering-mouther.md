@@ -12,7 +12,7 @@ size: Medium aberration
 alignment: neutral
 challenge: "2 (450 XP)"
 senses: "darkvision 60 ft."
-speed: "10 ft., swim 10 ft."
+speed: "10 pies (3 mts), nadando 10 ft."
 hit_points: "67 (9d8+27)"
 armor_class: "9"
 condition_immunities: "prone"

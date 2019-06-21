@@ -22,4 +22,4 @@ armor_class: "9"
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (ld8 + 1) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (ld8 + 1) puntos de daño contundente.

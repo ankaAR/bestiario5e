@@ -43,4 +43,4 @@ Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) bludgeoning damage, or 3 (1d8-l) bludgeoning damage if used with two hands.
+***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) puntos de daño contundente, or 3 (1d8-l) puntos de daño contundente if used with two hands.

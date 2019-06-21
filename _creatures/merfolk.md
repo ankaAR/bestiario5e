@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/8 (25 XP)"
 languages: "Aquan, Common"
 skills: "Percepción +2"
-speed: "10 ft., swim 40 ft."
+speed: "10 pies (3 mts), nadando 40 pies (12 mts)"
 hit_points: "11 (2d8+2)"
 armor_class: "11"
 ---

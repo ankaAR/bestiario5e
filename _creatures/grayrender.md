@@ -27,4 +27,4 @@ armor_class: "19 (armadura natural)"
 
 ***Bite*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 
-***Claws*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage. If the target is prone an additional 7 (2d6) bludgeoning damage is dealt to the target.
+***Claws*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage. If the target is prone an additional 7 (2d6) puntos de daño contundente is dealt to the target.

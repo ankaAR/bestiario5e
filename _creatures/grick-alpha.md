@@ -24,7 +24,7 @@ damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical 
 
 ***Multiataque.*** The grick makes two attacks: one with its tail and one with its tentacles. If it hits with its tentacles, the grick can make one beak attack against the same target.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Tentacles.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d8 + 4) slashing damage.
 

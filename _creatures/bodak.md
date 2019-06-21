@@ -32,6 +32,6 @@ damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing f
 
 ### Actions
 
-***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) bludgeoning damage plus 9 (2d8) necrotic damage.
+***Fist.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente plus 9 (2d8) necrotic damage.
 
 ***Withering Gaze.*** One creature that the bodak can see within 60 feet of it must make a DC 13 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.

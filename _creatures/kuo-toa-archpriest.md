@@ -14,7 +14,7 @@ challenge: "6 (2,300 XP)"
 languages: "Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +9, Religión +6"
-speed: "31 ft., swim 30 ft."
+speed: "31 ft., nadando 30 ft."
 hit_points: "97 (13d8+39)"
 armor_class: "13 (armadura natural)"
 ---
@@ -45,6 +45,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The kuo-toa makes two melee attacks.
 
-***Scepter.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage plus 14 (4d6) lightning damage.
+***Scepter.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente plus 14 (4d6) lightning damage.
 
-***Unarmed Strike.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente.

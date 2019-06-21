@@ -13,7 +13,7 @@ alignment: any evil alignment
 challenge: "5 (1,800 XP)"
 languages: "any two languages"
 skills: "Percepción +5"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "10"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"

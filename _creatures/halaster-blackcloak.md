@@ -67,4 +67,4 @@ Halaster can take 3 legendary actions, choosing from the options below. Only one
 
 ***Cast Spell.*** Halaster casts a spell of 3rd level or lower.
 
-***Spell Ward (Costs 2 Actions).*** Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot.
+***Spell Ward (cuesta 2 acciones).*** Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot.

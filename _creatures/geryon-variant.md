@@ -54,6 +54,6 @@ Geryon can take 3 legendary actions, choosing from the options below. Only one l
 
 ***Infernal Glare*** Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
 
-***Swift Sting (Costs 2 Actions)*** Geryon attacks with his stinger.
+***Swift Sting (cuesta 2 acciones)*** Geryon attacks with his stinger.
 
 ***Teleport*** Geryon uses his Teleport action.

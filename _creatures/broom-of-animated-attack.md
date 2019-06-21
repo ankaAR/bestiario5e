@@ -32,7 +32,7 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Multiataque.*** The broom makes two melee attacks.
 
-***Broomstick.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) bludgeoning damage.
+***Broomstick.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) puntos de daño contundente.
 
 ### Reactions
 

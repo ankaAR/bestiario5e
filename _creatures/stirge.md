@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "darkvision 60 ft."
-speed: "10 ft., fly 40 ft."
+speed: "10 pies (3 mts), fly 40 ft."
 hit_points: "2 (1d4)"
 armor_class: "14 (armadura natural)"
 ---

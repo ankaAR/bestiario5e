@@ -24,7 +24,7 @@ armor_class: "13"
 
 ### Actions
 
-***Garrote*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target of the meazel's size or smaller. Hit: 6 (1d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (2d6 + 3) bludgeoning damage at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.
+***Garrote*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target of the meazel's size or smaller. Hit: 6 (1d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (2d6 + 3) puntos de daño contundente at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.
 
 ***Shortsword*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, plus 3 (1d6) necrotic damage.
 

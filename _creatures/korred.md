@@ -38,6 +38,6 @@ At will: commune with nature, meld into stone, stone shape
 
 ***Multiataque.*** The korred makes two attacks with its greatclub or hurls two rocks.
 
-***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8+6) bludgeoning damage, or 19 (3d8+6) bludgeoning damage if the korred is on the ground.
+***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8+6) puntos de daño contundente, or 19 (3d8+6) puntos de daño contundente if the korred is on the ground.
 
-***Rock.*** Ranged Weapon Attack: +9 to hit, range 60/120 pies, un objetivo. Impacto: 15 (2d8+6) bludgeoning damage, or 24 (4d8+6) bludgeoning damage if the korred is on the ground.
+***Rock.*** Ranged Weapon Attack: +9 to hit, range 60/120 pies, un objetivo. Impacto: 15 (2d8+6) puntos de daño contundente, or 24 (4d8+6) puntos de daño contundente if the korred is on the ground.

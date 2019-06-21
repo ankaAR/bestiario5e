@@ -16,7 +16,7 @@ senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Deception +11, Insight +10, Percepción +17, Persuasion +11, Sigilo +8"
 damage_immunities: "poison"
 saving_throws: "Des +8, Con +14, Sab +10, Car +11"
-speed: "40 ft., fly 80 ft., swim 40 ft."
+speed: "40 ft., fly 80 ft., nadando 40 pies (12 mts)"
 hit_points: "385 (22d20+154)"
 armor_class: "21 (armadura natural)"
 condition_immunities: "poisoned"
@@ -34,7 +34,7 @@ condition_immunities: "poisoned"
 
 ***Claw.*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d6 + 8) slashing damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 20 pies, un objetivo. Impacto: 17 (2d8 + 8) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 20 pies, un objetivo. Impacto: 17 (2d8 + 8) puntos de daño contundente.
 
 ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -48,4 +48,4 @@ The ancient green dragon can take 3 legendary actions, choosing from the options
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+***Wing Attack (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.

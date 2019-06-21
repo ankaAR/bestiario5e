@@ -16,7 +16,7 @@ senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +6, Sigilo +5"
 damage_immunities: "acid"
 saving_throws: "Des +5, Con +6, Sab +3, Car +5"
-speed: "40 ft., fly 80 ft., swim 40 ft."
+speed: "40 ft., fly 80 ft., nadando 40 pies (12 mts)"
 hit_points: "127 (15d10+45)"
 armor_class: "18 (armadura natural)"
 ---

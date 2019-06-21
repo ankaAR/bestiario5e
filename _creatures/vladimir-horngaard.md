@@ -35,7 +35,7 @@ damage_resistances: "necrotic, psychic"
 
 ***Multiataque.*** Vladimir makes two fist attacks or two attacks with his +2 Greatsword.
 
-***Fist.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) bludgeoning damage. If the target is a creature against which Vladimir has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.
+***Fist.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) puntos de daño contundente. If the target is a creature against which Vladimir has sworn vengeance, the target takes an extra 14 (4d6) puntos de daño contundente. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.
 
 ***Greatsword +2.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (4d6+4) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6) slashing damage with this weapon.
 

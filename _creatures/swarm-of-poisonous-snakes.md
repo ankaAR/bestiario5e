@@ -12,7 +12,7 @@ size: Medium swarm
 alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "blindsight 10 ft."
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "36 (8d8)"
 armor_class: "14"
 condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"

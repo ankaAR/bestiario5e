@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "0 (10 XP)"
 senses: "darkvision 30 ft."
 skills: "Percepción +2, Sigilo +4"
-speed: "5 ft., swim 30 ft."
+speed: "5 ft., nadando 30 ft."
 hit_points: "3 (1d6)"
 armor_class: "12"
 ---

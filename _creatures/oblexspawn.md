@@ -27,4 +27,4 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, prone"
 
 ### Actions
 
-***Pseudopod*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) psychic damage.
+***Pseudopod*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente plus 2 (1d4) psychic damage.

@@ -24,6 +24,6 @@ armor_class: "11 (leather armor)"
 
 ***Multiataque.*** The thug makes two melee attacks.
 
-***Mace.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
+***Mace.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 5 (1d6 + 2) puntos de daño contundente.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.

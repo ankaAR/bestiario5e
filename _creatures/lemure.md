@@ -27,4 +27,4 @@ damage_resistances: "cold"
 
 ### Actions
 
-***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) bludgeoning damage
+***Fist.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente

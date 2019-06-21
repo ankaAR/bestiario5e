@@ -14,7 +14,7 @@ challenge: "2 (450 XP)"
 languages: "Sahuagin"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +6, Religión +3"
-speed: "30 ft., swim 40 ft."
+speed: "30 ft., nadando 40 pies (12 mts)"
 hit_points: "33 (6d8+6)"
 armor_class: "12 (armadura natural)"
 ---

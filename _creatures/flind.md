@@ -26,10 +26,10 @@ armor_class: "16 (chain mail)"
 
 ***Multiataque.*** The flind makes three attacks: one with each of its different flail attacks or three with its longbow.
 
-***Flail of Madness.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10+5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must make a melee attack against a random target within its reach on its next turn. If it has no targets within its reach even after moving, it loses its action on that turn.
+***Flail of Madness.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must make a melee attack against a random target within its reach on its next turn. If it has no targets within its reach even after moving, it loses its action on that turn.
 
-***Flail of Pain.*** Melee Weapon Attack: +9 al ataque, alcance 5 it, one target. Hit: 10 (1d10+5) bludgeoning damage plus 22 (4d10) psychic damage.
+***Flail of Pain.*** Melee Weapon Attack: +9 al ataque, alcance 5 it, one target. Hit: 10 (1d10+5) puntos de daño contundente plus 22 (4d10) psychic damage.
 
-***Flail of Paralysis.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10+5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
+***Flail of Paralysis.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) piercing damage.

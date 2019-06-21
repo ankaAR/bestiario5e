@@ -27,7 +27,7 @@ armor_class: "14"
 
 ***Multiataque.*** The monk makes two melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente.
 
 ### Reactions
 

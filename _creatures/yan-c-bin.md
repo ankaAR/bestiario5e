@@ -54,6 +54,6 @@ The yan-c-bin can take 3 legendary actions, choosing from the options below. Onl
 
 ***Peal of Thunder.*** Yan-C-Bin unleashes a peal of thunder that can be heard out to a range of 300 feet. Each creature within 30 feet of Yan-C-Bin takes 5 (1d10) thunder damage.
 
-***Teleport (Costs 2 Actions).*** Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-C-Bin is wearing or carrying is teleported with him.
+***Teleport (cuesta 2 acciones).*** Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-C-Bin is wearing or carrying is teleported with him.
 
 ***Suffocate (Costs 3 Actions).*** Yan-C-Bin steals the air of one breathing creature he can see within 60 feet of him. The target must make a DC 21 Constitution saving throw. On a failed save, the target drops to 0 hit points and is dying. On a successful save, the target can't breathe or speak until the start of its next turn.

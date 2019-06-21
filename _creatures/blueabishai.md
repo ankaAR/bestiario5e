@@ -44,6 +44,6 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** The abishai makes two attacks: one with its quarterstaff and one with its bite.
 
-***Quarterstaff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.
+***Quarterstaff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
 
 ***Bite*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.

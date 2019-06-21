@@ -23,7 +23,7 @@ armor_class: "12 (armadura natural)"
 
 ### Actions
 
-***Fist.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) bludgeoning damage plus 5 (2d4) poison damage.
+***Fist.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) puntos de daño contundente plus 5 (2d4) poison damage.
 
 ***Pacifying Spores (3/Day).*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 11 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

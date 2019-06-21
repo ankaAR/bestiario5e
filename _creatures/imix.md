@@ -44,7 +44,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** Imix makes two slam attacks or two flame blast attacks.
 
-***Slam.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) bludgeoning damage plus 18 (5d6) fire damage.
+***Slam.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) puntos de daño contundente plus 18 (5d6) fire damage.
 
 ***Flame Blast.*** Ranged Spell Attack: +12 to hit, range 250 pies, un objetivo. Impacto: 35 (10d6) fire damage.
 
@@ -56,6 +56,6 @@ The imix can take 3 legendary actions, choosing from the options below. Only one
 
 ***Heat Wave.*** Imix creates a blast of heat within 300 feet of himself. Each creature in the area in physical contact with metal objects (for example, carrying metal weapons or wearing metal armor) takes 9 (2d8) fire damage. Each creature in the area that isn't resistant or immune to fire damage must make a DC 21 Constitution saving throw or gain one level of exhaustion.
 
-***Teleport (Costs 2 Actions).*** Imix magically teleports up to 120 feet to an unoccupied space he can see. Anything Imix is wearing or carrying isn't teleported with him.
+***Teleport (cuesta 2 acciones).*** Imix magically teleports up to 120 feet to an unoccupied space he can see. Anything Imix is wearing or carrying isn't teleported with him.
 
 ***Combustion (Costs 3 Actions).*** Imix causes one creature he can see within 30 feet of him to burst into flames. The target must make a DC 21 Constitution saving throw. On a failed save, the target takes 70 (20d6) fire damage and catches fire. A target on fire takes 10 (3d6) fire damage when it starts its turn, and remains on fire until it or another creature takes an action to douse the flames. On a successful save, the target takes half as much damage and doesn't catch fire.

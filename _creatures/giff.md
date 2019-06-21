@@ -19,7 +19,7 @@ hit_points: "60  (8d8 + 24)"
 armor_class: "16 (breastplate)"
 ---
 
-***Headfirst Charge.*** The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line that ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone.
+***Headfirst Charge.*** The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line that ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6) puntos de daño contundente and be knocked prone.
 
 ***Firearms Knowledge.*** The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.
 

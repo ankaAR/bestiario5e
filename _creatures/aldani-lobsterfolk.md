@@ -14,7 +14,7 @@ challenge: "1 (200 XP)"
 languages: "Common"
 senses: "darkvision 60ft., passive Perception 14"
 skills: "Percepción +4, Survival +4"
-speed: "20 ft., swim 30 ft."
+speed: "20 ft., nadando 30 ft."
 hit_points: "49 (9d8 +9)"
 armor_class: "14 (armadura natural)"
 ---

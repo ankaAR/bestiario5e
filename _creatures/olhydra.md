@@ -15,7 +15,7 @@ languages: "Aquan"
 senses: "blindsight 120 ft."
 damage_immunities: "acid, cold, poison"
 saving_throws: "Str +11, Con +13, Sab +10"
-speed: "50 ft., swim 100 ft."
+speed: "50 ft., nadando 100 ft."
 hit_points: "324 (24d12+168)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
@@ -42,9 +42,9 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 ***Multiataque.*** Olhydra makes two slam attacks or two water jet attacks.
 
-***Slam.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d10 + 5) bludgeoning damage, and the target is grappled (escape DC 19). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her.
+***Slam.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d10 + 5) puntos de daño contundente, and the target is grappled (escape DC 19). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her.
 
-***Water Jet.*** Ranged Weapon Attack: +12 to hit, range 120 pies, un objetivo. Impacto: 21 (6d6) bludgeoning damage, and the target is knocked prone if it fails a DC 19 Strength saving throw.
+***Water Jet.*** Ranged Weapon Attack: +12 to hit, range 120 pies, un objetivo. Impacto: 21 (6d6) puntos de daño contundente, and the target is knocked prone if it fails a DC 19 Strength saving throw.
 
 ***Summon Elementals (1/Day).*** Olhydra summons up to three water elementals and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points.
 
@@ -52,8 +52,8 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 The olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The olhydra regains spent legendary actions at the start of its turn.
 
-***Crush.*** One creature that Olhydra is grappling is crushed for 21 (3d10 + 5) bludgeoning damage.
+***Crush.*** One creature that Olhydra is grappling is crushed for 21 (3d10 + 5) puntos de daño contundente.
 
-***Fling (Costs 2 Actions).*** Olhydra releases one creature she is grappling by flinging the creature up to 60 feet away from her, in a direction of her choice. If the flung creature comes into contact with a solid surface, such as a wall or floor, the creature takes 1d6 bludgeoning damage for every 10 feet it was flung.
+***Fling (cuesta 2 acciones).*** Olhydra releases one creature she is grappling by flinging the creature up to 60 feet away from her, in a direction of her choice. If the flung creature comes into contact with a solid surface, such as a wall or floor, the creature takes 1d6 bludgeoning damage for every 10 feet it was flung.
 
 ***Water to Acid (Costs 3 Actions).*** Olhydra transforms her watery body into acid. This effect lasts until Olhydra's next turn. Any creature that comes into contact with Olhydra or hits her with a melee attack while standing within 5 feet of her takes 11 (2d10) acid damage. Any creature grappled by Olhydra takes 22 (4d10) acid damage at the start of its turn.

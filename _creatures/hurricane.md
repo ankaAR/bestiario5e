@@ -34,7 +34,7 @@ armor_class: "14"
 
 ***Multiataque.*** The hurricane makes two melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
 ### Reactions
 

@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "1/4 (50 XP)"
 languages: "Sylvan"
 skills: "Percepción +4, Sigilo +7"
-speed: "10 ft., fly 30 ft."
+speed: "10 pies (3 mts), fly 30 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "15"
 ---

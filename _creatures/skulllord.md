@@ -43,13 +43,13 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
-***Bone Staff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
+***Bone Staff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
 
 ### Legendary Actions
 
 The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The skull lord regains spent legendary actions at the start of its turn.
 
-***Bone Staff (Costs 2 Actions)*** The skull lord makes a bone staff attack.
+***Bone Staff (cuesta 2 acciones)*** The skull lord makes a bone staff attack.
 
 ***Cantrip*** The skull lord casts a cantrip.
 

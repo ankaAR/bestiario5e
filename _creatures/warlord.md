@@ -39,4 +39,4 @@ The warlord can take 3 legendary actions, choosing from the options below. Only 
 
 ***Command Ally.*** The warlord targets one ally it can see within 30 feet of it. if the target can see and hear the warlord, the target can make one weapon attack as a reaction and gains advantage on the attack roll.
 
-***Frighten Foe (Costs 2 Actions).*** The warlord targets one enemy it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be frightened until the end of warlord's next turn.
+***Frighten Foe (cuesta 2 acciones).*** The warlord targets one enemy it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be frightened until the end of warlord's next turn.

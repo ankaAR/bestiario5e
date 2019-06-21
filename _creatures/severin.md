@@ -45,6 +45,6 @@ If Severin is wearing the Mask of the Dragon Queen, he can take 3 legendary acti
 
 ***Attack.*** Severin makes one attack.
 
-***Fiery Teleport (Costs 2 Actions).*** Severin, along with any objects he is wearing or carrying, teleports up to 60 feet to an unoccupied space he can see. Each creature within 5 feet of Severin before he teleports takes 5 (1d10) fire damage.
+***Fiery Teleport (cuesta 2 acciones).*** Severin, along with any objects he is wearing or carrying, teleports up to 60 feet to an unoccupied space he can see. Each creature within 5 feet of Severin before he teleports takes 5 (1d10) fire damage.
 
 ***Hellish Chains (Costs 3 Actions).*** Severin targets one creature he can see within 30 feet of him. The target is wrapped in magical chains of fire and restrained. The restrained target takes 21 (6d6) fire damage at the start of each of its turns. At the end of its turns, the target can make a DC 17 Strength saving throw, ending the effect on itself on a success.

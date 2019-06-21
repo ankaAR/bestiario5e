@@ -14,7 +14,7 @@ challenge: "3 (700 XP)"
 languages: "Olman"
 senses: "blindsight 30 ft."
 skills: "Deception +3, Insight +5, Sigilo +3"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "15 (armadura natural)"
 ---
@@ -31,4 +31,4 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** Kalka-Kylla makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage, and if the target is a Medium or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the target is restrained. Kalka-Kylla has two claws, each of which can grapple only one target.
+***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and if the target is a Medium or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the target is restrained. Kalka-Kylla has two claws, each of which can grapple only one target.

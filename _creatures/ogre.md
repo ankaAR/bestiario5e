@@ -20,6 +20,6 @@ armor_class: "11 (hide armor)"
 
 ### Actions
 
-***Greatclub.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.
+***Greatclub.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.

@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "blindsight 30 ft."
 skills: "Sigilo +4"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "13 (3d8)"
 armor_class: "15 (armadura natural)"
 ---
@@ -22,4 +22,4 @@ armor_class: "15 (armadura natural)"
 
 ### Actions
 
-***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.

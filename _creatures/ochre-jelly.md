@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "blindsight 60 ft. (blind beyond this radius)"
 damage_immunities: "lightning, slashing"
-speed: "10 ft., climb 10 ft."
+speed: "10 pies (3 mts), climb 10 ft."
 hit_points: "45 (6d10+12)"
 armor_class: "8"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
@@ -26,7 +26,7 @@ damage_resistances: "acid"
 
 ### Actions
 
-***Pseudopod.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
+***Pseudopod.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente plus 3 (1d6) acid damage.
 
 ### Reactions
 

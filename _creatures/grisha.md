@@ -33,4 +33,4 @@ Cantrips (at will): guidance, light, sacred flame, thaumaturgy
 
 ***Multiataque.*** Grisha makes two attacks with his +1 flail.
 
-***+1 Flail.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target. Hit:7 (1d8 + 3) bludgeoning damage
+***+1 Flail.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target. Hit:7 (1d8 + 3) puntos de daño contundente

@@ -42,6 +42,6 @@ At will: detect magic, fireball
 
 ***Claw.*** Melee Weapon Attack: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) slashing damage.
 
-***Mace.*** Melee Weapon Attack: +14 al ataque, alcance 10pies, un objetivo. Impacto: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+***Mace.*** Melee Weapon Attack: +14 al ataque, alcance 10pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente plus 21 (6d6) fire damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 24 (3d10 + 8) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 24 (3d10 + 8) puntos de daño contundente.

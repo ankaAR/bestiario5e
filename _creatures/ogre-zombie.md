@@ -25,4 +25,4 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Morningstar.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) bludgeoning damage.
+***Morningstar.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.

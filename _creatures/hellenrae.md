@@ -33,7 +33,7 @@ condition_immunities: "blinded, poisoned"
 
 ***Multiataque.*** Hellenrae makes three melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) bludgeoning damage.
+***Unarmed Strike.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño contundente.
 
 ### Reactions
 

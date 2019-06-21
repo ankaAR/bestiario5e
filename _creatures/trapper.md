@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "blindsight 30 ft., darkvision 60 ft."
 skills: "Sigilo +2"
-speed: "10 ft., climb 10 ft."
+speed: "10 pies (3 mts), climb 10 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "13 (armadura natural)"
 ---
@@ -24,4 +24,4 @@ armor_class: "13 (armadura natural)"
 
 ### Actions
 
-***Smother.*** One Large or smaller creature within 5 feet of the trapper must succeed on a DC 14 Dexterity saving throw or be grappled (escape DC 14). Until the grapple ends, the target takes 17 (4d6+3) bludgeoning damage plus 3 (1d6) acid damage at the start of each of its turns. While grappled in this way, the target is restrained, blinded, and at risk of suffocating. The trapper can smother only one creature at a time.
+***Smother.*** One Large or smaller creature within 5 feet of the trapper must succeed on a DC 14 Dexterity saving throw or be grappled (escape DC 14). Until the grapple ends, the target takes 17 (4d6+3) puntos de daño contundente plus 3 (1d6) acid damage at the start of each of its turns. While grappled in this way, the target is restrained, blinded, and at risk of suffocating. The trapper can smother only one creature at a time.

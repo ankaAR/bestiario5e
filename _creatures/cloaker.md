@@ -14,7 +14,7 @@ challenge: "8 (3,900 XP)"
 languages: "Deep Speech, Undercommon"
 senses: "darkvision 60 ft."
 skills: "Sigilo +5"
-speed: "10 ft., fly 40 ft."
+speed: "10 pies (3 mts), fly 40 ft."
 hit_points: "78 (12d10+12)"
 armor_class: "14 (armadura natural)"
 ---

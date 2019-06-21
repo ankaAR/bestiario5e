@@ -23,4 +23,4 @@ armor_class: "13 (armadura natural)"
 
 ***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 + 7) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 + 7) puntos de daño contundente.

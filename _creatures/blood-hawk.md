@@ -12,7 +12,7 @@ size: Small beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 skills: "Percepción +4"
-speed: "10 ft., fly 60 ft."
+speed: "10 pies (3 mts), fly 60 ft."
 hit_points: "7 (2d6)"
 armor_class: "12"
 ---

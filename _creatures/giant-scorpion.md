@@ -19,7 +19,7 @@ armor_class: "15 (armadura natural)"
 
 ### Actions
 
-***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
+***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño contundente, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
 
 ***Multiataque.*** The scorpion makes three attacks: two with its claws and one with its sting.
 

@@ -30,7 +30,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** The armanite makes three attacks: one with its hooves, one with its claws, and one with its serrated tail.
 
-***Hooves*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) bludgeoning damage.
+***Hooves*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente.
 
 ***Claws*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage.
 

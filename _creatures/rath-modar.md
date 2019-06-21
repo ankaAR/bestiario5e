@@ -39,7 +39,7 @@ armor_class: "13 (16 with mage armor)"
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) bludgeoning damage.
+***Quarterstaff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) puntos de daño contundente.
 
 ### Reactions
 

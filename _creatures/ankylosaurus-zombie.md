@@ -23,4 +23,4 @@ armor_class: "14 (armadura natural)"
 
 ### Actions
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (4d6 +4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (4d6 +4) puntos de daño contundente. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.

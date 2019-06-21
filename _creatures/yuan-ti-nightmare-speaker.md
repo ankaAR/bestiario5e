@@ -46,7 +46,7 @@ Cantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each 
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one constrict attack and one scimitar attack.
 
-***Constrict.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6+3) bludgeoning damage, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
+***Constrict.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6+3) puntos de daño contundente, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.
 
 ***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) slashing damage.
 

@@ -15,7 +15,7 @@ languages: "Ice Toad"
 senses: "darkvision 60 ft."
 skills: "Percepción +2"
 damage_immunities: "cold"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "12 (armadura natural)"
 ---

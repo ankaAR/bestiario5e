@@ -59,7 +59,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 ***Multiataque.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
 
-***Hoof.*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) bludgeoning damage.
+***Hoof.*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) puntos de daño contundente.
 
 ***Horn.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
 

@@ -36,7 +36,7 @@ At will: charm person (as 5th-level spell), detect thoughts, hold person
 
 ***Multiattack*** The elder oblex makes two pseudopod attacks and uses Eat Memories.
 
-***Pseudopod*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (4d6 + 3) bludgeoning damage plus 7 (2d6) psychic damage.
+***Pseudopod*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (4d6 + 3) puntos de daño contundente plus 7 (2d6) psychic damage.
 
 ***Eat Memories*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 18 Wisdom saving throw or take 44 (8d10) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically.
 While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends.

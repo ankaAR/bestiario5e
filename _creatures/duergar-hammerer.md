@@ -29,6 +29,6 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Multiattack*** The hammerer makes two attacks: one with its claw and one with its hammer.
 
-***Claw*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) bludgeoning damage.
+***Claw*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
-***Hammer*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage.
+***Hammer*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente.

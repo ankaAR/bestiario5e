@@ -26,4 +26,4 @@ armor_class: "13"
 
 ***Dagger.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.
 
-***Dropped Rock.*** Ranged Weapon Attack: +5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage.
+***Dropped Rock.*** Ranged Weapon Attack: +5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) puntos de daño contundente.

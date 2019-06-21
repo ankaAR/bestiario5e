@@ -31,7 +31,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
 ### Actions
 
-***Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
+***Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
 
 ### Roleplaying Information
 

@@ -33,4 +33,4 @@ damage_resistances: "poison"
 
 ### Actions
 
-***Mace*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) bludgeoning damage.
+***Mace*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente.

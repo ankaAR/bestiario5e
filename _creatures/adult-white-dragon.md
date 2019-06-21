@@ -16,7 +16,7 @@ senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +11, Sigilo +5"
 damage_immunities: "cold"
 saving_throws: "Des +5, Con +11, Sab +6, Car +6"
-speed: "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft."
+speed: "40 ft., burrow 30 ft., fly 80 ft., nadando 40 pies (12 mts)"
 hit_points: "200 (16d12+96)"
 armor_class: "18 (armadura natural)"
 ---
@@ -33,7 +33,7 @@ armor_class: "18 (armadura natural)"
 
 ***Claw.*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (2d8 + 6) bludgeoning damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (2d8 + 6) puntos de daño contundente.
 
 ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -47,4 +47,4 @@ The adult white dragon can take 3 legendary actions, choosing from the options b
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+***Wing Attack (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.

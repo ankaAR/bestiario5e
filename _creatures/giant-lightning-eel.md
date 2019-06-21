@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "blindsight 60 ft."
-speed: "5 ft., swim 30 ft."
+speed: "5 ft., nadando 30 ft."
 hit_points: "42 (5d10+15)"
 armor_class: "13"
 damage_resistances: "lightning"

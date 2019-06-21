@@ -51,7 +51,7 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ### Actions
 
-***Pseudopod.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) bludgeoning damage plus 10 (3d6) acid damage.
+***Pseudopod.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) acid damage.
 
 ### Reactions
 

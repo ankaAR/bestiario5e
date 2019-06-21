@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Aquan, Common"
 skills: "Arcana +4, Deception +5, Insight +2, Persuasion +5"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "60 (8d8+24)"
 armor_class: "10 (13 with mage armor)"
 damage_resistances: "acid"

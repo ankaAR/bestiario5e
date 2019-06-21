@@ -14,7 +14,7 @@ challenge: "3 (700 XP)"
 languages: "Común, Elvish, Sylvan"
 senses: "darkvision 60 ft."
 skills: "Medicina +4, Nature +3, Sigilo +6, Survival +4"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "38 (7d8+7)"
 armor_class: "14"
 ---

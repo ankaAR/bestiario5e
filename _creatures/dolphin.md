@@ -13,15 +13,15 @@ alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "blindsight 60 ft."
 skills: "Percepción +3"
-speed: "0 ft., swim 60 ft."
+speed: "0 ft., nadando 60 ft."
 hit_points: "11 (2d8+2)"
 armor_class: "12 (armadura natural)"
 ---
 
-***Charge.*** If the dolphin moves at least 30 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.
+***Charge.*** If the dolphin moves at least 30 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 3 (1d6) puntos de daño contundente.
 
 ***Hold Breath.*** The dolphin can hold its breath for 20 minutes.
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño contundente.

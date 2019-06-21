@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 senses: "blindsight 60 ft."
-speed: "10 ft., fly 60 ft."
+speed: "10 pies (3 mts), fly 60 ft."
 hit_points: "22 (4d10)"
 armor_class: "13"
 ---

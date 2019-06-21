@@ -27,8 +27,8 @@ condition_immunities: "charmed, frightened"
 
 ***Multiataque.*** The giant makes two attacks with its greatclub.
 
-***Greatclub.*** Melee Weapon Attack: +10 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (3d8+6) bludgeoning damage.
+***Greatclub.*** Melee Weapon Attack: +10 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (3d8+6) puntos de daño contundente.
 
 ***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is charmed by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes petrified, and the giant can adhere the target to its stony body. Greater restoration spells and other magic that can undo petrification have no effect on a petrified creature on the giant unless the giant is dead, in which case the magic works normally, freeing the petrified creature as well as ending the petrified condition on it.
 
-***Rock.*** Ranged Weapon Attack: +10 to hit, range 60/240 pies, un objetivo. Impacto: 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+***Rock.*** Ranged Weapon Attack: +10 to hit, range 60/240 pies, un objetivo. Impacto: 28 (4d10+6) puntos de daño contundente. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.

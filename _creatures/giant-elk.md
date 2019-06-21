@@ -22,6 +22,6 @@ armor_class: "15 (armadura natural)"
 
 ### Actions
 
-***Ram.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
+***Ram.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
-***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft., one prone creature. Hit: 22 (4d8 + 4) puntos de daño contundente.

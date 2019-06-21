@@ -33,6 +33,6 @@ damage_resistances: "acid, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The statue makes two slam attacks.
 
-***Slam*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 43 (6d12 + 4) bludgeoning damage.
+***Slam*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 43 (6d12 + 4) puntos de daño contundente.
 
-***Rock*** Ranged Weapon Attack: +8 to hit, range 60 ft./240 pies, un objetivo. Impacto: 37 (6d10 + 4) bludgeoning damage.
+***Rock*** Ranged Weapon Attack: +8 to hit, range 60 ft./240 pies, un objetivo. Impacto: 37 (6d10 + 4) puntos de daño contundente.

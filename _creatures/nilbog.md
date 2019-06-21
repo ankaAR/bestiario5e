@@ -29,7 +29,7 @@ At will: mage hand, Tasha's hideous laughter, vicious mockery 1/day: confusion
 
 ### Actions
 
-***Fool's Scepter.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) bludgeoning damage.
+***Fool's Scepter.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño contundente.
 
 ***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 

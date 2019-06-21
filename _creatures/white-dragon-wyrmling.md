@@ -16,7 +16,7 @@ senses: "blindsight 10 ft., darkvision 60 ft."
 skills: "Percepción +4, Sigilo +2"
 damage_immunities: "cold"
 saving_throws: "Des +2, Con +4, Sab +2, Car +2"
-speed: "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
+speed: "30 ft., burrow 15 ft., fly 60 ft., nadando 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "16 (armadura natural)"
 ---

@@ -39,4 +39,4 @@ At will: detect magic, fog cloud, light
 
 ***Morningstar.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage.
 
-***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10 + 8) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10 + 8) puntos de daño contundente.

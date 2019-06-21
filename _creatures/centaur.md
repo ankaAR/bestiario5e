@@ -26,6 +26,6 @@ armor_class: "12"
 
 ***Pike.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
 
-***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

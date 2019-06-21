@@ -50,6 +50,6 @@ Astral Dreadnought can take 3 legendary actions, choosing from the options below
 
 ***Claw*** The astral dreadnought makes one claw attack.
 
-***Donjon Visits (Costs 2 Actions)*** One creature that is Huge or smaller that the astral dreadnought can see within 60 feet of it must succeed on a DC 19 Charisma saving throw or be magically teleported to an unoccupied space on the floor of the astral dreadnought’s Demiplanar Donjon. At the end of the target’s next turn, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+***Donjon Visits (cuesta 2 acciones)*** One creature that is Huge or smaller that the astral dreadnought can see within 60 feet of it must succeed on a DC 19 Charisma saving throw or be magically teleported to an unoccupied space on the floor of the astral dreadnought’s Demiplanar Donjon. At the end of the target’s next turn, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 ***Psychic Projection (Costs 3 Actions)*** Each creature within 60 feet of the astral dreadnought must make a DC 19 Wisdom saving throw, taking 15 (2d10 + 4) psychic damage on a failed save, or half as much damage on a successful one.

@@ -24,4 +24,4 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente.

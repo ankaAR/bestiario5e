@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "blindsight 10 ft."
-speed: "30 ft., fly 60 ft., swim 30 ft."
+speed: "30 ft., fly 60 ft., nadando 30 ft."
 hit_points: "5 (2d4)"
 armor_class: "14"
 ---

@@ -52,4 +52,4 @@ The phoenix can take 3 legendary actions, choosing from the options below. Only 
 
 ***Move*** The phoenix moves up to its speed.
 
-***Swoop (Costs 2 Actions)*** The phoenix moves up to its speed and attacks with its fiery talons.
+***Swoop (cuesta 2 acciones)*** The phoenix moves up to its speed and attacks with its fiery talons.

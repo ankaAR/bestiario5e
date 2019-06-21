@@ -28,4 +28,4 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Warhammer.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Warhammer.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, or 8 (1d10 + 3) puntos de daño contundente if used with two hands to make a melee attack, plus 3 (1d6) fire damage.

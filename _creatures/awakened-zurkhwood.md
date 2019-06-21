@@ -26,4 +26,4 @@ damage_resistances: "bludgeoning, piercing"
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) bludgeoning damage.
+***Slam.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) puntos de daño contundente.

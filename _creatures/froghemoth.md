@@ -14,7 +14,7 @@ challenge: "10 (5,900 XP)"
 senses: "darkvision 60 ft."
 skills: "Percepción +9, Sigilo +5"
 saving_throws: "Con +9, Sab +5"
-speed: "50 ft., swim 30 ft."
+speed: "50 ft., nadando 30 ft."
 hit_points: "184 (16d12+80)"
 armor_class: "14 (armadura natural)"
 damage_resistances: "fire, lightning"
@@ -28,7 +28,7 @@ damage_resistances: "fire, lightning"
 
 ***Multiataque.*** The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite.
 
-***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d8+6) bludgeoning damage, and the target is grappled (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles.
+***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d8+6) puntos de daño contundente, and the target is grappled (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles.
 
 ***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (3d10+6) piercing damage, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) acid damage at the start of each of the froghemoth's turns.
 

@@ -14,7 +14,7 @@ challenge: "2 (450 XP)"
 languages: "Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +6, Religión +4"
-speed: "33 ft., swim 30 ft."
+speed: "33 ft., nadando 30 ft."
 hit_points: "65 (10d8+20)"
 armor_class: "13 (natural armor, unarmored defense)"
 ---
@@ -35,4 +35,4 @@ armor_class: "13 (natural armor, unarmored defense)"
 
 ***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Unarmed Strike.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+***Unarmed Strike.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.

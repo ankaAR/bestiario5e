@@ -36,7 +36,7 @@ At will: detect evil and good, druidcraft, pass without trace
 
 ***Multiataque.*** The unicorn makes two attacks: one with its hooves and one with its horn.
 
-***Hooves.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Horn.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 8 (1d8 + 4) piercing damage.
 
@@ -50,6 +50,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ***Hooves.*** The unicorn makes one attack with its hooves.
 
-***Shimmering Shield (Costs 2 Actions).*** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 ft. of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
+***Shimmering Shield (cuesta 2 acciones).*** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 ft. of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
 
 ***Heal Self (Costs 3 Actions).*** The unicorn magically regains 11 (2d8 + 2) hit points.

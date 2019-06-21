@@ -43,8 +43,8 @@ Cantrips (at will): minor illusion, prestidigitation, vicious mockery
 
 ***Multiataque.*** The giant makes two attacks with its morningstar.
 
-***Morningstar.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8+8) bludgeoning damage. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
+***Morningstar.*** Melee Weapon Attack: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8+8) puntos de daño contundente. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
 
-***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10+8) bludgeoning damage. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
+***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10+8) puntos de daño contundente. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
 
 ***Change Shape.*** The giant magically polymorphs into a beast or humanoid it has seen, or back into its true form. Any equipment the giant is wearing or carrying is absorbed by the new form. Its statistics, other than its size, are the same in each form. It reverts to its true form if it dies.

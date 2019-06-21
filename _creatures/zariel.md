@@ -54,6 +54,6 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of her turn.
 
-***Immolating Gaze (Costs 2 Actions)*** Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
+***Immolating Gaze (cuesta 2 acciones)*** Zariel turns her magical gaze toward one creature she can see within 120 feet of her and commands it to combust. The target must succeed on a DC 26 Wisdom saving throw or take 22 (4d10) fire damage.
 
 ***Teleport*** Zariel uses her Teleport action.

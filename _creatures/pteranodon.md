@@ -12,7 +12,7 @@ size: Medium beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 skills: "Percepción +1"
-speed: "10 ft., fly 60 ft."
+speed: "10 pies (3 mts), fly 60 ft."
 hit_points: "13 (3d8)"
 armor_class: "13 (armadura natural)"
 ---

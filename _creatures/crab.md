@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "0 (10 XP)"
 senses: "blindsight 30 ft."
 skills: "Sigilo +2"
-speed: "20 ft., swim 20 ft."
+speed: "20 ft., nadando 20 ft."
 hit_points: "2 (1d4)"
 armor_class: "11 (armadura natural)"
 ---

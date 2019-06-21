@@ -44,7 +44,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Multiattack*** Orcus makes two Wand of Orcus attacks.
 
-***Wand of Orcus*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) bludgeoning damage plus 13 (2d12) necrotic damage.
+***Wand of Orcus*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño contundente plus 13 (2d12) necrotic damage.
 
 ***Tail*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
 
@@ -56,4 +56,4 @@ Orcus can take 3 legendary actions, choosing from the options below. Only one le
 
 ***A Taste of Undeath*** Orcus casts chill touch (17th level).
 
-***Creeping Death (Costs 2 Actions)*** Orcus chooses a point on the ground that he can see within 100 feet of him. A cylinder of swirling necrotic energy 60 feet tall and with a 10-foot radius rises from that point and lasts until the end of Orcus's next turn. Creatures in that area have vulnerability to necrotic damage.
+***Creeping Death (cuesta 2 acciones)*** Orcus chooses a point on the ground that he can see within 100 feet of him. A cylinder of swirling necrotic energy 60 feet tall and with a 10-foot radius rises from that point and lasts until the end of Orcus's next turn. Creatures in that area have vulnerability to necrotic damage.

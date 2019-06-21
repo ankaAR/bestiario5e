@@ -12,7 +12,7 @@ size: Huge beast
 alignment: unaligned
 challenge: "4 (1,100 XP)"
 skills: "Sigilo +3"
-speed: "30 ft., swim 50 ft."
+speed: "30 ft., nadando 50 ft."
 hit_points: "66 (7d12+21)"
 armor_class: "14 (armadura natural)"
 ---
@@ -25,7 +25,7 @@ armor_class: "14 (armadura natural)"
 
 ***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) piercing damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the lizard can't bite another target.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 ft., one target not grappled by the lizard. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 ft., one target not grappled by the lizard. Hit: 12 (2d6 + 5) puntos de daño contundente. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
 ***Swallow.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one Medium or smaller creature the lizard is grappling. Hit: 16 (2d10 + 5) piercing damage, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the lizard, and it takes 10 (3d6) acid damage at the start of each of the lizard's turns. The lizard can have only one target swallowed at a time.
 

@@ -13,7 +13,7 @@ alignment: any chaotic alignment
 challenge: "2 (450 XP)"
 languages: "Aquan, Common, Elvish, Sylvan"
 senses: "darkvision 60 ft."
-speed: "30 ft., swim 60 ft."
+speed: "30 ft., nadando 60 ft."
 hit_points: "44 (8d8+8)"
 armor_class: "13"
 ---
@@ -36,4 +36,4 @@ armor_class: "13"
 
 ***Drowning Kiss (Recharge 5-6).*** The nereid touches one creature it can see within 5 feet of it. The target must succeed on a DC 13 Constitution saving throw or take 22 (3d12 + 3) acid damage. On a failure, it also runs out of breath and can't speak for 1 minute. At the end of each of its turns, it can repeat the save, ending the effect on itself on a success.
 
-***Water Lash.*** The nereid causes a 5-foot cube of water within 60 feet of it to take a shape of its choice and strike one target it can see within 5 feet of that water. The target must make a DC 13 Strength saving throw. On a failed save, it takes 17 (4d6 + 3) bludgeoning damage, and ifit is a Large or smaller creature, it is pushed up to 15 feet in a straight line or is knocked prone (nereid's choice). On a successful save, the target takes half as much damage and isn't pushed or knocked prone.
+***Water Lash.*** The nereid causes a 5-foot cube of water within 60 feet of it to take a shape of its choice and strike one target it can see within 5 feet of that water. The target must make a DC 13 Strength saving throw. On a failed save, it takes 17 (4d6 + 3) puntos de daño contundente, and ifit is a Large or smaller creature, it is pushed up to 15 feet in a straight line or is knocked prone (nereid's choice). On a successful save, the target takes half as much damage and isn't pushed or knocked prone.

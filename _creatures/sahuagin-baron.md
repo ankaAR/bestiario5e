@@ -15,7 +15,7 @@ languages: "Sahuagin"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +7"
 saving_throws: "Des +5, Con +6, Int +5, Sab +4"
-speed: "30 ft., swim 50 ft."
+speed: "30 ft., nadando 50 ft."
 hit_points: "76 (9d10+27)"
 armor_class: "16 (breastplate)"
 ---

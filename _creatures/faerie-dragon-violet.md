@@ -14,7 +14,7 @@ challenge: "2 (450 XP)"
 languages: "Draconic, Sylvan"
 senses: "darkvision 60 ft."
 skills: "Arcana +4, Percepción +3, Sigilo +7"
-speed: "10 ft., fly 60 ft."
+speed: "10 pies (3 mts), fly 60 ft."
 hit_points: "14 (4d4+4)"
 armor_class: "15"
 ---

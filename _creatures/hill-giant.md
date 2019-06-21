@@ -20,10 +20,10 @@ armor_class: "13 (armadura natural)"
 
 ### Actions
 
-***Squash.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one Medium or Smaller creature. Hit: 26 (6d6 + 5) bludgeoning damage, the giant lands prone in the target's space, and the target is grappled (escape DC 15). Until this grapple ends, the target is prone. The grapple ends early if the giant stands up.
+***Squash.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one Medium or Smaller creature. Hit: 26 (6d6 + 5) puntos de daño contundente, the giant lands prone in the target's space, and the target is grappled (escape DC 15). Until this grapple ends, the target is prone. The grapple ends early if the giant stands up.
 
 ***Multiataque.*** The giant makes two greatclub attacks.
 
-***Greatclub.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8 + 5) bludgeoning damage.
+***Greatclub.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8 + 5) puntos de daño contundente.
 
-***Rock.*** Ranged Weapon Attack: +8 to hit, range 60/240 pies, un objetivo. Impacto: 21 (3d10 + 5) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +8 to hit, range 60/240 pies, un objetivo. Impacto: 21 (3d10 + 5) puntos de daño contundente.

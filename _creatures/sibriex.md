@@ -54,4 +54,4 @@ The sibriex can take 3 legendary actions, choosing from the options below. Only 
 
 ***Spray Bile*** The sibriex uses Squirt Bile.
 
-***Warp (Costs 2 Actions)*** The sibriex uses Warp Creature.
+***Warp (cuesta 2 acciones)*** The sibriex uses Warp Creature.

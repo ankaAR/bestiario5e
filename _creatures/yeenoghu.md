@@ -40,11 +40,11 @@ damage_resistances: "cold, fire, lightning"
 ### Actions
 
 ***Multiattack*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):
-1. The attack deals an extra 13 (2d12) bludgeoning damage.
+1. The attack deals an extra 13 (2d12) puntos de daño contundente.
 2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu's next turn.
 3. The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu's next turn.
 
-***Flail*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (1d12 + 9) bludgeoning damage.
+***Flail*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (1d12 + 9) puntos de daño contundente.
 
 ***Bite*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) piercing damage.
 
@@ -56,4 +56,4 @@ Yeenoghu can take 3 legendary actions, choosing from the options below. Only one
 
 ***Swat Away*** Yeenoghu makes a flail attack. If the attack hits, the target must succeed on a DC 24 Strength saving throw or be pushed 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target falls prone.
 
-***Savage (Costs 2 Actions)*** Yeenoghu makes a bite attack against each creature within 10 feet of him.
+***Savage (cuesta 2 acciones)*** Yeenoghu makes a bite attack against each creature within 10 feet of him.

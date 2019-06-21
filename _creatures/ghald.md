@@ -15,7 +15,7 @@ languages: "Común, Sahuagin"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Insight +4, Percepción +7"
 saving_throws: "Des +6, Con +6, Int +5, Sab +4"
-speed: "30 ft., swim 50 ft."
+speed: "30 ft., nadando 50 ft."
 hit_points: "102 (12d10+36)"
 armor_class: "15 (armadura natural)"
 ---
@@ -36,4 +36,4 @@ armor_class: "15 (armadura natural)"
 
 ***Shortsword.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
 
-***Garrote.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one Medium or Small creature against which Ghald has advantage on the attack roll. Hit: 9 (2d4 + 4) bludgeoning damage, and the target is grappled (escape DC 15). Until the grapple ends, the target can't breathe, and Ghald has advantage on attack rolls against it.
+***Garrote.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one Medium or Small creature against which Ghald has advantage on the attack roll. Hit: 9 (2d4 + 4) puntos de daño contundente, and the target is grappled (escape DC 15). Until the grapple ends, the target can't breathe, and Ghald has advantage on attack rolls against it.

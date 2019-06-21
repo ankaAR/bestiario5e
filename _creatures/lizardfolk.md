@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "Dragón"
 skills: "Percepción +3, Sigilo +4, Survival +5"
-speed: "30 ft., swim 30 ft."
+speed: "30 ft., nadando 30 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "15 (natural armor, shield)"
 ---
@@ -26,7 +26,7 @@ armor_class: "15 (natural armor, shield)"
 
 ***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
-***Heavy Club.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) bludgeoning damage.
+***Heavy Club.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 

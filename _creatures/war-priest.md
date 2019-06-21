@@ -37,7 +37,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying
 
 ***Multiataque.*** The priest makes two melee attacks.
 
-***Maul.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 +3) bludgeoning damage.
+***Maul.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 +3) puntos de daño contundente.
 
 ### Reactions
 

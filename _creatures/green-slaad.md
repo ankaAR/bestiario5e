@@ -50,6 +50,6 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 
 ***Claw (Slaad Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) slashing damage.
 
-***Staff.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage.
+***Staff.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Hurl Flame.*** Ranged Spell Attack: +4 to hit, range 60 pies, un objetivo. Impacto: 10 (3d6) fire damage. The fire ignites flammable objects that aren 't being worn or carried.

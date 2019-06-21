@@ -39,7 +39,7 @@ At will: animal friendship (snakes only)
 
 ***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
 
-***Constrict.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan_ti can't constrict another target.
+***Constrict.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan_ti can't constrict another target.
 
 ***Scimitar (Abomination Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
 

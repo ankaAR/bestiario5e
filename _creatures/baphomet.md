@@ -60,4 +60,4 @@ Baphomet can take 3 legendary actions, choosing from the options below. Only one
 
 ***Heartcleaver Attack*** Baphomet makes a melee attack with Heartcleaver.
 
-***Charge (Costs 2 Actions)*** Baphomet moves up to his speed, then makes a gore attack.
+***Charge (cuesta 2 acciones)*** Baphomet moves up to his speed, then makes a gore attack.

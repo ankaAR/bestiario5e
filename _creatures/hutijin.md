@@ -47,9 +47,9 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Claw*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
 
-***Mace*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) bludgeoning damage.
+***Mace*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente.
 
-***Tail*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) bludgeoning damage.
+***Tail*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) puntos de daño contundente.
 
 ***Teleport*** Hutijin magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
@@ -59,6 +59,6 @@ Hutijin can take 3 legendary actions, choosing from the options below. Only one 
 
 ***Attack*** Hutijin attacks once with his mace.
 
-***Lightning Storm (Costs 2 Actions)*** Hutijin releases lightning in a 20-foot radius. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Storm (cuesta 2 acciones)*** Hutijin releases lightning in a 20-foot radius. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 ***Teleport*** Hutijin uses his Teleport action.

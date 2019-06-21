@@ -15,7 +15,7 @@ languages: "Común, Giant"
 skills: "Arcana +8, Athletics +14, Historia +8, Percepción +9"
 damage_immunities: "lightning, thunder"
 saving_throws: "Str +14, Con +10, Sab +9, Car +9"
-speed: "50 ft., swim 50 ft."
+speed: "50 ft., nadando 50 ft."
 hit_points: "230 (20d12+100)"
 armor_class: "16 (scale mail)"
 damage_resistances: "cold"
@@ -35,6 +35,6 @@ At will: detect magic, feather fall, levitate, light
 
 ***Greatsword.*** Melee Weapon Attack: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 30 (6d6 + 9) slashing damage.
 
-***Rock.*** Ranged Weapon Attack: +14 to hit, range 60/240 pies, un objetivo. Impacto: 35 (4d12 + 9) bludgeoning damage.
+***Rock.*** Ranged Weapon Attack: +14 to hit, range 60/240 pies, un objetivo. Impacto: 35 (4d12 + 9) puntos de daño contundente.
 
 ***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.

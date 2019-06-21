@@ -45,7 +45,7 @@ Type 3: Human head and upper body with a serpentine lower body instead of legs
 
 ***Bite (Snake Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 
-***Constrict.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan_ti can't constrict another target.
+***Constrict.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan_ti can't constrict another target.
 
 ***Scimitar (Yuan_ti Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
 
