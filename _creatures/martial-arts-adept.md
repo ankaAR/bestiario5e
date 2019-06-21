@@ -20,7 +20,7 @@ armor_class: "16"
 
 ***Unarmored Defense.*** While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The adept makes three unarmed strikes or three dart attacks.
 

@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The howler makes two bite attacks.
 

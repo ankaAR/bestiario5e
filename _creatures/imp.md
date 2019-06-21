@@ -30,7 +30,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical/n
 
 ***Variant: Familiar.*** The imp can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the imp can end its service as a familiar, ending the telepathic bond.
 
-### Actions
+### Acciones
 
 ***Sting (Bite in Beast Form).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 

@@ -23,7 +23,7 @@ armor_class: "10 (in humanoid form, 11 in bear and hybrid forms )"
 
 ***Keen Smell.*** The werebear has advantage on WisGlom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 

@@ -26,7 +26,7 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The devil makes two attacks with its chains.
 

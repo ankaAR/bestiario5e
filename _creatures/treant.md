@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Siege Monster.*** The treant deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The treant makes two slam attacks.
 

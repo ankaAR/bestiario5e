@@ -24,7 +24,7 @@ armor_class: "15"
 
 At will: druldcraft, guidance, pass without trace, resistance
 
-### Actions
+### Acciones
 
 ***Magical Gift (1/Day).*** The chwinga targets a humanoid it can see within S feet of it. The target gains a supernatural charm of the DM's choice. See chapter 7 of the Dungeon Master's Guide for more information on supernatural charms.
 

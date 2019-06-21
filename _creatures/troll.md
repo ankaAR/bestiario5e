@@ -43,7 +43,7 @@ If its head is severed, the troll loses its bite attack and its body is blinded 
 
 The troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The troll makes three attacks: one with its bite and two with its claws.
 

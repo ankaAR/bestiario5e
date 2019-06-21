@@ -20,7 +20,7 @@ armor_class: "13 (armadura de cuero)"
 
 ***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The scout makes two melee attacks or two ranged attacks.
 

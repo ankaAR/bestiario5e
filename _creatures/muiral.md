@@ -41,7 +41,7 @@ armor_class: "16 (armadura natural)"
 
 ***Legendary Resistance (3/Day).*** If Muiral fails a saving throw, he can choose to succeed instead.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Muiral makes three attacks: two with his longsword and one with his sting.
 

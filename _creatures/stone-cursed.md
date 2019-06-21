@@ -25,6 +25,6 @@ condition_immunities: "charmed, exhaustion, frightened, petrified, poisoned"
 
 ***False Appearance.*** While the stone cursed remains motionless, it is indistinguishable from a normal statue.
 
-### Actions
+### Acciones
 
 ***Petrifying Claws*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if the attack roll had advantage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw, or it begins to turn to stone and is restrained until the end of its next turn, when it must repeat the saving throw. The effect ends if the second save is successful; otherwise the target is petrified for 24 hours.

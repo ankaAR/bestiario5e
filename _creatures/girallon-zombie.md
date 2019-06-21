@@ -23,7 +23,7 @@ armor_class: "11 (armadura natural)"
 
 ***Undead fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The zombie makes five attacks: one with its bite and four with its claws.
 

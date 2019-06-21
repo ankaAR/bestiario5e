@@ -32,7 +32,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The yagnoloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The yagnoloth makes one massive arm attack and one electrified touch attack, or it makes one massive arm attack and teleports before or after the attack.
 

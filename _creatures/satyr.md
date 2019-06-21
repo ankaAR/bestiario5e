@@ -20,7 +20,7 @@ armor_class: "14 (armadura de cuero)"
 
 ***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Ram.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño contundente.
 

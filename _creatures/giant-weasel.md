@@ -20,6 +20,6 @@ armor_class: "13"
 
 ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+### Acciones
 
 ***Bite.*** Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

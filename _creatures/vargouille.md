@@ -21,7 +21,7 @@ condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage plus 10 (3d6) poison damage.
 

@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Magic Weapons.*** Graz'zt's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Graz'zt attacks twice with Wave of Sorrow.
 

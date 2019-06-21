@@ -22,7 +22,7 @@ armor_class: "13 (armadura natural)"
 
 ***Illumination.*** The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-### Actions
+### Acciones
 
 ***Hooves.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente plus 7 (2d6) fire damage.
 

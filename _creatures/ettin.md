@@ -23,7 +23,7 @@ armor_class: "12 (armadura natural)"
 
 ***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 

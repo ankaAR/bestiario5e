@@ -18,7 +18,7 @@ hit_points: "59 (7d10+21)"
 armor_class: "11 (hide armor)"
 ---
 
-### Actions
+### Acciones
 
 ***Greatclub.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.
 

@@ -33,7 +33,7 @@ Cantrips (at will): eldritch blast, friends, poison spray
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Armor of Shadows (Recharges after a Short or Long Rest).*** Narrak casts mage armor on himself
 

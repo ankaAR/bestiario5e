@@ -31,7 +31,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Reckless.*** At the start of its turn, the abishai can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The abishai makes two attacks: one with its longsword and one with its claw.
 

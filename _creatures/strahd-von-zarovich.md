@@ -62,7 +62,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 >Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 
-### Actions
+### Acciones
 
 ***Multiattack (Vampire Form Only).*** Strahd makes two attacks, only one of which can be a bite attack.
 

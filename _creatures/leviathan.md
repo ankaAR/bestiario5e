@@ -31,7 +31,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Water Form.*** The leviathan can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The leviathan makes two attacks: one with its slam and one with its tail.
 

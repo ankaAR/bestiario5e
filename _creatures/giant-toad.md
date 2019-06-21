@@ -21,7 +21,7 @@ armor_class: "11"
 
 ***Standing Leap.*** The toad's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 

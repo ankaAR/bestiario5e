@@ -22,7 +22,7 @@ damage_resistances: "blugdeoning, piercing"
 
 ***False Appearance.*** While Lifferlas remains motionless, it is indistinguishable from a normal tree.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Lifferlas makes two slam attacks.
 

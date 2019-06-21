@@ -28,6 +28,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
-### Actions
+### Acciones
 
 ***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.

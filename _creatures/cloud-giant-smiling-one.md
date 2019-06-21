@@ -39,7 +39,7 @@ Cantrips (at will): minor illusion, prestidigitation, vicious mockery
 
 ***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The giant makes two attacks with its morningstar.
 

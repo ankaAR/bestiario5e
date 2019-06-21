@@ -36,7 +36,7 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Siege Monster.*** The phoenix deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The phoenix makes two attacks: one with its beak and one with its fiery talons.
 

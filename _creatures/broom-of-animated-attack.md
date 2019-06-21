@@ -28,7 +28,7 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***False Appearance.*** While the broom remains motionless and isn't flying, it is indistinguishable from a normal broom.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The broom makes two melee attacks.
 

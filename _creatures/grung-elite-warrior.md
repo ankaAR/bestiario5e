@@ -35,7 +35,7 @@ Orange. The poisoned creature is frightened of its allies.
 
 Gold. The poisoned creature is charmed and can speak Grung.
 
-### Actions
+### Acciones
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 5 (1d4+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 

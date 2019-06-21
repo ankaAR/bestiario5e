@@ -21,6 +21,6 @@ damage_resistances: "bludgeoning, piercing"
 
 ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.
 
-### Actions
+### Acciones
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) puntos de daño contundente.

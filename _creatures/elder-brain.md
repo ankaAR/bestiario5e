@@ -34,7 +34,7 @@ At will: detect thoughts, levitate
 
 ***Telepathic Hub.*** The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way.
 
-### Actions
+### Acciones
 
 ***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 30 pies, un objetivo. Impacto: 20 (4d8+2) puntos de daño contundente. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8+5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
 

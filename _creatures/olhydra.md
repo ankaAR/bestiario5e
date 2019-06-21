@@ -38,7 +38,7 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 ***Water Form.*** Olhydra can enter a hostile creature's space and stop there. She can move through a space as narrow as 1 inch wide without squeezing.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Olhydra makes two slam attacks or two water jet attacks.
 

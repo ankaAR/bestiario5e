@@ -26,7 +26,7 @@ damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Scaladar Link.*** The scaladar knows the location of other scaladar within 100 feet of it, and it can sense when any of them take damage.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The scaladar makes three attacks: two with its claws and one with its sting.
 

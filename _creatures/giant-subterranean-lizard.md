@@ -19,7 +19,7 @@ armor_class: "14 (armadura natural)"
 
 ***Source.*** tales from the yawning portal,  page 236
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The lizard makes two attacks: one with its bite and one with its tail. One attack can be replaced by Swallow.
 

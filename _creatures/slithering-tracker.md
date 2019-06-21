@@ -36,7 +36,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Watery Stealth.*** Mientras está bajo el agua,the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10+3) puntos de daño contundente.
 

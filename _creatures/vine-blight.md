@@ -22,7 +22,7 @@ condition_immunities: "blinded, deafened"
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a tangle of vines.
 
-### Actions
+### Acciones
 
 ***Constrict.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and a Large or smaller target is grappled (escape DC 12) . Until this grapple ends, the target is restrained, and the blight can't constrict another target.
 

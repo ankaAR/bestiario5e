@@ -40,6 +40,6 @@ armor_class: "11 (14 with mage armor)"
 
 * 2nd Level (3 slots): invisibility, suggestion
 
-### Actions
+### Acciones
 
 ***Spider Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente plus 3 (1d6) poison damage.

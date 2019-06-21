@@ -25,7 +25,7 @@ damage_resistances: "lightning"
 
 ***Improved Critical.*** Langdedrosa's weapon attacks score a critical hit on a roll of 19 or 20.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Langdedrosa attacks twice, either with his greatsword or spear.
 

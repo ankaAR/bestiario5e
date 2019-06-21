@@ -20,7 +20,7 @@ armor_class: "17 (half plate)"
 
 ***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The hobgoblin makes two greatsword attacks.
 

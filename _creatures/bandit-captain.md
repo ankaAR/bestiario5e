@@ -19,7 +19,7 @@ hit_points: "65 (10d8+20)"
 armor_class: "15 (cuero endurecido)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 

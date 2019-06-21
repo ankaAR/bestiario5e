@@ -19,6 +19,6 @@ armor_class: "13 (armadura natural)"
 
 ***Flyby.*** The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage

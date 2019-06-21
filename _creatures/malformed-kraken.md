@@ -28,7 +28,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Siege Monster.*** The kraken deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The kraken makes three tentacle attacks. One of them can be replaced with a bite attack, and any of them can be replaced with Fling.
 

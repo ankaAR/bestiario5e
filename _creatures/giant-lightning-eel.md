@@ -22,7 +22,7 @@ damage_resistances: "lightning"
 
 ***Water Breathing.*** The eel can breathe only underwater.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The eel makes two bite attacks.
 

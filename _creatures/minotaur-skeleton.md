@@ -23,7 +23,7 @@ condition_immunities: "exhaustion, poisoned"
 
 ***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-### Actions
+### Acciones
 
 ***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) puntos de daño cortante.
 

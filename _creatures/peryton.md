@@ -25,7 +25,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Keen Sight and Smell.*** The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The peryton makes one gore attack and one talon attack.
 

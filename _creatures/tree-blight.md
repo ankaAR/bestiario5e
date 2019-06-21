@@ -24,7 +24,7 @@ condition_immunities: "blinded, deafened"
 
 ***Siege Monster.*** The blight deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The blight makes four attacks: two with its branches and two with its grasping roots, If it has a target grappled, the blight can also make a bite attack against the target as a bonus action.
 

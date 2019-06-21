@@ -23,6 +23,6 @@ damage_resistances: "cold, fire, lightning"
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8+2) piercing damage.

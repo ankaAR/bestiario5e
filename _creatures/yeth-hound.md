@@ -26,7 +26,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Telepathic Bond.*** While the yeth hound is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically with each other.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) piercing damage, plus 14 (4d6) psychic damage if the target is frightened.
 

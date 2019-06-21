@@ -29,7 +29,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
 3rd level (3 slots): fly, lightning bolt
 
-### Actions
+### Acciones
 
 ***Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
 

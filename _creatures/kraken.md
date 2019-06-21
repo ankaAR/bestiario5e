@@ -27,7 +27,7 @@ condition_immunities: "frightened, paralyzed"
 
 ***Siege Monster.*** The kraken deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 

@@ -41,7 +41,7 @@ damage_resistances: "cold"
 
 ***Watery Fall.*** When Gar drops to 0 hit points, his body collapses into a pool of inky water that rapidly disperses. Anything he was wearing or carrying is left behind.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Gar makes two melee attacks, one with his claw and one with Drown.
 

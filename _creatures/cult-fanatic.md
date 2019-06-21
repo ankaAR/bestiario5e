@@ -28,7 +28,7 @@ Cantrips (at will): light, sacred flame, thaumaturgy
 
 * 2nd level (3 slots): hold person, spiritual weapon
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The fanatic makes two melee attacks.
 

@@ -26,7 +26,7 @@ damage_resistances: "one of the following: acid, cold, fire, lightning or poison
 
 ***Limited Flight.*** The dragonfang can use a bonus action to gain a flying speed of 30 feet until the end of its turn.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The Dragonfang attacks twice with its shortsword.
 

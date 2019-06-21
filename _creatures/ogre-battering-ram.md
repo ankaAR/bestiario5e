@@ -21,7 +21,7 @@ armor_class: "14 (ring mail)"
 
 ***Siege Monster.*** The ogre deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Bash*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño contundente, and the ogre can push the target 5 feet away if the target is Huge or smaller.
 

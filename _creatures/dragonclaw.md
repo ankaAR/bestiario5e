@@ -25,7 +25,7 @@ armor_class: "14 (armadura de cuero)"
 
 ***Pack Tactics.*** The dragonclaw has advantage on an attack roll against a creature if at least one of the dragonclaw's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dragonclaw attacks twice with its scimitar.
 

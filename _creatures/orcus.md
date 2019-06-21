@@ -40,7 +40,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Master of Undeath.*** When Orcus casts animate dead or create undead, he chooses the level at which the spell is cast, and the creatures created by the spells remain under his control indefinitely. Additionally, he can cast create undead even when it isn't night.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Orcus makes two Wand of Orcus attacks.
 

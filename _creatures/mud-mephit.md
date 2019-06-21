@@ -25,7 +25,7 @@ condition_immunities: "poisoned"
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
-### Actions
+### Acciones
 
 ***Fists.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d6 + 1) puntos de daño contundente.
 

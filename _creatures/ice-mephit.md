@@ -28,7 +28,7 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast fog cloud, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+### Acciones
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 

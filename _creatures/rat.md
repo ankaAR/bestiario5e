@@ -19,6 +19,6 @@ armor_class: "10"
 
 ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

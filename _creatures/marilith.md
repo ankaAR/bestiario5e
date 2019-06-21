@@ -28,7 +28,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Reactive.*** The marilith can take one reaction on every turn in combat.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The marilith can make seven attacks: six with its longswords and one with its tail.
 

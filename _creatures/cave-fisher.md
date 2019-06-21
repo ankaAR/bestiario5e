@@ -24,7 +24,7 @@ armor_class: "16 (armadura natural)"
 
 ***Spider Climb.*** The cave fisher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The cave fisher makes two attacks with its claws.
 

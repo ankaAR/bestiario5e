@@ -40,6 +40,6 @@ armor_class: "10 (13 with mage armor)"
 
 * 6th level (1 slot): move earth
 
-### Actions
+### Acciones
 
 ***Staff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente, or 5 (1d8 + 1) puntos de daño contundente when used with two hands.

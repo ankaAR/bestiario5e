@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Undetectable.*** Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 

@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Reckless.*** At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Baphomet makes three attacks: one with Heartcleaver, one with his bite, and one with his gore attack.
 

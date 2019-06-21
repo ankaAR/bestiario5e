@@ -25,7 +25,7 @@ armor_class: "12"
 
 ***Running Leap.*** With a 10-foot running start, the lion can long jump up to 25 ft..
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.
 

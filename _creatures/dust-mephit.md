@@ -26,7 +26,7 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+### Acciones
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) puntos de daño cortante.
 

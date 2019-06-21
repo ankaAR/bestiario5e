@@ -19,7 +19,7 @@ armor_class: "12"
 condition_immunities: "poisoned"
 ---
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d6 + 2) piercing damage.
 

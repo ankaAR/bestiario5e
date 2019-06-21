@@ -99,7 +99,7 @@ At will: hold person,* ray of frost
 
 6th level (1 slot): true seeing
 
-### Actions
+### Acciones
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one target. Hit:10 (2d8+1) puntos de daño contundente plus 3 (1d6) cold damage.
 

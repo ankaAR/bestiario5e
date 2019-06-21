@@ -59,7 +59,7 @@ At will: detect thoughts, levitate
 
 1/day each: dominate monster, plane shift (self only)
 
-### Actions
+### Acciones
 
 ***Paralyzing Touch.*** Melee Spell Attack: +12 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

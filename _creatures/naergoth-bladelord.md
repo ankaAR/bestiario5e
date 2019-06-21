@@ -25,7 +25,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Sunlight Sensitivity.*** While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Naergoth makes three attacks, either with his longsword or longbow. He can use Life Drain in place of one longsword attack.
 

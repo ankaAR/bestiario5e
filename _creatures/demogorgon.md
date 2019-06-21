@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Two Heads.*** Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Demogorgon makes two tentacle attacks.
 

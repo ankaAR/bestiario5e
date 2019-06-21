@@ -21,7 +21,7 @@ damage_resistances: "fire"
 
 ***Flaming Weapon (Recharges after a Short or Long Rest).*** As a bonus action, the guard can wreath one melee weapon it is wielding in flame. The guard is unharmed by this fire, which lasts until the end of the guard's next turn. While wreathed in flame, the weapon deals an extra 3 (1d6) fire damage on a hit.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The guard makes two melee attacks.
 

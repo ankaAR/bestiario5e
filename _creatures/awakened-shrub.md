@@ -21,6 +21,6 @@ damage_resistances: "piercing"
 
 ***False Appearance.*** While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
-### Actions
+### Acciones
 
 ***Rake.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4 - 1) puntos de daño cortante.

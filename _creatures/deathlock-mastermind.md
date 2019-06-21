@@ -33,7 +33,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
-### Actions
+### Acciones
 
 ***Deathly Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6 + 3 necrotic damage).
 

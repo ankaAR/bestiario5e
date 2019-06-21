@@ -19,6 +19,6 @@ armor_class: "12"
 
 ***Keen Smell.*** The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

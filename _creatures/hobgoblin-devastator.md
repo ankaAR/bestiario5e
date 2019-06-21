@@ -37,6 +37,6 @@ Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
 4th level (1 slot): ice storm
 
-### Actions
+### Acciones
 
 ***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with two hands.

@@ -24,7 +24,7 @@ armor_class: "18 (plate)"
 * 3/day each: jump, misty step, nondetection (self only), tongues
 * 1/day each: plane shift, telekinesis
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The githyanki makes two silver greatsword attacks.
 

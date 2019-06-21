@@ -21,7 +21,7 @@ armor_class: "15 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
 
-### Actions
+### Acciones
 
 ***Multiattack*** The Lost makes two arm spike attacks.
 

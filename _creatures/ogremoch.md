@@ -36,7 +36,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Siege Monster.*** Ogremoch deals double damage to objects and structures with his melee and ranged weapon attacks.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Ogremoch makes two slam attacks.
 

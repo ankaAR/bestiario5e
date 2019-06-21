@@ -19,6 +19,6 @@ armor_class: "12 (armadura natural)"
 
 ***Hold Breath.*** The crocodile can hold its breath for 15 minutes.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target

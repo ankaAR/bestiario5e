@@ -26,7 +26,7 @@ damage_resistances: "poison"
 
 ***Stout Resilience.*** Oren has advantage on saving throws against poison
 
-### Actions
+### Acciones
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60pies, un objetivo. Impacto: 3 (1d4+1) piercing damage. Duvessa carries only one dagger.
 

@@ -40,7 +40,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 * 5th level (1 slot): legend lore
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 

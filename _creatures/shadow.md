@@ -28,7 +28,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing
 
 ***Sunlight Weakness.*** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-### Actions
+### Acciones
 
 ***Strength Drain.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 

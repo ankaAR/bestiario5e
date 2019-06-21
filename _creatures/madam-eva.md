@@ -40,7 +40,7 @@ armor_class: "10"
 
 * 8th level (1 slot): earthquake
 
-### Actions
+### Acciones
 
 ***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.
 

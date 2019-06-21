@@ -29,7 +29,7 @@ At will: detect magic, feather fall, levitate, light
 
 3/day each: control weather, water breathing
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The giant makes two greatsword attacks.
 

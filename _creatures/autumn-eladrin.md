@@ -33,7 +33,7 @@ Whenever the eladrin deals damage to the charmed creature, the creature can repe
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Longsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage plus 18 (4d8) psychic damage, or 6 (1d10 + 1) slashing damage plus 18 (4d8) psychic damage if used with two hands.
 

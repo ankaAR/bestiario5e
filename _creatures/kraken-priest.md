@@ -29,7 +29,7 @@ At will: command, create or destroy water
 
 1/day each: call lightning, Evard's black tentacles
 
-### Actions
+### Acciones
 
 ***Thunderous Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 27 (5d10) thunder damage.
 

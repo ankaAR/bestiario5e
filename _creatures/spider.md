@@ -24,6 +24,6 @@ armor_class: "12"
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.

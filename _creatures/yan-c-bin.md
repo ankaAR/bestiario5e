@@ -36,7 +36,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Magic Resistance.*** Yan-C-Bin has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Yan-C-Bin makes two slam attacks.
 

@@ -25,6 +25,6 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, prone"
 
 ***Aversion to Fire.*** If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
-### Actions
+### Acciones
 
 ***Pseudopod*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente plus 2 (1d4) psychic damage.

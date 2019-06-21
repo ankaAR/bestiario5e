@@ -37,6 +37,6 @@ Subtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cas
 
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 4 (1d4+2) piercing damage.

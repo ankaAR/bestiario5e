@@ -18,7 +18,7 @@ hit_points: "16 (3d8+3)"
 armor_class: "14 (studded leather armor)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The ruffian makes two melee attacks.
 

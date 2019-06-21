@@ -28,7 +28,7 @@ armor_class: "10"
 
 * 2nd level (2 slots): alter self, invisibility
 
-### Actions
+### Acciones
 
 ***Claws (Requires Alter Self).*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño cortante. This attack is magical.
 

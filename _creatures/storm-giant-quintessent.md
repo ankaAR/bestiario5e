@@ -24,7 +24,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Anfibio.*** The giant puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The giant makes two Lightning Sword attacks or uses Wind Javelin twice.
 

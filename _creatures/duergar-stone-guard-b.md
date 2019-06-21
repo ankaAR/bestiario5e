@@ -26,7 +26,7 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***King's Knife (Shortsword)*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
 

@@ -22,7 +22,7 @@ armor_class: "13"
 
 ***Aggressive.*** As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The girallon makes five attacks: one with its bite and four with its claws.
 

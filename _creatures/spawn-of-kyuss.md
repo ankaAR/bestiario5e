@@ -25,7 +25,7 @@ condition_immunities: "exhaustion, poisoned"
 
 ***Worms.*** If the spawn of Kyuss is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away, and it loses its Burrowing Worm action.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The spawn of Kyuss makes two attacks with its claws and uses Burrowing Worm.
 

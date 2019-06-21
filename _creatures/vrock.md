@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The vrock makes two attacks: one with its beak and one with its talons.
 

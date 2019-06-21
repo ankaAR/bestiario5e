@@ -31,7 +31,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The dhergoloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The dhergoloth makes two claw attacks.
 

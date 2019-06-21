@@ -20,7 +20,7 @@ armor_class: "16 (studded leather armor)"
 
 ***Archer's Eye.*** As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.
 
-### Actions
+### Acciones
 
 ***Multiattack .*** The archer makes two attacks with its longbow.
 

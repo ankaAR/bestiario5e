@@ -25,6 +25,6 @@ damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical w
 
 ***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
 
-### Actions
+### Acciones
 
 ***Constrict.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 13 (3d6 + 3) puntos de daño contundente. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 ft. toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target.

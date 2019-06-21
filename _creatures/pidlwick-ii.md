@@ -23,7 +23,7 @@ condition_immunities: "paralyzed, petrified, poisoned"
 
 ***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.
 
-### Actions
+### Acciones
 
 ***Clava.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.
 

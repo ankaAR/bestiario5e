@@ -28,7 +28,7 @@ damage_resistances: "cold"
 
 ***Shadow Stealth.*** While in dim light or darkness, the mangler can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The mangler makes two claw attacks.
 

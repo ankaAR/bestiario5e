@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, it regains only 5 hit points at the start of its next turn. The troll dies only if it is hit by an attack that deals 10 or more acid or fire damage while the troll has 0 hit points.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The troll makes five attacks: one with its bite and four with its claws.
 

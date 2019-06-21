@@ -34,7 +34,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Resistance.*** Maegera has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Maegera makes three slam attacks.
 

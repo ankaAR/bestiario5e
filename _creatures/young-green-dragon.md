@@ -24,7 +24,7 @@ condition_immunities: "poisoned"
 
 ***Anfibio.*** The dragon puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 

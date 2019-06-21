@@ -21,7 +21,7 @@ armor_class: "10"
 
 ***Sun Sickness.*** While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
 
-### Actions
+### Acciones
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4- 1) puntos de daño contundente plus 2 (1d4) poison damage.
 

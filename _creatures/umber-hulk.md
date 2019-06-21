@@ -26,7 +26,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 ***Tunneler.*** The umber hulk can burrow through solid rock at half its burrowing speed and leaves a 5 foot-wide, 8-foot-high tunnel in its wake.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The umber hulk makes three attacks: two with its claws and one with its mandibles.
 

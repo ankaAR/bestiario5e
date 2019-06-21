@@ -27,7 +27,7 @@ At will: mage hand, Tasha's hideous laughter, vicious mockery 1/day: confusion
 
 ***Nimble Escape.*** The nilbog can take the Disengage or Hide action as a bonus action on each of its turns.
 
-### Actions
+### Acciones
 
 ***Fool's Scepter.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño contundente.
 

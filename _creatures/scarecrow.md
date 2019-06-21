@@ -24,7 +24,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***False Appearance.*** While the scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The scarecrow makes two claw attacks.
 

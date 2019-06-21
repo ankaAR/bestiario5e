@@ -36,7 +36,7 @@ At will: guidance, mage hand, vicious mockery, true strike
 
 5th level (2 slots): scrying, telekinesis
 
-### Actions
+### Acciones
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 15 (2dl0+4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
 

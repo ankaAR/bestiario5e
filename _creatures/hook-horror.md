@@ -23,7 +23,7 @@ armor_class: "15 (armadura natural)"
 
 ***Keen Hearing.*** The hook horror has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The hook horror makes two hook attacks.
 

@@ -24,7 +24,7 @@ armor_class: "16 (scale)"
 
 * 1st level (2 slots): expeditious retreat, feather fall
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The knight makes two melee attacks.
 

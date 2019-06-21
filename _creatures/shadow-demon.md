@@ -30,6 +30,6 @@ damage_resistances: "acid, fire, necrotic, thunder, bludgeoning, piercing, and s
 
 ***Shadow Stealth.*** While in dim light or darkness, the demon can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.

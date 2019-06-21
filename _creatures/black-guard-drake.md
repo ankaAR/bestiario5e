@@ -22,7 +22,7 @@ damage_resistances: "acid"
 
 ***Anfibio.*** The guard drake puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The drake attacks twice, once with its bite and once with its tail.
 

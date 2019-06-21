@@ -31,7 +31,7 @@ armor_class: "13"
 
 ***Sunlight Sensitivity.*** While in sunlight, the werebat has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the werebat makes two scimitar attacks or two shortbow attacks. In hybrid form, it can make one bite attack and one scimitar attack.
 

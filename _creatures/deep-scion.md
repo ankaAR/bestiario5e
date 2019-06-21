@@ -24,7 +24,7 @@ armor_class: "11"
 
 ***Amphibious (Hybrid Form Only).*** The deep scion puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** In humanoid form, the deep scion makes two melee attacks. In hybrid form, the deep scion makes three attacks: one with its bite and two with its claws.
 

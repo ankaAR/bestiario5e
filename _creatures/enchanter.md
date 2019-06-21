@@ -35,7 +35,7 @@ Cantrips (at will): friends, mage hand, mending, message
 
 *Enchantment spell of 1st level or higher
 
-### Actions
+### Acciones
 
 ***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
 

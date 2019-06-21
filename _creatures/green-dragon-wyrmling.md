@@ -24,7 +24,7 @@ condition_immunities: "poisoned"
 
 ***Anfibio.*** The dragon puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 

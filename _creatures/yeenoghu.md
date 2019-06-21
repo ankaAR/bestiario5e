@@ -37,7 +37,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Rampage.*** When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):
 1. The attack deals an extra 13 (2d12) puntos de daño contundente.

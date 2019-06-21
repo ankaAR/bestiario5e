@@ -18,7 +18,7 @@ hit_points: "44 (8d8+8)"
 armor_class: "16 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Vampiric Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage. The target must succeed on a DC 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken, and the ixitxachitl regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 

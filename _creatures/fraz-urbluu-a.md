@@ -39,7 +39,7 @@ At will: alter self (can become Medium-sized when changing his appearance), dete
 
 ***Undetectable.*** Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 

@@ -19,7 +19,7 @@ hit_points: "149 (13d12+65)"
 armor_class: "14 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The fomorian attacks twice with its greatclub or makes one greatclub attack and uses Evil Eye once.
 

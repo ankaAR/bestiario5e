@@ -35,7 +35,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Weapons.*** The molydeus's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The molydeus makes three attacks: one with its weapon, one with its wolf bite, and one with its snakebite.
 

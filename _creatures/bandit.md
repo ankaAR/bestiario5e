@@ -17,7 +17,7 @@ hit_points: "11 (2d8+2)"
 armor_class: "12 (armadura de cuero)"
 ---
 
-### Actions
+### Acciones
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño cortante.
 

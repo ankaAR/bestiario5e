@@ -30,7 +30,7 @@ armor_class: "14"
 
 ***Unarmored Movement.*** While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed).
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The hurricane makes two melee attacks.
 

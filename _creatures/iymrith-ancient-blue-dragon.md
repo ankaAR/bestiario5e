@@ -25,7 +25,7 @@ armor_class: "22 (armadura natural)"
 
 1/day: counterspell, detect magic, ice storm, stone shape, teleport
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 

@@ -18,7 +18,7 @@ hit_points: "11 (2d8 +2)"
 armor_class: "10"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tri-flower frond uses its orange blossom, then its yellow blossom, and then its red blossom.
 

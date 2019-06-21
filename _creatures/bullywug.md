@@ -26,7 +26,7 @@ armor_class: "15 (hide armor, shield)"
 
 ***Standing Leap.*** The bullywug's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The bullywug makes two melee attacks: one with its bite and one with its spear.
 

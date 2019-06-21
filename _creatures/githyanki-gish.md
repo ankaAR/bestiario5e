@@ -35,7 +35,7 @@ armor_class: "17 (half plate)"
 
 ***War Magic.*** When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action
 
-### Actions
+### Acciones
 
 ***Multiattack*** The githyanki makes two longsword attacks.
 

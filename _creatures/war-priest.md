@@ -33,7 +33,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying
 
 5th level (1 slot): flame strike, mass cure wounds, hold monster
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The priest makes two melee attacks.
 

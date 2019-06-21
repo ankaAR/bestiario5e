@@ -23,7 +23,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Engine of Pain.*** Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The screamer makes one drill attack and uses its Sonic Scream.
 

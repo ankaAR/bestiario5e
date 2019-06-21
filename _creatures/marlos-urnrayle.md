@@ -32,7 +32,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 If Marlos sees himself reflected on a polished surface within 30 feet of him and in an area of bright light, Marlos is, due to his curse, affected by his own gaze.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Marlos makes three melee attacks, one with his snake hair and two with Ironfang.
 

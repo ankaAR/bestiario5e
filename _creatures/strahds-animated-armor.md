@@ -31,7 +31,7 @@ damage_resistances: "cold, fire"
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The armor makes two melee attacks or uses Shocking Bolt twice.
 

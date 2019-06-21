@@ -20,6 +20,6 @@ armor_class: "10"
 
 ***Beast of Burden.*** The oxen is considered to be a Huge animal for the purposes of determining its carrying capacity.
 
-### Actions
+### Acciones
 
 ***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.

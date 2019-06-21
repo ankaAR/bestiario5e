@@ -36,6 +36,6 @@ armor_class: "19 (armadura natural)"
 * 7th level (1 slot): etherealness, prismatic spray
 * 8th level (1 slot): feeblemind
 
-### Actions
+### Acciones
 
 ***Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente.

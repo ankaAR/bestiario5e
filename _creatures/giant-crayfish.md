@@ -22,7 +22,7 @@ armor_class: "15 (armadura natural)"
 
 ***Anfibio.*** The giant crayfish puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The giant crayfish makes two claw attacks.
 

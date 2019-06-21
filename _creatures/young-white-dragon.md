@@ -23,7 +23,7 @@ armor_class: "17 (armadura natural)"
 
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 

@@ -18,7 +18,7 @@ hit_points: "58 (9d8+18)"
 armor_class: "17 (splint)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 

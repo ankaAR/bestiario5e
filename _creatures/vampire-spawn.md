@@ -35,7 +35,7 @@ Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood i
 
 Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The vampire makes two attacks, only one of which can be a bite attack.
 

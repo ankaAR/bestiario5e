@@ -29,7 +29,7 @@ condition_immunities: "blinded, poisoned"
 
 ***Unarmored Movement.*** While Hellenrae is wearing no armor and wielding no shield, her speed increases by 20 feet (included in her speed).
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Hellenrae makes three melee attacks.
 

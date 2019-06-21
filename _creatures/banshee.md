@@ -26,7 +26,7 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ***Incorporeal Movement.*** The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 
-### Actions
+### Acciones
 
 ***Corrupting Touch.*** Melee Spell Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (3d6 + 2) necrotic damage.
 

@@ -46,7 +46,7 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The matron mother makes two demon staff attacks or three tentacle rod attacks.
 

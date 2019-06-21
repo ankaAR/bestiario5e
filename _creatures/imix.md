@@ -40,7 +40,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Resistance.*** Imix has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Imix makes two slam attacks or two flame blast attacks.
 

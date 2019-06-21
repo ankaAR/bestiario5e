@@ -19,6 +19,6 @@ armor_class: "12"
 
 ***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Talons.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.

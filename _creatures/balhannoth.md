@@ -24,7 +24,7 @@ condition_immunities: "blinded"
 
 ***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The balhannoth makes a bite attack and up to two tentacle attacks, or it makes up to four tentacle attacks.
 

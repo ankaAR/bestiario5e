@@ -23,6 +23,6 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-### Actions
+### Acciones
 
 ***Rapier*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.

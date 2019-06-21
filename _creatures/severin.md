@@ -31,7 +31,7 @@ damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lig
 
 ***Legendary Resistance (5/Day).*** While wearing the Mask of the Dragon Queen, if Severin fails a saving throw, he can choose to succeed instead.
 
-### Actions
+### Acciones
 
 ***Burning Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d8) fire damage.
 

@@ -20,6 +20,6 @@ armor_class: "13 (armadura natural)"
 
 ***Water Breathing.*** The sea horse can breathe only underwater.
 
-### Actions
+### Acciones
 
 ***Ram.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente.

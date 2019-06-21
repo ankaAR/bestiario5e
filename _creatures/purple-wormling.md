@@ -17,7 +17,7 @@ hit_points: "42 (5d10+15)"
 armor_class: "12 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The wormling makes two attacks: one with its bite and one with its stinger.
 

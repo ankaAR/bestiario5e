@@ -27,6 +27,6 @@ damage_resistances: "poison"
 * Trucos (a voluntad): light, sacred flame, thaumaturgy
 * 1st level (3 slots): bless, cure wounds, sanctuary
 
-### Actions
+### Acciones
 
 ***Club*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.

@@ -20,7 +20,7 @@ armor_class: "14 (armadura natural)"
 damage_resistances: "lightning, piercing"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The vegepygmy makes two attacks with its claws or two melee attacks with its spear.
 

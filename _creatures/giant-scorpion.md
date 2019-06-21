@@ -17,7 +17,7 @@ hit_points: "52 (7d10+14)"
 armor_class: "15 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Claw.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño contundente, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
 

@@ -16,6 +16,6 @@ hit_points: "11 (2d8+2)"
 armor_class: "10"
 ---
 
-### Actions
+### Acciones
 
 ***Hooves.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño contundente.

@@ -38,7 +38,7 @@ armor_class: "12 (armadura de cuero)"
 
 ***Undead Slayer.*** When Rictavio hits an undead with a weapon attack, the undead takes an extra 10 (3d6) damage of the weapon's type.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Rictavio makes two attacks with his sword cane.
 

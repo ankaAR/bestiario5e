@@ -37,7 +37,7 @@ At will: detect thoughts, web
 
 ***Web Walker.*** The yochlol ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The yochlol makes two melee attacks.
 

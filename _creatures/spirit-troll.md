@@ -27,7 +27,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder"
 
 ***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes psychic or force damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 

@@ -20,7 +20,7 @@ armor_class: "14 (armadura natural)"
 condition_immunities: "prone"
 ---
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) piercing damage.
 

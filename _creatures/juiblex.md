@@ -40,7 +40,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Spider Climb.*** Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Juiblex makes three acid lash attacks.
 

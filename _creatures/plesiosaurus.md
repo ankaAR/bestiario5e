@@ -19,6 +19,6 @@ armor_class: "13 (armadura natural)"
 
 ***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) piercing damage.

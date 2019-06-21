@@ -44,7 +44,7 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 

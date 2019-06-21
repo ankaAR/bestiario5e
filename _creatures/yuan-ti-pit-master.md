@@ -42,7 +42,7 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-### Actions
+### Acciones
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two bite attacks using its snake arms.
 

@@ -22,7 +22,7 @@ armor_class: "15 (armadura natural)"
 
 ***Disintegration.*** If the tridrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tridrone makes three fist attacks or three javelin attacks.
 

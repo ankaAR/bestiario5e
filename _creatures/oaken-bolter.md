@@ -23,7 +23,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Magic Resistance.*** The oaken bolter has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The oaken bolter makes two lancing bolt attacks or one lancing bolt attack and one harpoon attack.
 

@@ -19,7 +19,7 @@ armor_class: "12 (armadura natural)"
 condition_immunities: "blinded, deafened"
 ---
 
-### Actions
+### Acciones
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage.
 

@@ -19,7 +19,7 @@ hit_points: "85 (10d10+30)"
 armor_class: "15 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tlincalli makes two attacks: one with its longsword or spiked chain, and one with its sting.
 

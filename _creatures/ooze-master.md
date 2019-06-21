@@ -49,7 +49,7 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ***Spider Climb.*** The Ooze Master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
 ***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) acid damage.
 

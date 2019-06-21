@@ -36,7 +36,7 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Regeneration.*** Tiamat regains 30 hit points at the start of her turn.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.
 

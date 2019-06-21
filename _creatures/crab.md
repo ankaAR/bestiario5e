@@ -20,6 +20,6 @@ armor_class: "11 (armadura natural)"
 
 ***Anfibio.*** The crab puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Claw.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.

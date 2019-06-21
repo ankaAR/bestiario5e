@@ -20,7 +20,7 @@ armor_class: "18 (plate)"
 
 ***Brave.*** The knight has advantage on saving throws against being frightened.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The knight makes two melee attacks.
 

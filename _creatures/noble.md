@@ -18,7 +18,7 @@ hit_points: "9 (2d8)"
 armor_class: "15 (breastplate)"
 ---
 
-### Actions
+### Acciones
 
 ***Rapier.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
 

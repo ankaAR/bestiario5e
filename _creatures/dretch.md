@@ -21,7 +21,7 @@ condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dretch makes two attacks: one with its bite and one with its claws.
 

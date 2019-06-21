@@ -30,7 +30,7 @@ armor_class: "15 (cuero endurecido)"
 
 * 3rd level (2 slots): gaseous form
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The priest makes two melee attacks or two ranged attacks.
 

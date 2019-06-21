@@ -41,6 +41,6 @@ Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
 
 ***Arcane Ward.*** The abjurer has a magical ward that has 30 hit points. Whenever the abjurer takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, the abjurer takes any remaining damage. When the abjurer casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.
 
-### Actions
+### Acciones
 
 ***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) puntos de daño contundente, or 3 (1d8-l) puntos de daño contundente if used with two hands.

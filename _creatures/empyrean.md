@@ -33,7 +33,7 @@ At will: greater restoration, pass without trace, water breathing, water walk
 
 ***Magic Weapons.*** The empyrean's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Maul.*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 31 (6d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be stunned until the end of the empyrean's next turn.
 

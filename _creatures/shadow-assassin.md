@@ -31,7 +31,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Sunlight Weakness.*** While in sunlight, the assassin has disadvantage on attack rolls, ability checks, and saving throws.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The assassin makes two Shadow Blade attacks.
 

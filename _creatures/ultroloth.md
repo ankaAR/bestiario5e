@@ -34,7 +34,7 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 
 ***Magic Weapons.*** The ultroloth's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
 

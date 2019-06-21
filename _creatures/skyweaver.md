@@ -28,6 +28,6 @@ armor_class: "12 (15 with mage armor)"
 
 * 3rd level (3 slots): fly, lightning bolt
 
-### Actions
+### Acciones
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

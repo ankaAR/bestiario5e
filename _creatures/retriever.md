@@ -28,7 +28,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ***Innate Spellcasting.*** The retriever's innate spellcasting ability is Wisdom. The retriever can innately cast the following spells, requiring no material components.
 * 3/day each: plane shift (only self and up to one incapacitated creature which is considered willing for the spell), web
 
-### Actions
+### Acciones
 
 ***Multiattack*** The retriever makes two foreleg attacks and uses its force or paralyzing beam once, if available.
 

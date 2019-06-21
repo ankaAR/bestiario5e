@@ -21,7 +21,7 @@ senses: " passive Perception 12"
 
 ***Sneak Attack (1/turn).*** Shalvus deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Shalvus that isn't incapacitated and Shalvus doesn't have disadvantage on the attack roll.
 
-### Actions
+### Acciones
 
 ***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente, or 4 (1d8) puntos de daño contundente if used with both hands.
 

@@ -23,7 +23,7 @@ armor_class: "16 (breastplate)"
 
 ***Firearms Knowledge.*** The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The giff makes two pistol attacks.
 

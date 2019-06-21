@@ -20,7 +20,7 @@ armor_class: "15 (natural armor, shield)"
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The lizardfolk makes two melee attacks, each one with a different weapon.
 

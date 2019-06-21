@@ -19,6 +19,6 @@ armor_class: "13 (armadura natural)"
 
 ***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) puntos de daño cortante.

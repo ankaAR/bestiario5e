@@ -19,6 +19,6 @@ armor_class: "10"
 
 ***Charge.*** If the rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
 
-### Actions
+### Acciones
 
 ***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.

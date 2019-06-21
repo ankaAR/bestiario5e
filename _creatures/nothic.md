@@ -21,7 +21,7 @@ armor_class: "15 (armadura natural)"
 
 ***Keen Sight.*** The nothic has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The nothic makes two claw attacks.
 

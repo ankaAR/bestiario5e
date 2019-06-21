@@ -20,6 +20,6 @@ armor_class: "10"
 
 ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+### Acciones
 
 ***Ram.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente.

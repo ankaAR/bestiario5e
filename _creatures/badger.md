@@ -19,6 +19,6 @@ armor_class: "10"
 
 ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

@@ -30,7 +30,7 @@ armor_class: "13"
 
 ***Speak with Animals.*** The nereid can comprehend and verbally communicate with beasts.
 
-### Actions
+### Acciones
 
 ***Blinding Acid.*** Melee or Ranged Spell Attack: +5 al ataque, alcance 5 ft. or range 30 pies, un objetivo. Impacto: 16 (2d12 + 3) acid damage, and the target is blinded until the start of the nereid's next turn.
 

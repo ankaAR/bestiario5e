@@ -32,7 +32,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Shadow Stealth.*** While in dim light or darkness, the abishai can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The abishai makes three attacks: two with its scimitar and one with its bite.
 

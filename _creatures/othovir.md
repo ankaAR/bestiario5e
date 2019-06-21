@@ -25,7 +25,7 @@ Cantrips (at will): blade ward, fire bolt, mending, prestidigitation
 
 1st level (3 slots): mage armor, thunderwave, witch bolt
 
-### Actions
+### Acciones
 
 **Rapier.** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) piercing damage.
 

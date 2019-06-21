@@ -32,7 +32,7 @@ The shock wave deals 100 thunder damage to all structures in contact with the gr
 
 ***Siege Monster.*** The elemental deals double damage to objects and structures (included in Earth-Shaking Movement).
 
-### Actions
+### Acciones
 
 ***Multiattack*** The zaratan makes two attacks: one with its bite and one with its stomp.
 

@@ -29,7 +29,7 @@ Cantrips (at will): guidance, light, sacred flame, thaumaturgy
 
 3rd level (3 slots): bestow curse, dispel magic, spirit guardian
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Grisha makes two attacks with his +1 flail.
 

@@ -24,6 +24,6 @@ armor_class: "10"
 
 * 1st level (3 slots): Bendecir, Curar heridas, Santuario
 
-### Actions
+### Acciones
 
 ***Clava.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.

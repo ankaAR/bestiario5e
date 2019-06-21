@@ -44,7 +44,7 @@ damage_resistances: "poison"
 
 ***Web Walker.*** The drow ignores movement restrictions caused by webbing.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The drow makes two poisonous touch attacks or two bite attacks. The first of these attacks that hits each round deals an extra 26 (4d12) poison damage to the target.
 

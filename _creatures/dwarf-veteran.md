@@ -23,7 +23,7 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-### Actions
+### Acciones
 
 ***Multiattack*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 

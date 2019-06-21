@@ -34,7 +34,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Magic Resistance.*** The sibriex has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The sibriex uses Squirt Bile once and makes three attacks using its chain, bite, or both.
 

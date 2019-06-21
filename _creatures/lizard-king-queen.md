@@ -25,7 +25,7 @@ condition_immunities: "frightened"
 
 ***Skewer.*** Once per turn, when the lizardfolk makes a melee attack with its trident and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains temporary hit points equal to the extra damage dealt.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The lizardfolk makes two attacks: one with its bite and one with its claws or trident or two melee attacks with its trident.
 

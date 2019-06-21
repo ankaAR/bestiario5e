@@ -33,7 +33,7 @@ At will: druidcraft
 
 ***Tree Stride.*** Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 ft. of the second tree. Both trees must be large or bigger.
 
-### Actions
+### Acciones
 
 ***Clava.*** Ataque de arma cuerpo a cuerpo: +2 to hit (+6 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 2 (1 d4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente with shillelagh.
 

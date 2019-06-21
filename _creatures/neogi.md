@@ -23,7 +23,7 @@ armor_class: "15 (armadura natural)"
 
 ***Spider Climb.*** The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The neogi makes two attacks: one with its bite and one with its claws.
 

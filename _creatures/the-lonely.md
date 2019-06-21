@@ -24,7 +24,7 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 
 ***Thrives on Company.*** The Lonely has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The Lonely makes one harpoon arm attack and uses Sorrowful Embrace.
 

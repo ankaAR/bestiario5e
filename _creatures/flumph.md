@@ -26,7 +26,7 @@ damage_vulnerabilities: "psychic"
 
 ***Telepathic Shroud.*** The flumph is immune to any effect that would sense its emotions or read its thoughts, as well as all divination spells.
 
-### Actions
+### Acciones
 
 ***Tendrils.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (1d4) acid damage on a failure or ending the recurring acid damage on a success. A lesser restoration spell cast on the target also ends the recurring acid damage.
 

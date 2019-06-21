@@ -26,6 +26,6 @@ armor_class: "13 (hide armor)"
 
 1/day each: hunter's mark, jump, pass without trace, speak with animals, speak with plants.
 
-### Actions
+### Acciones
 
 ***Handaxe.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d6 +1) puntos de daño cortante.

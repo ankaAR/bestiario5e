@@ -36,7 +36,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Regeneration.*** Titivilus regains 10 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Titivilus dies only if he starts his turn with 0 hit points and doesn't regenerate. Ventriloquism. Whenever Titivilus speaks, he can choose a point within 60 feet; his voice emanates from that point.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Titivilus makes one sword attack and uses his Frightful Word once.
 

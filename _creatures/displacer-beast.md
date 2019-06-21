@@ -21,7 +21,7 @@ armor_class: "13 (armadura natural)"
 
 ***Displacement.*** The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of 0.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The displacer beast makes two attacks with its tentacles.
 

@@ -18,7 +18,7 @@ hit_points: "27 (5d8 +5)"
 armor_class: "12"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The Su-monster makes two attacks: one with its bite and one with its claws.
 

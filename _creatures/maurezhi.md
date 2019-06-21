@@ -27,7 +27,7 @@ damage_resistances: "cold, fire, lightning, necrotic; bludgeoning, piercing, and
 
 ***Magic Resistance.*** The maurezhi has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The maurezhi makes two attacks: one with its bite and one with its claws.
 

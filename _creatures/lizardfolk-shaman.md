@@ -30,7 +30,7 @@ armor_class: "13 (armadura natural)"
 
 * 3rd Level (2 slots): conjure animals (reptiles only), plant growth
 
-### Actions
+### Acciones
 
 ***Multiattack (Lizardfolk Form Only).*** The lizardfolk makes two attacks: one with its bite and one with its claws.
 

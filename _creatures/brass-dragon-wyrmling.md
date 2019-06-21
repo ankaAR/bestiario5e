@@ -21,7 +21,7 @@ hit_points: "16 (3d8+3)"
 armor_class: "16 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage.
 

@@ -23,7 +23,7 @@ armor_class: "11 (in humanoid form, 12 in wolf or hybrid form)"
 
 ***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+### Acciones
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: one with its bite and one with its claws or spear.
 

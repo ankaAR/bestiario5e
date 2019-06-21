@@ -28,7 +28,7 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Siege Monster.*** The tarrasque deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tai l. It can use its Swallow instead of its bite.
 

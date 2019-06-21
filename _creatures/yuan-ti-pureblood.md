@@ -29,7 +29,7 @@ At will: animal friendship (snakes only)
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The yuan-ti makes two melee attacks.
 

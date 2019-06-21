@@ -55,7 +55,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 9th level (1 slot): true resurrection
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
 

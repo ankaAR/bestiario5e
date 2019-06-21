@@ -20,7 +20,7 @@ armor_class: "11 (armadura natural)"
 
 ***Limited Amphibiousness.*** The sea spawn can breathe air and water, but needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The sea spawn makes three attacks: two unarmed strikes and one with its Piscine Anatomy.
 

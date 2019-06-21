@@ -19,7 +19,7 @@ hit_points: "59  (7d10 + 21)"
 armor_class: "11 (hide armor)"
 ---
 
-### Actions
+### Acciones
 
 ***Fist*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño contundente.
 

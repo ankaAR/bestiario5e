@@ -61,7 +61,7 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 
 * 5th level (1 slot): dominate person
 
-### Actions
+### Acciones
 
 ***Multiattack (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack.
 

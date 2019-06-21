@@ -22,6 +22,6 @@ condition_immunities: "charmed, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-### Actions
+### Acciones
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante.

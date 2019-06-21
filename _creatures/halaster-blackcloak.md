@@ -56,7 +56,7 @@ Halaster also wears a *horned ring* (a very rare magic item that requires attune
 
 * 9th level (1 slot): meteor swarm, wish
 
-### Actions
+### Acciones
 
 ***Blast Scepter.*** Halaster uses his *blast scepter* to cast *thunderwave* as a 4th-level spell (save DC 16).
 

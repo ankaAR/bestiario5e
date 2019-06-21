@@ -33,7 +33,7 @@ armor_class: "18 (cuero endurecido)"
 
 ***Mask of the Wild.*** Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Rahadin attacks three times with his scimitar, or twice with his poisoned darts.
 

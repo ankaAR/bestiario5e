@@ -28,7 +28,7 @@ armor_class: "7"
 
 ***Turn Resistance Aura.*** The atropal and any other undead creature within 30 feet of it has advantage on saving throws against any effect that turns undead.
 
-### Actions
+### Acciones
 
 ***Touch.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) necrotic damage.
 

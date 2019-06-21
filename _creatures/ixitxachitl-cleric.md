@@ -28,7 +28,7 @@ Cantrips (at will): guidance, thaumaturgy
 
 3rd level (2 slots): dispel magic, tongues
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.
 

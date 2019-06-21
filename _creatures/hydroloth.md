@@ -37,7 +37,7 @@ damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from n
 
 ***Watery Advantage.*** While submerged in liquid, the hydroloth has advantage on attack rolls.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The hydroloth makes two melee attacks. In place of one of these attacks, it can cast one spell that takes 1 action to cast.
 

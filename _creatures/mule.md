@@ -20,6 +20,6 @@ armor_class: "10"
 
 ***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+### Acciones
 
 ***Hooves.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño contundente.

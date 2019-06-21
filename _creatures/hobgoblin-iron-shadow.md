@@ -27,7 +27,7 @@ Cantrips (at will): minor illusion, prestidigitation, true strike
 
 ***Unarmored Defense.*** While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
 

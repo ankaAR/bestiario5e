@@ -28,7 +28,7 @@ armor_class: "17 (splint)"
 
 * 3rd level (2 slots): slow
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The priest makes two melee attacks.
 

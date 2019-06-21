@@ -19,7 +19,7 @@ armor_class: "14 (armadura natural)"
 
 ***Poor Depth Perception.*** The cyclops has disadvantage on any attack roll against a target more than 30 ft. away.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The cyclops makes two greatclub attacks.
 

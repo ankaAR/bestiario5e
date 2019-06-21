@@ -23,7 +23,7 @@ armor_class: "11 (armadura natural)"
 
 ***Undead fortitude.*** If damage reduces the tyrannosaurus zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tyrannosaurus zombie makes two attacks: one with its bite and one with it s tail. It can't make both attacks against the same target.
 

@@ -22,7 +22,7 @@ armor_class: "11 (leather)"
 
 The possession lats until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as dispel evil and good spell. When the possession ends, the yakfolk appears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well and its body does not reappear.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 

@@ -21,7 +21,7 @@ armor_class: "13 (armadura natural)"
 
 ***Sun Sickness.*** While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The myconid uses either its Hallucination Spores or its Pacifying Spores, then makes a fist attack.
 

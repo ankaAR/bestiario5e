@@ -34,7 +34,7 @@ At will: detect magic, fireball
 
 3/day each: hold monster, wall of fire
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 

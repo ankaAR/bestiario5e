@@ -22,7 +22,7 @@ condition_immunities: "exhaustion, poisoned"
 
 ***Rampage.*** When the witherling reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The witherling makes two attacks: one with its bite and one with its club, or two with its club.
 

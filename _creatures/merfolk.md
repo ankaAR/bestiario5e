@@ -20,6 +20,6 @@ armor_class: "11"
 
 ***Anfibio.*** The merfolk puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Spear.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.

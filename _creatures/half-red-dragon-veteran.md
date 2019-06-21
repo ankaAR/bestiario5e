@@ -21,7 +21,7 @@ armor_class: "18 (plate)"
 damage_resistances: "fire"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 

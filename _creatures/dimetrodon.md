@@ -19,6 +19,6 @@ armor_class: "12 (armadura natural)"
 
 ***Source.*** Volo's Guide to Monsters, p. 139
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6+2) piercing damage.

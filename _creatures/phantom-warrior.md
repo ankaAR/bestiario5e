@@ -29,7 +29,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Spectral Armor and Shield.*** The phantom warrior's AC accounts for its spectral armor and shield.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The phantom warrior makes two attacks with its spectral longsword.
 

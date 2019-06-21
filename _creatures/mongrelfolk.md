@@ -37,7 +37,7 @@ armor_class: "11 (armadura natural)"
 
 ***Mimicry.*** The mongrelfolk can mimic any sounds it has beard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.
 

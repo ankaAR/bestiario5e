@@ -23,7 +23,7 @@ armor_class: "16 (hide armor, shield)"
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-### Actions
+### Acciones
 
 ***Morningstar.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8 + 2) piercing damage.
 

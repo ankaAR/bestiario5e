@@ -33,7 +33,7 @@ armor_class: "15 (patchwork armor)"
 
 - The giant has resistance to bludgeoning, piercing, and slashing damage.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The giant makes two attacks with its greataxe.
 

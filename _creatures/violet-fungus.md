@@ -20,7 +20,7 @@ condition_immunities: "blinded, deafened, frightened"
 
 ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The fungus makes 1d4 Rotting Touch attacks.
 

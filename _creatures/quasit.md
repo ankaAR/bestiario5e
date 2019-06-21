@@ -28,7 +28,7 @@ damage_resistances: "cold; fire; lightning; bludgeoning, piercing, and slashing 
 
 ***Variant: Familiar.*** The quasit can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the quasit is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the quasit can end its service as a familiar, ending the telepathic bond.
 
-### Actions
+### Acciones
 
 ***Claw (Bite in Beast Form).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

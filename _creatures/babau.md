@@ -26,7 +26,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 At will: darkness, dispel magic, fear, heat metal, levitate
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
 

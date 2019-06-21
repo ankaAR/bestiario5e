@@ -18,7 +18,7 @@ hit_points: "2 (1d4)"
 armor_class: "15 (armadura de cuero)"
 ---
 
-### Actions
+### Acciones
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.
 

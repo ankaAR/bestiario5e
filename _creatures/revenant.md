@@ -30,7 +30,7 @@ damage_resistances: "necrotic, psychic"
 
 ***Vengeful Tracker.*** The revenant knows the distance to and direction of any creature against which it seeks revenge, even if the creature and the revenant are on different planes of existence. If the creature being tracked by the revenant dies, the revenant knows.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The revenant makes two fist attacks.
 

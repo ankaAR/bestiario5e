@@ -34,7 +34,7 @@ condition_immunities: "charmed, frightened"
 
 ***Legendary Resistance (1/Day).*** If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.
 
-### Actions
+### Acciones
 
 ***Greatsword (Hazirawn).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 

@@ -39,7 +39,7 @@ Cantrips (at will): acid splash, mage hand, mending, ray of frost, shocking gras
 
 6th level (1 slot): chain lightning
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The morkoth makes three attacks: two with its bite and one with its tentacles or three with its bite.
 

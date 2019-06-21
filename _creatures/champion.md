@@ -23,7 +23,7 @@ armor_class: "18 (plate)"
 
 ***Second Wind (Recharges after a Short or Long Rest).*** As a bonus action, the champion can regain 20 hit points.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The champion makes three attacks with its greatsword or its light crossbow.
 

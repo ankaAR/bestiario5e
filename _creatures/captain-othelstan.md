@@ -23,7 +23,7 @@ armor_class: "19 (splint, shield)"
 
 ***Tiamat's Blessing of Retribution.*** When Othelstan takes damage that reduces him to 0 hit points, he immediately regains 20 hit points. If he has 20 hit points or fewer at the end of his next turn, he dies.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Othelstan attacks twice with his flail or spear, or makes two ranged attacks with his spears.
 

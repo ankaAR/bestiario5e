@@ -21,7 +21,7 @@ hit_points: "189  (18d10 + 90)"
 armor_class: "19 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiattack*** The gray render makes three attacks: one with its bite and two with its claws.
 

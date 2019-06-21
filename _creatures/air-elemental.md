@@ -23,7 +23,7 @@ damage_resistances: "lightning, thunder, bludgeoning, piercing, and slashing fro
 
 ***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The elemental makes two slam attacks.
 

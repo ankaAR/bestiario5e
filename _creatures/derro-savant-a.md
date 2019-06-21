@@ -35,7 +35,7 @@ Cantrips (at will): acid splash, light, mage hand, message, ray of frost
 
 3rd level (2 slots): blink, lightning bolt
 
-### Actions
+### Acciones
 
 ***Hooked Shortspear.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4-1) piercing damage. If the target is a creature, the derro can choose to deal no damage and try to trip the target instead, in which case the target must succeed on a DC 9 Strength saving throw or fall prone.
 

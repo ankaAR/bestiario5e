@@ -28,7 +28,7 @@ damage_resistances: "one of the following: acid, cold, fire, lightning, or poiso
 
 ***Pack Tactics.*** The dragonwing has advantage on an attack roll against a creature if at least one of the dragonwing's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dragonwing attacks twice with its scimitar.
 

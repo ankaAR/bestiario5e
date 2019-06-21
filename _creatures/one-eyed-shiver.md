@@ -31,7 +31,7 @@ armor_class: "12 (15 with mage armor)"
 
 * 3rd level (2 slots): fear
 
-### Actions
+### Acciones
 
 ***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 

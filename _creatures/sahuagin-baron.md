@@ -26,7 +26,7 @@ armor_class: "16 (breastplate)"
 
 ***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The sahuagin makes three attacks: one with his bite and two with his claws or trident.
 

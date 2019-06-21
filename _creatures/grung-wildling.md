@@ -41,7 +41,7 @@ condition_immunities: "poisoned"
 
 Red. The poisoned creature must use its action to eat if food is within reach.
 
-### Actions
+### Acciones
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 

@@ -37,7 +37,7 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Swamp Camouflage.*** Pharblex has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Pharblex attacks twice. Once with his bite and once with his spear.
 

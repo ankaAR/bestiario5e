@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The eladrin makes two weapon attacks.
 

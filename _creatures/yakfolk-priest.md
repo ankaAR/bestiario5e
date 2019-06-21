@@ -34,7 +34,7 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 * 4th level (1 slots): banishment
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 

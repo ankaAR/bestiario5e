@@ -25,7 +25,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Siege Monster.*** The hammerer deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The hammerer makes two attacks: one with its claw and one with its hammer.
 

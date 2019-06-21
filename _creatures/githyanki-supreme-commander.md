@@ -26,7 +26,7 @@ armor_class: "18 (plate)"
 * 3/day each: jump, levitate (self only), misty step, nondetection (self only)
 * 1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis
 
-### Actions
+### Acciones
 
 ***Multiattack*** The githyanki makes two greatsword attacks.
 

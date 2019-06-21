@@ -35,7 +35,7 @@ condition_immunities: "charmed, exhaustion"
 * 5th level (3 slots): armor of Agathys, blight, darkness, dream, invisibility, fear, hypnotic pattern, major image, contact other plane, vampiric touch, witch bolt
 
 
-### Actions
+### Acciones
 
 ***Multiattack*** The gloom weaver makes two spear attacks and casts one spell that takes 1 action to cast.
 

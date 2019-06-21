@@ -35,6 +35,6 @@ Cantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusio
 
 ***Dark One's Own Luck (Recharges after a Short or Long Rest).*** When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.
 
-### Actions
+### Acciones
 
 ***Mace.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente plus 10 (3d6) fire damage.

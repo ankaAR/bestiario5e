@@ -35,7 +35,7 @@ armor_class: "12 (armadura natural)"
 
 * 3rd level (3 slots): mass healing word, tongues
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The sahuagin makes two melee attacks: one with her bite and one with her claws.
 

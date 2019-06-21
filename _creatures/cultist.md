@@ -20,6 +20,6 @@ armor_class: "12 (armadura de cuero)"
 
 ***Devoción oscura.*** El sectario tiene ventaja en las tiradas de salvación para no quedar hechizado o asustado.
 
-### Actions
+### Acciones
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d6 + 1) puntos de daño cortante.

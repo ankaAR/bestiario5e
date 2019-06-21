@@ -22,7 +22,7 @@ armor_class: "21 (plate, shields)"
 
 ***Dual Shields.*** The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The giant makes two fireshield attacks.
 

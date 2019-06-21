@@ -28,7 +28,7 @@ armor_class: "16 (breastplate)"
 
 * 3rd level (2 slots): haste
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Thurl makes two melee attacks.
 

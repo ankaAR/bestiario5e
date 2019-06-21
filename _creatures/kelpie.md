@@ -29,7 +29,7 @@ damage_resistances: "bludgeoning, fire, piercing"
 
 ***False Appearance.*** While the kelpie remains motionless in its true form, it is indistinguishable from normal seaweed.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The kelpie makes two slam attacks.
 

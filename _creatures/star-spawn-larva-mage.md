@@ -32,7 +32,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Return to Worms.*** When the larva mage is reduced to 0 hit points, it breaks apart into a swarm of insects in the same space. Unless the swarm is destroyed, the larva mage reforms from it 24 hours later.
 
-### Actions
+### Acciones
 
 ***Slam*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, and the target must succeed on a DC 19 Constitution saving throw or be poisoned until the end of its next turn.
 

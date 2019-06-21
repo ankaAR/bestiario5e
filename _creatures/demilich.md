@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from magic weapons"
 
 ***Turn Immunity.*** The demilich is immune to effects that turn undead.
 
-### Actions
+### Acciones
 
 ***Howl (Recharge 5-6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is frightened until the end of its next turn.
 

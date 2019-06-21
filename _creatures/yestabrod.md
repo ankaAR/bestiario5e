@@ -22,7 +22,7 @@ condition_immunities: "poisoned"
 
 ***Legendary Resistance (1/Day).*** If Yestabrod fails a saving throw, it can choose to succeed instead.
 
-### Actions
+### Acciones
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (3d4 + 1) puntos de daño contundente plus 7 (3d4) poison damage.
 

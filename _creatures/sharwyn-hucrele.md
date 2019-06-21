@@ -32,6 +32,6 @@ Cantrips (at will): light, prestidigitation, ray of frost
 
 ***Tree Thrall.*** If the Gulthias Tree dies, Sharwyn dies 24 hours later.
 
-### Actions
+### Acciones
 
 ***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

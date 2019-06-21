@@ -39,7 +39,7 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 ***Magic Weapon.*** Graz'zt's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Graz'zt attacks twice with the Wave of Sorrow.
 

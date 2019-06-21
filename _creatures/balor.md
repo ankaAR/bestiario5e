@@ -30,7 +30,7 @@ damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from n
 
 ***Magic Weapons.*** The balor's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The balor makes two attacks: one with its longsword and one with its whip.
 

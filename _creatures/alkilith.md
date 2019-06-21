@@ -33,7 +33,7 @@ If the saving throw against Foment Madness fails by 5 or more, the creature is i
 
 ***Magic Resistance.*** The alkilith has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The alkilith makes three tentacle attacks.
 

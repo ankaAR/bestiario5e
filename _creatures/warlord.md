@@ -23,7 +23,7 @@ armor_class: "18 (plate)"
 
 ***Survivor.*** The warlord regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The warlord makes two weapon attacks.
 

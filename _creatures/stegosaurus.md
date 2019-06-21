@@ -16,6 +16,6 @@ hit_points: "76 (8d12+24)"
 armor_class: "13 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 26 (6d6+5) piercing damage.

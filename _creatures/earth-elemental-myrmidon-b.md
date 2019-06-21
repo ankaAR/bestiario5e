@@ -24,7 +24,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Magic Weapons.*** The myrmidon's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The myrmidon makes two maul attacks.
 

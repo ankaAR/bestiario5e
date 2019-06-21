@@ -26,6 +26,6 @@ condition_immunities: "poisoned"
 
 ***Illumination.*** The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..
 
-### Actions
+### Acciones
 
 ***Warhammer.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, or 8 (1d10 + 3) puntos de daño contundente if used with two hands to make a melee attack, plus 3 (1d6) fire damage.

@@ -22,6 +22,6 @@ armor_class: "12 (armadura natural)"
 
 ***Hold Breath.*** The dolphin can hold its breath for 20 minutes.
 
-### Actions
+### Acciones
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño contundente.

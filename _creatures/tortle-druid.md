@@ -27,7 +27,7 @@ armor_class: "17 (natural)"
 * 1st level (4 slots): animal friendship, cure wounds, speak with animals, thunderwave
 * 2nd level (3 slots): darkvision, hold person
 
-### Actions
+### Acciones
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.
 

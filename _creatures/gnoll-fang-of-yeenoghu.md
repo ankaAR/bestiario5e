@@ -21,7 +21,7 @@ armor_class: "14 (hide armor)"
 
 ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The gnoll makes three attacks: one with its bite and two with its claws.
 

@@ -22,7 +22,7 @@ armor_class: "17 (armadura de cuero)"
 
 ***Suave Defense.*** While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The swashbuckler makes three attacks: one with a dagger and two with its rapier.
 

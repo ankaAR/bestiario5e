@@ -21,7 +21,7 @@ armor_class: "14 (studded leather armor)"
 
 ***Brute.*** A melee weapon deals one extra die of its damage when Izek hits with it (included in the attack).
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Izek makes two attacks with his battleaxe.
 

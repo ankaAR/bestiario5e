@@ -51,7 +51,7 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 * 8th level (1 slot): mind blank
 
-### Actions
+### Acciones
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) puntos de daño cortante. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 

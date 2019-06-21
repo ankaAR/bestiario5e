@@ -22,7 +22,7 @@ armor_class: "13 (armadura natural)"
 
 ***Spider Climb.*** The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The carrion crawler makes two attacks: one with its tentacles and one with its bite.
 

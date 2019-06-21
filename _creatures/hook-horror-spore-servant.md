@@ -20,7 +20,7 @@ condition_immunities: "blinded, charmed, frightened, paralyzed"
 damage_resistances: "poison"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The spore servant makes two hyook attacks.
 

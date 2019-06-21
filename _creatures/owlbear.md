@@ -20,7 +20,7 @@ armor_class: "13 (armadura natural)"
 
 ***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The owlbear makes two attacks: one with its beak and one with its claws.
 

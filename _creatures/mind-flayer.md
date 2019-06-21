@@ -28,7 +28,7 @@ At will: detect thoughts, levitate
 
 1/day each: dominate monster, plane shift (self only)
 
-### Actions
+### Acciones
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
 

@@ -31,7 +31,7 @@ Sheriff's deputy Augrek guards the southwest gate of BRyn Shander and welcomes v
 **Flaw:** "I'm head over heels in love with Sheriff Southwell. One day I hope to marry him."
 
 
-### Actions
+### Acciones
 
 ***Warhammer.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño contundente, or 7 (1d10+2) puntos de daño contundente if used with two hands.
 

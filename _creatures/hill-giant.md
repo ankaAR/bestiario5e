@@ -18,7 +18,7 @@ hit_points: "105 (10d12+40)"
 armor_class: "13 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Squash.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 ft., one Medium or Smaller creature. Hit: 26 (6d6 + 5) puntos de daño contundente, the giant lands prone in the target's space, and the target is grappled (escape DC 15). Until this grapple ends, the target is prone. The grapple ends early if the giant stands up.
 

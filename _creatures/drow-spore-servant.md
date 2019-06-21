@@ -19,6 +19,6 @@ armor_class: "15 (chain shirt)"
 condition_immunities: "blinded, charmed, frightened, paralyzed"
 ---
 
-### Actions
+### Acciones
 
 ***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

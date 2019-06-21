@@ -38,7 +38,7 @@ armor_class: "15 (cuero endurecido)"
 
 * 5th level (2 slots): dominate person
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Vanifer makes two attacks.
 

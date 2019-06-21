@@ -19,7 +19,7 @@ hit_points: "114 (12d10+48)"
 armor_class: "14 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 

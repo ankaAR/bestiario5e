@@ -19,7 +19,7 @@ armor_class: "10"
 senses: " passive Perception 13"
 ---
 
-### Actions
+### Acciones
 
 ***Bear Hug.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4+3) puntos de daño contundente, and the target grappled (escape DC 13) and takes 5 (1d4 + 3) puntos de daño contundente at the start of each of Miros's turns until the grapple ends. Miros cannot make attacks while grappling a creature.
 

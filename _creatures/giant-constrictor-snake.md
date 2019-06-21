@@ -18,7 +18,7 @@ hit_points: "60 (8d12+8)"
 armor_class: "12"
 ---
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 11 (2d6 + 4) piercing damage.
 

@@ -33,7 +33,7 @@ armor_class: "15 (cuero endurecido)"
 
 * 4th level (2 slots): confusion, dimension door
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Windharrow makes two melee attacks.
 

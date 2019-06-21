@@ -45,7 +45,7 @@ At will: dancing lights
 
 * 4th level (2 slots): divination,freedom of movement
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 

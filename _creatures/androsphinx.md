@@ -42,7 +42,7 @@ condition_immunities: "charmed, frightened"
 
 * 6th level (1 slot): heroes' feast
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 

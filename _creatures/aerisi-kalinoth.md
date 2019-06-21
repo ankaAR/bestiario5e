@@ -42,6 +42,6 @@ damage_resistances: "lightning"
 
 * 6th level (1 slot): chain lightning
 
-### Actions
+### Acciones
 
 ***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) piercing damage, or 10 (1d8 + 6) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.

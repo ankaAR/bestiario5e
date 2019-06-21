@@ -31,7 +31,7 @@ armor_class: "16 (chain mail)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The drow makes three attacks: two with his scimitar and one with his whip or his hand crossbow.
 

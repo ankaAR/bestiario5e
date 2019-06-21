@@ -16,6 +16,6 @@ hit_points: "15 (2d10+4)"
 armor_class: "9"
 ---
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.

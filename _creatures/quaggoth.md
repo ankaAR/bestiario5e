@@ -23,7 +23,7 @@ condition_immunities: "poisoned"
 
 ***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The quaggoth makes two claw attacks.
 

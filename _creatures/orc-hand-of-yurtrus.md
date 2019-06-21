@@ -31,6 +31,6 @@ Cantrips (at-will): guidance, mending, resistance, thaumaturgy
 
 2nd level (3 slots): blindness/deafness, silence
 
-### Actions
+### Acciones
 
 ***Touch of the White Hand.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) necrotic damage.

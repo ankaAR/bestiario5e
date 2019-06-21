@@ -22,7 +22,7 @@ armor_class: "13"
 
 ***Shadow Stealth.*** While in dim light or darkness, the meazel can take the Hide action as a bonus action.
 
-### Actions
+### Acciones
 
 ***Garrote*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target of the meazel's size or smaller. Hit: 6 (1d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (2d6 + 3) puntos de daño contundente at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.
 

@@ -35,7 +35,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Magic Weapons.*** Zuggtmoy's weapon attacks are magical.
 
-### Actions
+### Acciones
 
 ***Multiattack*** Zuggtmoy makes three pseudopod attacks.
 

@@ -26,7 +26,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The hezrou makes three attacks: one with its bite and two with its claws.
 

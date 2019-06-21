@@ -27,6 +27,6 @@ damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmag
 
 ***Hunger-Driven.*** In the Nine Hells, the nupperibos can flawlessly track any creature that has taken damage from any nupperibo's Cloud of Vermin within the previous 24 hours.
 
-### Actions
+### Acciones
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.

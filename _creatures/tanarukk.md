@@ -24,7 +24,7 @@ damage_resistances: "fire, poison"
 
 ***Magic Resistance.*** The tanarukk has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tanarukk makes two attacks: one with its bite and one with its greatsword.
 

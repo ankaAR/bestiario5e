@@ -30,6 +30,6 @@ armor_class: "13 (armadura de cuero)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro savant has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Quarterstaff*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente.

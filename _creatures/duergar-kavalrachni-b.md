@@ -26,7 +26,7 @@ damage_resistances: "poison"
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The duergar makes two war pick attacks.
 

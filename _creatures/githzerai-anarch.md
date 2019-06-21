@@ -28,7 +28,7 @@ armor_class: "20"
 
 ***Psychic Defense.*** While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The anarch makes three unarmed strikes.
 

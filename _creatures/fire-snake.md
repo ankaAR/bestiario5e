@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 ft. of it takes 3 (1d6) fire damage.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The snake makes two attacks: one with its bite and one with its tail.
 

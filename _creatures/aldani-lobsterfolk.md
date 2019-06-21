@@ -21,7 +21,7 @@ armor_class: "14 (armadura natural)"
 
 ***Anfibio.*** The aldani puede respirar aire y agua.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The aldani makes two attacks with its claws.
 

@@ -34,7 +34,7 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Siege Monster.*** The tempest deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The tempest makes two attacks with its thunderous slam.
 

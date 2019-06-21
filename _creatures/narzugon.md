@@ -30,7 +30,7 @@ damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmag
 
 ***Magic Resistance.*** The narzugon has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The narzugon uses its Infernal Command or Terrifying Command. It also makes three hellfire lance attacks.
 

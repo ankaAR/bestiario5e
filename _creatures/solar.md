@@ -37,7 +37,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Magic Resistance.*** The solar has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The solar makes two greatsword attacks.
 

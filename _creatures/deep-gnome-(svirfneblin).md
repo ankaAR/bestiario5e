@@ -29,7 +29,7 @@ At will: nondetection (self only)
 
 1/day each: blindness/deafness, blur, disguise self
 
-### Actions
+### Acciones
 
 ***War Pick.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
 

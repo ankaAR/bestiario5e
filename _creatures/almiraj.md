@@ -20,6 +20,6 @@ armor_class: "13"
 
 ***Keen Senses.*** The almiraj has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+### Acciones
 
 ***Horn.*** Mele Weapon Attack: +5 al ataque, alcance 5pies, un objetivo. Impacto: 5 (1d4 +3) piercing damage.

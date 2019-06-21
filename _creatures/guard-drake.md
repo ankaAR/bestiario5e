@@ -19,7 +19,7 @@ hit_points: "52 (7d8+21)"
 armor_class: "14 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The drake attacks twice, once with its bite and once with its tail.
 

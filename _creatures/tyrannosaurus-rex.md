@@ -17,7 +17,7 @@ hit_points: "136 (13d12+52)"
 armor_class: "13 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 

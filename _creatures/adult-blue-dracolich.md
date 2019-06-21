@@ -27,7 +27,7 @@ damage_resistances: "necrotic"
 
 ***Magic Resistance.*** The dracolich has advantage on saving throws against spells and other magical effects.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 

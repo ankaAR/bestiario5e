@@ -20,7 +20,7 @@ armor_class: "12"
 
 ***Dive Attack.*** If the aarakocra is flying and dives at least 30 ft. straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 (1d6) damage to the target.
 
-### Actions
+### Acciones
 
 ***Talon.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.
 

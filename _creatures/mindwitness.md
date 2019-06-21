@@ -23,7 +23,7 @@ condition_immunities: "prone"
 
 ***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.
 

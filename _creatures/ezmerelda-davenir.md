@@ -34,7 +34,7 @@ armor_class: "17 (studded leather armor +1)"
 
 * 4th level (1 slot): greater invisibility
 
-### Actions
+### Acciones
 
 ***Multiataque.*** Ezmerelda makes three attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword.
 

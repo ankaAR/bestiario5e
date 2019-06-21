@@ -24,6 +24,6 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Mute.*** If the awakened zurkhwood was created by a myconid sovereign, it can't speak.
 
-### Actions
+### Acciones
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) puntos de daño contundente.

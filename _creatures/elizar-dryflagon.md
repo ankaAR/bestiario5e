@@ -32,6 +32,6 @@ armor_class: "14 (hide)"
 
 ***Summon Mephits (Recharges after a Long Rest).*** By puffing on his pipe, Elizar can use an action to cast conjure minor elementals. If he does so, he summons four smoke mephits.
 
-### Actions
+### Acciones
 
 ***Dagger +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

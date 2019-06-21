@@ -21,7 +21,7 @@ armor_class: "20 (plate, shield)"
 
 ***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.
 

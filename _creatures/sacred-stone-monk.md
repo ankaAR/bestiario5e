@@ -23,7 +23,7 @@ armor_class: "14"
 
 ***Unarmored Movement.*** While the monk is wearing no armor and wielding no shield, its walking speed increases by 10 feet (included in its speed).
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The monk makes two melee attacks.
 

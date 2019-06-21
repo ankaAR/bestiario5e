@@ -22,6 +22,6 @@ armor_class: "13 (hide armor)"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison.
 
-### Actions
+### Acciones
 
 ***Handaxe.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d6 +1) puntos de daño cortante.

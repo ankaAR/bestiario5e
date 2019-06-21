@@ -17,6 +17,6 @@ hit_points: "4 (1d8)"
 armor_class: "10"
 ---
 
-### Actions
+### Acciones
 
 ***Clava.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.

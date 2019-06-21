@@ -18,7 +18,7 @@ hit_points: "110 (13d10+39)"
 armor_class: "13 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 

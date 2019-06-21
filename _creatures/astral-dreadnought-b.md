@@ -36,7 +36,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Sever Silver Cord.*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target's silver cord instead of dealing damage.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 

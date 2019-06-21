@@ -43,7 +43,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 * 6th level (1 slot): harm
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 

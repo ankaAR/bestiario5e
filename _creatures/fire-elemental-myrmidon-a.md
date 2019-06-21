@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Water Susceptibility.*** For every 5 feet the myrmidon moves in water, it takes 2 (1d4) cold damage.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The myrmidon makes three scimitar attacks.
 

@@ -48,7 +48,7 @@ Cantrips (at will): acid splash, light, mage hand, poison spray, prestidigitatio
 
 5th level (1 slot): cloudkill
 
-### Actions
+### Acciones
 
 ***War Pick.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft., one target. Hit 4 (1d8) piercing damage.
 

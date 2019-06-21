@@ -27,7 +27,7 @@ armor_class: "14 (armadura natural)"
 
 ***Rampage.*** When the leucrotta reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make an attack with its hooves.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The leucrotta makes two attacks: one with its bite and one with its hooves.
 

@@ -39,7 +39,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 * 6th level (1 slot): eyebite
 * 7th level (1 slot): finger of death
 
-### Actions
+### Acciones
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 

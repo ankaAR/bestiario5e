@@ -24,7 +24,7 @@ damage_resistances: "lightning, piercing"
 
 ***Regeneration.*** The vegepygmy regains 5 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-### Actions
+### Acciones
 
 ***Claws .*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.
 

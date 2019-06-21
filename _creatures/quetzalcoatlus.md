@@ -21,6 +21,6 @@ armor_class: "13 (armadura natural)"
 
 ***Flyby.*** The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 12 (3d6+2) piercing damage.

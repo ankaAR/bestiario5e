@@ -21,7 +21,7 @@ hit_points: "481 (26d20+208)"
 armor_class: "22 (armadura natural)"
 ---
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 

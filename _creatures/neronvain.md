@@ -24,7 +24,7 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Draconic Majesty.*** Neronvain adds his Charisma bonus to his AC (included).
 
-### Actions
+### Acciones
 
 ***Fey Ancestry.*** Magic can't put Neronvain to sleep.
 

@@ -33,6 +33,6 @@ armor_class: "12 (15 with mage armor)"
 
 * 5th level (1 slot): cone of cold
 
-### Actions
+### Acciones
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

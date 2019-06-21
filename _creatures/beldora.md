@@ -19,7 +19,7 @@ armor_class: "12"
 senses: "qpassive Perception 13"
 ---
 
-### Actions
+### Acciones
 
 ***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage, .
 

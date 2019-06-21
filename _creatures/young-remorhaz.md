@@ -20,6 +20,6 @@ armor_class: "14 (armadura natural)"
 
 ***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 
-### Actions
+### Acciones
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.

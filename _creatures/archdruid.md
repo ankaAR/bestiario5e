@@ -41,7 +41,7 @@ Cantrips (at will): druidcraft, mending, poison spray, produce flame
 
 9th level (1 slot): foresight
 
-### Actions
+### Acciones
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.
 

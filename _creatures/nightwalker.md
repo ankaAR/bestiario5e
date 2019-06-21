@@ -27,7 +27,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Life Eater.*** A creature reduced to 0 hit points from damage dealt by the nightwalker dies and can't be revived by any means short of a wish spell.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The nightwalker uses Enervating Focus twice, or it uses Enervating Focus and Finger of Doom, if available.
 

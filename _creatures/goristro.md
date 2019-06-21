@@ -31,7 +31,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Siege Monster.*** The goristro deals double damage to objects and structures.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The goristro makes three attacks: two with its fists and one with its hoof.
 

@@ -28,7 +28,7 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Steadfast.*** The devil can't be frightened while it can see an allied creature within 30 feet of it.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The devil makes two attacks: one with its beard and one with its glaive.
 

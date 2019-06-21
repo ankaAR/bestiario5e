@@ -24,7 +24,7 @@ armor_class: "17 (armadura natural)"
 
 ***Burning Fury.*** When the salamander takes fire damage, its Freezing Breath automatically recharges.
 
-### Actions
+### Acciones
 
 ***Multiattack*** The salamander makes five attacks: four with its claws and one with its bite.
 

@@ -29,7 +29,7 @@ At will: feather fall, mage hand (the hand is invisible)
 
 1/day each: cure wounds, enlarge/reduce, heat metal, mirror image
 
-### Actions
+### Acciones
 
 ***Multiataque.*** The quaggoth makes two claw attacks.
 
