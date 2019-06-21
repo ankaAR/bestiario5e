@@ -50,7 +50,7 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Teleport*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of her turn.
 

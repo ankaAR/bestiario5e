@@ -45,7 +45,7 @@ armor_class: "19 (armadura natural)"
 
 >* Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The adult red dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult red dragon regains spent legendary actions at the start of its turn.
 

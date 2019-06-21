@@ -31,7 +31,7 @@ armor_class: "18 (plate)"
 
 ***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 it, one target. Hit: 6 (1d6+3) piercing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The warlord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The warlord regains spent legendary actions at the start of its turn.
 

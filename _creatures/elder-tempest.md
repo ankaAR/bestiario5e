@@ -42,7 +42,7 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Lightning Storm (Recharge 6)*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The tempest can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tempest regains spent legendary actions at the start of its turn.
 

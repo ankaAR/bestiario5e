@@ -39,7 +39,7 @@ At will: greater restoration, pass without trace, water breathing, water walk
 
 ***Bolt.*** Ranged Spell Attack: +15 to hit, range 600 pies, un objetivo. Impacto: 24 (7d6) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The empyrean can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The empyrean regains spent legendary actions at the start of its turn.
 

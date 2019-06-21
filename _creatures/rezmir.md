@@ -42,7 +42,7 @@ condition_immunities: "charmed, frightened"
 
 ***Acid Breath (Recharge 5-6).*** Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The rezmir regains spent legendary actions at the start of its turn.
 

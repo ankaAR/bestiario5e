@@ -41,7 +41,7 @@ damage_resistances: "necrotic"
 
 ***Lightning Breath (Recharge 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The adult blue dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult blue dracolich regains spent legendary actions at the start of its turn.
 

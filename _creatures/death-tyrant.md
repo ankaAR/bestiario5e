@@ -56,7 +56,7 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 10. Death Ray. The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The death tyrant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The death tyrant regains spent legendary actions at the start of its turn.
 

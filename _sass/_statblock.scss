@@ -156,7 +156,7 @@
 .property-block{
     padding: 10px 2px 0;
 }
-#acciones, #reactions, #legendary-actions, #roleplaying-information {
+#acciones, #reactions, #acciones-legendarias, #roleplaying-information {
     border-bottom: 1px solid $statblock-main-color;
     color: $statblock-main-color;
     font-size: 21px;
@@ -167,11 +167,11 @@
     padding: 0 0 10px;
     text-indent: 5px;
 }
-#acciones, #reactions, #legendary-actions, #roleplaying-information {
+#acciones, #reactions, #acciones-legendarias, #roleplaying-information {
     margin: 0 0 10px;
 }
 #reactions:last-child,
-#legendary-actions:last-child,
+#acciones-legendarias:last-child,
 #acciones:last-child,
 #roleplaying-information:last-child {
     margin: 0;

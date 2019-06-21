@@ -34,7 +34,7 @@ armor_class: "20"
 
 ***Unarmed Strike*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente plus 18 (4d8) psychic damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The anarch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The anarch regains spent legendary actions at the start of its turn.
 

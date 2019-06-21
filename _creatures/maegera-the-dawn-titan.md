@@ -40,7 +40,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (3d6 + 5) puntos de daño contundente plus 35 (10d6) fire damage
 
-### Legendary Actions
+### Acciones Legendarias
 
 The maegera the dawn titan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The maegera the dawn titan regains spent legendary actions at the start of its turn.
 

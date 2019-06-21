@@ -47,7 +47,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Summon Demon (1/Day)*** As an action, the molydeus has a 50 percent chance of summoning its choice of 1d6 babaus, 1d4 chasmes, or one marilith. A summoned demon appears in an unoccupied space within 60 feet of the molydeus, acts as an ally of the molydeus, and can't summon other demons. It remains for 1 minute, until it or the molydeus dies, or until the molydeus dismisses it as an action.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The molydeus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The molydeus regains spent legendary actions at the start of its turn.
 

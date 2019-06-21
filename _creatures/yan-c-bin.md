@@ -48,7 +48,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Summon Elementals (1/Day).*** Yan-C-Bin summons up to three air elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The yan-c-bin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The yan-c-bin regains spent legendary actions at the start of its turn.
 

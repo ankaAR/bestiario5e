@@ -45,7 +45,7 @@ Slowing Breath. The dragon exhales gas in a 90-foot cone. Each creature in that 
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ancient copper dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient copper dragon regains spent legendary actions at the start of its turn.
 

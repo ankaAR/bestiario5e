@@ -56,7 +56,7 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Summon Servant (1/Day)*** The drow magically summons a retriever or a yochlol. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The drow can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The drow regains spent legendary actions at the start of her turn.
 

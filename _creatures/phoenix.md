@@ -44,7 +44,7 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Fiery Talons*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 17 (2d8 + 8) fire damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The phoenix can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The phoenix regains spent legendary actions at the start of its turn.
 

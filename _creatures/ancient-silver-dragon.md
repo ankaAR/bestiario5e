@@ -45,7 +45,7 @@ Paralyzing Breath. The dragon exhales paralyzing gas in a 90- foot cone. Each cr
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ancient silver dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient silver dragon regains spent legendary actions at the start of its turn.
 

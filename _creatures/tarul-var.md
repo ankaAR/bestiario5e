@@ -59,7 +59,7 @@ Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray 
 
 ***Benign Transposition.*** Var teleports up to 30 feet to an unoccupied space he can see. Alternatively, he can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, both creatures teleport, swapping places. Var can use this feature again only after he finishes a long rest or casts a conjuration spell of 1st level or higher.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Var can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Var regains spent legendary actions at the start of his turn.
 

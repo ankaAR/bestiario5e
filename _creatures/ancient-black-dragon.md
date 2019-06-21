@@ -39,7 +39,7 @@ armor_class: "22 (armadura natural)"
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ancient black dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient black dragon regains spent legendary actions at the start of its turn.
 

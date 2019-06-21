@@ -45,7 +45,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Bone Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The skull lord regains spent legendary actions at the start of its turn.
 

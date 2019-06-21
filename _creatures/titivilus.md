@@ -48,7 +48,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Twisting Words*** Titivilus targets one creature he can see within 60 feet of him. The target must make a DC 21 Charisma saving throw. On a failure the target is charmed for 1 minute. The charmed target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Titivilus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Titivilus regains spent legendary actions at the start of his turn.
 

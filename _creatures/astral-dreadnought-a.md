@@ -44,7 +44,7 @@ condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Claw*** Melee Weapon: +16 al ataque, alcance 20 ft., One target. Hit: (3d6+9) Slashing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Astral Dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Astral Dreadnought regains spent legendary actions at the start of their turn.
 

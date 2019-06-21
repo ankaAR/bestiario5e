@@ -61,7 +61,7 @@ Halaster also wears a *horned ring* (a very rare magic item that requires attune
 ***Blast Scepter.*** Halaster uses his *blast scepter* to cast *thunderwave* as a 4th-level spell (save DC 16).
 
 
-### Legendary Actions
+### Acciones Legendarias
 
 Halaster can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Halaster regains spent legendary actions at the start of his turn.
 

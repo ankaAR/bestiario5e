@@ -38,7 +38,7 @@ armor_class: "17 (armadura natural)"
 
 WCuando el objetivo hechizado recibe daño, puede repetir la tirada de salvación. Si tiene éxito, el efecto termina. Una vez cada 24 horas, el objetivo puede repetir la tirada de salvación si está al menos a 1 milla de distancia del abolez.
 
-### Legendary Actions
+### Acciones Legendarias
 
 El abolez puede realizar las siguientes 3 acciones legendarias, solo una a la vez y al final del turno de otra criatura. Recupera las acciones legendarias gastadas al principio de su turno.
 

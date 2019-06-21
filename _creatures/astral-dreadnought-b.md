@@ -44,7 +44,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Claw*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d6 + 9) puntos de daño cortante.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The astral dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary option can be used at a time and only at the end of another creature's turn. The dreadnought regains spent legendary actions at the start of its turn.
 

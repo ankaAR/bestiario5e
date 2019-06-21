@@ -38,7 +38,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Plague of Worms (Recharge 6)*** Each creature other than a star spawn within 10 feet of the larva mage must make a DC 19 Dexterity saving throw. On a failure the target takes 22 (5d8) necrotic damage and is blinded and restrained by masses of swarming worms. The affected creature takes 22 (5d8) necrotic damage at the start of each of the larva mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The larva mage can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The larva mage regains spent legendary actions at the start of its turn.
 

@@ -48,7 +48,7 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 ***Summon Elementals (1/Day).*** Olhydra summons up to three water elementals and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The olhydra regains spent legendary actions at the start of its turn.
 

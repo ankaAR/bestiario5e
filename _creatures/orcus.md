@@ -48,7 +48,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Orcus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Orcus regains spent legendary actions at the start of his turn.
 

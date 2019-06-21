@@ -71,7 +71,7 @@ At will: detect thoughts, levitate
 
 ***Mind Blast (Recharge 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (5d8+5) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The illithilich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The illithilich regains spent legendary actions at the start of its turn.
 

@@ -63,7 +63,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 ***Horn.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The ki-rin regains spent legendary actions at the start of its turn.
 

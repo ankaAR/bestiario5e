@@ -45,7 +45,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Fist*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d8 + 9) puntos de daño contundente.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. FrazUrb'luu regains spent legendary actions at the start of his turn.
 

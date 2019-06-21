@@ -33,7 +33,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from magic weapons"
 
 ***Life Drain.*** The demilich targets up to three creatures that it can see within 10 feet of it. Each target must succeed on a DC 19 Constitution saving throw or take 21 (6d6) necrotic damage, and the demilich regains hit points equal to the total damage dealt to all targets.
 
-### Legendary Actions
+### Acciones Legendarias
 
 The demilich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The demilich regains spent legendary actions at the start of its turn.
 

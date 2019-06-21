@@ -48,7 +48,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) piercing damage.
 
-### Legendary Actions
+### Acciones Legendarias
 
 Yeenoghu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Yeenoghu regains spent legendary actions at the start of his turn.
 
