@@ -22,7 +22,7 @@ armor_class: "17 (armadura natural)"
 
 ***Anfibio.*** El abolez puede respirar aire y agua.
 
-***Mucous Cloud.*** Mientras está bajo el agua, el abolez está envuelto en una mucosa cambiante. Una criatura que toque al abolez o que lo golpee con un ataque cuerpo a cuerpo mientras esté a 5 pies (1.5 mts) o menos de él debe hacer una tirada de salvación de Constitución CD 14. Si falla, queda enferma durante 1d4 horas. La criatura enferma solo puede respirar bajo el agua.
+***Nube de mucosa.*** Mientras está bajo el agua, el abolez está envuelto en una mucosa cambiante. Una criatura que toque al abolez o que lo golpee con un ataque cuerpo a cuerpo mientras esté a 5 pies (1.5 mts) o menos de él debe hacer una tirada de salvación de Constitución CD 14. Si falla, queda enferma durante 1d4 horas. La criatura enferma solo puede respirar bajo el agua.
 
 ***Telepatía interrogatoria.*** Si una criatura que el abolez pueda ver se comunica telepáticamente con el abolez, este averigua sus mayores deseos.
 
