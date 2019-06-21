@@ -11,9 +11,9 @@ str: 18 (+4)
 size: Medium fey
 alignment: neutral evil
 challenge: "3 (700 XP)"
-languages: "Common, Draconic, Sylvan"
+languages: "Común, Draconic, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Arcana +3, Deception +4, Percepción +4, Stealth +3"
+skills: "Arcana +3, Deception +4, Percepción +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "17 (armadura natural)"

@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Medium undead
 alignment: neutral evil
 challenge: "3 (700 XP)"
-languages: "Common, Infernal"
+languages: "Común, Infernal"
 senses: "darkvision 60 ft."
 damage_immunities: "necrotic, poison"
 speed: "0 ft., fly 60 ft."

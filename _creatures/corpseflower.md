@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 14 (+2)
 str: 14 (+2)
 size: Large plant
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "8 (3900 XP)"
 languages: "-"
 senses: "blindsight 120 ft. (blind beyond this radius), passive Perception 12"

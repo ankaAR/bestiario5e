@@ -13,8 +13,8 @@ size: Large monstrosity
 alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "-"
-senses: "darkvision 120 ft., passive Perception 14"
-skills: "Stealth +7, Percepción +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 14"
+skills: "Sigilo +7, Percepción +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "30  (4d10 + 8)"
 armor_class: "14 (armadura natural)"

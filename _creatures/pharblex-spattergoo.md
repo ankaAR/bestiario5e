@@ -8,11 +8,11 @@ int: 11 (0)
 con: 18 (+4)
 dex: 12 (+1)
 str: 15 (+2)
-size: Medium humanoid (bullywug)
-alignment: chaotic evil
+size: Humanoide Mediano (bullywug)
+alignment: caótico maligno
 challenge: "3 (700 XP)"
-languages: "Common, Bullywug"
-skills: "Percepción +5, Religion +2, Stealth +3"
+languages: "Común, Bullywug"
+skills: "Percepción +5, Religión +2, Sigilo +3"
 saving_throws: "Str +4, Con +6"
 speed: "20 ft., swim 40 ft."
 hit_points: "59 (7d8+28)"

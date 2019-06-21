@@ -8,11 +8,11 @@ int: 10 (0)
 con: 13 (+1)
 dex: 10 (0)
 str: 15 (+2)
-size: Medium humanoid (lizardfolk)
+size: Humanoide Mediano (lizardfolk)
 alignment: neutral
 challenge: "2 (450 XP)"
-languages: "Draconic"
-skills: "Percepción +4, Stealth +4, Survival +6"
+languages: "Dragón"
+skills: "Percepción +4, Sigilo +4, Survival +6"
 speed: "30 ft., swim 30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "13 (armadura natural)"

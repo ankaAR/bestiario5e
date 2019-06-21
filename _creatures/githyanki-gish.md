@@ -9,12 +9,12 @@ int: 16 (+3)
 con: 14 (+2)
 dex: 15 (+2)
 str: 17 (+3)
-size: Medium humanoid (gith)
+size: Humanoide Mediano (gith)
 alignment: legal maligna
 challenge: "10 (5900 XP)"
 languages: "Gith"
 senses: "passive Perception 16"
-skills: "Insight +6, Percepción +6, Stealth +6"
+skills: "Insight +6, Percepción +6, Sigilo +6"
 saving_throws: "Con +6, Int +7, Sab +6"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"

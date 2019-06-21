@@ -12,7 +12,7 @@ size: Large undead
 alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "Deep Speech, Undercommon"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +12"
 damage_immunities: "poison"
 saving_throws: "Str +5, Con +7, Int +9, Sab +7, Car +9"

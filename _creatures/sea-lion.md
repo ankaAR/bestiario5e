@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Large monstrosity
 alignment: unaligned
 challenge: "5 (1,800 XP)"
-skills: "Percepción +4, Stealth +5"
+skills: "Percepción +4, Sigilo +5"
 speed: "10 ft., swim 40 ft."
 hit_points: "90 (12d10+24)"
 armor_class: "15 (armadura natural)"

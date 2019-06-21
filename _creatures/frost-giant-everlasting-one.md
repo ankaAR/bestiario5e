@@ -9,7 +9,7 @@ con: 24 (+7)
 dex: 9 (-1)
 str: 25 (+7)
 size: Huge giant (frost giant)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "12 (8,400 XP)"
 languages: "Giant"
 senses: "darkvision 60 ft."

@@ -10,10 +10,10 @@ con: 12 (+1)
 dex: 17 (+3)
 str: 14 (+2)
 size: Medium fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "7 (2900 XP)"
 languages: "Abyssal, Elvish, telepathy 120 ft."
-senses: "darkvision 120 ft., passive Perception 11"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 11"
 skills: "Deception +5"
 damage_immunities: "poison"
 speed: "30 ft."
@@ -23,7 +23,7 @@ condition_immunities: "charmed, exhaustion, poisoned"
 damage_resistances: "cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Assume Form.*** The maurezhi can assume the appearance of any Medium humanoid it has eaten. It remains in this form for 1d6 days, during which time the form gradually decays until, when the effect ends, the form sloughs from the demon's body.
+***Assume Form.*** The maurezhi can assume the appearance of any Humanoide Mediano it has eaten. It remains in this form for 1d6 days, during which time the form gradually decays until, when the effect ends, the form sloughs from the demon's body.
 
 ***Magic Resistance.*** The maurezhi has advantage on saving throws against spells and other magical effects.
 

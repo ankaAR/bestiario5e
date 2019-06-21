@@ -9,11 +9,11 @@ con: 18 (+4)
 dex: 15 (+2)
 str: 20 (+5)
 size: Large fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "7 (2,900 XP)"
 languages: "Abyssal, Elvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Percepción +3, Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +3, Sigilo +5"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "123 (13d10+52)"

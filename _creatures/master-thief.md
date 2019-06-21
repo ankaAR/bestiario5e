@@ -8,11 +8,11 @@ int: 11 (0)
 con: 14 (+2)
 dex: 18 (+4)
 str: 11 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "5 (1,800 XP)"
 languages: "any one language (usually Common) plus thieves' cant"
-skills: "Acrobatics +7, Athletics +3, Percepción +3, Sleight of Hand +7, Stealth +7"
+skills: "Acrobatics +7, Athletics +3, Percepción +3, Sleight of Hand +7, Sigilo +7"
 saving_throws: "Des +7, Int +3"
 speed: "30 ft."
 hit_points: "84 (13d8+26)"

@@ -12,7 +12,7 @@ str: 1 (-5)
 size: Medium construct
 alignment: unaligned
 challenge: "1 (200 XP)"
-languages: "Common, plus up to two other languages"
+languages: "Común, plus up to two other languages"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
 speed: "0 ft."

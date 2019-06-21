@@ -8,11 +8,11 @@ int: 10 (0)
 con: 13 (+1)
 dex: 12 (+1)
 str: 14 (+2)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Bothii, Common"
-skills: "Medicine +4, Nature +4, Percepción +4, Survival +6"
+skills: "Medicina +4, Nature +4, Percepción +4, Survival +6"
 speed: "30 ft."
 hit_points: "38 (7d8+7)"
 armor_class: "13"

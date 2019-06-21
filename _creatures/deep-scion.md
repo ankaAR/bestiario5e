@@ -8,12 +8,12 @@ int: 10 (0)
 con: 16 (+3)
 dex: 13 (+1)
 str: 18 (+4)
-size: Medium humanoid (shapechanger)
+size: Humanoide Mediano (shapechanger)
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Aquan, Common, thieves' cant"
-senses: "darkvision 120 ft."
-skills: "Deception +6, Insight +3, Sleight of Hand +3, Stealth +3"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Deception +6, Insight +3, Sleight of Hand +3, Sigilo +3"
 saving_throws: "Sab +3, Car +4"
 speed: "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 hit_points: "67 (9d8+27)"

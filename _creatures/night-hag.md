@@ -12,8 +12,8 @@ size: Medium fiend
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Infernal, Primordial"
-senses: "darkvision 120 ft."
-skills: "Deception +7, Insight +6, Percepción +6, Stealth +6"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Deception +7, Insight +6, Percepción +6, Sigilo +6"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "17 (armadura natural)"

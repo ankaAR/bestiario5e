@@ -8,10 +8,10 @@ int: 17 (+3)
 con: 11 (0)
 dex: 11 (0)
 str: 8 (-1)
-size: Medium humanoid (turami human)
+size: Humanoide Mediano (turami human)
 alignment: neutral good
 challenge: "0 (10 XP)"
-languages: "Common, Draconic, Dwarvish, Elvish"
+languages: "Común, Draconic, Dwarvish, Elvish"
 skills: "Arcana +5, Historia +5"
 speed: "30 ft."
 hit_points: "27 (6d8)"

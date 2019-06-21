@@ -8,12 +8,12 @@ int: 8 (-1)
 con: 13 (+1)
 dex: 15 (+2)
 str: 12 (+1)
-size: Medium humanoid (thri-kreen)
+size: Humanoide Mediano (thri-kreen)
 alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Thri-kreen"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Stealth +4, Survival +3"
+skills: "Percepción +3, Sigilo +4, Survival +3"
 speed: "40 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "15 (armadura natural)"

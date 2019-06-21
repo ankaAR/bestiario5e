@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 15"
-skills: "Percepción +5, Stealth +6"
+skills: "Percepción +5, Sigilo +6"
 damage_immunities: "cold, necrotic, poison"
 saving_throws: "Int +6, Sab +5"
 speed: "0 ft., fly 40 ft. (hover)"

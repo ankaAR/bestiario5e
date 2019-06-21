@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "5 (1,800 XP)"
 languages: "--"
 senses: "blindsight 30 ft."
-skills: "Stealth +2"
+skills: "Sigilo +2"
 speed: "20 ft., swim 30 ft."
 hit_points: "76 (8d12+24)"
 armor_class: "17 (armadura natural)"

@@ -9,11 +9,11 @@ int: 24 (+7)
 con: 18 (+4)
 dex: 18 (+4)
 str: 10 (+0)
-size: Medium humanoid (human)
-alignment: chaotic evil
+size: Humanoide Mediano (human)
+alignment: caótico maligno
 challenge: "23 (50,000 XP)"
 languages: "Abyssal, Celestial, Common, Draconic, Dwarvish, Elvish, Infernal, Undercommon"
-senses: "darkvision 120 ft., passive Perception 21"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 21"
 skills: "Arcana +21, HIstory +21, Percepción +11"
 saving_throws: "Int +14, Sab +11"
 speed: "30 ft."

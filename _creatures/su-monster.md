@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 15 (+2)
 str: 14 (+2)
 size: Medium monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 senses: "passive Perception 13"
 skills: "Athletics +6, Percepción +3"

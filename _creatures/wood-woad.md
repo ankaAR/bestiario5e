@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "5 (1,800 XP)"
 languages: "Sylvan"
 senses: "darkvision 60 ft."
-skills: "Athletics +7, Percepción +4, Stealth +4"
+skills: "Athletics +7, Percepción +4, Sigilo +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "18 (natural armor, shield)"

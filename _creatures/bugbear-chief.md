@@ -8,12 +8,12 @@ int: 11 (0)
 con: 14 (+2)
 dex: 14 (+2)
 str: 17 (+3)
-size: Medium humanoid (goblinoid)
-alignment: chaotic evil
+size: Humanoide Mediano (goblinoid)
+alignment: caótico maligno
 challenge: "3 (700 XP)"
-languages: "Common, Goblin"
+languages: "Común, Goblin"
 senses: "darkvision 60 ft."
-skills: "Intimidation +2, Stealth +6, Survival +3"
+skills: "Intimidation +2, Sigilo +6, Survival +3"
 speed: "30 ft."
 hit_points: "65 (10d8+20)"
 armor_class: "17 (chain shirt, shield)"

@@ -8,10 +8,10 @@ int: 16 (+3)
 con: 10 (0)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (illuskan human)
+size: Humanoide Mediano (illuskan human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
-languages: "Common, Draconic, Dwarvish, Halfling"
+languages: "Común, Draconic, Dwarvish, Halfling"
 skills: "Deception +5, Insight +3, Investigation +5, Percepción +5, Persuasion +5"
 speed: "30 ft."
 hit_points: "18 (4d8)"

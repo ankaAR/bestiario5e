@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1/8 (25 XP)"
 languages: "Sylvan"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Sleight of Hand +6, Stealth +6"
+skills: "Percepción +3, Sleight of Hand +6, Sigilo +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "18 (4d6+4)"
 armor_class: "14"

@@ -9,11 +9,11 @@ int: 16 (+3)
 con: 13 (+1)
 dex: 12 (+1)
 str: 9 (-1)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: lawful good
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Elvish, Infernal"
-skills: "Arcana +9, Insight +7, Medicine +7, Percepción +7, Religion +6, Sleight of Hand +4"
+skills: "Arcana +9, Insight +7, Medicina +7, Percepción +7, Religión +6, Sleight of Hand +4"
 saving_throws: "Con +4, Sab +7"
 speed: "30 ft."
 hit_points: "77 (14d8+14)"

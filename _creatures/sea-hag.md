@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 13 (+1)
 str: 16 (+3)
 size: Medium fey
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Aquan, Common, Giant"
 senses: "darkvision 60 ft."

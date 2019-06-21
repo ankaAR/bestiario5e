@@ -8,8 +8,8 @@ int: 10 (0)
 con: 15 (+2)
 dex: 15 (+2)
 str: 17 (+3)
-size: Medium humanoid (gnoll)
-alignment: chaotic evil
+size: Humanoide Mediano (gnoll)
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Gnoll"
 senses: "darkvision 60 ft."

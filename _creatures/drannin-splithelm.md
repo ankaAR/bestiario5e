@@ -8,10 +8,10 @@ int: 11 (0)
 con: 18 (+4)
 dex: 10 (0)
 str: 19 (+4)
-size: Medium humanoid (shield dwarf)
+size: Humanoide Mediano (shield dwarf)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
-languages: "Common, Dwarvish"
+languages: "Común, Dwarvish"
 senses: "darkvision 60 ft."
 skills: "Athletics +7, Intimidation +4"
 speed: "25 ft."

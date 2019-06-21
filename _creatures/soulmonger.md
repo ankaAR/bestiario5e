@@ -9,17 +9,17 @@ int: 19 (+4)
 con: 14 (+2)
 dex: 17 (+3)
 str: 8 (-1)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral
 challenge: "11 (7200 XP)"
-languages: "Common, Elvish"
+languages: "Común, Elvish"
 senses: "darkvision 60 ft., passive Perception 17"
 skills: "Percepción +7"
 damage_immunities: "necrotic, psychic"
 saving_throws: "Des +7, Sab +7, Car +5"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 condition_immunities: "charmed, exhaustion, frightened"
 ---
 

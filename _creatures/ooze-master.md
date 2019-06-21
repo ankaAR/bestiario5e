@@ -11,7 +11,7 @@ str: 16 (+3)
 size: Huge undead
 alignment: legal maligna
 challenge: "10 (5,900 XP)"
-languages: "Common, Primordial, Thayan"
+languages: "Común, Primordial, Thayan"
 senses: "blindsight 120 ft."
 skills: "Arcana +7, Insight +4"
 damage_immunities: "acid, cold, poison"

@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 8 (-1)
 str: 14 (+2)
 size: Medium fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "understands Abyssal but can't speak"
 senses: "darkvision 60 ft."

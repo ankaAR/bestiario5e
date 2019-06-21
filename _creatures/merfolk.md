@@ -8,7 +8,7 @@ int: 11 (0)
 con: 12 (+1)
 dex: 13 (+1)
 str: 10 (0)
-size: Medium humanoid (merfolk)
+size: Humanoide Mediano (merfolk)
 alignment: neutral
 challenge: "1/8 (25 XP)"
 languages: "Aquan, Common"

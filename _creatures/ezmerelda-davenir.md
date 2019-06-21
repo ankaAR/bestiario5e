@@ -9,11 +9,11 @@ int: 16 (+3)
 con: 16 (+3)
 dex: 19 (+4)
 str: 14 (+2)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: chaotic good
 challenge: "8 (3,900 XP)"
-languages: "Common, Elvish"
-skills: "Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicine +3, Percepción +6, Performance +6, Sleight of Hand +7, Stealth +7, Survival +6"
+languages: "Común, Elvish"
+skills: "Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicina +3, Percepción +6, Performance +6, Sleight of Hand +7, Sigilo +7, Survival +6"
 saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"

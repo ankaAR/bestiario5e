@@ -12,7 +12,7 @@ str: 18 (+4)
 size: Medium undead
 alignment: legal maligna
 challenge: "7 (2,900 XP)"
-languages: "Common, Draconic"
+languages: "Común, Dragón"
 senses: "darkvision 60 ft."
 damage_immunities: "poison"
 saving_throws: "Str +7, Con +7, Sab +6, Car +7"

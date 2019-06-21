@@ -10,10 +10,10 @@ con: 11 (0)
 dex: 12 (+1)
 str: 9 (0)
 size: Medium fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "understands Abyssal but can't speak"
-senses: "darkvision 120 ft., passive Perception 9"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 9"
 damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "18  (4d8)"

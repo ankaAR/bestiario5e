@@ -8,11 +8,11 @@ int: 13 (+1)
 con: 16 (+3)
 dex: 10 (0)
 str: 19 (+4)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "5 (1,800 XP)"
-languages: "Common, Draconic, Giant"
-skills: "Athletics +7, Intimidation +7, Percepción +5, Religion +4"
+languages: "Común, Draconic, Giant"
+skills: "Athletics +7, Intimidation +7, Percepción +5, Religión +4"
 saving_throws: "Str +7, Con +6"
 speed: "30 ft."
 hit_points: "93 (11d10+33)"

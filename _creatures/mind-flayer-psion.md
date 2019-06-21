@@ -12,8 +12,8 @@ size: Medium aberration
 alignment: legal maligna
 challenge: "8 (3,900 XP)"
 languages: "Deep Speech, Undercommon, telepathy 120 ft."
-senses: "darkvision 120 ft."
-skills: "Arcana +7, Deception +6, Insight +6, Percepción +6, Persuasion +6, Stealth +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +7, Deception +6, Insight +6, Percepción +6, Persuasion +6, Sigilo +4"
 saving_throws: "Int +7, Sab +6, Car +6"
 speed: "30 ft."
 hit_points: "71 (13d8+13)"

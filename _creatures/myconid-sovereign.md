@@ -11,7 +11,7 @@ str: 12 (+1)
 size: Large plant
 alignment: lawful neutral
 challenge: "2 (450 XP)"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "30 ft."
 hit_points: "60 (8d10+16)"
 armor_class: "13 (armadura natural)"

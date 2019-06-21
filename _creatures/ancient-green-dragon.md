@@ -11,9 +11,9 @@ str: 27 (+8)
 size: Gargantuan dragon
 alignment: legal maligna
 challenge: "22 (41,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Deception +11, Insight +10, Percepción +17, Persuasion +11, Stealth +8"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Deception +11, Insight +10, Percepción +17, Persuasion +11, Sigilo +8"
 damage_immunities: "poison"
 saving_throws: "Des +8, Con +14, Sab +10, Car +11"
 speed: "40 ft., fly 80 ft., swim 40 ft."

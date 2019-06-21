@@ -8,12 +8,12 @@ int: 16 (+3)
 con: 23 (+6)
 dex: 10 (0)
 str: 25 (+7)
-size: Huge dragon
+size: Dragón Enorme
 alignment: legal maligna
 challenge: "16 (15,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Percepción +12, Stealth +5"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +12, Sigilo +5"
 damage_immunities: "lightning"
 saving_throws: "Des +5, Con +11, Sab +7, Car +9"
 speed: "40 ft., burrow 30 ft., fly 80 ft."

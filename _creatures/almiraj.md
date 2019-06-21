@@ -12,7 +12,7 @@ size: Small beast
 alignment: unaligned
 challenge: "0 (10 XP)"
 senses: "darkvision 30ft., passive Perception 14"
-skills: "Percepción +4, Stealth +5"
+skills: "Percepción +4, Sigilo +5"
 speed: "50 ft."
 hit_points: "3 (1d6)"
 armor_class: "13"

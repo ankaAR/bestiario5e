@@ -12,8 +12,8 @@ size: Small fey
 alignment: chaotic neutral
 challenge: "7 (2,900 XP)"
 languages: "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"
-senses: "darkvision 120 ft., tremorsense 120 ft."
-skills: "Athletics +9, Percepción +5, Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts), tremorsense 120 ft."
+skills: "Athletics +9, Percepción +5, Sigilo +5"
 speed: "30 ft., burrow 30 ft."
 hit_points: "102 (12d6+60)"
 armor_class: "17 (armadura natural)"

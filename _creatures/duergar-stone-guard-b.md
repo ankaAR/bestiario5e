@@ -9,11 +9,11 @@ int: 11 (0)
 con: 14 (+2)
 dex: 11 (0)
 str: 18 (+4)
-size: Medium humanoid (dwarf)
+size: Humanoide Mediano (dwarf)
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
-senses: "darkvision 120 ft., passive Perception 10"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 10"
 speed: "25 ft."
 hit_points: "39  (6d8 + 12)"
 armor_class: "18 (chain mail, shield)"

@@ -13,7 +13,7 @@ size: Huge construct
 alignment: legal maligna
 challenge: "16 (15,000 XP)"
 languages: "understands Infernal but can't speak"
-senses: "darkvision 120 ft., passive Perception 10"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 10"
 damage_immunities: "fire, poison"
 saving_throws: "Des +8, Sab +5, Car +0"
 speed: "40 ft."

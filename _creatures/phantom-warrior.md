@@ -14,7 +14,7 @@ alignment: any alignment
 challenge: "1 (200 XP)"
 languages: "any languages it knew in life"
 senses: "darkvision 60 ft."
-skills: "Percepción +2, Stealth +4"
+skills: "Percepción +2, Sigilo +4"
 damage_immunities: "cold, necrotic, poison"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"

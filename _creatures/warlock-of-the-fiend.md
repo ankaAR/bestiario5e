@@ -8,12 +8,12 @@ int: 12 (+1)
 con: 15 (+2)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "7 (2,900 XP)"
 languages: "any two languages (usually Abyssal or Infernal)"
 senses: "darkvision 60 ft."
-skills: "Arcana +4, Deception +7, Persuasion +7, Religion +4"
+skills: "Arcana +4, Deception +7, Persuasion +7, Religión +4"
 saving_throws: "Sab +4, Car +7"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"

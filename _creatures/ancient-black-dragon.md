@@ -9,11 +9,11 @@ con: 25 (+7)
 dex: 14 (+2)
 str: 27 (+8)
 size: Gargantuan dragon
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "21 (33,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Percepción +16, Stealth +9"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +16, Sigilo +9"
 damage_immunities: "acid"
 saving_throws: "Des +9, Con +14, Sab +9, Car +11"
 speed: "40 ft., fly 80 ft., swim 40 ft."

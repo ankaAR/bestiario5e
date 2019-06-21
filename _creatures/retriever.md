@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "understands Abyssal, Elvish, and Undercommon but can't speak"
 senses: "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
-skills: "Percepción +5, Stealth +8"
+skills: "Percepción +5, Sigilo +8"
 damage_immunities: "necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
 saving_throws: "Des +8, Con +10, Sab +5"
 speed: "40 ft., climb 40 ft."

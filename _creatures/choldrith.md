@@ -9,11 +9,11 @@ con: 12 (+1)
 dex: 16 (+3)
 str: 12 (+1)
 size: Medium monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Undercommon"
 senses: "darkvision 60 ft."
-skills: "Athletics +5, Religion +2, Stealth +5"
+skills: "Athletics +5, Religión +2, Sigilo +5"
 speed: "30 ft., climb 30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "15 (studded leather armor)"

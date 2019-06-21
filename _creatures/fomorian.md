@@ -9,11 +9,11 @@ con: 20 (+5)
 dex: 10 (0)
 str: 23 (+6)
 size: Huge giant
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "8 (3,900 XP)"
 languages: "Giant, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Percepción +8, Stealth +3"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +8, Sigilo +3"
 speed: "30 ft."
 hit_points: "149 (13d12+65)"
 armor_class: "14 (armadura natural)"

@@ -8,10 +8,10 @@ int: 12 (+1)
 con: 10 (0)
 dex: 15 (+2)
 str: 10 (0)
-size: Medium humanoid (tethyrian human)
+size: Humanoide Mediano (tethyrian human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
-languages: "Common, Dwarvish"
+languages: "Común, Dwarvish"
 skills: "Insight +4, Investigation +3, Percepción +6, Persuasion +5"
 speed: "30 ft."
 hit_points: "18 (4d8)"

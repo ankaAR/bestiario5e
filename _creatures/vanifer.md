@@ -8,16 +8,16 @@ int: 12 (+1)
 con: 17 (+3)
 dex: 16 (+3)
 str: 11 (0)
-size: Medium humanoid (tiefling)
+size: Humanoide Mediano (tiefling)
 alignment: neutral evil
 challenge: "9 (5,000 XP)"
-languages: "Common, Ignan, Infernal"
+languages: "Común, Ignan, Infernal"
 senses: "darkvision 60 ft."
 skills: "Arcana +5, Deception +8, Performance +8"
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 ---
 
 ***Funeral Pyre.*** When Vanifer drops to 0 hit points, her body is consumed in a flash of fire and smoke. Anything she was wearing or carrying is left behind among ashes.

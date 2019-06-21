@@ -8,12 +8,12 @@ int: 13 (+1)
 con: 11 (0)
 dex: 12 (+1)
 str: 11 (0)
-size: Medium humanoid (yuan-ti)
+size: Humanoide Mediano (yuan-ti)
 alignment: neutral evil
 challenge: "1 (200 XP)"
-languages: "Abyssal, Common, Draconic"
+languages: "Abyssal, Common, Dragón"
 senses: "darkvision 60 ft."
-skills: "Deception +6, Percepción +3, Stealth +3"
+skills: "Deception +6, Percepción +3, Sigilo +3"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "40 (9d8)"

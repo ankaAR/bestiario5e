@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/8 (25 XP)"
 languages: "understands Common but can't speak"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Stealth +3"
+skills: "Sigilo +3"
 speed: "20 ft."
 hit_points: "4 (1d6+1)"
 armor_class: "13 (armadura natural)"

@@ -12,8 +12,8 @@ size: Small humanoid (gnome)
 alignment: neutral good
 challenge: "1/2 (100 XP)"
 languages: "Gnomish, Terran, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Investigation +3, Percepción +2, Stealth +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Investigation +3, Percepción +2, Sigilo +4"
 speed: "20 ft."
 hit_points: "16 (3d6+6)"
 armor_class: "15 (chain shirt)"

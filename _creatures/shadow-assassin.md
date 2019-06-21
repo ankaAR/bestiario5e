@@ -10,11 +10,11 @@ con: 14 (+2)
 dex: 19 (+4)
 str: 6 (-2)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "9 (5,000 XP)"
 languages: "understands the languages it knew in life but can’t speak"
 senses: "darkvision 60 ft., passive Perception 19"
-skills: "Percepción +9, Stealth +12"
+skills: "Percepción +9, Sigilo +12"
 damage_immunities: "necrotic, poison"
 saving_throws: "Des +8, Int +5"
 speed: "40 ft."

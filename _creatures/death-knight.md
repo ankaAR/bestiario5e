@@ -9,10 +9,10 @@ con: 20 (+5)
 dex: 11 (0)
 str: 20 (+5)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "17 (18,000 XP)"
 languages: "Abyssal, Common"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "necrotic, poison"
 saving_throws: "Des +6, Sab +9, Car +10"
 speed: "30 ft."

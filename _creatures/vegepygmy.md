@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Vegepygmy"
 senses: "darkvision 60 ft."
-skills: "Percepción +2, Stealth +4"
+skills: "Percepción +2, Sigilo +4"
 speed: "30 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "13 (armadura natural)"

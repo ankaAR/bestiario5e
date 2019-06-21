@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Large monstrosity
 alignment: neutral evil
 challenge: "3 (700 XP)"
-languages: "Common, Yikaria"
+languages: "Común, Yikaria"
 skills: "Deception +4, Survival +4"
 speed: "30 ft."
 hit_points: "60 (8d10+16)"

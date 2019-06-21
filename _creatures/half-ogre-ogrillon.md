@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Large giant
 alignment: any chaotic alignment
 challenge: "1 (200 XP)"
-languages: "Common, Giant"
+languages: "Común, Giant"
 senses: "darkvision 60 ft."
 speed: "30 ft."
 hit_points: "30 (4d10+8)"

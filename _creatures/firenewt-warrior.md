@@ -8,7 +8,7 @@ int: 7 (-2)
 con: 12 (+1)
 dex: 13 (+1)
 str: 10 (0)
-size: Medium humanoid (firenewt)
+size: Humanoide Mediano (firenewt)
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Draconic, Ignan"

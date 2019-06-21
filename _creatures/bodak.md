@@ -9,11 +9,11 @@ con: 15 (+2)
 dex: 16 (+3)
 str: 15 (+2)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Abyssal, the languages it knew in life"
-senses: "darkvision 120 ft."
-skills: "Percepción +4, Stealth +6"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +4, Sigilo +6"
 damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"

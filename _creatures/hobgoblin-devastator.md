@@ -8,10 +8,10 @@ int: 16 (+3)
 con: 14 (+2)
 dex: 12 (+1)
 str: 13 (+1)
-size: Medium humanoid (goblinoid)
+size: Humanoide Mediano (goblinoid)
 alignment: legal maligna
 challenge: "4 (1,100 XP)"
-languages: "Common, Goblin"
+languages: "Común, Goblin"
 senses: "darkvision 60 ft."
 skills: "Arcana +5"
 speed: "30 ft."

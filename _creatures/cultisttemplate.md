@@ -3,7 +3,7 @@ layout: creature
 name: "Diabolical Cultist Template"
 tags: [medium, humanoid, cr0, mordenkainens-tome-of-foes, template]
 page_number: 18
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 ---
 

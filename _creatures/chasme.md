@@ -9,10 +9,10 @@ con: 12 (+1)
 dex: 15 (+2)
 str: 15 (+2)
 size: Large fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Abyssal, telepathy 120 ft."
-senses: "blindsight 10 ft., darkvision 120 ft."
+senses: "blindsight 10 ft., Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +5"
 damage_immunities: "poison"
 saving_throws: "Des +5, Sab +5"

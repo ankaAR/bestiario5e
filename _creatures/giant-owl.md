@@ -12,8 +12,8 @@ size: Large beast
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Giant Owl, understands Common, Elvish, and Sylvan but can't speak"
-senses: "darkvision 120 ft."
-skills: "Percepción +5, Stealth +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +5, Sigilo +4"
 speed: "5 ft., fly 60 ft."
 hit_points: "19 (3d10+3)"
 armor_class: "12"

@@ -8,10 +8,10 @@ int: 12 (+1)
 con: 14 (+2)
 dex: 13 (+1)
 str: 16 (+3)
-size: Medium humanoid (turami human)
+size: Humanoide Mediano (turami human)
 alignment: lawful good
 challenge: "0 (10 XP)"
-languages: "Common, Giant"
+languages: "Común, Giant"
 skills: "Athletics +5, Intimidation +3"
 speed: "30 ft."
 hit_points: "58 (9d8 + 18)"

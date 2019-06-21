@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "blindsight 30 ft."
-skills: "Stealth +3"
+skills: "Sigilo +3"
 speed: "30 ft., swim 30 ft."
 hit_points: "45 (7d10+7)"
 armor_class: "15 (armadura natural)"

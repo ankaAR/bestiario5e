@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "1/4 (50 XP)"
 languages: "understands Common and Draconic but can't speak"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Percepción +3, Stealth +4"
+skills: "Percepción +3, Sigilo +4"
 speed: "15 ft., fly 60 ft."
 hit_points: "7 (2d4+2)"
 armor_class: "13"

@@ -12,7 +12,7 @@ size: Large aberration
 alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "Otyugh"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 saving_throws: "Con +7"
 speed: "30 ft."
 hit_points: "114 (12d10+48)"

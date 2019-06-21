@@ -10,11 +10,11 @@ con: 16 (+3)
 dex: 11 (0)
 str: 19 (+4)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "13 (10,000 XP)"
-languages: "Common, Dwarvish, Elvish, Goblin, Undercommon"
-senses: "darkvision 120 ft., passive Perception 16"
-skills: "Arcana +9, Athletics +9, Percepción +6, Stealth +5"
+languages: "Común, Dwarvish, Elvish, Goblin, Undercommon"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 16"
+skills: "Arcana +9, Athletics +9, Percepción +6, Sigilo +5"
 saving_throws: "Con +8, Int +9"
 speed: "50 ft."
 hit_points: "195 (23d10+69)"

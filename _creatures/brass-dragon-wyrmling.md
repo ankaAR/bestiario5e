@@ -11,9 +11,9 @@ str: 15 (+2)
 size: Medium dragon
 alignment: chaotic good
 challenge: "1 (200 XP)"
-languages: "Draconic"
+languages: "Dragón"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Percepción +4, Stealth +2"
+skills: "Percepción +4, Sigilo +2"
 damage_immunities: "fire"
 saving_throws: "Des +2, Con +3, Sab +2, Car +3"
 speed: "30 ft., burrow 15 ft., fly 60 ft."

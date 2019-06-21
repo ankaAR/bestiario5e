@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 1 (-5)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "understands all languages it knew in life but can't speak"
 senses: "darkvision 60 ft."

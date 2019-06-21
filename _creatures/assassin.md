@@ -8,15 +8,15 @@ int: 13 (+1)
 con: 14 (+2)
 dex: 16 (+3)
 str: 11 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any non-good alignment
 challenge: "8 (3,900 XP)"
 languages: "Thieves' cant plus any two languages"
-skills: "Acrobatics +6, Deception +3, Percepción +3, Stealth +9"
+skills: "Acrobatics +6, Deception +3, Percepción +3, Sigilo +9"
 saving_throws: "Des +6, Int +4"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 damage_resistances: "poison"
 ---
 

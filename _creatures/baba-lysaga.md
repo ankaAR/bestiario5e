@@ -9,11 +9,11 @@ int: 20 (+5)
 con: 16 (+3)
 dex: 10 (0)
 str: 18 (+4)
-size: Medium humanoid (human
+size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "11 (7,200 XP)"
 languages: "Abyssal, Common, Draconic, Dwarvish, Giant"
-skills: "Arcana +13, Religion +13"
+skills: "Arcana +13, Religión +13"
 saving_throws: "Sab +7"
 speed: "30 ft."
 hit_points: "120 (16d8+48)"

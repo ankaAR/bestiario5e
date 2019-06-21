@@ -8,11 +8,11 @@ int: 11 (0)
 con: 13 (+1)
 dex: 16 (+3)
 str: 11 (0)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
-languages: "Common, Draconic"
-skills: "Deception +3, Stealth +5"
+languages: "Común, Dragón"
+skills: "Deception +3, Sigilo +5"
 saving_throws: "Sab +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"

@@ -8,10 +8,10 @@ int: 10 (0)
 con: 14 (+2)
 dex: 12 (+1)
 str: 14 (+2)
-size: Medium humanoid (half-elf)
+size: Humanoide Mediano (half-elf)
 alignment: legal maligna
 challenge: "5 (1,800 XP)"
-languages: "Common, Draconic, Elvish, Infernal"
+languages: "Común, Draconic, Elvish, Infernal"
 senses: "darkvision 60 ft."
 skills: "Deception +6, Insight +6, Percepción +6, Persuasion +6"
 saving_throws: "Sab +6, Car +6"

@@ -9,11 +9,11 @@ con: 13 (+1)
 dex: 23 (+6)
 str: 4 (-3)
 size: Tiny fey
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
-languages: "Common, Sylvan"
+languages: "Común, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Acrobatics +8, Percepción +5, Sleight of Hand +8, Stealth +8"
+skills: "Acrobatics +8, Percepción +5, Sleight of Hand +8, Sigilo +8"
 speed: "120 ft."
 hit_points: "10 (3d4+3)"
 armor_class: "16"

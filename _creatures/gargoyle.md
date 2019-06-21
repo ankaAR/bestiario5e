@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 11 (0)
 str: 15 (+2)
 size: Medium elemental
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Terran"
 senses: "darkvision 60 ft."

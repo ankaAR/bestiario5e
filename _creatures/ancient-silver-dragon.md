@@ -11,9 +11,9 @@ str: 30 (+10)
 size: Gargantuan dragon
 alignment: lawful good
 challenge: "23 (50,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Arcana +11, Historia +11, Percepción +16, Stealth +7"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +11, Historia +11, Percepción +16, Sigilo +7"
 damage_immunities: "cold"
 saving_throws: "Des +7, Con +16, Sab +9, Car +13"
 speed: "40 ft., fly 80 ft."

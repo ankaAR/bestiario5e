@@ -9,7 +9,7 @@ con: 19 (+4)
 dex: 8 (-1)
 str: 21 (+5)
 size: Huge giant
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "5 (1,800 XP)"
 languages: "Giant"
 skills: "Percepción +2"

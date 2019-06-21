@@ -12,7 +12,7 @@ size: Medium aberration
 alignment: lawful neutral
 challenge: "3 (700 XP)"
 languages: "Deep Speech, Undercommon, telepathy 120 ft."
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +6"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "39 (6d8+12)"

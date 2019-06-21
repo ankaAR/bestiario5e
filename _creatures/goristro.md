@@ -9,10 +9,10 @@ con: 25 (+7)
 dex: 11 (0)
 str: 25 (+7)
 size: Huge fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "17 (18,000 XP)"
 languages: "Abyssal"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +7"
 damage_immunities: "poison"
 saving_throws: "Str +13, Des +6, Con +13, Sab +7"

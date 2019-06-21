@@ -12,8 +12,8 @@ size: Tiny fiend (devil)
 alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Infernal, Common"
-senses: "darkvision 120 ft."
-skills: "Deception +4, Insight +3, Persuasion +4, Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Deception +4, Insight +3, Persuasion +4, Sigilo +5"
 damage_immunities: "fire, poison"
 speed: "20 ft., fly 40 ft."
 hit_points: "10 (3d4+3)"

@@ -13,7 +13,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "the languages it knew in life"
-senses: "darkvision 120 ft. (including magical darkness), passive Perception 14"
+senses: "Visión en la oscuridad 120 ft. (36 mts) (including magical darkness), passive Perception 14"
 skills: "Arcana +5, Historia +5, Percepción +4"
 damage_immunities: "poison"
 saving_throws: "Int +5, Car +6"

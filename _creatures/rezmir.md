@@ -8,12 +8,12 @@ int: 15 (+2)
 con: 16 (+3)
 dex: 16 (+3)
 str: 18 (+4)
-size: Medium humanoid (half-black dragon)
+size: Humanoide Mediano (half-black dragon)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
-languages: "Common, Draconic, Infernal, Giant, Netherese"
-senses: "blindsight 10 ft., darkvision 120 ft."
-skills: "Arcana +5, Stealth +9"
+languages: "Común, Draconic, Infernal, Giant, Netherese"
+senses: "blindsight 10 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +5, Sigilo +9"
 damage_immunities: "acid"
 saving_throws: "Des +6, Sab +4"
 speed: "30 ft."

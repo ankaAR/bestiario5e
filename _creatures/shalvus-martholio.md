@@ -8,11 +8,11 @@ int: 12 (+1)
 con: 10 (0)
 dex: 15 (+2)
 str: 10 (0)
-size: Medium humanoid (turami human)
+size: Humanoide Mediano (turami human)
 alignment: neutral
 challenge: "0 (10 XP)"
-languages: "Common, Elvish"
-skills: "Deception +4, Insight +4, Investigation +3, Percepción +4, Sleight of Hand +4, Stealth +4"
+languages: "Común, Elvish"
+skills: "Deception +4, Insight +4, Investigation +3, Percepción +4, Sleight of Hand +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "13 (leather)"

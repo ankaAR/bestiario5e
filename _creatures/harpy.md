@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 13 (+1)
 str: 12 (+1)
 size: Medium monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "Common"
 speed: "20 ft., fly 40 ft."

@@ -8,11 +8,11 @@ int: 9 (-1)
 con: 12 (+1)
 dex: 11 (0)
 str: 13 (+1)
-size: Medium humanoid (firenewt)
+size: Humanoide Mediano (firenewt)
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Draconic, Ignan"
-senses: "darkvision 120 ft. (penetrates magical darkness)"
+senses: "Visión en la oscuridad 120 ft. (36 mts) (penetrates magical darkness)"
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"

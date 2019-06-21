@@ -13,11 +13,11 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Stealth +4"
+skills: "Percepción +3, Sigilo +4"
 damage_immunities: "necrotic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
-armor_class: "14 (studded leather)"
+armor_class: "14 (cuero endurecido)"
 condition_immunities: "poisoned"
 ---
 

@@ -12,7 +12,7 @@ size: Tiny aberration
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +4, Stealth +2"
+skills: "Percepción +4, Sigilo +2"
 saving_throws: "Sab +2"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "13 (3d4+6)"

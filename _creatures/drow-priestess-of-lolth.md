@@ -8,12 +8,12 @@ int: 13 (+1)
 con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Elvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Insight +6, Percepción +6, Religion +4, Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Insight +6, Percepción +6, Religión +4, Sigilo +5"
 saving_throws: "Con +4, Sab +6, Car +7"
 speed: "30 ft."
 hit_points: "71 (13d8+13)"

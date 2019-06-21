@@ -10,10 +10,10 @@ con: 24 (+7)
 dex: 19 (+4)
 str: 22 (+6)
 size: Huge undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "20 (25,000 XP)"
 languages: "-"
-senses: "darkvision 120 ft., passive Perception 9"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 9"
 damage_immunities: "necrotic, poison"
 saving_throws: "Con +13"
 speed: "40 ft., fly 40 ft."

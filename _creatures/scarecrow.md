@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 13 (+1)
 str: 11 (0)
 size: Medium construct
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "darkvision 60 ft."

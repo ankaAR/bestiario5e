@@ -9,11 +9,11 @@ con: 17 (+3)
 dex: 14 (+2)
 str: 19 (+4)
 size: Large dragon
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "7 (2,900 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Percepción +6, Stealth +5"
+languages: "Común, Dragón"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +6, Sigilo +5"
 damage_immunities: "acid"
 saving_throws: "Des +5, Con +6, Sab +3, Car +5"
 speed: "40 ft., fly 80 ft., swim 40 ft."

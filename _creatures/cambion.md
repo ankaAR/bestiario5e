@@ -13,7 +13,7 @@ alignment: any evil alignment
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Infernal"
 senses: "darkvision 60 ft."
-skills: "Deception +6, Intimidation +6, Percepción +4, Stealth +7"
+skills: "Deception +6, Intimidation +6, Percepción +4, Sigilo +7"
 saving_throws: "Str +7, Con +6, Int +5, Car +6"
 speed: "30 ft., fly 60 ft."
 hit_points: "82 (11d8+33)"

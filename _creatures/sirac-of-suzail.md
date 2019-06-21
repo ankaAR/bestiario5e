@@ -8,10 +8,10 @@ int: 12 (+1)
 con: 11 (0)
 dex: 17 (+3)
 str: 14 (+2)
-size: Medium humanoid (chondathan human)
+size: Humanoide Mediano (chondathan human)
 alignment: lawful good
 challenge: "0 (10 XP)"
-languages: "Common, Orc"
+languages: "Común, Orc"
 skills: "Athletics +4, Insight +3, Survival +3"
 speed: "30 ft."
 hit_points: "22 (5d8)"

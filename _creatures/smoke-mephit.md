@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Auran, Ignan"
 senses: "darkvision 60 ft."
-skills: "Percepción +2, Stealth +4"
+skills: "Percepción +2, Sigilo +4"
 damage_immunities: "fire, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "22 (5d6+5)"

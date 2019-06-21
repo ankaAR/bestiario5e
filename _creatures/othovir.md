@@ -8,10 +8,10 @@ int: 12 (+1)
 con: 13 (+1)
 dex: 10 (0)
 str: 11 (0)
-size: Medium humanoid (illuskan human)
+size: Humanoide Mediano (illuskan human)
 alignment: lawful neutral
 challenge: "0 (10 XP)"
-languages: "Common, Elvish"
+languages: "Común, Elvish"
 skills: "Deception +5, Insight +4, Persuasion +5"
 speed: "30 ft."
 hit_points: "16 (3d8 + 3)"

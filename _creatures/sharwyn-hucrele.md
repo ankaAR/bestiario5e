@@ -8,10 +8,10 @@ int: 16 (+3)
 con: 14 (+2)
 dex: 13 (+1)
 str: 11 (0)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
-languages: "Common, Draconic, Goblin"
+languages: "Común, Draconic, Goblin"
 skills: "Arcana +5, Insight +4, Persuasion + 1"
 speed: "30 ft."
 hit_points: "13 (2d8+4)"

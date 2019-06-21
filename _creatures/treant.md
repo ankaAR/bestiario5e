@@ -11,7 +11,7 @@ str: 23 (+6)
 size: Huge plant
 alignment: chaotic good
 challenge: "9 (5,000 XP)"
-languages: "Common, Druidic, Elvish, Sylvan"
+languages: "Común, Druidic, Elvish, Sylvan"
 speed: "30 ft."
 hit_points: "138 (12d12+60)"
 armor_class: "16 (armadura natural)"

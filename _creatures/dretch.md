@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 11 (0)
 str: 11 (0)
 size: Small fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)"
 senses: "darkvision 60 ft."

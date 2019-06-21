@@ -8,11 +8,11 @@ int: 6 (-2)
 con: 16 (+3)
 dex: 12 (+1)
 str: 17 (+3)
-size: Medium humanoid (quaggoth)
+size: Humanoide Mediano (quaggoth)
 alignment: chaotic neutral
 challenge: "3 (700 XP)"
 languages: "Undercommon"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Athletics +5"
 damage_immunities: "poison"
 speed: "30 ft., climb 30 ft."

@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "all the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 22"
-skills: "Athletics +7, Historia +8, Percepción +12, Stealth +8"
+skills: "Athletics +7, Historia +8, Percepción +12, Sigilo +8"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "105  (14d8 + 42)"

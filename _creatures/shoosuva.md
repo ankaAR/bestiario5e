@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 13 (+1)
 str: 18 (+4)
 size: Large fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "8 (3,900 XP)"
 languages: "Abyssal, Gnoll, telepathy 120 ft."
 senses: "darkvision 60 ft."

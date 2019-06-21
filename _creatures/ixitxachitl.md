@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 16 (+3)
 str: 12 (+1)
 size: Small aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "Abyssal, Ixitxachitl"
 senses: "darkvision 60 ft."

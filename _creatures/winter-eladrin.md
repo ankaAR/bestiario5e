@@ -12,7 +12,7 @@ str: 11 (0)
 size: Medium fey (elf)
 alignment: chaotic neutral
 challenge: "10 (5900 XP)"
-languages: "Common, Elvish, Sylvan"
+languages: "Común, Elvish, Sylvan"
 senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"

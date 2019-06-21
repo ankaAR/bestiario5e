@@ -12,7 +12,7 @@ size: Medium beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "blindsight 30 ft."
-skills: "Stealth +4"
+skills: "Sigilo +4"
 speed: "30 ft., swim 30 ft."
 hit_points: "13 (3d8)"
 armor_class: "15 (armadura natural)"

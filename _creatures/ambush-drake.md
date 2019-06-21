@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/2 (100 XP)"
 languages: "understands Draconic but can't speak it"
 senses: "darkvision 60 ft."
-skills: "Percepción +4, Stealth +4"
+skills: "Percepción +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "22 (4d6+8)"
 armor_class: "13 (armadura natural)"

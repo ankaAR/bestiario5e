@@ -8,12 +8,12 @@ int: 11 (0)
 con: 12 (+1)
 dex: 15 (+2)
 str: 10 (0)
-size: Medium humanoid (human
+size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "2 (450 XP)"
 languages: "Common (can't speak in rat form)"
 senses: "darkvision 60 ft. (rat form only)"
-skills: "Percepción +2, Stealth +4"
+skills: "Percepción +2, Sigilo +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"

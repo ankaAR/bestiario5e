@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Elvish, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Percepción +4, Stealth +5"
+skills: "Percepción +4, Sigilo +5"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "11 (16 with barkskin)"

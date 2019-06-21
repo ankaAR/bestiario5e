@@ -8,11 +8,11 @@ int: 11 (0)
 con: 10 (0)
 dex: 16 (+3)
 str: 10 (0)
-size: Medium humanoid (kenku)
+size: Humanoide Mediano (kenku)
 alignment: chaotic neutral
 challenge: "1/4 (50 XP)"
 languages: "understands Auran and Common but speaks only through the use of its Mimicry trait"
-skills: "Deception +4, Percepción +2, Stealth +5"
+skills: "Deception +4, Percepción +2, Sigilo +5"
 speed: "30 ft."
 hit_points: "13 (3d8)"
 armor_class: "13"

@@ -11,7 +11,7 @@ str: 19 (+4)
 size: Large giant
 alignment: legal maligna
 challenge: "7 (2,900 XP)"
-languages: "Common, Giant"
+languages: "Común, Giant"
 senses: "darkvision 60 ft."
 skills: "Arcana +5, Deception +8, Percepción +4"
 saving_throws: "Des +3, Con +6, Sab +4, Car +5"

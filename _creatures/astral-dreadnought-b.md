@@ -13,7 +13,7 @@ size: Gargantuan monstrosity (titan)
 alignment: unaligned
 challenge: "21 (33,000 XP)"
 languages: "-"
-senses: "darkvision 120 ft., passive Perception 19"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 19"
 skills: "Percepción +9"
 saving_throws: "Des +5, Sab +9"
 speed: "15 ft., fly 80 ft. (hover)"

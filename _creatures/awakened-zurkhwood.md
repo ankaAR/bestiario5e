@@ -12,7 +12,7 @@ size: Huge plant
 alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "one language known by its creator"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "20 ft."
 hit_points: "59 (7d12+14)"
 armor_class: "13 (armadura natural)"

@@ -11,8 +11,8 @@ str: 12 (+1)
 size: Medium fey
 alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
-languages: "Common, Elvish, Sylvan"
-skills: "Percepción +2, Performance +6, Stealth +5"
+languages: "Común, Elvish, Sylvan"
+skills: "Percepción +2, Performance +6, Sigilo +5"
 speed: "40 ft."
 hit_points: "31 (7d8)"
 armor_class: "14 (leather armor)"

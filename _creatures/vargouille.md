@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 6 (-2)
 size: Tiny fiend
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "understands Abyssal, Infernal, and any languages it knew before becoming a vargouille but can't speak"
 senses: "darkvision 60 ft."

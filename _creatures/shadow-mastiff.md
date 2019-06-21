@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: neutral evil
 challenge: "2 (450 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Stealth +6"
+skills: "Percepción +3, Sigilo +6"
 speed: "40 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "12"

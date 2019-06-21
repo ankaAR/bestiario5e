@@ -9,12 +9,12 @@ int: 14 (+2)
 con: 9 (0)
 dex: 17 (+3)
 str: 8 (-1)
-size: Medium humanoid (meazel)
+size: Humanoide Mediano (meazel)
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Common"
-senses: "darkvision 120 ft., passive Perception 13"
-skills: "Percepción +3, Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 13"
+skills: "Percepción +3, Sigilo +5"
 speed: "30 ft."
 hit_points: "35  (10d8 - 10)"
 armor_class: "13"

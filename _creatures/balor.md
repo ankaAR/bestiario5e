@@ -9,7 +9,7 @@ con: 22 (+6)
 dex: 15 (+2)
 str: 26 (+8)
 size: Huge fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "19 (22,000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "truesight 120 ft."

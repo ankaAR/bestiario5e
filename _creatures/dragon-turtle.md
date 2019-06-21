@@ -11,8 +11,8 @@ str: 25 (+7)
 size: Gargantuan dragon
 alignment: neutral
 challenge: "17 (18,000 XP)"
-languages: "Aquan, Draconic"
-senses: "darkvision 120 ft."
+languages: "Aquan, Dragón"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 saving_throws: "Des +6, Con +11, Sab +7"
 speed: "20 ft., swim 40 ft."
 hit_points: "341 (22d20+110)"

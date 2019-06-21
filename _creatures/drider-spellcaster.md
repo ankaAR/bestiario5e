@@ -9,11 +9,11 @@ con: 18 (+4)
 dex: 16 (+3)
 str: 16 (+3)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Elvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Percepción +5, Stealth +9"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +5, Sigilo +9"
 speed: "30 ft., climb 30 ft."
 hit_points: "123 (13d10+52)"
 armor_class: "19 (armadura natural)"

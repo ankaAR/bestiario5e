@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 22 (+6)
 str: 21 (+5)
 size: Gargantuan elemental
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "23 (50,000 XP)"
 languages: "Ignan"
 senses: "blindsight 120 ft."

@@ -12,7 +12,7 @@ size: Large elemental
 alignment: legal maligna
 challenge: "11 (7,200 XP)"
 languages: "Ignan"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "fire"
 saving_throws: "Int +7, Sab +6, Car +7"
 speed: "40 ft., fly 60 ft."

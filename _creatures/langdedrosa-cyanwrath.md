@@ -8,10 +8,10 @@ int: 10 (0)
 con: 16 (+3)
 dex: 13 (+1)
 str: 19 (+4)
-size: Medium humanoid (half-dragon)
+size: Humanoide Mediano (half-dragon)
 alignment: legal maligna
 challenge: "4 (1,100 XP)"
-languages: "Common, Draconic"
+languages: "Común, Dragón"
 senses: "blindsight 10 ft., darkvision 60 ft."
 skills: "Athletics +6, Intimidation +3, Percepción +4"
 saving_throws: "Str +6, Con +5"

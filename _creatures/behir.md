@@ -11,9 +11,9 @@ str: 23 (+6)
 size: Huge monstrosity
 alignment: neutral evil
 challenge: "11 (7,200 XP)"
-languages: "Draconic"
+languages: "Dragón"
 senses: "darkvision 90 ft."
-skills: "Percepción +6, Stealth +7"
+skills: "Percepción +6, Sigilo +7"
 damage_immunities: "lightning"
 speed: "50 ft., climb 40 ft."
 hit_points: "168 (16d12+64)"

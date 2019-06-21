@@ -9,10 +9,10 @@ int: 11 (0)
 con: 16 (+3)
 dex: 13 (+1)
 str: 18 (+4)
-size: Medium humanoid (lava child)
+size: Humanoide Mediano (lava child)
 alignment: neutral
 challenge: "3 (700 XP)"
-languages: "Common, Ignan"
+languages: "Común, Ignan"
 senses: "darkvision 60 ft., passive Perception 10"
 skills: "Athletics +6, Survival +2"
 speed: "25 ft, climb 20 ft."

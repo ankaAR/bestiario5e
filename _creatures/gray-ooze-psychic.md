@@ -12,7 +12,7 @@ size: Medium ooze
 alignment: unaligned
 challenge: "1/2 (100 XP)"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Stealth +2"
+skills: "Sigilo +2"
 speed: "10 ft., climb 10 ft."
 hit_points: "22 (3d8+9)"
 armor_class: "8"

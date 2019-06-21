@@ -9,11 +9,11 @@ con: 30 (+10)
 dex: 10 (0)
 str: 30 (+10)
 size: Gargantuan fiend
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "30 (155,000 XP)"
-languages: "Common, Draconic, Infernal"
+languages: "Común, Draconic, Infernal"
 senses: "darkvision 240 ft., truesight 120 ft."
-skills: "Arcana +17, Percepción +26, Religion +17"
+skills: "Arcana +17, Percepción +26, Religión +17"
 damage_immunities: "acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 saving_throws: "Str +19, Des +9, Sab +17"
 speed: "60 ft., fly 120 ft."

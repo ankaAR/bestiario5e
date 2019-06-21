@@ -12,8 +12,8 @@ size: Large monstrosity
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "understands Common and the languages of its creator, but can't speak"
-senses: "darkvision 120 ft."
-skills: "Athletics +8, Stealth +7"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Athletics +8, Sigilo +7"
 speed: "30 ft."
 hit_points: "84 (8d10+40)"
 armor_class: "15 (armadura natural)"

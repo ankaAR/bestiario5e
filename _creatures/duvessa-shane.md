@@ -8,10 +8,10 @@ int: 16 (+3)
 con: 10 (0)
 dex: 11 (0)
 str: 10 (0)
-size: Medium humanoid (illuskan human)
+size: Humanoide Mediano (illuskan human)
 alignment: lawful good
 challenge: "0 (10 XP)"
-languages: "Common, Dwarvish, Giant, Orc"
+languages: "Común, Dwarvish, Giant, Orc"
 skills: "Deception +5, Insight +3, Persuasion +3"
 speed: "30 ft."
 hit_points: "9 (2d8)"

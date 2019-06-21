@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "blindsight 60 ft."
-skills: "Percepción +2, Stealth +5"
+skills: "Percepción +2, Sigilo +5"
 speed: "20 ft., climb 20 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "16 (armadura natural)"

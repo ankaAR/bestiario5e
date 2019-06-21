@@ -8,11 +8,11 @@ int: 13 (+1)
 con: 11 (0)
 dex: 15 (+2)
 str: 11 (0)
-size: Medium humanoid (shapechanger)
-alignment: chaotic evil
+size: Humanoide Mediano (shapechanger)
+alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Common (can't speak in jackal form)"
-skills: "Deception +4, Percepción +2, Stealth +4"
+skills: "Deception +4, Percepción +2, Sigilo +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "40 ft."
 hit_points: "18 (4d8)"

@@ -14,7 +14,7 @@ alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "understands one language of its creator but can't speak"
 senses: "darkvision 60 ft., passive Perception 16"
-skills: "Percepción +6, Stealth +7"
+skills: "Percepción +6, Sigilo +7"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
 speed: "30 ft., burrow 30 ft."
 hit_points: "18  (4d8)"

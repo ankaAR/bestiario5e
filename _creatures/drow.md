@@ -8,12 +8,12 @@ int: 11 (0)
 con: 10 (0)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Elvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Percepción +2, Stealth +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +2, Sigilo +4"
 speed: "30 ft."
 hit_points: "13 (3d8)"
 armor_class: "15 (chain shirt)"

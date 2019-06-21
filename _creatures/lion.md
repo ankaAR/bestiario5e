@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Large beast
 alignment: unaligned
 challenge: "1 (200 XP)"
-skills: "Percepción +3, Stealth +6"
+skills: "Percepción +3, Sigilo +6"
 speed: "50 ft."
 hit_points: "26 (4d10+4)"
 armor_class: "12"

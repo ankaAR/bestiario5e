@@ -8,11 +8,11 @@ int: 10 (0)
 con: 12 (+1)
 dex: 15 (+2)
 str: 15 (+2)
-size: Medium humanoid (illuskan human)
+size: Humanoide Mediano (illuskan human)
 alignment: neutral
 challenge: "0 (10 XP)"
 languages: "Common"
-skills: "Intimidation +2, Sleight of Hand +4, Stealth +4"
+skills: "Intimidation +2, Sleight of Hand +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "12"

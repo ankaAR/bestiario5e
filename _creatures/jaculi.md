@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
 senses: "blindsight 30 ft., passive Perception 11"
-skills: "Athleitcs +4, Percepción +1, Stealth +4"
+skills: "Athleitcs +4, Percepción +1, Sigilo +4"
 speed: "30 ft., climb 20 ft."
 hit_points: "16 (3d10)"
 armor_class: "14 (armadura natural)"

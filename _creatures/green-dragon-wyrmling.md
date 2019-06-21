@@ -11,9 +11,9 @@ str: 15 (+2)
 size: Medium dragon
 alignment: legal maligna
 challenge: "2 (450 XP)"
-languages: "Draconic"
+languages: "Dragón"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Percepción +4, Stealth +3"
+skills: "Percepción +4, Sigilo +3"
 damage_immunities: "poison"
 saving_throws: "Des +3, Con +3, Sab +2, Car +3"
 speed: "30 ft., fly 60 ft., swim 30 ft."

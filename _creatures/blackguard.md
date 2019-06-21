@@ -8,7 +8,7 @@ int: 11 (0)
 con: 18 (+4)
 dex: 11 (0)
 str: 18 (+4)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any non-good alignment
 challenge: "8 (3,900 XP)"
 languages: "any one language (usually Common)"

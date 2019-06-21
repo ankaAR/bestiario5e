@@ -9,11 +9,11 @@ con: 15 (+2)
 dex: 19 (+4)
 str: 16 (+3)
 size: Medium ooze
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "understands languages it knew in its previous form but can't speak"
 senses: "blindsight 120 ft."
-skills: "Stealth +8"
+skills: "Sigilo +8"
 speed: "30 ft., climb 30 ft., swim 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "14"

@@ -8,10 +8,10 @@ int: 10 (0)
 con: 14 (+2)
 dex: 13 (+1)
 str: 16 (+3)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: any alignment
 challenge: "5 (1,800 XP)"
-languages: "Common, Draconic"
+languages: "Común, Dragón"
 senses: "blindsight 10 ft., darkvision 60 ft."
 skills: "Athletics +5, Percepción +2"
 saving_throws: "Str +5, Con +4"

@@ -8,10 +8,10 @@ int: 11 (0)
 con: 14 (+2)
 dex: 15 (+2)
 str: 13 (+1)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
-languages: "Common, Druidic"
+languages: "Común, Druidic"
 skills: "Arcana +3, Deception +3"
 speed: "30 ft."
 hit_points: "71 (11d8+22)"

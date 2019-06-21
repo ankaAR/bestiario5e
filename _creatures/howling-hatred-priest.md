@@ -8,14 +8,14 @@ int: 14 (+2)
 con: 10 (0)
 dex: 16 (+3)
 str: 12 (+1)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Auran, Common"
-skills: "Acrobatics +5, Intimidation +4, Religion +4"
+skills: "Acrobatics +5, Intimidation +4, Religión +4"
 speed: "30 ft."
 hit_points: "45 (10d8)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 ---
 
 ***Hold Breath.*** The priest can hold its breath for 30 minutes.

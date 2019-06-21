@@ -10,10 +10,10 @@ con: 17 (+3)
 dex: 14 (+2)
 str: 15 (+2)
 size: Medium fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Abyssal, telepathy 60 ft."
-senses: "darkvision 120 ft., passive Perception 9"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 9"
 damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "52  (7d8 + 21)"

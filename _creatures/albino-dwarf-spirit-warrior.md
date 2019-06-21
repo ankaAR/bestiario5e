@@ -8,13 +8,13 @@ int: 12 (+1)
 con: 17 (+3)
 dex: 13 (+1)
 str: 13 (+1)
-size: Medium humanoid (dwarf)
+size: Humanoide Mediano (dwarf)
 alignment: any alignment
 challenge: "1 (200 XP)"
-languages: "Common, Dwarvish"
+languages: "Común, Dwarvish"
 senses: "darkvision 60ft., passive Perception 14"
 damage_resistances: "poison"
-skills: "Percepción +4, Stealth +3, Survival +4"
+skills: "Percepción +4, Sigilo +3, Survival +4"
 speed: "25 ft."
 hit_points: "30 (4d8 +12)"
 armor_class: "13 (hide armor)"

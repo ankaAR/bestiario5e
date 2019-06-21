@@ -11,8 +11,8 @@ str: 3 (-4)
 size: Tiny fey
 alignment: neutral good
 challenge: "1/4 (50 XP)"
-languages: "Common, Elvish, Sylvan"
-skills: "Percepción +3, Stealth +8"
+languages: "Común, Elvish, Sylvan"
+skills: "Percepción +3, Sigilo +8"
 speed: "10 ft., fly 40 ft."
 hit_points: "2 (1d4)"
 armor_class: "15 (leather armor)"

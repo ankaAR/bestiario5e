@@ -8,10 +8,10 @@ int: 13 (+1)
 con: 17 (+3)
 dex: 10 (0)
 str: 12 (+1)
-size: Medium humanoid (earth genasi)
+size: Humanoide Mediano (earth genasi)
 alignment: neutral evil
 challenge: "6 (2,300 XP)"
-languages: "Common, Primordial"
+languages: "Común, Primordial"
 skills: "Arcana +4, Deception +7"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"

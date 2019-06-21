@@ -9,7 +9,7 @@ int: 12 (+1)
 con: 11 (0)
 dex: 12 (+1)
 str: 11 (0)
-size: Medium humanoid (dwarf)
+size: Humanoide Mediano (dwarf)
 alignment: any alignment
 challenge: "1/8 (25 XP)"
 languages: "any two languages"

@@ -8,10 +8,10 @@ int: 11 (0)
 con: 15 (+2)
 dex: 14 (+2)
 str: 12 (+1)
-size: Medium humanoid (fire genasi)
+size: Humanoide Mediano (fire genasi)
 alignment: neutral evil
 challenge: "8 (3,900 XP)"
-languages: "Common, Ignan"
+languages: "Común, Ignan"
 senses: "darkvision 60 ft."
 skills: "Arcana +3, Deception +7"
 speed: "30 ft."

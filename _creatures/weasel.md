@@ -11,7 +11,7 @@ str: 3 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-skills: "Percepción +3, Stealth +5"
+skills: "Percepción +3, Sigilo +5"
 speed: "30 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "13"

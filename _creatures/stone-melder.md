@@ -8,10 +8,10 @@ int: 12 (+1)
 con: 16 (+3)
 dex: 10 (0)
 str: 15 (+2)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "4 (1,100 XP)"
-languages: "Common, Terran"
+languages: "Común, Terran"
 senses: "tremorsense 30 ft."
 skills: "Intimidation +5, Percepción +2"
 speed: "30 ft."

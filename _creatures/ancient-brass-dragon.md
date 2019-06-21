@@ -11,9 +11,9 @@ str: 27 (+8)
 size: Gargantuan dragon
 alignment: chaotic good
 challenge: "20 (25,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Historia +9, Percepción +14, Persuasion +10, Stealth +6"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Historia +9, Percepción +14, Persuasion +10, Sigilo +6"
 damage_immunities: "fire"
 saving_throws: "Des +6, Con +13, Sab +8, Car +10"
 speed: "40 ft., burrow 40 ft., fly 80 ft."

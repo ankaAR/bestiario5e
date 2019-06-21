@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1/8 (25 XP)"
 languages: "understands Slaad but can't speak"
 senses: "darkvision 60 ft."
-skills: "Stealth +4"
+skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "10 (4d4)"
 armor_class: "12"

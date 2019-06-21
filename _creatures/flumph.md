@@ -13,7 +13,7 @@ alignment: lawful good
 challenge: "1/8 (25 XP)"
 languages: "understands Undercommon but can't speak, telepathy 60 ft."
 senses: "darkvision 60 ft."
-skills: "Arcana +4, Historia +4, Religion +4"
+skills: "Arcana +4, Historia +4, Religión +4"
 speed: "5 ft., fly 30 ft."
 hit_points: "7 (2d6)"
 armor_class: "12"

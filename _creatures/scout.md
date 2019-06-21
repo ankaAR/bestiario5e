@@ -8,11 +8,11 @@ int: 11 (0)
 con: 12 (+1)
 dex: 14 (+2)
 str: 11 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "1/2 (100 XP)"
 languages: "any one language (usually Common)"
-skills: "Nature +4, Percepción +5, Stealth +6, Survival +5"
+skills: "Nature +4, Percepción +5, Sigilo +6, Survival +5"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"
 armor_class: "13 (leather armor)"

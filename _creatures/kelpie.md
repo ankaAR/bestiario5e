@@ -11,9 +11,9 @@ str: 14 (+2)
 size: Medium plant
 alignment: neutral evil
 challenge: "4 (1,100 XP)"
-languages: "Common, Sylvan"
+languages: "Común, Sylvan"
 senses: "blindsight 60 ft."
-skills: "Percepción +3, Stealth +4"
+skills: "Percepción +3, Sigilo +4"
 speed: "10 ft., swim 30 ft."
 hit_points: "67 (9d8+27)"
 armor_class: "14 (armadura natural)"

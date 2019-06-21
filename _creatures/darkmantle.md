@@ -12,7 +12,7 @@ size: Small monstrosity
 alignment: unaligned
 challenge: "1/2 (100 XP)"
 senses: "blindsight 60 ft."
-skills: "Stealth +3"
+skills: "Sigilo +3"
 speed: "10 ft., fly 30 ft."
 hit_points: "22 (5d6+5)"
 armor_class: "11"

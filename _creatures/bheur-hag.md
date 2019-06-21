@@ -9,11 +9,11 @@ con: 14 (+2)
 dex: 16 (+3)
 str: 13 (+1)
 size: Medium fey
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "7 (2,900 XP)"
 languages: "Auran, Common, Giant"
 senses: "darkvision 60 ft."
-skills: "Nature +4, Percepción +4, Stealth +6, Survival +4"
+skills: "Nature +4, Percepción +4, Sigilo +6, Survival +4"
 damage_immunities: "cold"
 saving_throws: "Sab +4"
 speed: "30 ft."

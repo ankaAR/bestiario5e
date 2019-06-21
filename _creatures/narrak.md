@@ -9,11 +9,11 @@ con: 13 (+1)
 dex: 14 (+2)
 str: 9 (-1)
 size: Small humanoid (derro)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Arcana +4, Stealth +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "40 (9d6+9)"
 armor_class: "12 (15 to mage armor)"

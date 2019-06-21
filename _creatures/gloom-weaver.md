@@ -9,10 +9,10 @@ int: 15 (+2)
 con: 14 (+2)
 dex: 18 (+4)
 str: 11 (0)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral
 challenge: "9 (5,000 XP)"
-languages: "Common, Elvish"
+languages: "Común, Elvish"
 senses: "darkvision 60 ft., passive Perception 11"
 damage_immunities: "necrotic"
 saving_throws: "Des +8, Con +6"

@@ -8,7 +8,7 @@ int: 14 (+2)
 con: 16 (+3)
 dex: 12 (+1)
 str: 11 (0)
-size: Medium humanoid (water genasi)
+size: Humanoide Mediano (water genasi)
 alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Aquan, Common"

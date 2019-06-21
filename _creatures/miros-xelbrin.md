@@ -8,7 +8,7 @@ int: 11 (0)
 con: 15 (+2)
 dex: 10 (0)
 str: 16 (+3)
-size: Medium humanoid (damaran human)
+size: Humanoide Mediano (damaran human)
 alignment: neutral good
 challenge: "0 (10 XP)"
 languages: "Common"

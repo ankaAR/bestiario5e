@@ -10,11 +10,11 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
 size: Small humanoid (derro)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "Dwarvish, Undercommon"
-senses: "darkvision 120 ft., passive Perception 7"
-skills: "Stealth +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 7"
+skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "13  (3d6 + 3)"
 armor_class: "13 (leather armor)"

@@ -11,7 +11,7 @@ str: 19 (+4)
 size: Huge elemental
 alignment: neutral evil
 challenge: "19 (22,000 XP)"
-languages: "Common, Ignan"
+languages: "Común, Ignan"
 senses: "blindsight 120 ft."
 damage_immunities: "fire, poison"
 saving_throws: "Des +14, Con +13, Car +13"

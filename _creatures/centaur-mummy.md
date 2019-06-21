@@ -11,7 +11,7 @@ str: 20 (+5)
 size: Large undead
 alignment: legal maligna
 challenge: "6 (2,300 XP)"
-languages: "Common, Sylvan"
+languages: "Común, Sylvan"
 senses: "darkvision 60 ft."
 damage_immunities: "necrotic, poison"
 saving_throws: "Sab +5"

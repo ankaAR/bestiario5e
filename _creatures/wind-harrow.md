@@ -8,15 +8,15 @@ int: 14 (+2)
 con: 12 (+1)
 dex: 16 (+3)
 str: 10 (0)
-size: Medium humanoid (half-elf)
+size: Humanoide Mediano (half-elf)
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Auran, Common, Elvish"
 senses: "darkvision 60 ft."
-skills: "Acrobatics +5, Deception +7, Persuasion +5, Performance +7, Stealth +5"
+skills: "Acrobatics +5, Deception +7, Persuasion +5, Performance +7, Sigilo +5"
 speed: "30 ft."
 hit_points: "55 (10d8+10)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 ---
 
 ***Fey Ancestry.*** Windharrow has advantage on saving throws against being charmed, and magic can't put him to sleep.

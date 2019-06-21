@@ -9,10 +9,10 @@ con: 14 (+2)
 dex: 10 (0)
 str: 12 (+1)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, telepathy 60 ft."
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "75 (10d10+20)"

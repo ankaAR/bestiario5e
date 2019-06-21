@@ -8,11 +8,11 @@ int: 16 (+3)
 con: 14 (+2)
 dex: 13 (+1)
 str: 8 (-1)
-size: Medium humanoid (human)
-alignment: chaotic evil
+size: Humanoide Mediano (human)
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Abyssal, Common"
-skills: "Arcana +5, Investigation +5, Medicine +1"
+skills: "Arcana +5, Investigation +5, Medicina +1"
 saving_throws: "Sab +1"
 speed: "30 ft."
 hit_points: "39 (6d8+12)"

@@ -9,11 +9,11 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 14 (+2)
 size: Medium aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "11 (7,200 XP)"
 languages: "telepathy 120 ft."
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Arcana +9, Historia +9, Percepción +10, Stealth +6"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +9, Historia +9, Percepción +10, Sigilo +6"
 saving_throws: "Des +6, Int +9, Sab +6"
 speed: "25 ft., swim 50 ft."
 hit_points: "130 (20d8+40)"

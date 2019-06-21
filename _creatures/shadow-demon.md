@@ -9,11 +9,11 @@ con: 12 (+1)
 dex: 17 (+3)
 str: 1 (-5)
 size: Medium fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, telepathy 120 ft."
-senses: "darkvision 120 ft."
-skills: "Stealth +7"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Sigilo +7"
 damage_immunities: "cold, lightning, poison"
 saving_throws: "Des +5, Car +4"
 speed: "30 ft., fly 30 ft."

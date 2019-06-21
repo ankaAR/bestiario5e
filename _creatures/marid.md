@@ -12,7 +12,7 @@ size: Large elemental
 alignment: chaotic neutral
 challenge: "11 (7,200 XP)"
 languages: "Aquan"
-senses: "blindsight 30 ft., darkvision 120 ft."
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
 saving_throws: "Des +5, Sab +7, Car +8"
 speed: "30 ft., fly 60 ft., swim 90 ft."
 hit_points: "229 (17d10+136)"

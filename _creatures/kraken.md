@@ -9,7 +9,7 @@ con: 25 (+7)
 dex: 11 (0)
 str: 30 (+10)
 size: Gargantuan monstrosity (titan)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "23 (50,000 XP)"
 languages: "understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft."
 senses: "truesight 120 ft."

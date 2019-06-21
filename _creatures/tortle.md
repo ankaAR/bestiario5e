@@ -9,7 +9,7 @@ int: 11 (0)
 con: 12 (+1)
 dex: 10 (0)
 str: 15 (+2)
-size: Medium humanoid (tortle)
+size: Humanoide Mediano (tortle)
 alignment: lawful good
 challenge: "1/4 (50 XP)"
 languages: "Aquan, Common"

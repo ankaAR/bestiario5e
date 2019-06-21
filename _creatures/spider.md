@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
 senses: "darkvision 30 ft."
-skills: "Stealth +4"
+skills: "Sigilo +4"
 speed: "20 ft., climb 20 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "12"

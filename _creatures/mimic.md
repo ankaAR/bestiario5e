@@ -12,7 +12,7 @@ size: Medium monstrosity (shapechanger)
 alignment: neutral
 challenge: "2 (450 XP)"
 senses: "darkvision 60 ft."
-skills: "Stealth +5"
+skills: "Sigilo +5"
 damage_immunities: "acid"
 speed: "15 ft."
 hit_points: "58 (9d8+18)"

@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 7 (-2)
 str: 27 (+8)
 size: Gargantuan aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "13 (10,000 XP)"
 senses: "blindsight 120 ft."
 saving_throws: "Int +1, Sab +8, Car +6"

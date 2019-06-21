@@ -9,11 +9,11 @@ int: 9 (-1)
 con: 15 (+2)
 dex: 9 (-1)
 str: 12 (+1)
-size: Medium humanoid (mongrelfolk)
+size: Humanoide Mediano (mongrelfolk)
 alignment: any alignment
 challenge: "1/4 (50 XP)"
 languages: "Common"
-skills: "Deception +2, Percepción +2, Stealth +3"
+skills: "Deception +2, Percepción +2, Sigilo +3"
 speed: "20 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "11 (armadura natural)"

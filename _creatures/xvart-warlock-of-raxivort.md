@@ -9,11 +9,11 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 8 (-1)
 size: Small humanoid (xvart)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "Abyssal"
 senses: "darkvision 30 ft."
-skills: "Stealth +3"
+skills: "Sigilo +3"
 speed: "30 ft."
 hit_points: "22 (5d6+5)"
 armor_class: "12 (15 with mage armor)"

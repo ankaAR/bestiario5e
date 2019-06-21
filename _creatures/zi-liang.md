@@ -8,11 +8,11 @@ int: 14 (+2)
 con: 11 (0)
 dex: 15 (+2)
 str: 12 (+1)
-size: Medium humanoid (shou human)
+size: Humanoide Mediano (shou human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
-languages: "Common, Elvish, Goblin"
-skills: "Acrobatics +4, Athletics +3, Percepción +5, Stealth +4"
+languages: "Común, Elvish, Goblin"
+skills: "Acrobatics +4, Athletics +3, Percepción +5, Sigilo +4"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "15"

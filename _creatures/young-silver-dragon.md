@@ -11,9 +11,9 @@ str: 23 (+6)
 size: Large dragon
 alignment: lawful good
 challenge: "9 (5,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Arcana +6, Historia +6, Percepción +8, Stealth +4"
+languages: "Común, Dragón"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +6, Historia +6, Percepción +8, Sigilo +4"
 damage_immunities: "cold"
 saving_throws: "Des +4, Con +9, Sab +4, Car +8"
 speed: "40 ft., fly 80 ft."

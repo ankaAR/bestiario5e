@@ -8,11 +8,11 @@ int: 11 (0)
 con: 16 (+3)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (human)
-alignment: chaotic evil
+size: Humanoide Mediano (human)
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
-languages: "Common, Ignan"
-skills: "Arcana +3, Religion +3"
+languages: "Común, Ignan"
+skills: "Arcana +3, Religión +3"
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "105 (14d8+42)"

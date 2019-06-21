@@ -9,16 +9,16 @@ int: 11 (0)
 con: 13 (+1)
 dex: 16 (+3)
 str: 12 (+1)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral
 challenge: "7 (2900 XP)"
-languages: "Common, Elvish"
+languages: "Común, Elvish"
 senses: "darkvision 60 ft., passive Perception 11"
-skills: "Stealth +6"
+skills: "Sigilo +6"
 saving_throws: "Des +6, Car +4"
 speed: "30 ft."
 hit_points: "71  (13d8 + 13)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 condition_immunities: "charmed, exhaustion"
 damage_resistances: "necrotic"
 ---

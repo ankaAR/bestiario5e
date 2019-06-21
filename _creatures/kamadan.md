@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: unaligned
 challenge: "4 (1,100 XP)"
 senses: "passive Perception 14"
-skills: "Percepción +4, Stealth +7"
+skills: "Percepción +4, Sigilo +7"
 speed: "30 ft."
 hit_points: "67 (9d10 +18)"
 armor_class: "13"

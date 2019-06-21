@@ -8,7 +8,7 @@ int: 11 (0)
 con: 14 (+2)
 dex: 11 (0)
 str: 16 (+3)
-size: Medium humanoid (illuskan humanoid)
+size: Humanoide Mediano (illuskan humanoid)
 alignment: lawful good
 challenge: "0 (10 XP)"
 languages: "Common"

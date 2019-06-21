@@ -8,8 +8,8 @@ int: 13 (+1)
 con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (human)
-alignment: chaotic evil
+size: Humanoide Mediano (human)
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Common"
 skills: "Arcana +3, Percepción +3, Intimidation +5"

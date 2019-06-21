@@ -12,7 +12,7 @@ size: Medium beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Stealth +5"
+skills: "Percepción +3, Sigilo +5"
 speed: "40 ft."
 hit_points: "9 (2d8)"
 armor_class: "13"

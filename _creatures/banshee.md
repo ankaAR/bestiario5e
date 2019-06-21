@@ -9,9 +9,9 @@ con: 10 (0)
 dex: 14 (+2)
 str: 1 (-5)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
-languages: "Common, Elvish"
+languages: "Común, Elvish"
 senses: "darkvision 60 ft."
 damage_immunities: "cold, necrotic, poison"
 saving_throws: "Sab +2, Car +5"

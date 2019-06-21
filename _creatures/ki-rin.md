@@ -12,8 +12,8 @@ size: Huge celestial
 alignment: lawful good
 challenge: "12 (8,400 XP)"
 languages: "all, telepathy 120 ft."
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Insight +9, Percepción +9, Religion +8"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Insight +9, Percepción +9, Religión +8"
 damage_immunities: "poison"
 speed: "60 ft., fly 120 ft. (hover)"
 hit_points: "152 (16d12+48)"

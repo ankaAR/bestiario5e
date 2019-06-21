@@ -8,7 +8,7 @@ int: 14 (+2)
 con: 14 (+2)
 dex: 16 (+3)
 str: 15 (+2)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any non-lawful alignment
 challenge: "2 (450 XP)"
 languages: "any two languages"
@@ -16,7 +16,7 @@ skills: "Athletics +4, Deception +4"
 saving_throws: "Str +4, Des +5, Sab +2"
 speed: "30 ft."
 hit_points: "65 (10d8+20)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 ---
 
 ### Actions

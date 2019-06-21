@@ -11,9 +11,9 @@ str: 16 (+3)
 size: Medium monstrosity (shapechanger
 alignment: yuan-ti)
 challenge: "3 (700 XP)"
-languages: "Abyssal, Common, Draconic"
+languages: "Abyssal, Common, Dragón"
 senses: "darkvision 60 ft."
-skills: "Deception +5, Stealth +4"
+skills: "Deception +5, Sigilo +4"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"

@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +6, Stealth +5"
+skills: "Percepción +6, Sigilo +5"
 speed: "10 ft., climb 10 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "20 (armadura natural)"

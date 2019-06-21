@@ -13,8 +13,8 @@ size: Medium humanoid
 alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
 languages: "understands Common but can't speak"
-senses: "darkvision 120 ft., passive Perception 8"
-skills: "Stealth +8"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 8"
+skills: "Sigilo +8"
 damage_immunities: "radiant"
 saving_throws: "Con +2"
 speed: "30 ft."

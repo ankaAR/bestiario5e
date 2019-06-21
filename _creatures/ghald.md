@@ -11,8 +11,8 @@ str: 19 (+4)
 size: Large humanoid (sahuagin)
 alignment: legal maligna
 challenge: "7 (2,900 XP)"
-languages: "Common, Sahuagin"
-senses: "darkvision 120 ft."
+languages: "Común, Sahuagin"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Insight +4, Percepción +7"
 saving_throws: "Des +6, Con +6, Int +5, Sab +4"
 speed: "30 ft., swim 50 ft."

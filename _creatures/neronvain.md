@@ -8,10 +8,10 @@ int: 16 (+3)
 con: 15 (+2)
 dex: 17 (+3)
 str: 8 (-1)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "9 (5,000 XP)"
-languages: "Common, Draconic, Elvish, Infernal"
+languages: "Común, Draconic, Elvish, Infernal"
 senses: "darkvision 60 ft."
 skills: "Arcana +7, Percepción +5"
 damage_immunities: "poison"

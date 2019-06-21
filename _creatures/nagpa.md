@@ -9,7 +9,7 @@ int: 23 (+6)
 con: 12 (+1)
 dex: 15 (+2)
 str: 9 (0)
-size: Medium humanoid (nagpa)
+size: Humanoide Mediano (nagpa)
 alignment: neutral evil
 challenge: "17 (18,000 XP)"
 languages: "Common plus up to five other languages"

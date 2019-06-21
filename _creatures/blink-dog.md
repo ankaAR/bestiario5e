@@ -12,7 +12,7 @@ size: Medium fey
 alignment: lawful good
 challenge: "1/4 (50 XP)"
 languages: "Blink Dog, understands Sylvan but can't speak it"
-skills: "Percepción +3, Stealth +5"
+skills: "Percepción +3, Sigilo +5"
 speed: "40 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "13"

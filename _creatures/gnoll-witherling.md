@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 8 (-1)
 str: 14 (+2)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "understands Gnoll but can't speak"
 senses: "darkvision 60 ft."

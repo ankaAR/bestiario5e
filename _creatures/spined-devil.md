@@ -12,7 +12,7 @@ size: Small fiend (devil)
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Infernal, telepathy 120 ft."
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "fire, poison"
 speed: "20 ft., fly 40 ft."
 hit_points: "22 (5d6+5)"

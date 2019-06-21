@@ -12,8 +12,8 @@ size: Small fey
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "telepathy 120 ft."
-senses: "darkvision 120 ft."
-skills: "Percepción +4, Stealth +6, Survival +2"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +4, Sigilo +6, Survival +2"
 speed: "30 ft."
 hit_points: "31 (7d6+7)"
 armor_class: "15 (armadura natural)"

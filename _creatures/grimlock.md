@@ -8,12 +8,12 @@ int: 9 (-1)
 con: 12 (+1)
 dex: 12 (+1)
 str: 16 (+3)
-size: Medium humanoid (grimlock)
+size: Humanoide Mediano (grimlock)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Undercommon"
 senses: "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius)"
-skills: "Athletics +5, Percepción +3, Stealth +3"
+skills: "Athletics +5, Percepción +3, Sigilo +3"
 damage_immunities: "blinded"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"

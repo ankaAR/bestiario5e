@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 18 (+4)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Abyssal, Gnoll"
 senses: "darkvision 60 ft."

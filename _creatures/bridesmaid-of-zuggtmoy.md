@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 11 (0)
 str: 14 (+2)
 size: Medium plant
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/8 (25 XP)"
 languages: "understands Abyssal but can't speak"
 senses: "darkvision 60 ft."

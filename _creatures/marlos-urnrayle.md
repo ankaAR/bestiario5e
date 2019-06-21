@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Medium monstrosity
 alignment: neutral evil
 challenge: "8 (3,900 XP)"
-languages: "Common, Terran"
+languages: "Común, Terran"
 senses: "darkvision 60 ft., tremorsense 60 ft."
 skills: "Arcana +4, Deception +6, Percepción +4"
 speed: "30 ft."

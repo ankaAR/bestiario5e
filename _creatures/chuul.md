@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 10 (0)
 str: 19 (+4)
 size: Large aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "understands Deep Speech but can't speak"
 senses: "darkvision 60 ft."

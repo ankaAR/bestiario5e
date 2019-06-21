@@ -12,7 +12,7 @@ size: Large plant
 alignment: unaligned
 challenge: "5 (1,800 XP)"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Stealth +2"
+skills: "Sigilo +2"
 damage_immunities: "lightning"
 speed: "20 ft., swim 20 ft."
 hit_points: "136 (16d10+48)"

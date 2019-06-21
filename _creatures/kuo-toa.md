@@ -8,11 +8,11 @@ int: 11 (0)
 con: 11 (0)
 dex: 10 (0)
 str: 13 (+1)
-size: Medium humanoid (kuo-toa)
+size: Humanoide Mediano (kuo-toa)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Undercommon"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +4"
 speed: "30 ft., swim 30 ft."
 hit_points: "18 (4d8)"

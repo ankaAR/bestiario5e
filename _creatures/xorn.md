@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "Terran"
 senses: "darkvision 60 ft., tremorsense 60 ft."
-skills: "Percepción +6, Stealth +3"
+skills: "Percepción +6, Sigilo +3"
 speed: "20 ft., burrow 20 ft."
 hit_points: "73 (7d8+42)"
 armor_class: "19 (armadura natural)"

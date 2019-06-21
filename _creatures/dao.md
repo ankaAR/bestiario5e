@@ -12,7 +12,7 @@ size: Large elemental
 alignment: neutral evil
 challenge: "11 (7,200 XP)"
 languages: "Terran"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 saving_throws: "Int +5, Sab +5, Car +6"
 speed: "30 ft., burrow 30 ft., fly 30 ft."
 hit_points: "187 (15d10+105)"

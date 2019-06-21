@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Tlincalli"
 senses: "darkvision 60 ft."
-skills: "Percepción +4, Stealth +4, Survival +4"
+skills: "Percepción +4, Sigilo +4, Survival +4"
 speed: "40 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "15 (armadura natural)"

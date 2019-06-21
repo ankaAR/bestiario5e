@@ -8,10 +8,10 @@ int: 10 (0)
 con: 14 (+2)
 dex: 13 (+1)
 str: 16 (+3)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: any non-good alignment
 challenge: "2 (450 XP)"
-languages: "Common, Thayan"
+languages: "Común, Thayan"
 skills: "Percepción +2"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"

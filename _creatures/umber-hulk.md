@@ -9,10 +9,10 @@ con: 16 (+3)
 dex: 13 (+1)
 str: 20 (+5)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "5 (1,800 XP)"
 languages: "Umber Hulk"
-senses: "darkvision 120 ft., tremorsense 60 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts), tremorsense 60 ft."
 speed: "30 ft., burrow 20 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "18 (armadura natural)"

@@ -8,12 +8,12 @@ int: 9 (-1)
 con: 17 (+3)
 dex: 12 (+1)
 str: 16 (+3)
-size: Medium humanoid (orc)
-alignment: chaotic evil
+size: Humanoide Mediano (orc)
+alignment: caótico maligno
 challenge: "2 (450 XP)"
-languages: "Common, Orc"
+languages: "Común, Orc"
 senses: "darkvision 60 ft."
-skills: "Intimidation +3, Religion +1"
+skills: "Intimidation +3, Religión +1"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "16 (ring mail, shield)"

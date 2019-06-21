@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "6 (2,300 XP)"
 languages: "Auran, understands Common but doesn't speak it"
 senses: "darkvision 60 ft."
-skills: "Percepción +8, Stealth +10"
+skills: "Percepción +8, Sigilo +10"
 damage_immunities: "poison"
 speed: "50 ft., fly 50 ft. (hover)"
 hit_points: "104 (16d8+32)"

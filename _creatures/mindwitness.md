@@ -12,7 +12,7 @@ size: Large aberration
 alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Deep Speech, Undercommon, telepathy 600 ft."
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +8"
 saving_throws: "Int +5, Sab +5"
 speed: "0 ft., fly 20 ft. (hover)"

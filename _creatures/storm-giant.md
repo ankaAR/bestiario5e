@@ -11,7 +11,7 @@ str: 29 (+9)
 size: Huge giant
 alignment: chaotic good
 challenge: "13 (10,000 XP)"
-languages: "Common, Giant"
+languages: "Común, Giant"
 skills: "Arcana +8, Athletics +14, Historia +8, Percepción +9"
 damage_immunities: "lightning, thunder"
 saving_throws: "Str +14, Con +10, Sab +9, Car +9"

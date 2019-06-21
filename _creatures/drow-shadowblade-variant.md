@@ -9,16 +9,16 @@ int: 12 (+1)
 con: 16 (+3)
 dex: 21 (+5)
 str: 14 (+2)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "11 (7200 XP)"
 languages: "Elvish, Undercommon"
-senses: "darkvision 120 ft., passive Perception 16"
-skills: "Percepción +6, Stealth +9"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 16"
+skills: "Percepción +6, Sigilo +9"
 saving_throws: "Des +9, Con +7, Sab +6"
 speed: "30 ft."
 hit_points: "150  (20d8 + 60)"
-armor_class: "17 (studded leather)"
+armor_class: "17 (cuero endurecido)"
 ---
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.

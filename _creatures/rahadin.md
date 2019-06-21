@@ -9,16 +9,16 @@ int: 15 (+2)
 con: 17 (+3)
 dex: 22 (+6)
 str: 14 (+2)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: legal maligna
 challenge: "10 (5,900 XP)"
-languages: "Common, Elvish"
+languages: "Común, Elvish"
 senses: "darkvision 60 ft."
-skills: "Deception +8, Insight +7, Intimidation +12, Percepción +11, Stealth +14"
+skills: "Deception +8, Insight +7, Intimidation +12, Percepción +11, Sigilo +14"
 saving_throws: "Con +7, Sab +7"
 speed: "35 ft."
 hit_points: "135 (18d8+54)"
-armor_class: "18 (studded leather)"
+armor_class: "18 (cuero endurecido)"
 ---
 
 ***Deathly Choir.*** Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one.

@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 12 (+1)
 str: 18 (+4)
 size: Large undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft., passive Perception 8"
 condition_immunities: "poisoned"

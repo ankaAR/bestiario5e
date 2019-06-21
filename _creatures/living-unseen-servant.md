@@ -14,7 +14,7 @@ alignment: unaligned
 challenge: "0 (10 XP)"
 languages: "understands one language (usually Common) but can’t speak"
 senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
-skills: "Percepción +2, Stealth +4"
+skills: "Percepción +2, Sigilo +4"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "4 (1d8)"

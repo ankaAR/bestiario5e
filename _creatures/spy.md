@@ -8,11 +8,11 @@ int: 12 (+1)
 con: 10 (0)
 dex: 15 (+2)
 str: 10 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "1 (200 XP)"
 languages: "any two languages"
-skills: "Deception +5, Insight +4, Investigation +5, Percepción +6, Persuasion +5, Sleight of Hand +4, Stealth +4"
+skills: "Deception +5, Insight +4, Investigation +5, Percepción +6, Persuasion +5, Sleight of Hand +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "12"

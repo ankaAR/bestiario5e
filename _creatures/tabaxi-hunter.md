@@ -8,12 +8,12 @@ int: 13 (+1)
 con: 11 (0)
 dex: 17 (+3)
 str: 10 (0)
-size: Medium humanoid (tabaxi)
+size: Humanoide Mediano (tabaxi)
 alignment: chaotic good
 challenge: "1 (200 XP)"
 Languages: "Common plus any one language"
 senses: "darkvision 60 ft., passive Perception 14"
-skills: "Athletics +2, Percepción +4, Stealth +5, Survival +6"
+skills: "Athletics +2, Percepción +4, Sigilo +5, Survival +6"
 speed: "30 ft., climb 20 ft."
 hit_points: "40 (9d8)"
 armor_class: "14 (leather armor)"

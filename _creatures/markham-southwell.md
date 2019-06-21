@@ -8,7 +8,7 @@ int: 11 (0)
 con: 14 (+2)
 dex: 13 (+1)
 str: 15 (+2)
-size: Medium humanoid (turami human)
+size: Humanoide Mediano (turami human)
 alignment: lawful good
 challenge: "0 (10 XP)"
 languages: "Common"

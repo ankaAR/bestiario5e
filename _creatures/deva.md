@@ -12,7 +12,7 @@ size: Medium celestial
 alignment: lawful good
 challenge: "10 (5,900 XP)"
 languages: "all, telepathy 120 ft."
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Insight +9, Percepción +9"
 saving_throws: "Sab +9, Car +9"
 speed: "30 ft., fly 90 ft."

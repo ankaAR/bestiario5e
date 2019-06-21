@@ -11,7 +11,7 @@ str: 26 (+8)
 size: Gargantuan elemental
 alignment: neutral evil
 challenge: "20 (25,000 XP)"
-languages: "Common, Terran"
+languages: "Común, Terran"
 senses: "blindsight 120 ft., tremorsense 120 ft."
 damage_immunities: "poison"
 saving_throws: "Str +14, Con +15, Sab +8"

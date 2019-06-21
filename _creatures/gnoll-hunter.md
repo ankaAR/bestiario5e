@@ -8,12 +8,12 @@ int: 8 (-1)
 con: 12 (+1)
 dex: 14 (+2)
 str: 14 (+2)
-size: Medium humanoid (gnoll)
-alignment: chaotic evil
+size: Humanoide Mediano (gnoll)
+alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Gnoll"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Stealth +3"
+skills: "Percepción +3, Sigilo +3"
 speed: "30 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "13 (leather armor)"

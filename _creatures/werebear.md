@@ -8,7 +8,7 @@ int: 11 (0)
 con: 17 (+3)
 dex: 10 (0)
 str: 19 (+4)
-size: Medium humanoid (human
+size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "5 (1,800 XP)"
 languages: "Common (can't speak in bear form)"

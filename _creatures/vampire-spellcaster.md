@@ -12,8 +12,8 @@ size: Medium undead (shapechanger)
 alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "the languages it knew in life"
-senses: "darkvision 120 ft."
-skills: "Percepción +7, Stealth +9"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +7, Sigilo +9"
 saving_throws: "Des +9, Sab +7, Car +9"
 speed: "30 ft."
 hit_points: "144 (17d8+68)"

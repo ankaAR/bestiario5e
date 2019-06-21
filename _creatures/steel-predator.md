@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "16 (15,000 XP)"
 languages: "understands Modron and the language of its owner but can't speak"
 senses: "blindsight 30 ft., darkvision 60 ft., passive Perception 17"
-skills: "Percepción +7, Stealth +8, Survival +7"
+skills: "Percepción +7, Sigilo +8, Survival +7"
 damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks"
 speed: "40 ft."
 hit_points: "207  (18d10 + 108)"

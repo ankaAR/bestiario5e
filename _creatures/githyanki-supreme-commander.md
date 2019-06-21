@@ -9,7 +9,7 @@ int: 16 (+3)
 con: 18 (+4)
 dex: 17 (+3)
 str: 19 (+4)
-size: Medium humanoid (gith)
+size: Humanoide Mediano (gith)
 alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "Gith"

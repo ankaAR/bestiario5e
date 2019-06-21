@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Common"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Stealth +1"
+skills: "Sigilo +1"
 speed: "10 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "12 (armadura natural)"

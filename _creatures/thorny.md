@@ -12,7 +12,7 @@ size: Medium plant
 alignment: neutral
 challenge: "1 (200 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +4, Stealth +3"
+skills: "Percepción +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "14 (armadura natural)"

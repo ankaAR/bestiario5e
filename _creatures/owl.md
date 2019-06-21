@@ -11,8 +11,8 @@ str: 3 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-senses: "darkvision 120 ft."
-skills: "Percepción +3, Stealth +3"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +3, Sigilo +3"
 speed: "5 ft., fly 60 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "11"

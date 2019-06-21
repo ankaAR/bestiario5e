@@ -8,12 +8,12 @@ int: 16 (+3)
 con: 25 (+7)
 dex: 10 (0)
 str: 27 (+8)
-size: Huge dragon
+size: Dragón Enorme
 alignment: lawful good
 challenge: "16 (15,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Arcana +8, Historia +8, Percepción +11, Stealth +5"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Arcana +8, Historia +8, Percepción +11, Sigilo +5"
 damage_immunities: "cold"
 saving_throws: "Des +5, Con +12, Sab +6, Car +10"
 speed: "40 ft., fly 80 ft."

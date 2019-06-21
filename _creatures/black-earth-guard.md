@@ -8,7 +8,7 @@ int: 10 (0)
 con: 14 (+2)
 dex: 11 (0)
 str: 17 (+3)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common"

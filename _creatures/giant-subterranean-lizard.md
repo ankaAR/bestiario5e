@@ -11,7 +11,7 @@ str: 21 (+5)
 size: Huge beast
 alignment: unaligned
 challenge: "4 (1,100 XP)"
-skills: "Stealth +3"
+skills: "Sigilo +3"
 speed: "30 ft., swim 50 ft."
 hit_points: "66 (7d12+21)"
 armor_class: "14 (armadura natural)"

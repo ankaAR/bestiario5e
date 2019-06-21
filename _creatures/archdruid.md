@@ -8,11 +8,11 @@ int: 12 (+1)
 con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "12 (8,400 XP)"
 languages: "Druidic plus any two languages"
-skills: "Medicine +9, Nature +5, Percepción +9"
+skills: "Medicina +9, Nature +5, Percepción +9"
 saving_throws: "Int +5, Sab +9"
 speed: "30 ft."
 hit_points: "132 (24d8+24)"

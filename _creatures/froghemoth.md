@@ -12,7 +12,7 @@ size: Huge monstrosity
 alignment: unaligned
 challenge: "10 (5,900 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +9, Stealth +5"
+skills: "Percepción +9, Sigilo +5"
 saving_throws: "Con +9, Sab +5"
 speed: "50 ft., swim 30 ft."
 hit_points: "184 (16d12+80)"

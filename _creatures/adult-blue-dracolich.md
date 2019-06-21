@@ -11,9 +11,9 @@ str: 25 (+7)
 size: Huge undead
 alignment: legal maligna
 challenge: "17 (18,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Percepción +12, Stealth +5"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +12, Sigilo +5"
 damage_immunities: "lightning, poison"
 saving_throws: "Des +5, Con +11, Sab +7, Car +9"
 speed: "40 ft., burrow 30 ft., fly 80 ft."

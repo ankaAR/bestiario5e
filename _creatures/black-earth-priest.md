@@ -8,11 +8,11 @@ int: 12 (+1)
 con: 14 (+2)
 dex: 11 (0)
 str: 15 (+2)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "3 (700 XP)"
-languages: "Common, Terran"
-skills: "Intimidation +5, Religion +3, Persuasion +5"
+languages: "Común, Terran"
+skills: "Intimidation +5, Religión +3, Persuasion +5"
 speed: "30 ft."
 hit_points: "45 (7d8+14)"
 armor_class: "17 (splint)"

@@ -11,7 +11,7 @@ str: 23 (+6)
 size: Huge giant (stone giant)
 alignment: chaotic neutral
 challenge: "10 (5,900 XP)"
-languages: "Common, Giant"
+languages: "Común, Giant"
 senses: "darkvision 60 ft."
 skills: "Athletics +14, Percepción +3"
 saving_throws: "Des +6, Con +9, Sab +3"

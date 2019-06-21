@@ -8,12 +8,12 @@ int: 12 (+1)
 con: 12 (+1)
 dex: 11 (0)
 str: 13 (+1)
-size: Medium humanoid (sahuagin)
+size: Humanoide Mediano (sahuagin)
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Sahuagin"
-senses: "darkvision 120 ft."
-skills: "Percepción +6, Religion +3"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +6, Religión +3"
 speed: "30 ft., swim 40 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "12 (armadura natural)"

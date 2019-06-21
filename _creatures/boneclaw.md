@@ -10,11 +10,11 @@ con: 15 (+2)
 dex: 16 (+3)
 str: 19 (+4)
 size: Large undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "12 (8400 XP)"
 languages: "Common plus the main language of its master"
 senses: "darkvision 60 ft., passive Perception 16"
-skills: "Percepción +6, Stealth +7"
+skills: "Percepción +6, Sigilo +7"
 saving_throws: "Des +7, Con +6, Sab +6"
 speed: "40 ft."
 hit_points: "127  (17d10 + 34)"

@@ -11,7 +11,7 @@ str: 12 (+1)
 size: Small humanoid (kobold)
 alignment: legal maligna
 challenge: "1 (200 XP)"
-languages: "Common, Draconic"
+languages: "Común, Dragón"
 senses: "darkvision 60 ft."
 skills: "Percepción +1"
 speed: "20 ft."

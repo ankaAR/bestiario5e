@@ -9,11 +9,11 @@ con: 10 (0)
 dex: 17 (+3)
 str: 5 (-3)
 size: Tiny fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "Abyssal, Common"
-senses: "darkvision 120 ft."
-skills: "Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Sigilo +5"
 damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "7 (3d4)"

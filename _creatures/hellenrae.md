@@ -8,10 +8,10 @@ int: 10 (0)
 con: 14 (+2)
 dex: 18 (+4)
 str: 13 (+1)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "5 (1,800 XP)"
-languages: "Common, Terran"
+languages: "Común, Terran"
 senses: "blindsight 60 ft. (blind beyond this radius)"
 skills: "Acrobatics +7, Athletics +4, Insight +5, Percepción +5"
 damage_immunities: "poison"

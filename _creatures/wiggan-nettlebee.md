@@ -11,7 +11,7 @@ str: 8 (-1)
 size: Small humanoid (halfling)
 alignment: neutral evil
 challenge: "2 (450 XP)"
-languages: "Common, Halfling"
+languages: "Común, Halfling"
 skills: "Deception +3, Insight +4"
 speed: "30 ft."
 hit_points: "36 (8d6+8)"

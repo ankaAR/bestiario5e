@@ -11,9 +11,9 @@ str: 19 (+4)
 size: Medium dragon
 alignment: lawful good
 challenge: "3 (700 XP)"
-languages: "Draconic"
+languages: "Dragón"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Percepción +4, Stealth +4"
+skills: "Percepción +4, Sigilo +4"
 damage_immunities: "fire"
 saving_throws: "Des +4, Con +5, Sab +2, Car +5"
 speed: "30 ft., fly 60 ft., swim 30 ft."

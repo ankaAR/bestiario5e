@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 16 (+3)
 str: 6 (-2)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "-"
 senses: "darkvision 60 ft., passive Perception 11"

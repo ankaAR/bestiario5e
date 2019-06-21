@@ -12,7 +12,7 @@ size: Medium fiend (devil)
 alignment: legal maligna
 challenge: "0 (10 XP)"
 languages: "understands infernal but can't speak"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "fire, poison"
 speed: "15 ft."
 hit_points: "13 (3d8)"

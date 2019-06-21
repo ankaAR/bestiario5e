@@ -8,7 +8,7 @@ int: 11 (0)
 con: 10 (0)
 dex: 14 (+2)
 str: 10 (0)
-size: Medium humanoid (aarakocra)
+size: Humanoide Mediano (aarakocra)
 alignment: neutral good
 challenge: "1/4 (50 XP)"
 languages: "Auran, Aarakocra"

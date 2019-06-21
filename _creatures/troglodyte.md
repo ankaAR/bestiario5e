@@ -8,12 +8,12 @@ int: 6 (-2)
 con: 14 (+2)
 dex: 10 (0)
 str: 14 (+2)
-size: Medium humanoid (troglodyte)
-alignment: chaotic evil
+size: Humanoide Mediano (troglodyte)
+alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "Troglodyte"
 senses: "darkvision 60 ft."
-skills: "Stealth +2"
+skills: "Sigilo +2"
 speed: "30 ft."
 hit_points: "13 (2d8+4)"
 armor_class: "11 (armadura natural)"

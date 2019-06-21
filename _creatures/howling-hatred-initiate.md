@@ -8,11 +8,11 @@ int: 10 (0)
 con: 10 (0)
 dex: 15 (+2)
 str: 10 (0)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "1/8 (25 XP)"
 languages: "Common"
-skills: "Deception +2, Religion +2, Stealth +4"
+skills: "Deception +2, Religión +2, Sigilo +4"
 speed: "30 ft."
 hit_points: "9 (2d8)"
 armor_class: "13 (leather)"

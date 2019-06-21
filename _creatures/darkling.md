@@ -12,8 +12,8 @@ size: Small fey
 alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
 languages: "Elvish, Sylvan"
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Acrobatics +5, Deception +2, Percepción +5, Stealth +7"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Acrobatics +5, Deception +2, Percepción +5, Sigilo +7"
 speed: "30 ft."
 hit_points: "13 (3d6+3)"
 armor_class: "14 (leather armor)"

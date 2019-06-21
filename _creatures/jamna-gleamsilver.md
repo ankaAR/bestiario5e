@@ -11,9 +11,9 @@ str: 8 (-1)
 size: Small humanoid (gnome)
 alignment: neutral
 challenge: "1 (200 XP)"
-languages: "Common, Gnomish, Goblin, Sylvan"
+languages: "Común, Gnomish, Goblin, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Acrobatics +5, Deception +3, Insight +2, Percepción +4, Persuasion +3, Stealth +7"
+skills: "Acrobatics +5, Deception +3, Insight +2, Percepción +4, Persuasion +3, Sigilo +7"
 saving_throws: "Des +5, Int +4"
 speed: "25 ft."
 hit_points: "22 (4d6+8)"

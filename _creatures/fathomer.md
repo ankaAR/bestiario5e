@@ -8,11 +8,11 @@ int: 11 (0)
 con: 14 (+2)
 dex: 11 (0)
 str: 14 (+2)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Aquan, Common"
-skills: "Arcana +2, Percepción +4, Stealth +4"
+skills: "Arcana +2, Percepción +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "10 (13 with mage armor)"

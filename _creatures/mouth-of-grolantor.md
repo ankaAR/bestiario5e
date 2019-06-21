@@ -9,7 +9,7 @@ con: 18 (+4)
 dex: 10 (0)
 str: 21 (+5)
 size: Huge giant (hill giant)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Giant"
 skills: "Percepción +1"

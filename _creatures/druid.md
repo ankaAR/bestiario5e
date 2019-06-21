@@ -8,11 +8,11 @@ int: 12 (+1)
 con: 13 (+1)
 dex: 12 (+1)
 str: 10 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "2 (450 XP)"
 languages: "Druidic plus any two languages"
-skills: "Medicine +4, Nature +3, Percepción +4"
+skills: "Medicina +4, Nature +3, Percepción +4"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "11 (16 with barkskin)"

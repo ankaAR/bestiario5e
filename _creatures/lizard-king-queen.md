@@ -8,12 +8,12 @@ int: 11 (0)
 con: 15 (+2)
 dex: 12 (+1)
 str: 17 (+3)
-size: Medium humanoid (lizardfolk)
-alignment: chaotic evil
+size: Humanoide Mediano (lizardfolk)
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
-languages: "Abyssal, Draconic"
+languages: "Abyssal, Dragón"
 senses: "darkvision 60 ft."
-skills: "Percepción +4, Stealth +5, Survival +4"
+skills: "Percepción +4, Sigilo +5, Survival +4"
 saving_throws: "Con +4, Sab +2"
 speed: "30 ft., swim 30 ft."
 hit_points: "78 (12d8+24)"

@@ -8,7 +8,7 @@ int: 11 (0)
 con: 14 (+2)
 dex: 14 (+2)
 str: 16 (+3)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Auran, Common"

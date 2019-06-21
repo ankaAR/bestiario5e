@@ -11,9 +11,9 @@ str: 18 (+4)
 size: Large monstrosity
 alignment: lawful neutral
 challenge: "11 (7,200 XP)"
-languages: "Common, Sphinx"
+languages: "Común, Sphinx"
 senses: "truesight 120 ft."
-skills: "Arcana +12, Historia +12, Percepción +8, Religion +8"
+skills: "Arcana +12, Historia +12, Percepción +8, Religión +8"
 damage_immunities: "psychic"
 speed: "40 ft., fly 60 ft."
 hit_points: "136 (16d10+48)"

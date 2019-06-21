@@ -8,11 +8,11 @@ int: 10 (0)
 con: 12 (+1)
 dex: 14 (+2)
 str: 11 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any non-good alignment
 challenge: "2 (450 XP)"
 languages: "any one language (usually Common)"
-skills: "Deception +4, Persuasion +4, Religion +2"
+skills: "Deception +4, Persuasion +4, Religión +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (leather armor)"

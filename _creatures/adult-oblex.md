@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "5 (1800 XP)"
 languages: "Common plus two more languages"
 senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 14"
-skills: "Deception +5, Percepción +4, plus one of the following, Arcana +7, Historia +7, Nature +7, or Religion +7"
+skills: "Deception +5, Percepción +4, plus one of the following, Arcana +7, Historia +7, Nature +7, or Religión +7"
 saving_throws: "Int +7, Car +5"
 speed: "20 ft."
 hit_points: "75  (10d8 + 30)"

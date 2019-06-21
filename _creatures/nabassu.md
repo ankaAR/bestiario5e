@@ -10,7 +10,7 @@ con: 21 (+5)
 dex: 14 (+2)
 str: 22 (+6)
 size: Medium fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "15 (13,000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "darkvision 60 ft., passive Perception 17"

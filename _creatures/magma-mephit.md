@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Ignan, Terran"
 senses: "darkvision 60 ft."
-skills: "Stealth +3"
+skills: "Sigilo +3"
 damage_immunities: "fire, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "22 (5d6+5)"

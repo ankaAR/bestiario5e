@@ -11,8 +11,8 @@ str: 18 (+4)
 size: Large monstrosity
 alignment: neutral evil
 challenge: "3 (700 XP)"
-languages: "Common, Giant, Winter Wolf"
-skills: "Percepción +5, Stealth +3"
+languages: "Común, Giant, Winter Wolf"
+skills: "Percepción +5, Sigilo +3"
 damage_immunities: "cold"
 speed: "50 ft."
 hit_points: "75 (10d10+20)"

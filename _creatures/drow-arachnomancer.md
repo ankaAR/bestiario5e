@@ -9,16 +9,16 @@ int: 19 (+4)
 con: 14 (+2)
 dex: 17 (+3)
 str: 11 (0)
-size: Medium humanoid (elf)
-alignment: chaotic evil
+size: Humanoide Mediano (elf)
+alignment: caótico maligno
 challenge: "13 (10,000 XP)"
 languages: "Elvish, Undercommon, can speak with spiders"
-senses: "blindsight 10 ft., darkvision 120 ft., passive Perception 17"
-skills: "Arcana +9, Nature +9, Percepción +7, Stealth +8"
+senses: "blindsight 10 ft., Visión en la oscuridad 120 ft. (36 mts), passive Perception 17"
+skills: "Arcana +9, Nature +9, Percepción +7, Sigilo +8"
 saving_throws: "Con +7, Int +9, Car +8"
 speed: "30 ft., climb 30 ft."
 hit_points: "162  (25d8 + 50)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 damage_resistances: "poison"
 ---
 

@@ -10,11 +10,11 @@ con: 13 (+1)
 dex: 14 (+2)
 str: 16 (+3)
 size: Small aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1 (100 XP)"
 languages: "Deep Speech"
 senses: "darkvision 60 ft., passive Perception 11"
-skills: "Stealth +6"
+skills: "Sigilo +6"
 speed: "30 ft."
 hit_points: "13  (3d6 + 3)"
 armor_class: "16 (armadura natural)"

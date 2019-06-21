@@ -8,8 +8,8 @@ int: 11 (0)
 con: 12 (+1)
 dex: 14 (+2)
 str: 8 (-1)
-size: Medium humanoid (human)
-alignment: chaotic evil
+size: Humanoide Mediano (human)
+alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Auran, Common"
 skills: "Deception +5, Persuasion +5"

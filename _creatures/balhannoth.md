@@ -10,7 +10,7 @@ con: 18 (+4)
 dex: 8 (-1)
 str: 17 (+3)
 size: Large aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "11 (7200 XP)"
 languages: "understands Deep Speech, telepathy 1 mile"
 senses: "blindsight 500 ft. (blind beyond this radius), passive Perception 16"

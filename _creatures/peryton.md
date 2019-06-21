@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 16 (+3)
 size: Medium monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "understands Common and Elvish but can't speak"
 skills: "Percepción +5"

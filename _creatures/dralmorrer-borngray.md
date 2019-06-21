@@ -8,12 +8,12 @@ int: 16 (+3)
 con: 14 (+2)
 dex: 14 (+2)
 str: 18 (+4)
-size: Medium humanoid (high elf)
+size: Humanoide Mediano (high elf)
 alignment: neutral evil
 challenge: "3 (700 XP)"
-languages: "Common, Bullywug, Draconic, Elvish, Goblin, Sylvan"
+languages: "Común, Bullywug, Draconic, Elvish, Goblin, Sylvan"
 senses: "darkvision 60 ft."
-skills: "Arcana +5, Deception +1, Insight +2, Percepción +2, Religion +5"
+skills: "Arcana +5, Deception +1, Insight +2, Percepción +2, Religión +5"
 saving_throws: "Str +6, Con +4"
 speed: "30 ft."
 hit_points: "52 (7d10+14)"

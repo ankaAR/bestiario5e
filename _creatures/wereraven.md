@@ -9,7 +9,7 @@ int: 13 (+1)
 con: 11 (0)
 dex: 15 (+2)
 str: 10 (0)
-size: Medium humanoid (human
+size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "2 (450 XP)"
 languages: "Common (can't speak in raven form)"

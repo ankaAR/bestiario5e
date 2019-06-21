@@ -14,7 +14,7 @@ alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "--"
 senses: "darkvision 60 ft."
-skills: "Stealth +7"
+skills: "Sigilo +7"
 speed: "40 ft."
 hit_points: "34 (4d10+12)"
 armor_class: "13"

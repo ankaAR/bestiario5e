@@ -10,7 +10,7 @@ con: 15 (+2)
 dex: 16 (+3)
 str: 17 (+3)
 size: Large fiend
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "8 (3900 XP)"
 languages: "understands Abyssal but can't speak"
 senses: "darkvision 60 ft., passive Perception 15"

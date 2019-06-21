@@ -11,9 +11,9 @@ str: 21 (+5)
 size: Large dragon
 alignment: legal maligna
 challenge: "9 (5,000 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Percepción +9, Stealth +4"
+languages: "Común, Dragón"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +9, Sigilo +4"
 damage_immunities: "lightning"
 saving_throws: "Des +4, Con +8, Sab +5, Car +7"
 speed: "40 ft., burrow 40 ft., fly 80 ft."

@@ -12,7 +12,7 @@ size: Medium humanoid
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understands Aquan and Common but can't speak"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "20 ft., swim 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "11 (armadura natural)"

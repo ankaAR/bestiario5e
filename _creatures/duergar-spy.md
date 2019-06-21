@@ -8,15 +8,15 @@ int: 12 (+1)
 con: 12 (+1)
 dex: 16 (+3)
 str: 10 (0)
-size: Medium humanoid (dwarf)
+size: Humanoide Mediano (dwarf)
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Deception +5, Insight +2, Investigation +5, Percepción +4, Persuasion +3, Sleight of Hand +5, Stealth +7"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Deception +5, Insight +2, Investigation +5, Percepción +4, Persuasion +3, Sleight of Hand +5, Sigilo +7"
 speed: "25 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 damage_resistances: "poison"
 ---
 

@@ -9,12 +9,12 @@ int: 13 (+1)
 con: 12 (+1)
 dex: 10 (0)
 str: 10 (0)
-size: Medium humanoid (dwarf)
+size: Humanoide Mediano (dwarf)
 alignment: any alignment
 challenge: "2 (450 XP)"
 languages: "any two languages"
 senses: "darkvision, passive Perception 13"
-skills: "Medicine +7, Persuasion +3, Religion +4"
+skills: "Medicina +7, Persuasion +3, Religión +4"
 speed: "25 ft."
 hit_points: "27  (5d8 + 5)"
 armor_class: "13 (chain shirt)"

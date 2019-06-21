@@ -9,14 +9,14 @@ con: 13 (+1)
 dex: 16 (+3)
 str: 11 (0)
 size: Small humanoid (derro)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
-senses: "darkvision 120 ft."
-skills: "Stealth +5"
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Sigilo +5"
 speed: "30 ft. (60 ft. with boots of speed)"
 hit_points: "31 (7d6+7)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 ---
 
 ***Special Equipment.*** Droki wears boots of speed

@@ -8,11 +8,11 @@ int: 7 (-2)
 con: 13 (+1)
 dex: 12 (+1)
 str: 12 (+1)
-size: Medium humanoid (bullywug)
+size: Humanoide Mediano (bullywug)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Bullywug"
-skills: "Stealth +3"
+skills: "Sigilo +3"
 speed: "20 ft., swim 40 ft."
 hit_points: "11 (2d8+2)"
 armor_class: "15 (hide armor, shield)"

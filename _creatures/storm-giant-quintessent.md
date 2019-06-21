@@ -11,7 +11,7 @@ str: 29 (+9)
 size: Huge giant (storm giant)
 alignment: chaotic good
 challenge: "16 (15,000 XP)"
-languages: "Common, Giant"
+languages: "Común, Giant"
 senses: "truesight 60 ft."
 skills: "Arcana +8, Historia +8, Percepción +10"
 damage_immunities: "lightning, thunder"

@@ -10,7 +10,7 @@ con: 23 (+6)
 dex: 12 (+1)
 str: 17 (+3)
 size: Medium aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "16 (15,000 XP)"
 languages: "Deep Speech"
 senses: "darkvision 60 ft., passive Perception 16"

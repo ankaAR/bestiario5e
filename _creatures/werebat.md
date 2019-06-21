@@ -14,7 +14,7 @@ alignment: shapechanger)
 challenge: "2 (450 XP)"
 languages: "Goblin (can’t speak in bat form)"
 senses: "darkvision 60 ft., passive Perception 13"
-skills: "Percepción +3, Stealth +5"
+skills: "Percepción +3, Sigilo +5"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
 speed: "30 ft. (climb 30 ft., fly 60 ft. in bat or hybrid form)"
 hit_points: "24 (7d6)"

@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "1 (200 XP)"
 senses: "darkvision 60 ft."
-skills: "Percepción +3, Stealth +6"
+skills: "Percepción +3, Sigilo +6"
 speed: "40 ft."
 hit_points: "37 (5d10+10)"
 armor_class: "12"

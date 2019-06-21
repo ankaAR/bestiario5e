@@ -12,9 +12,9 @@ str: 22 (+6)
 size: Large fiend (devil)
 alignment: legal maligna
 challenge: "10 (5900 XP)"
-languages: "Common, Infernal, telepathy 120 ft."
-senses: "darkvision 120 ft., truesight 30 ft., passive Perception 20"
-skills: "Percepción +10, Stealth +11, Survival +10"
+languages: "Común, Infernal, telepathy 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts), truesight 30 ft., passive Perception 20"
+skills: "Percepción +10, Sigilo +11, Survival +10"
 damage_immunities: "fire, poison"
 saving_throws: "Des +7, Con +9, Sab +6"
 speed: "30 ft., climb 30 ft."

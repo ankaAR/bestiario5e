@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Medium fiend
 alignment: legal maligna
 challenge: "13 (10,000 XP)"
-languages: "Common, Infernal"
+languages: "Común, Infernal"
 senses: "darkvision 60 ft."
 skills: "Deception +10, Insight +8"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"

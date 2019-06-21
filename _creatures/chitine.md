@@ -9,11 +9,11 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
 size: Small monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Undercommon"
 senses: "darkvision 60 ft."
-skills: "Athletics +4, Stealth +4"
+skills: "Athletics +4, Sigilo +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "18 (4d6+4)"
 armor_class: "14 (hide armor)"

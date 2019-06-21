@@ -8,11 +8,11 @@ int: 18 (+4)
 con: 14 (+2)
 dex: 16 (+3)
 str: 11 (0)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "6 (2,300 XP)"
-languages: "Common, Draconic, Infernal, Primordial, Thayan"
-skills: "Arcana +7, Deception +3, Insight +5, Stealth +6"
+languages: "Común, Draconic, Infernal, Primordial, Thayan"
+skills: "Arcana +7, Deception +3, Insight +5, Sigilo +6"
 saving_throws: "Int +7, Sab +5"
 speed: "30 ft."
 hit_points: "71 (11d8+22)"

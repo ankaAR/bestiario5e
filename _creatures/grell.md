@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Grell"
 senses: "blindsight 60 ft. (blind beyond this radius)"
-skills: "Percepción +4, Stealth +6"
+skills: "Percepción +4, Sigilo +6"
 damage_immunities: "lightning"
 speed: "10 ft., fly 30 ft. (hover)"
 hit_points: "55 (10d8+10)"

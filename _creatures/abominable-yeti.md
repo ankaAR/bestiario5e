@@ -9,11 +9,11 @@ con: 22 (+6)
 dex: 10 (0)
 str: 24 (+7)
 size: Huge monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "9 (5,000 XP)"
 languages: "Yeti"
 senses: "darkvision 60 ft."
-skills: "Percepción +5, Stealth +4"
+skills: "Percepción +5, Sigilo +4"
 damage_immunities: "cold"
 speed: "40 ft., climb 40 ft."
 hit_points: "137 (11d12+66)"

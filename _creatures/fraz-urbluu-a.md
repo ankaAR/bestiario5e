@@ -9,11 +9,11 @@ con: 25 (+7)
 dex: 12 (+1)
 str: 29 (+9)
 size: Large fiend (demon)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "23 (50,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Deception +15, Percepción +14, Stealth +8"
+skills: "Deception +15, Percepción +14, Sigilo +8"
 damage_immunities: "poison; bludgeoning, piercing, and slashing that is nonmagical"
 saving_throws: "Des +8, Con +15, Int +15, Sab +14"
 speed: "40 ft., fly 40 ft."

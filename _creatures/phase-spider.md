@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: unaligned
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft."
-skills: "Stealth +6"
+skills: "Sigilo +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "32 (5d10+5)"
 armor_class: "13 (armadura natural)"

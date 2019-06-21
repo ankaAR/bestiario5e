@@ -9,9 +9,9 @@ con: 18 (+4)
 dex: 13 (+1)
 str: 18 (+4)
 size: Small fey
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "3 (700 XP)"
-languages: "Common, Sylvan"
+languages: "Común, Sylvan"
 senses: "darkvision 60 ft."
 skills: "Athletics +6, Percepción +3"
 speed: "25 ft."

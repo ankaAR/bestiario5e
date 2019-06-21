@@ -9,9 +9,9 @@ con: 14 (+2)
 dex: 12 (+1)
 str: 21 (+5)
 size: Large fey
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
-languages: "Common, Giant, Sylvan"
+languages: "Común, Giant, Sylvan"
 senses: "darkvision 60 ft."
 skills: "Deception +5, Percepción +5"
 saving_throws: "Con +5"

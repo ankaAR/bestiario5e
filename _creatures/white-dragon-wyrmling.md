@@ -9,11 +9,11 @@ con: 14 (+2)
 dex: 10 (0)
 str: 14 (+2)
 size: Medium dragon
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
-languages: "Draconic"
+languages: "Dragón"
 senses: "blindsight 10 ft., darkvision 60 ft."
-skills: "Percepción +4, Stealth +2"
+skills: "Percepción +4, Sigilo +2"
 damage_immunities: "cold"
 saving_throws: "Des +2, Con +4, Sab +2, Car +2"
 speed: "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."

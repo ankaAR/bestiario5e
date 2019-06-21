@@ -8,7 +8,7 @@ int: 17 (+3)
 con: 12 (+1)
 dex: 16 (+3)
 str: 8 (-1)
-size: Medium humanoid (elf)
+size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Auran, Common, Elvish"

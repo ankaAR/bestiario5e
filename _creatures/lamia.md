@@ -9,11 +9,11 @@ con: 15 (+2)
 dex: 13 (+1)
 str: 16 (+3)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common"
 senses: "darkvision 60 ft."
-skills: "Deception +7, Insight +4, Stealth +3"
+skills: "Deception +7, Insight +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "97 (13d10+26)"
 armor_class: "13 (armadura natural)"

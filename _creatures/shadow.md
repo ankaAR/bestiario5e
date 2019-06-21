@@ -9,10 +9,10 @@ con: 13 (+1)
 dex: 14 (+2)
 str: 6 (-2)
 size: Medium undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 senses: "darkvision 60 ft."
-skills: "Stealth +4"
+skills: "Sigilo +4"
 damage_immunities: "necrotic, poison"
 speed: "40 ft."
 hit_points: "16 (3d8+3)"

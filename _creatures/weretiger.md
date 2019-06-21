@@ -8,12 +8,12 @@ int: 10 (0)
 con: 16 (+3)
 dex: 15 (+2)
 str: 17 (+3)
-size: Medium humanoid (human
+size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "4 (1,100 XP)"
 languages: "Common (can't speak in tiger form)"
 senses: "darkvision 60 ft."
-skills: "Percepción +5, Stealth +4"
+skills: "Percepción +5, Sigilo +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "30 ft. (40 ft. in tiger form)"
 hit_points: "120 (16d8+48)"

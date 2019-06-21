@@ -11,9 +11,9 @@ str: 19 (+4)
 size: Large dragon
 alignment: chaotic good
 challenge: "6 (2,300 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 30 ft., darkvision 120 ft."
-skills: "Percepción +6, Persuasion +5, Stealth +3"
+languages: "Común, Dragón"
+senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +6, Persuasion +5, Sigilo +3"
 damage_immunities: "fire"
 saving_throws: "Des +3, Con +6, Sab +3, Car +5"
 speed: "40 ft., burrow 20 ft., fly 80 ft."

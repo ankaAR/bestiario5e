@@ -10,7 +10,7 @@ con: 20 (+5)
 dex: 13 (+1)
 str: 18 (+4)
 size: Large giant
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "7 (2900 XP)"
 languages: "Giant"
 senses: "darkvision 60 ft., passive Perception 12"

@@ -11,9 +11,9 @@ str: 8 (-1)
 size: Small humanoid (goblinoid)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
-languages: "Common, Goblin"
+languages: "Común, Goblin"
 senses: "darkvision 60 ft."
-skills: "Stealth +6"
+skills: "Sigilo +6"
 speed: "30 ft."
 hit_points: "7 (2d6)"
 armor_class: "15 (leather armor, shield)"

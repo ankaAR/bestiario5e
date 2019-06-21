@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Small aberration
 alignment: legal maligna
 challenge: "3 (700 XP)"
-languages: "Common, Deep Speech, Undercommon"
+languages: "Común, Deep Speech, Undercommon"
 senses: "darkvision 60 ft."
 skills: "Intimidation +4, Percepción +3"
 speed: "30 ft., climb 30 ft."

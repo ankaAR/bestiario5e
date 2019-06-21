@@ -8,11 +8,11 @@ int: 10 (0)
 con: 10 (0)
 dex: 10 (0)
 str: 10 (0)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "1/4 (50 XP)"
 languages: "any one language (usually Common)"
-skills: "Medicine +4, Religion +2"
+skills: "Medicina +4, Religión +2"
 speed: "30 ft."
 hit_points: "9 (2d8)"
 armor_class: "10"

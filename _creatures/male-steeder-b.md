@@ -13,8 +13,8 @@ size: Medium monstrosity
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "-"
-senses: "darkvision 120 ft., passive Perception 14"
-skills: "Stealth +5, Percepción +4"
+senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 14"
+skills: "Sigilo +5, Percepción +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "13  (2d8 + 4)"
 armor_class: "12 (armadura natural)"

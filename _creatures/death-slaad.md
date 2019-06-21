@@ -9,7 +9,7 @@ con: 19 (+4)
 dex: 15 (+2)
 str: 20 (+5)
 size: Medium aberration (shapechanger)
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "10 (5,900 XP)"
 languages: "Slaad, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft."

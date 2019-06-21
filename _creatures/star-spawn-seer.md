@@ -12,7 +12,7 @@ str: 14 (+2)
 size: Medium aberration
 alignment: neutral evil
 challenge: "13 (10,000 XP)"
-languages: "Common, Deep Speech, Undercommon"
+languages: "Común, Deep Speech, Undercommon"
 senses: "darkvision 60 ft., passive Perception 19"
 skills: "Percepción +9"
 damage_immunities: "psychic"

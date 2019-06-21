@@ -8,15 +8,15 @@ int: 12 (+1)
 con: 14 (+2)
 dex: 16 (+3)
 str: 11 (0)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
-languages: "Common, Draconic, Infernal"
-skills: "Deception +4, Stealth +5"
+languages: "Común, Draconic, Infernal"
+skills: "Deception +4, Sigilo +5"
 saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
-armor_class: "15 (studded leather)"
+armor_class: "15 (cuero endurecido)"
 damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
 ---
 

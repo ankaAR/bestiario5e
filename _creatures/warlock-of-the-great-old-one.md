@@ -8,7 +8,7 @@ int: 12 (+1)
 con: 15 (+2)
 dex: 14 (+2)
 str: 9 (-1)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "6 (2,300 XP)"
 languages: "any two languages, telepathy 30 ft."

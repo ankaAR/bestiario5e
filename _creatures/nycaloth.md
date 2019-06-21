@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft."
-skills: "Intimidation +6, Percepción +4, Stealth +4"
+skills: "Intimidation +6, Percepción +4, Sigilo +4"
 damage_immunities: "acid, poison"
 speed: "40 ft., fly 60 ft."
 hit_points: "123 (13d10+52)"

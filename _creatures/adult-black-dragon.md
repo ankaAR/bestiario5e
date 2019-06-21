@@ -8,12 +8,12 @@ int: 14 (+2)
 con: 21 (+5)
 dex: 14 (+2)
 str: 23 (+6)
-size: Huge dragon
-alignment: chaotic evil
+size: Dragón Enorme
+alignment: caótico maligno
 challenge: "14 (11,500 XP)"
-languages: "Common, Draconic"
-senses: "blindsight 60 ft., darkvision 120 ft."
-skills: "Percepción +11, Stealth +7"
+languages: "Común, Dragón"
+senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+skills: "Percepción +11, Sigilo +7"
 damage_immunities: "acid"
 saving_throws: "Des +7, Con +10, Sab +6, Car +8"
 speed: "40 ft., fly 80 ft., swim 40 ft."

@@ -8,10 +8,10 @@ int: 17 (+3)
 con: 11 (0)
 dex: 14 (+2)
 str: 9 (-1)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "1 (200 XP)"
-languages: "Common, Draconic, Dwarvish, Elvish"
+languages: "Común, Draconic, Dwarvish, Elvish"
 skills: "Arcana +5, Historia +5"
 saving_throws: "Int +5, Sab +3"
 speed: "30 ft."

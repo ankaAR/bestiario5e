@@ -12,7 +12,7 @@ size: Small humanoid (grung)
 alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Grung"
-skills: "Athletics +2, Percepción +4, Stealth +5, Survival +4"
+skills: "Athletics +2, Percepción +4, Sigilo +5, Survival +4"
 damage_immunities: "poison"
 saving_throws: "Des +5"
 speed: "25 ft., climb 25 ft."

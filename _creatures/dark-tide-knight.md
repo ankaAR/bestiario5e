@@ -8,11 +8,11 @@ int: 10 (0)
 con: 14 (+2)
 dex: 16 (+3)
 str: 17 (+3)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Common"
-skills: "Athletics +7, Stealth +7"
+skills: "Athletics +7, Sigilo +7"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "13"

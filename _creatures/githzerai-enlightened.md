@@ -9,7 +9,7 @@ int: 17 (+3)
 con: 16 (+3)
 dex: 19 (+4)
 str: 14 (+2)
-size: Medium humanoid (gith)
+size: Humanoide Mediano (gith)
 alignment: lawful neutral
 challenge: "10 (5900 XP)"
 languages: "Gith"

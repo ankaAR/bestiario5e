@@ -8,11 +8,11 @@ int: 11 (0)
 con: 14 (+2)
 dex: 10 (0)
 str: 16 (+3)
-size: Medium humanoid (any race)
+size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "9 (5,000 XP)"
 languages: "any two languages"
-skills: "Intimidation +5, Religion +4"
+skills: "Intimidation +5, Religión +4"
 saving_throws: "Con +6, Sab +7"
 speed: "30 ft."
 hit_points: "117 (18d8+36)"

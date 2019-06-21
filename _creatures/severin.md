@@ -8,12 +8,12 @@ int: 17 (+3)
 con: 16 (+3)
 dex: 13 (+1)
 str: 10 (0)
-size: Medium humanoid (human)
+size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "11 (7,200 XP)"
-languages: "Common, Draconic, Infernal"
+languages: "Común, Draconic, Infernal"
 senses: "While wearing the Mask of the Dragon Queen: darkvision 60 ft."
-skills: "Arcana +7, Religion +7"
+skills: "Arcana +7, Religión +7"
 damage_immunities: "While wearing the mask of the Dragon Queen: fire"
 saving_throws: "Des +5, Sab +5"
 speed: "30 ft."

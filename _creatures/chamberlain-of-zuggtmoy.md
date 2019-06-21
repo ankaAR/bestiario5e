@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 7 (-2)
 str: 17 (+3)
 size: Large plant
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Abywssal, Undercommon"
 senses: "darkvision 60 ft."

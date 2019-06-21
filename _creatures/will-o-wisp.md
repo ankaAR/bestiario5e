@@ -9,10 +9,10 @@ con: 10 (0)
 dex: 28 (+9)
 str: 1 (-5)
 size: Tiny undead
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "the languages it knew in life"
-senses: "darkvision 120 ft."
+senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "lightning, poison"
 speed: "0 ft., fly 50 ft. (hover)"
 hit_points: "22 (9d4)"

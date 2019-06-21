@@ -8,12 +8,12 @@ int: 11 (0)
 con: 16 (+3)
 dex: 11 (0)
 str: 12 (+1)
-size: Medium humanoid (orc)
-alignment: chaotic evil
+size: Humanoide Mediano (orc)
+alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "understands Common and Orc but can't speak"
 senses: "darkvision 60 ft."
-skills: "Arcana +2, Intimidation +1, Medicine +4, Religion +2"
+skills: "Arcana +2, Intimidation +1, Medicina +4, Religión +2"
 speed: "30 ft."
 hit_points: "30 (4d8+12)"
 armor_class: "12 (hide armor)"

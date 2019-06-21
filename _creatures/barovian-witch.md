@@ -9,8 +9,8 @@ int: 14 (+2)
 con: 13 (+1)
 dex: 11 (0)
 str: 7 (-2)
-size: Medium humanoid (human)
-alignment: chaotic evil
+size: Humanoide Mediano (human)
+alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Common"
 senses: "darkvision 60 ft."

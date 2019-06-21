@@ -10,11 +10,11 @@ con: 12 (+1)
 dex: 18 (+4)
 str: 8 (-1)
 size: Medium aberration
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "5 (1800 XP)"
 languages: "Deep Speech"
 senses: "darkvision 60 ft., passive Perception 11"
-skills: "Stealth +7"
+skills: "Sigilo +7"
 damage_immunities: "psychic"
 saving_throws: "Des +7, Con +4"
 speed: "40 ft., climb 40 ft."

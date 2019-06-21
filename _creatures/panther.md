@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Medium beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-skills: "Percepción +4, Stealth +6"
+skills: "Percepción +4, Sigilo +6"
 speed: "50 ft., climb 40 ft."
 hit_points: "13 (3d8)"
 armor_class: "12"

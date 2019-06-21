@@ -9,7 +9,7 @@ con: 19 (+4)
 dex: 11 (0)
 str: 19 (+4)
 size: Large monstrosity
-alignment: chaotic evil
+alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "understands Draconic but can't speak"
 senses: "darkvision 60 ft."
