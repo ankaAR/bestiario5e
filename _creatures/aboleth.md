@@ -26,7 +26,7 @@ armor_class: "17 (armadura natural)"
 
 ***Telepatía interrogatoria.*** Si una criatura que el abolez pueda ver se comunica telepáticamente con el abolez, este averigua sus mayores deseos.
 
-### Actions
+### Acciones
 
 ***Multiataque.*** El abolez hace tres ataques de tentáculos.
 
