@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Deception +7, Insight +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "97 (13d10+26)"

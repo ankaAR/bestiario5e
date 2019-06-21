@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Medium monstrosity
 alignment: neutral evil
 challenge: "2 (450 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +4, Survival +3"
 speed: "30 ft., climb 30 ft."
 hit_points: "44 (8d8+8)"

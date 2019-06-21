@@ -12,7 +12,7 @@ size: Small humanoid (goblinoid)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Común, Goblin"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +6"
 speed: "30 ft."
 hit_points: "7 (2d6)"

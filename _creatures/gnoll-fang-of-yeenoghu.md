@@ -12,7 +12,7 @@ size: Humanoide Mediano (gnoll)
 alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Gnoll"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 saving_throws: "Con +4, Sab +2, Car +3"
 speed: "30 ft."
 hit_points: "65 (10d8+20)"

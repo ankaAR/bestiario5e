@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Medium undead
 alignment: caótico maligno
 challenge: "1/2 (100 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +4"
 damage_immunities: "necrotic, poison"
 speed: "40 ft."

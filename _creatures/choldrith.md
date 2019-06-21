@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Undercommon"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +5, Religión +2, Sigilo +5"
 speed: "30 ft., climb 30 ft."
 hit_points: "66 (12d8+12)"

@@ -12,7 +12,7 @@ size: Large aberration
 alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "understands Deep Speech but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4"
 damage_immunities: "poison"
 speed: "30 ft., nadando 30 ft."

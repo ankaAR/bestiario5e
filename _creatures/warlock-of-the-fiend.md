@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: any alignment
 challenge: "7 (2,900 XP)"
 languages: "any two languages (usually Abyssal or Infernal)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +4, Deception +7, Persuasion +7, Religión +4"
 saving_throws: "Sab +4, Car +7"
 speed: "30 ft."

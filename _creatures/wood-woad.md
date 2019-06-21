@@ -12,7 +12,7 @@ size: Medium plant
 alignment: lawful neutral
 challenge: "5 (1,800 XP)"
 languages: "Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +7, Percepción +4, Sigilo +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d8+30)"

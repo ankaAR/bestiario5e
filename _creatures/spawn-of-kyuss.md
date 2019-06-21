@@ -12,7 +12,7 @@ size: Medium undead
 alignment: caótico maligno
 challenge: "5 (1,800 XP)"
 languages: "understands the languages it knew in life but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Sab +1"
 speed: "30 ft."

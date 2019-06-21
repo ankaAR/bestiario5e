@@ -12,7 +12,7 @@ size: Small aberration
 alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Común, Deep Speech, Undercommon"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Intimidation +4, Percepción +3"
 speed: "30 ft., climb 30 ft."
 hit_points: "33 (6d6+12)"

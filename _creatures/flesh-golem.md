@@ -12,7 +12,7 @@ size: Medium construct
 alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "understands the languages of its creator but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "30 ft."
 hit_points: "93 (11d8+44)"

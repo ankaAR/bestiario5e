@@ -12,7 +12,7 @@ size: Medium plant
 alignment: caótico maligno
 challenge: "1/8 (25 XP)"
 languages: "understands Abyssal but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "20 ft."
 hit_points: "22 (5d8)"
 armor_class: "13 (armadura natural)"

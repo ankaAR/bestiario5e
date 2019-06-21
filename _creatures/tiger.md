@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Large beast
 alignment: unaligned
 challenge: "1 (200 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +6"
 speed: "40 ft."
 hit_points: "37 (5d10+10)"

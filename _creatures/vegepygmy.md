@@ -12,7 +12,7 @@ size: Small plant
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Vegepygmy"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +4"
 speed: "30 ft."
 hit_points: "9 (2d6+2)"

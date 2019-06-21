@@ -12,7 +12,7 @@ size: Humanoide Mediano (goblinoid)
 alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Común, Goblin"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +5"
 speed: "30 ft."
 hit_points: "45 (7d8+14)"

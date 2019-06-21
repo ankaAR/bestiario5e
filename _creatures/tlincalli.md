@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Tlincalli"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4, Sigilo +4, Survival +4"
 speed: "40 ft."
 hit_points: "85 (10d10+30)"

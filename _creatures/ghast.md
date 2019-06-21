@@ -12,7 +12,7 @@ size: Medium undead
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "necrotic"
 speed: "30 ft."
 hit_points: "36 (8d8)"

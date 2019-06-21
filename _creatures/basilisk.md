@@ -11,7 +11,7 @@ str: 16 (+3)
 size: Medium monstrosity
 alignment: unaligned
 challenge: "3 (700 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "20 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "12 (armadura natural)"

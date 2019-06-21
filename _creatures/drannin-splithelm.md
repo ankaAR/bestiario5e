@@ -12,7 +12,7 @@ size: Humanoide Mediano (shield dwarf)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Común, Dwarvish"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +7, Intimidation +4"
 speed: "25 ft."
 hit_points: "93 (11d8+44)"

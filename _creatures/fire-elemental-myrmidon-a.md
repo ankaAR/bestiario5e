@@ -12,7 +12,7 @@ size: Medium elemental
 alignment: neutral
 challenge: "7 (2,900 XP)"
 languages: "Ignan, one language of its creator's choice"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "fire, poison"
 speed: "40 ft."
 hit_points: "117 (18d8+36)"

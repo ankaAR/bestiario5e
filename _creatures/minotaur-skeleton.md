@@ -12,7 +12,7 @@ size: Large undead
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "understands Abyssal but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "67 (9d10+18)"

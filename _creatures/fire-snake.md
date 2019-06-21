@@ -12,7 +12,7 @@ size: Medium elemental
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understands Ignan but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "22 (5d8)"

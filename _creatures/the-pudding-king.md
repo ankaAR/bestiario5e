@@ -12,7 +12,7 @@ size: Small humanoid (gnome
 alignment: shapechanger)
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Gnomish, Terran, Undercommon"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +4, Percepción +2, Sigilo +6, Survival +2"
 saving_throws: "Con +5, Car +6"
 speed: "30 ft."

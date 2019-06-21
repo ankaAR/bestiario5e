@@ -12,7 +12,7 @@ size: Medium undead
 alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "the languages it knew in life"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Sab +2"
 speed: "20 ft."

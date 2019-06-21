@@ -12,7 +12,7 @@ size: Huge giant
 alignment: neutral
 challenge: "7 (2,900 XP)"
 languages: "Giant"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +12, Percepción +4"
 saving_throws: "Des +5, Con +8, Sab +4"
 speed: "40 ft."

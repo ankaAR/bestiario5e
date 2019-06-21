@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "l"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +4, Percepción +3"
 damage_immunities: "poison"
 saving_throws: "Sab +3"

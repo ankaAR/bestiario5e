@@ -12,7 +12,7 @@ size: Huge giant (frost giant)
 alignment: caótico maligno
 challenge: "12 (8,400 XP)"
 languages: "Giant"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +11, Percepción +4"
 damage_immunities: "cold"
 saving_throws: "Str +11, Con +11, Sab +4"

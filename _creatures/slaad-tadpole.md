@@ -12,7 +12,7 @@ size: Tiny aberration
 alignment: chaotic neutral
 challenge: "1/8 (25 XP)"
 languages: "understands Slaad but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "10 (4d4)"

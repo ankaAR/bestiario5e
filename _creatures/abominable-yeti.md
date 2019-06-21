@@ -12,7 +12,7 @@ size: Huge monstrosity
 alignment: caótico maligno
 challenge: "9 (5,000 XP)"
 languages: "Yeti"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +5, Sigilo +4"
 damage_immunities: "cold"
 speed: "40 ft., climb 40 ft."

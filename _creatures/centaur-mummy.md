@@ -12,7 +12,7 @@ size: Large undead
 alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Común, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "necrotic, poison"
 saving_throws: "Sab +5"
 speed: "30 ft."

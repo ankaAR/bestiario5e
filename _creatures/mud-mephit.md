@@ -12,7 +12,7 @@ size: Small elemental
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Aquan, Terran"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +3"
 damage_immunities: "poison"
 speed: "20 ft., fly 20 ft., nadando 20 ft."

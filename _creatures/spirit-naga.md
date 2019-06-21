@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: caótico maligno
 challenge: "8 (3,900 XP)"
 languages: "Abyssal, Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Des +6, Con +5, Sab +5, Car +6"
 speed: "40 ft."

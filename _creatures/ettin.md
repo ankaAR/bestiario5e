@@ -12,7 +12,7 @@ size: Large giant
 alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Giant, Orc"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4"
 speed: "40 ft."
 hit_points: "85 (10d10+30)"

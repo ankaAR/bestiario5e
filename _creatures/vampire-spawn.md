@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "the languages it knew in life"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +6"
 saving_throws: "Des +6, Sab +3"
 speed: "30 ft."

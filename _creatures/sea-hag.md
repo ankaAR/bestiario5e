@@ -12,7 +12,7 @@ size: Medium fey
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Aquan, Common, Giant"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft., nadando 40 pies (12 mts)"
 hit_points: "52 (7d8+21)"
 armor_class: "14 (armadura natural)"

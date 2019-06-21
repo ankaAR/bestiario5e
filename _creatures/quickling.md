@@ -12,7 +12,7 @@ size: Tiny fey
 alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "Común, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Acrobatics +8, Percepción +5, Sleight of Hand +8, Sigilo +8"
 speed: "120 ft."
 hit_points: "10 (3d4+3)"

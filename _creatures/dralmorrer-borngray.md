@@ -12,7 +12,7 @@ size: Humanoide Mediano (high elf)
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Bullywug, Draconic, Elvish, Goblin, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +5, Deception +1, Insight +2, Percepción +2, Religión +5"
 saving_throws: "Str +6, Con +4"
 speed: "30 ft."

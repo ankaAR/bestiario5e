@@ -12,7 +12,7 @@ size: Humanoide Mediano (orc)
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "understands Common and Orc but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +2, Intimidation +1, Medicina +4, Religión +2"
 speed: "30 ft."
 hit_points: "30 (4d8+12)"

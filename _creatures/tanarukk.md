@@ -12,7 +12,7 @@ size: Medium fiend (demon
 alignment: orc)
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Orc"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Intimidation +2, Percepción +2"
 speed: "30 ft."
 hit_points: "95 (10d8+50)"

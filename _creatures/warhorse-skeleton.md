@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Large undead
 alignment: legal maligna
 challenge: "1/2 (100 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "60 ft."
 hit_points: "22 (3d10+6)"

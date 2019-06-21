@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Medium monstrosity (shapechanger)
 alignment: neutral
 challenge: "2 (450 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +5"
 damage_immunities: "acid"
 speed: "15 ft."

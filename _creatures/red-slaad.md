@@ -12,7 +12,7 @@ size: Large aberration
 alignment: chaotic neutral
 challenge: "5 (1,800 XP)"
 languages: "Slaad, telepathy 60 ft."
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +1"
 speed: "30 ft."
 hit_points: "93 (11d10+33)"

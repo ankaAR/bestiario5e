@@ -13,7 +13,7 @@ size: Medium undead
 alignment: any alignment
 challenge: "1 (200 XP)"
 languages: "any languages it knew in life"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +4"
 damage_immunities: "cold, necrotic, poison"
 speed: "30 ft."

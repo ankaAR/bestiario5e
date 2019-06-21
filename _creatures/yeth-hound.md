@@ -12,7 +12,7 @@ size: Large fey
 alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "understands Common, Elvish, and Sylvan but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "40 ft., fly 40 ft. (hover)"
 hit_points: "51 (6d10+18)"
 armor_class: "14 (armadura natural)"

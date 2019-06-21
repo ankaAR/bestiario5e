@@ -11,7 +11,7 @@ str: 19 (+4)
 size: Large dragon
 alignment: unaligned
 challenge: "6 (2,300 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4"
 speed: "20 ft., fly 80 ft."
 hit_points: "110 (13d10+39)"

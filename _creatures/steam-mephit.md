@@ -12,7 +12,7 @@ size: Small elemental
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Aquan, Ignan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "fire, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "21 (6d6)"

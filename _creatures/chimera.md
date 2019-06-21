@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "understands Draconic but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +8"
 speed: "30 ft., fly 60 ft."
 hit_points: "114 (12d10+48)"

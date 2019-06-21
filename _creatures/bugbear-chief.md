@@ -12,7 +12,7 @@ size: Humanoide Mediano (goblinoid)
 alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Común, Goblin"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Intimidation +2, Sigilo +6, Survival +3"
 speed: "30 ft."
 hit_points: "65 (10d8+20)"

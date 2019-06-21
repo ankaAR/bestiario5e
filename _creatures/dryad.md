@@ -12,7 +12,7 @@ size: Medium fey
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Elvish, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4, Sigilo +5"
 speed: "30 ft."
 hit_points: "22 (5d8)"

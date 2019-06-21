@@ -12,7 +12,7 @@ size: Large undead
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "understands Deep Speech and Undercommon but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Sab +2"
 speed: "0 ft., fly 20 ft. (hover)"

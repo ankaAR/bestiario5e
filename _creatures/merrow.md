@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Abyssal, Aquan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "10 pies (3 mts), nadando 40 pies (12 mts)"
 hit_points: "45 (6d10+12)"
 armor_class: "13 (armadura natural)"

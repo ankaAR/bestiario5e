@@ -13,7 +13,7 @@ size: Medium construct
 alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "Común, plus up to two other languages"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "0 ft."
 hit_points: "22 (5d8)"

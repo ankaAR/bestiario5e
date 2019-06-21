@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Medium undead
 alignment: caótico maligno
 challenge: "3 (700 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Sab +3"
 speed: "0 ft., fly 30 ft. (hover)"

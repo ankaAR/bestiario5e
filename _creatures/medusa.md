@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Deception +5, Insight +4, Percepción +4, Sigilo +5"
 speed: "30 ft."
 hit_points: "127 (17d8+51)"

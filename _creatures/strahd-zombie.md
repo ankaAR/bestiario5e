@@ -13,7 +13,7 @@ size: Medium undead
 alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "understands the languages it knew in life but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Sab +0"
 speed: "20 ft."

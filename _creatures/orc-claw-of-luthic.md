@@ -12,7 +12,7 @@ size: Humanoide Mediano (orc)
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Común, Orc"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Intimidation +2, Medicina +4, Survival +4"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"

@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Goblin, Worg"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4"
 speed: "50 ft."
 hit_points: "26 (4d10+4)"

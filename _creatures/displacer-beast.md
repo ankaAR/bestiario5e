@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Large monstrosity
 alignment: legal maligna
 challenge: "3 (700 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "40 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "13 (armadura natural)"

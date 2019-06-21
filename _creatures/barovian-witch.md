@@ -13,7 +13,7 @@ size: Humanoide Mediano (human)
 alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +4, Percepción +2"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"

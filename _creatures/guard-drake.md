@@ -12,7 +12,7 @@ size: Medium dragon
 alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "understands Draconic but can't speak it"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2"
 speed: "30 ft."
 hit_points: "52 (7d8+21)"

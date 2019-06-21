@@ -12,7 +12,7 @@ size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Auran, Common, Elvish"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +6, Historia +6, Percepción +3"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"

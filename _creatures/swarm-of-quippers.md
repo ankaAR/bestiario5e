@@ -11,7 +11,7 @@ str: 13 (+1)
 size: Medium swarm
 alignment: unaligned
 challenge: "1 (200 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "0 ft., nadando 40 pies (12 mts)"
 hit_points: "28 (8d8-8)"
 armor_class: "13"

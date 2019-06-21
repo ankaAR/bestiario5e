@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: lawful good
 challenge: "10 (5,900 XP)"
 languages: "Celestial, Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Des +8, Con +7, Int +7, Sab +8, Car +8"
 speed: "40 ft."

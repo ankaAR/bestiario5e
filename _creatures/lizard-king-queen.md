@@ -12,7 +12,7 @@ size: Humanoide Mediano (lizardfolk)
 alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Dragón"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4, Sigilo +5, Survival +4"
 saving_throws: "Con +4, Sab +2"
 speed: "30 ft., nadando 30 ft."

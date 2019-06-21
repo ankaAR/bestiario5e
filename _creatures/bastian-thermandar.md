@@ -12,7 +12,7 @@ size: Humanoide Mediano (fire genasi)
 alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Común, Ignan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +3, Deception +7"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"

@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "11 (7,200 XP)"
 languages: "Común, Dragón"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +6, Sigilo +5"
 damage_immunities: "poison"
 saving_throws: "Des +5, Sab +4"

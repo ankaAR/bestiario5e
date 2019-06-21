@@ -12,7 +12,7 @@ size: Tiny fiend
 alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "understands Abyssal, Infernal, and any languages it knew before becoming a vargouille but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "5 ft., fly 40 ft."
 hit_points: "13 (3d4+6)"

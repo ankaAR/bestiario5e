@@ -12,7 +12,7 @@ size: Large giant
 alignment: any chaotic alignment
 challenge: "1 (200 XP)"
 languages: "Común, Giant"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft."
 hit_points: "30 (4d10+8)"
 armor_class: "12 (hide armor)"

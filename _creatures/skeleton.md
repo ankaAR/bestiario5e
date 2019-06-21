@@ -12,7 +12,7 @@ size: Medium undead
 alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "understands all languages it spoke in life but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft."
 hit_points: "13 (2d8+4)"
 armor_class: "13 (armor scraps)"

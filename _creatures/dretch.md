@@ -12,7 +12,7 @@ size: Small fiend (demon)
 alignment: caótico maligno
 challenge: "1/4 (50 XP)"
 languages: "Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "18 (4d6+4)"

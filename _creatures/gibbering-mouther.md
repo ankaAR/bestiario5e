@@ -11,7 +11,7 @@ str: 10 (0)
 size: Medium aberration
 alignment: neutral
 challenge: "2 (450 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "10 pies (3 mts), nadando 10 ft."
 hit_points: "67 (9d8+27)"
 armor_class: "9"

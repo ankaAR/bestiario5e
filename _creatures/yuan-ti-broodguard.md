@@ -12,7 +12,7 @@ size: Humanoide Mediano (yuan-ti)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Abyssal, Common, Dragón"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2"
 damage_immunities: "poison"
 saving_throws: "Str +4, Des +4, Sab +2"

@@ -12,7 +12,7 @@ size: Humanoide Mediano (thri-kreen)
 alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Thri-kreen"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +4, Survival +3"
 speed: "40 ft."
 hit_points: "33 (6d8+6)"

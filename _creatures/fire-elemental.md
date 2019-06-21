@@ -12,7 +12,7 @@ size: Large elemental
 alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "Ignan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "fire, poison"
 speed: "50 ft."
 hit_points: "102 (12d10+36)"

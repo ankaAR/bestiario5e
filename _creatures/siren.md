@@ -12,7 +12,7 @@ size: Medium fey
 alignment: chaotic good
 challenge: "3 (700 XP)"
 languages: "Común, Elvish, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Medicina +4, Nature +3, Sigilo +6, Survival +4"
 speed: "30 ft., nadando 30 ft."
 hit_points: "38 (7d8+7)"

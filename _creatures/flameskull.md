@@ -12,7 +12,7 @@ size: Tiny undead
 alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcana +5, Percepción +2"
 damage_immunities: "cold, fire, poison"
 speed: "0 ft., fly 40 ft. It can hover."

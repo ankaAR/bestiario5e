@@ -6,6 +6,7 @@ Bestiario 5e es un compendio de creiaturas organizadas en diferentes categorias 
 ## To Do
 * Traducir las criaturas 1/950
 * Poner los tags en castellano
+* Revisar el por que Actions y Legendary Actions se rompe
 * Agregarle otros criterios de busqueda.
 * Agregar aún más monstruos
 * Revisar cada tanto si chusaipete agregó algo.

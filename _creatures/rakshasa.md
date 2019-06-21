@@ -12,7 +12,7 @@ size: Medium fiend
 alignment: legal maligna
 challenge: "13 (10,000 XP)"
 languages: "Común, Infernal"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Deception +10, Insight +8"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "40 ft."

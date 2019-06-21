@@ -12,7 +12,7 @@ size: Humanoide Mediano (troglodyte)
 alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Troglodyte"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +6, Intimidation +3, Sigilo +3"
 speed: "30 ft."
 hit_points: "59 (7d8+28)"

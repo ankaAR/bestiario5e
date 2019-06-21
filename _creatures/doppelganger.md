@@ -12,7 +12,7 @@ size: Medium monstrosity (shapechanger)
 alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Deception +6, Insight +3"
 damage_immunities: "charmed"
 speed: "30 ft."

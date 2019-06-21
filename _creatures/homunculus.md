@@ -12,7 +12,7 @@ size: Tiny construct
 alignment: neutral
 challenge: "0 (10 XP)"
 languages: "understands the languages of its creator but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "20 ft., fly 40 ft."
 hit_points: "5 (2d4)"

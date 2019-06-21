@@ -12,7 +12,7 @@ size: Large fiend (demon)
 alignment: caótico maligno
 challenge: "8 (3,900 XP)"
 languages: "Abyssal, Gnoll, telepathy 120 ft."
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 saving_throws: "Des +4, Con +6, Sab +5"
 speed: "40 ft."

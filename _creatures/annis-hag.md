@@ -12,7 +12,7 @@ size: Large fey
 alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Común, Giant, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Deception +5, Percepción +5"
 saving_throws: "Con +5"
 speed: "40 ft."

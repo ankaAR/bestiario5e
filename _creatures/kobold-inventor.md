@@ -12,7 +12,7 @@ size: Small humanoid (kobold)
 alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "Común, Dragón"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +0"
 speed: "30 ft."
 hit_points: "13 (3d6+3)"

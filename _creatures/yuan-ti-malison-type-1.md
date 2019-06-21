@@ -12,7 +12,7 @@ size: Medium monstrosity (shapechanger
 alignment: yuan-ti)
 challenge: "3 (700 XP)"
 languages: "Abyssal, Common, Dragón"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Deception +5, Sigilo +4"
 damage_immunities: "poison"
 speed: "30 ft."

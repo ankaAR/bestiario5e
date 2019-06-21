@@ -12,7 +12,7 @@ size: Small fey
 alignment: chaotic neutral
 challenge: "1/8 (25 XP)"
 languages: "Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sleight of Hand +6, Sigilo +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "18 (4d6+4)"

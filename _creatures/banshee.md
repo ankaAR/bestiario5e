@@ -12,7 +12,7 @@ size: Medium undead
 alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Común, Elvish"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "cold, necrotic, poison"
 saving_throws: "Sab +2, Car +5"
 speed: "0 ft., fly 40 ft. (hover)"

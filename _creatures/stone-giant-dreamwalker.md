@@ -12,7 +12,7 @@ size: Huge giant (stone giant)
 alignment: chaotic neutral
 challenge: "10 (5,900 XP)"
 languages: "Común, Giant"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Athletics +14, Percepción +3"
 saving_throws: "Des +6, Con +9, Sab +3"
 speed: "40 ft."

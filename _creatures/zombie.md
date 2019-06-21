@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "understands all languages it spoke in life but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 saving_throws: "Sab +0"
 speed: "20 ft."
 hit_points: "22 (3d8+9)"

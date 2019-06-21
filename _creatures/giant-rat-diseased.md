@@ -11,7 +11,7 @@ str: 7 (-2)
 size: Small beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft."
 hit_points: "7 (2d6)"
 armor_class: "12"

@@ -12,7 +12,7 @@ size: Large giant
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Común, Giant"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "40 ft."
 hit_points: "59 (7d10+21)"
 armor_class: "11 (hide armor)"

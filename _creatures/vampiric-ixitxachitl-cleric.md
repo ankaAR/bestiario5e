@@ -12,7 +12,7 @@ size: Medium aberration
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Abyssal, Ixitxachitl"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "0 ft., nadando 30 ft."
 hit_points: "44 (8d8+8)"
 armor_class: "16 (armadura natural)"

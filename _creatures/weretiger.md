@@ -12,7 +12,7 @@ size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "4 (1,100 XP)"
 languages: "Common (can't speak in tiger form)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +5, Sigilo +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "30 ft. (40 ft. in tiger form)"

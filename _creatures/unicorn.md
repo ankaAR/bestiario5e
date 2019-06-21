@@ -12,7 +12,7 @@ size: Large celestial
 alignment: lawful good
 challenge: "5 (1,800 XP)"
 languages: "Celestial, Elvish, Sylvan, telepathy 60 ft."
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "50 ft."
 hit_points: "67 (9d10+18)"

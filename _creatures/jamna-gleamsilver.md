@@ -12,7 +12,7 @@ size: Small humanoid (gnome)
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Común, Gnomish, Goblin, Sylvan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Acrobatics +5, Deception +3, Insight +2, Percepción +4, Persuasion +3, Sigilo +7"
 saving_throws: "Des +5, Int +4"
 speed: "25 ft."

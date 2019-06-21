@@ -12,7 +12,7 @@ size: Medium construct
 alignment: caótico maligno
 challenge: "1 (200 XP)"
 languages: "understands the languages of its creator but can't speak"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "36 (8d8)"

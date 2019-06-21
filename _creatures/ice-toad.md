@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Ice Toad"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2"
 damage_immunities: "cold"
 speed: "30 ft., nadando 30 ft."

@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Medium beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft."
 hit_points: "13 (2d8+4)"
 armor_class: "10"

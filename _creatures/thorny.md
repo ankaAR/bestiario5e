@@ -11,7 +11,7 @@ str: 13 (+1)
 size: Medium plant
 alignment: neutral
 challenge: "1 (200 XP)"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"

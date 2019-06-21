@@ -12,7 +12,7 @@ size: Medium elemental
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Terran"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "52 (7d8+21)"

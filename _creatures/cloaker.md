@@ -12,7 +12,7 @@ size: Large aberration
 alignment: chaotic neutral
 challenge: "8 (3,900 XP)"
 languages: "Deep Speech, Undercommon"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +5"
 speed: "10 pies (3 mts), fly 40 ft."
 hit_points: "78 (12d10+12)"

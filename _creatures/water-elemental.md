@@ -12,7 +12,7 @@ size: Large elemental
 alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "Aquan"
-senses: "darkvision 60 ft."
+senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "30 ft., nadando 90 ft."
 hit_points: "114 (12d10+48)"
