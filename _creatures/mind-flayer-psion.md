@@ -38,8 +38,8 @@ At will: guidance, mage hand, vicious mockery, true strike
 
 ### Actions
 
-***Tentacles.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 15 (2dl0+4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one creature. Hit: 15 (2dl0+4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
 
-***Extract Brain.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
+***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
 
 ***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8+4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

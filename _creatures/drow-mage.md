@@ -27,9 +27,9 @@ At will: dancing lights
 
 1/day each: darkness, faerie fire, levitate (self only)
 
-***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
+* Trucos (a voluntad): mage hand, minor illusion, poison spray, ray of frost
 
 * 1st level (4 slots): mage armor, magic missile, shield, witch bolt
 
@@ -45,6 +45,6 @@ At will: dancing lights
 
 ### Actions
 
-***Staff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands, plus 3 (1d6) poison damage.
+***Staff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands, plus 3 (1d6) poison damage.
 
 ***Summon Demon (1/Day).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.

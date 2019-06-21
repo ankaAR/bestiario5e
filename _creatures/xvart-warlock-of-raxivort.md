@@ -23,7 +23,7 @@ armor_class: "12 (15 with mage armor)"
 
 At will: detect magic, mage armor (self only)
 
-***Spellcasting.*** The xvart is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC ll, +3 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+***Lanzamiento de conjuros.*** The xvart is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC ll, +3 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
 Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, prestidigitation
 
@@ -37,4 +37,4 @@ Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, pre
 
 ### Actions
 
-***Scimitar.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.

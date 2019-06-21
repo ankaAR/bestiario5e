@@ -101,6 +101,6 @@ At will: hold person,* ray of frost
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one target. Hit:10 (2d8+1) puntos de daño contundente plus 3 (1d6) cold damage.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one target. Hit:10 (2d8+1) puntos de daño contundente plus 3 (1d6) cold damage.
 
 ***Maddening Feast.*** The hag feasts on the corpse of one enemy within 5 feet of her that died within the past minute. Each creature of the hag's choice that is within 60 feet of her and able to see her must succeed on a DC 15 Wisdom saving throw or be frightened of her for 1 minute. While frightened in this way, a creature is incapacitated, can't understand what others say, can't read, and speaks only in gibberish; the DM controls the creature's movement, which is erratic. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Maddening Feast for the next 24 hours.

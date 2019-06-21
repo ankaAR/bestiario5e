@@ -29,8 +29,8 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma. The skull lord knows the following sorcerer spells:
-* Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp
+***Lanzamiento de conjuros.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma. The skull lord knows the following sorcerer spells:
+* Trucos (a voluntad): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp
 * 1st level (4 slots): magic missile, expeditious retreat, thunderwave
 * 2nd level (3 slots): mirror image, scorching ray
 * 3rd level (3 slots): fear, haste
@@ -43,7 +43,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
-***Bone Staff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
+***Bone Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
 
 ### Legendary Actions
 

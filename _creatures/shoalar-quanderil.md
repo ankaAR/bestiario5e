@@ -27,9 +27,9 @@ damage_resistances: "acid"
 
 * 1/day: create or destroy water
 
-***Spellcasting.*** Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, chill touch, friends, prestidigitation, ray of frost
+* Trucos (a voluntad): acid splash, chill touch, friends, prestidigitation, ray of frost
 
 * 1st level (4 slots): disguise self, mage armor, magic missile
 

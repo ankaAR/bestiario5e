@@ -30,4 +30,4 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The elemental makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente.

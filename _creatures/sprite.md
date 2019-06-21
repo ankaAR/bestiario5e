@@ -20,7 +20,7 @@ armor_class: "15 (leather armor)"
 
 ### Actions
 
-***Longsword.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +6 to hit, range 40/160 pies, un objetivo. Impacto: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 

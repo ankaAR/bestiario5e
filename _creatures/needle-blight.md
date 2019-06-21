@@ -21,6 +21,6 @@ condition_immunities: "blinded, deafened"
 
 ### Actions
 
-***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage.
 
 ***Needles.*** Ranged Weapon Attack: +3 to hit, range 30/60 pies, un objetivo. Impacto: 8 (2d6 + 1) piercing damage.

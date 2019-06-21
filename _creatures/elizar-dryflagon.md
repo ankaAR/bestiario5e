@@ -18,9 +18,9 @@ hit_points: "71 (11d8+22)"
 armor_class: "14 (hide)"
 ---
 
-***Spellcasting.*** Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:
+***Lanzamiento de conjuros.*** Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:
 
-* Cantrips (at will): druidcraft, guidance, poison spray, produce flame
+* Trucos (a voluntad): druidcraft, guidance, poison spray, produce flame
 
 * 1st level (4 slots): animal friendship, faerie fire, healing word, jump, thunderwave
 

@@ -21,9 +21,9 @@ hit_points: "195 (23d10+69)"
 armor_class: "16 (armadura natural)"
 ---
 
-***Spellcasting.*** Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
 
-* Cantrips (at will): dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp
+* Trucos (a voluntad): dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp
 
 * 1st level (4 slots): expeditious retreat, fog cloud, magic missile, shield
 
@@ -45,9 +45,9 @@ armor_class: "16 (armadura natural)"
 
 ***Multiataque.*** Muiral makes three attacks: two with his longsword and one with his sting.
 
-***Longsword.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.
 
-***Sting.*** Melee Weapon Attack: +9 al ataque, alcance 10 ft., one creature. Hit: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
+***Sting.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 ft., one creature. Hit: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
 
 ### Legendary Actions
 

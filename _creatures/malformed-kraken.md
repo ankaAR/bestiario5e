@@ -32,7 +32,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiataque.*** The kraken makes three tentacle attacks. One of them can be replaced with a bite attack, and any of them can be replaced with Fling.
 
-***Bite.*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d8 + 7) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d8 + 7) piercing damage.
 
 ***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 20 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño contundente, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
 

@@ -24,4 +24,4 @@ damage_resistances: "cold, fire, poison"
 
 ### Actions
 
-***Gore.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.

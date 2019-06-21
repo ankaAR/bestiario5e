@@ -36,9 +36,9 @@ At will: detect evil and good, druidcraft, pass without trace
 
 ***Multiataque.*** The unicorn makes two attacks: one with its hooves and one with its horn.
 
-***Hooves.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 11 (2d6 + 4) puntos de daño contundente.
+***Hooves.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft ., one target. Hit: 11 (2d6 + 4) puntos de daño contundente.
 
-***Horn.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft ., one target. Hit: 8 (1d8 + 4) piercing damage.
+***Horn.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft ., one target. Hit: 8 (1d8 + 4) piercing damage.
 
 ***Healing Touch (3/Day).*** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 

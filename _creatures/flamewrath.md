@@ -19,9 +19,9 @@ hit_points: "105 (14d8+42)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): control flames, fire bolt, friends, light, minor illusion
+* Trucos (a voluntad): control flames, fire bolt, friends, light, minor illusion
 
 * 1st level (4 slots): burning hands, color spray, mage armor
 

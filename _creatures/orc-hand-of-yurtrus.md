@@ -23,7 +23,7 @@ armor_class: "12 (hide armor)"
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-***Spellcasting.*** The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:
 
 Cantrips (at-will): guidance, mending, resistance, thaumaturgy
 
@@ -33,4 +33,4 @@ Cantrips (at-will): guidance, mending, resistance, thaumaturgy
 
 ### Actions
 
-***Touch of the White Hand.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) necrotic damage.
+***Touch of the White Hand.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) necrotic damage.

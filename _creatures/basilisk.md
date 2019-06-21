@@ -25,4 +25,4 @@ If the basilisk sees its reflection within 30 ft. of it in bright light, it mist
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.

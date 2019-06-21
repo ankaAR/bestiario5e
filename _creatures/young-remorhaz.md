@@ -22,4 +22,4 @@ armor_class: "14 (armadura natural)"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage.

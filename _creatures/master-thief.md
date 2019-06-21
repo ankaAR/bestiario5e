@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 18 (+4)
 str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "5 (1,800 XP)"
 languages: "any one language (usually Common) plus thieves' cant"
 skills: "Acrobatics +7, Athletics +3, Percepción +3, Sleight of Hand +7, Sigilo +7"
@@ -29,7 +29,7 @@ armor_class: "16 (studded leather armor)"
 
 ***Multiataque.*** The thief makes three attacks with its shortsword.
 
-***Shortsword.*** Melee Weapon Attack: +7 al ataque, alcance 5pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
 
 ***Light Crossbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
 

@@ -35,12 +35,12 @@ At will: mage hand (the hand is invisible)
 
 ***Multiataque.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
-***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) slashing damage.
 
 ***Variant: Weapons Multiattack.*** The thri-kreen makes two gythka attacks or two chatkcha attacks.
 
-***Variant: Gythka.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.
+***Variant: Gythka.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.
 
 ***Variant: Chatkcha.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.

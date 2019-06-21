@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 15 (+2)
 str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1 (200 XP)"
 languages: "any two languages"
 skills: "Deception +5, Insight +4, Investigation +5, Percepción +6, Persuasion +5, Sleight of Hand +4, Sigilo +4"
@@ -26,6 +26,6 @@ armor_class: "12"
 
 ***Multiataque.*** The spy makes two melee attacks.
 
-***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
 ***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

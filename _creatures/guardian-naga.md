@@ -23,9 +23,9 @@ condition_immunities: "charmed, poisoned"
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
 
-***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-* Cantrips (at will): mending, sacred flame, thaumaturgy
+* Trucos (a voluntad): mending, sacred flame, thaumaturgy
 
 * 1st level (4 slots): command, cure wounds, shield of faith
 
@@ -41,6 +41,6 @@ condition_immunities: "charmed, poisoned"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Spit Poison.*** Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.

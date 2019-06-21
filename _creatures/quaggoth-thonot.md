@@ -33,4 +33,4 @@ At will: feather fall, mage hand (the hand is invisible)
 
 ***Multiataque.*** The quaggoth makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.

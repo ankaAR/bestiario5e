@@ -25,7 +25,7 @@ armor_class: "13 (studded leather armor)"
 
 ***Army Arcane.*** When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw.
 
-***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
 
 Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
@@ -39,4 +39,4 @@ Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with two hands.

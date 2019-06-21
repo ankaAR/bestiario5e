@@ -40,7 +40,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** Ogremoch makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +14 al ataque, alcance 15 pies, un objetivo. Impacto: 30 (4d10 + 8) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 15 pies, un objetivo. Impacto: 30 (4d10 + 8) puntos de daño contundente.
 
 ***Boulder.*** Ranged Weapon Attack: +6 to hit, range 500 pies, un objetivo. Impacto: 46 (7d10 + 8) puntos de daño contundente. If the target is a creature, it must succeed on a DC 23 Strength saving throw or be knocked prone.
 

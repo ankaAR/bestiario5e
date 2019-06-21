@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "6 (2,300 XP)"
 languages: "any four languages"
 skills: "Arcana +6, Historia +6"
@@ -19,7 +19,7 @@ hit_points: "40 (9d8)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The conjurer is a 9th-level spellcaster. Its spellcasting ability is intelligence (spell save DC 14, +6 to hit with spell attacks). The conjurer has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The conjurer is a 9th-level spellcaster. Its spellcasting ability is intelligence (spell save DC 14, +6 to hit with spell attacks). The conjurer has the following wizard spells prepared:
 
 Cantrips (at will): acid splash, mage hand, poison spray, prestidigitation
 

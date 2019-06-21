@@ -31,6 +31,6 @@ armor_class: "14"
 
 ### Actions
 
-***Shortsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
 
 ***Stupefying Touch.*** Siren touches one creature she can see within 5 feet of her. The creature must succeed on a DC 13 Intelligence saving throw or take 13 (3d6 + 3) psychic damage and be stunned until the start of Siren's next turn.

@@ -27,6 +27,6 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The zombie makes five attacks: one with its bite and four with its claws.
 
-***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (ld6 +4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (ld6 +4) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld4 +4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld4 +4) slashing damage.

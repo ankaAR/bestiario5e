@@ -29,8 +29,8 @@ If the medusa sees itself reflected on a polished surface within 30 ft. of it an
 
 ***Multiataque.*** The medusa makes either three melee attacks -  one with its snake hair and two with its shortsword - or two ranged attacks with its longbow.
 
-***Snake Hair.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
+***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
 ***Longbow.*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.

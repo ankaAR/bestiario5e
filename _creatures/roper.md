@@ -28,8 +28,8 @@ armor_class: "20 (armadura natural)"
 
 ***Multiataque.*** The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 
-***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d8 + 4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d8 + 4) piercing damage.
 
-***Tendril.*** Melee Weapon Attack: +7 al ataque, alcance 50 ft., one creature. Hit: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
+***Tendril.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 50 ft., one creature. Hit: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
 
 ***Reel.*** The roper pulls each creature grappled by it up to 25 ft. straight toward it.

@@ -9,9 +9,9 @@ con: 13 (+1)
 dex: 17 (+3)
 str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "3 (700 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Acrobatics +5, Insight +5, Sigilo +5"
 speed: "40 ft."
 hit_points: "60 (11d8+11)"
@@ -24,7 +24,7 @@ armor_class: "16"
 
 ***Multiataque.*** The adept makes three unarmed strikes or three dart attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) puntos de daño contundente. If the target is a creature, the adept can choose one of the following additional effects:
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) puntos de daño contundente. If the target is a creature, the adept can choose one of the following additional effects:
 
 * The target must succeed on a DC 13 Strength saving throw or drop one item it is holding (adept's choice).
 

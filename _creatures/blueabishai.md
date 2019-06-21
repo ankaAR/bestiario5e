@@ -30,8 +30,8 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Weapons.*** The abishai's weapon attacks are magical.
 
-***Spellcasting.*** The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence. The abishai has the following wizard spells prepared:
-* Cantrips (at will): friends, mage hand, message, minor illusion, shocking grasp
+***Lanzamiento de conjuros.*** The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence. The abishai has the following wizard spells prepared:
+* Trucos (a voluntad): friends, mage hand, message, minor illusion, shocking grasp
 * 1st level (4 slots): chromatic orb, disguise self, expeditious retreat, magic missile, charm person, thunderwave
 * 2nd level (3 slots): darkness, mirror image, misty step
 * 3rd level (3 slots): dispel magic, fear, lightning bolt
@@ -44,6 +44,6 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** The abishai makes two attacks: one with its quarterstaff and one with its bite.
 
-***Quarterstaff*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
+***Quarterstaff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
 
-***Bite*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.

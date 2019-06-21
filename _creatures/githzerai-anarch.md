@@ -32,7 +32,7 @@ armor_class: "20"
 
 ***Multiattack*** The anarch makes three unarmed strikes.
 
-***Unarmed Strike*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente plus 18 (4d8) psychic damage.
+***Unarmed Strike*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente plus 18 (4d8) psychic damage.
 
 ### Legendary Actions
 

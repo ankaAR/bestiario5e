@@ -22,9 +22,9 @@ armor_class: "17 (studded leather armor +1)"
 
 ***Special Equipment.*** In addition to her magic armor and weapons, Ezmerelda has two potions of greater healing, six vials of holy water, and three wooden stakes.
 
-***Spellcasting.*** Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Ezmerelda has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Ezmerelda has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation
+* Trucos (a voluntad): fire bolt, light, mage hand, prestidigitation
 
 * 1st level (4 slots): protection from good and evil, magic missile, shield
 
@@ -38,11 +38,11 @@ armor_class: "17 (studded leather armor +1)"
 
 ***Multiataque.*** Ezmerelda makes three attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword.
 
-***Rapier +1.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8+5) piercing damage.
+***Rapier +1.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8+5) piercing damage.
 
 ***Handaxe +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6+3) slashing damage.
 
-***Silvered Shortsword.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Silvered Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
 
 ***Curse (Recharges after a Long Rest).*** Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Ezmerelda takes 3d6 psychic damage.
 

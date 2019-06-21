@@ -27,6 +27,6 @@ armor_class: "12 (armadura natural)"
 
 ***Multiataque.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
-***Battleaxe.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) slashing damage.
+***Battleaxe.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) slashing damage.
 
-***Morningstar.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) piercing damage.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) piercing damage.

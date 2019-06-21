@@ -43,9 +43,9 @@ At will: alter self (can become Medium-sized when changing his appearance), dete
 
 ***Multiataque.*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 
-***Bite.*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 23 (4d6 + 9) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 23 (4d6 + 9) piercing damage.
 
-***Fist.*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 27 (4d8 + 9) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 27 (4d8 + 9) puntos de daño contundente.
 
 ### Legendary Actions
 

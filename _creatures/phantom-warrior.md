@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 11 (0)
 str: 16 (+3)
 size: Medium undead
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1 (200 XP)"
 languages: "any languages it knew in life"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
@@ -33,6 +33,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiataque.*** The phantom warrior makes two attacks with its spectral longsword.
 
-***Spectral Longsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) force damage.
+***Spectral Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) force damage.
 
 ***Etherealness.*** The phantom warrior enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.

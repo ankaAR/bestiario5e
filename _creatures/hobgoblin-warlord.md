@@ -25,9 +25,9 @@ armor_class: "20 (plate, shield)"
 
 ***Multiataque.*** The hobgoblin makes three melee attacks. Alternatively, it can make two ranged attacks with its javelins.
 
-***Longsword.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Shield Bash.*** Melee Weapon Attack: +9 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) puntos de daño contundente. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+***Shield Bash.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) puntos de daño contundente. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
 

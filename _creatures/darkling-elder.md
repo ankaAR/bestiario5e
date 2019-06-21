@@ -25,6 +25,6 @@ armor_class: "15 (studded leather armor)"
 
 ***Multiataque.*** The darkling elder makes two melee attacks.
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 fit, one target. Hit: 6 (1d6+3) piercing damage. If the darkling elder had advantage on the attack roll, the attack deals as: extra 10 (3d6) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 fit, one target. Hit: 6 (1d6+3) piercing damage. If the darkling elder had advantage on the attack roll, the attack deals as: extra 10 (3d6) piercing damage.
 
 ***Darkness (Recharges after a Short or Long Rest).*** The darkling elder casts darkness without any components. Wisdom is its spellcasting ability.

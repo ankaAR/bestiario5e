@@ -33,6 +33,6 @@ condition_immunities: "frightened"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 15 (3d6+5) piercing damage, and the giant magically regains hit points equal to the damage dealt.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 ft., one creature. Hit: 15 (3d6+5) piercing damage, and the giant magically regains hit points equal to the damage dealt.
 
-***Fist.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8+5) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8+5) puntos de daño contundente.

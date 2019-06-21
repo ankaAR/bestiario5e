@@ -18,9 +18,9 @@ hit_points: "52 (8d8+16)"
 armor_class: "13 (chain shirt)"
 ---
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): chill touch, mage hand, minor illusion, prestidigitation, ray of frost
+* Trucos (a voluntad): chill touch, mage hand, minor illusion, prestidigitation, ray of frost
 
 * 1st level (4 slots): expeditious retreat, ice knife, magic missile, shield
 
@@ -30,4 +30,4 @@ armor_class: "13 (chain shirt)"
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño contundente.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño contundente.

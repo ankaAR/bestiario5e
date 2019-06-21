@@ -28,6 +28,6 @@ armor_class: "16 (armadura natural)"
 
 ***Multiataque.*** The cave fisher makes two attacks with its claws.
 
-***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 it, one target. Hit: 10 (2d6+3) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one target. Hit: 10 (2d6+3) slashing damage.
 
 ***Filament.*** One creature grappled by the cave fisher's adhesive filament must make a DC 13 Strength saving throw, provided that the target weighs 200 pounds or less. On a failure, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes a claw attack against it as a bonus action. Reeling up the target releases anyone else who was attached to the filament. Until the grapple ends on the target, the cave fisher can't extrude another filament.

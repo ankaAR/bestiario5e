@@ -26,6 +26,6 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 ***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 
-***Greatsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 + 4) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 + 4) slashing damage.
 
 ***Longbow.*** Ranged Weapon Attack: +2 to hit, range 150/600 pies, un objetivo. Impacto: 9 (2d8) piercing damage.

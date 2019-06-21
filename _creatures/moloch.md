@@ -40,11 +40,11 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Moloch makes three attacks: one with his bite, one with his claw, and one with his whip.
 
-***Bite*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d8 + 8) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d8 + 8) piercing damage.
 
-***Claw*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
 
-***Many-Tailed Whip*** Melee Weapon Attack: +15 al ataque, alcance 30 pies, un objetivo. Impacto: 13 (2d4 + 8) slashing damage plus 11 (2d10) lightning damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet in a straight line toward Moloch.
+***Many-Tailed Whip*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 30 pies, un objetivo. Impacto: 13 (2d4 + 8) slashing damage plus 11 (2d10) lightning damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet in a straight line toward Moloch.
 
 ***Breath of Despair (Recharge 5-6)*** Moloch exhales in a 30-foot cube. Each creature in that area must succeed on a DC 21 Wisdom saving throw or take 27 (5d10) psychic damage, drop whatever it is holding, and become frightened for 1 minute. While frightened in this way, a creature must take the Dash action and move away from Moloch by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. If the creature ends its turn in a location where it doesn't have line of sight to Moloch, the creature can repeat the saving throw. On a success, the effect ends.
 

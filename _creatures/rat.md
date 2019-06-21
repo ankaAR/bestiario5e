@@ -21,4 +21,4 @@ armor_class: "10"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

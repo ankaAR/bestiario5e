@@ -36,8 +36,8 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Multiattack*** The despot makes two iron fist attacks and two stomping foot attacks. It can replace up to four of these attacks with uses of its Flame Jet.
 
-***Iron Fist*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente. If the target is a Large or smaller creature, it must make a successful DC 17 Strength saving throw or be thrown up to 30 feet away in a straight line. The target is knocked prone and then takes 10 (3d6) puntos de daño contundente.
+***Iron Fist*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente. If the target is a Large or smaller creature, it must make a successful DC 17 Strength saving throw or be thrown up to 30 feet away in a straight line. The target is knocked prone and then takes 10 (3d6) puntos de daño contundente.
 
-***Stomping Foot*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) puntos de daño contundente, or 18 (3d8 + 5) puntos de daño contundente to a prone target.
+***Stomping Foot*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) puntos de daño contundente, or 18 (3d8 + 5) puntos de daño contundente to a prone target.
 
 ***Flame Jet*** The duergar spews flames in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save, or half as much damage on a successful one.

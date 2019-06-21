@@ -9,9 +9,9 @@ con: 14 (+2)
 dex: 11 (0)
 str: 16 (+3)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "3 (700 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 saving_throws: "Con +4, Sab +2"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
@@ -24,7 +24,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The knight makes two melee attacks.
 
-***Greatsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
 

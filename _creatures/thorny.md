@@ -25,4 +25,4 @@ damage_resistances: "lightning, piercing"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d6+1) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d6+1) piercing damage.

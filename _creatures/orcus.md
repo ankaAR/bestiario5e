@@ -44,9 +44,9 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Multiattack*** Orcus makes two Wand of Orcus attacks.
 
-***Wand of Orcus*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño contundente plus 13 (2d12) necrotic damage.
+***Wand of Orcus*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño contundente plus 13 (2d12) necrotic damage.
 
-***Tail*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
+***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
 
 ### Legendary Actions
 

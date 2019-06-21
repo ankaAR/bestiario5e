@@ -9,9 +9,9 @@ con: 16 (+3)
 dex: 15 (+2)
 str: 18 (+4)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "5 (1,800 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Athletics +10, Intimidation +5"
 saving_throws: "Str +7, Des +5, Con +6"
 speed: "30 ft."
@@ -29,7 +29,7 @@ armor_class: "16 (studded leather, shield)"
 
 ***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. and range 20/60 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
 
-***Shield Bash.*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 9 (2d4 + 4) puntos de daño contundente. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+***Shield Bash.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one creature. Hit: 9 (2d4 + 4) puntos de daño contundente. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
 ### Reactions
 

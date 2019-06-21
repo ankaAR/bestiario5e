@@ -24,6 +24,6 @@ armor_class: "12 (armadura natural)"
 
 ***Multiataque.*** The bear makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) slashing damage.

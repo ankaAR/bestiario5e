@@ -26,9 +26,9 @@ damage_resistances: "fire"
 
 * 1/day: burning hands
 
-***Spellcasting.*** Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:
 
-* Cantrips (at will): fire bolt, mage hand, message, prestidigitation, shocking grasp
+* Trucos (a voluntad): fire bolt, mage hand, message, prestidigitation, shocking grasp
 
 * 1st level (4 slots): mage armor, magic missile, shield
 

@@ -25,7 +25,7 @@ condition_immunities: "poisoned, prone"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
 
 ***Eye Ray.*** The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.
 

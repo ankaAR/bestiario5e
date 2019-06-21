@@ -18,4 +18,4 @@ armor_class: "11"
 
 ### Actions
 
-***Beak.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage.

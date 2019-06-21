@@ -20,9 +20,9 @@ armor_class: "15 (armadura natural)"
 condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 ---
 
-***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, minor illusion, ray of frost
+* Trucos (a voluntad): mage hand, minor illusion, ray of frost
 
 * 1st level (4 slots): charm person, sleep
 
@@ -32,4 +32,4 @@ condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.

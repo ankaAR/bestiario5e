@@ -27,14 +27,14 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 ***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: detect magic, disguise self, mage armor
 
-***Spellcasting.*** The deathlock is a 10th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
-* Cantrips (at will): chill touch, mage hand, minor illusion, poison spray
+***Lanzamiento de conjuros.*** The deathlock is a 10th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+* Trucos (a voluntad): chill touch, mage hand, minor illusion, poison spray
 * 5th level (2 slots): arms of Hadar, blight, counterspell, crown of madness, darkness, dimension door, dispel magic, fly, hold monster, invisibility
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
 ### Actions
 
-***Deathly Claw*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6 + 3 necrotic damage).
+***Deathly Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6 + 3 necrotic damage).
 
 ***Grave Bolts*** Ranged Spell Attack: +6 to hit, range 120 ft., one or two targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success.

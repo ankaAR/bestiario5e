@@ -10,7 +10,7 @@ con: 12 (+1)
 dex: 12 (+1)
 str: 13 (+1)
 size: Humanoide Mediano (dwarf)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1/8 (25 XP)"
 languages: "dwarf"
 senses: "Darkvision, passive Perception 12"

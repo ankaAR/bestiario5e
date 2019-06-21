@@ -33,7 +33,7 @@ condition_immunities: "poisoned"
 
 ***Multiataque.*** The flail snail makes as many flail tentacle attacks as it has flail tentacles, all against the same target.
 
-***Flail Tentacle.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño contundente.
+***Flail Tentacle.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño contundente.
 
 ***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be stunned until the light ends.
 

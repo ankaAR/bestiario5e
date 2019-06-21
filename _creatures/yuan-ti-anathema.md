@@ -48,8 +48,8 @@ At will: animal friendship (snakes only)
 
 ***Multiattack (Anathema Form Only).*** The anathema makes two claw attacks, one constrict attack, and one Flurry of Bites attack.
 
-***Claw (Anathema Form Only).*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d6+6) slashing damage.
+***Claw (Anathema Form Only).*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d6+6) slashing damage.
 
-***Constrict.*** Melee Weapon Attack: +10 al ataque, alcance 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) puntos de daño contundente plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) puntos de daño contundente plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
+***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) puntos de daño contundente plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) puntos de daño contundente plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
 
-***Flurry of Bites.*** Melee Weapon Attack: +10 al ataque, alcance 10 ft., one creature. Hit: 27 (6d6+6) piercing damage plus 14 (4d6) poison damage.
+***Flurry of Bites.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 ft., one creature. Hit: 27 (6d6+6) piercing damage plus 14 (4d6) poison damage.

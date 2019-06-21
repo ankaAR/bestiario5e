@@ -26,9 +26,9 @@ armor_class: "13"
 
 ***Multiataque.*** The knight makes two shortsword attacks.
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
 
-***Lance.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
+***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
 
 ### Reactions
 

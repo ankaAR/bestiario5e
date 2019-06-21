@@ -36,4 +36,4 @@ damage_resistances: "cold, poison"
 
 ***Multiataque.*** Drannin makes three attacks with his greataxe.
 
-***Greataxe.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) slashing damage.

@@ -28,6 +28,6 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ### Actions
 
-***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage plus 3 (1d6) lightning damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 ***Lightning Flare (Recharges after a Short or Long Rest)*** Each creature in contact with the ground within 15 feet of the bronze scout must make a DC 13 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much damage on a successful one.

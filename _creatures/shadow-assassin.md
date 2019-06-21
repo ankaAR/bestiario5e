@@ -35,6 +35,6 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Multiataque.*** The assassin makes two Shadow Blade attacks.
 
-**Shadow Blade.** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. Unless the target is immune to necrotic damage, the target’s Strength score is reduced by 1d4 each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest.
+**Shadow Blade.** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. Unless the target is immune to necrotic damage, the target’s Strength score is reduced by 1d4 each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest.
 
 If a non-evil humanoid dies from this attack, a shadow (see the *Monster Manual*) rises from the corpse 1d4 hours later.

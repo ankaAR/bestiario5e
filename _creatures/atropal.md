@@ -30,7 +30,7 @@ armor_class: "7"
 
 ### Actions
 
-***Touch.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) necrotic damage.
+***Touch.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) necrotic damage.
 
 ***Ray of Cold.*** Ranged Spell Attack: +12 to hit , range 120 pies, un objetivo. Impacto: 21 (6d6) cold damage.
 

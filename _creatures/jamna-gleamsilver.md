@@ -24,9 +24,9 @@ armor_class: "15 (leather armor)"
 
 ***Gnome Cunning.*** Jamna has advantage on Intelligence, Wisdom and Charisma saving throws against magic.
 
-***Spellcasting.*** Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells prepared from the wizard spell list.
+***Lanzamiento de conjuros.*** Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells prepared from the wizard spell list.
 
-* Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost
+* Trucos (a voluntad): mage hand, minor illusion, prestidigitation, ray of frost
 
 * 1st level (3 slots): charm person, color spray, disguise self, longstrider
 
@@ -34,4 +34,4 @@ armor_class: "15 (leather armor)"
 
 ***Multiataque.*** Jamna attacks twice with her shortswords.
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.

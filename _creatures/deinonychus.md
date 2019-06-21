@@ -23,6 +23,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The deinonychus makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) slashing damage.

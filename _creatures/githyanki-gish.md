@@ -26,8 +26,8 @@ armor_class: "17 (half plate)"
 * 3/day each: jump, misty step, nondetection (self only)
 * 1/day each: plane shift, telekinesis
 
-***Spellcasting.*** The githyanki is an 8th-level spellcaster. Its spellcasting ability is Intelligence. The githyanki has the following wizard spells prepared:
-* Cantrips (at will): blade ward, light, message, true strike
+***Lanzamiento de conjuros.*** The githyanki is an 8th-level spellcaster. Its spellcasting ability is Intelligence. The githyanki has the following wizard spells prepared:
+* Trucos (a voluntad): blade ward, light, message, true strike
 * 1st level (4 slots): expeditious retreat, magic missile, sleep, thunderwave
 * 2nd level (3 slots): blur, invisibility, levitate
 * 3rd level (3 slots): counterspell, fireball, haste
@@ -39,4 +39,4 @@ armor_class: "17 (half plate)"
 
 ***Multiattack*** The githyanki makes two longsword attacks.
 
-***Longsword*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage plus 18 (4d8) psychic damage, or 8 (1d10 + 3) slashing damage plus 18 (4d8) psychic damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage plus 18 (4d8) psychic damage, or 8 (1d10 + 3) slashing damage plus 18 (4d8) psychic damage if used with two hands.

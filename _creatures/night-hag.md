@@ -61,7 +61,7 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
 
 ### Actions
 
-***Claws (Hag Form Only).*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
+***Claws (Hag Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
 
 ***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 

@@ -30,8 +30,8 @@ condition_immunities: "charmed, exhaustion"
 * At will: arcane eye, mage armor, speak with dead
 * 1/day each: arcane gate, bane, compulsion, confusion, true seeing
 
-***Spellcasting.*** The gloom weaver is a 12th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
-* Cantrips (at will): minor illusion, prestidigitation, chill touch (3d8 damage), eldritch blast (3 beams +4 bonus to each damage roll)
+***Lanzamiento de conjuros.*** The gloom weaver is a 12th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+* Trucos (a voluntad): minor illusion, prestidigitation, chill touch (3d8 damage), eldritch blast (3 beams +4 bonus to each damage roll)
 * 5th level (3 slots): armor of Agathys, blight, darkness, dream, invisibility, fear, hypnotic pattern, major image, contact other plane, vampiric touch, witch bolt
 
 
@@ -39,4 +39,4 @@ condition_immunities: "charmed, exhaustion"
 
 ***Multiattack*** The gloom weaver makes two spear attacks and casts one spell that takes 1 action to cast.
 
-***Shadow Spear*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) piercing damage plus 26 (4d12) necrotic damage if used with two hands.
+***Shadow Spear*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) piercing damage plus 26 (4d12) necrotic damage if used with two hands.

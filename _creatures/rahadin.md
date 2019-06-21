@@ -37,6 +37,6 @@ armor_class: "18 (cuero endurecido)"
 
 ***Multiataque.*** Rahadin attacks three times with his scimitar, or twice with his poisoned darts.
 
-***Scimitar.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d6+6) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d6+6) slashing damage.
 
 ***Poisoned Dart.*** Ranged Weapon Attack: +10 to hit, range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) piercing damage plus 5 (2d4) poison damage.

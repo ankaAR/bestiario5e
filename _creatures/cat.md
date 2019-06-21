@@ -21,4 +21,4 @@ armor_class: "12"
 
 ### Actions
 
-***Claws.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 slashing damage.

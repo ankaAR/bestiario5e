@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 12 (+1)
 str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1/8 (25 XP)"
 languages: "any two languages"
 skills: "Deception +5, Insight +4, Persuasion +5"
@@ -20,7 +20,7 @@ armor_class: "15 (breastplate)"
 
 ### Actions
 
-***Rapier.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
+***Rapier.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
 
 ### Reactions
 

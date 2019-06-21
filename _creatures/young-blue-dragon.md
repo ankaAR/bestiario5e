@@ -25,8 +25,8 @@ armor_class: "18 (armadura natural)"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.
 
-***Claw.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) slashing damage.
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.

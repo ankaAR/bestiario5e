@@ -20,9 +20,9 @@ hit_points: "88 (16d8+16)"
 armor_class: "10"
 ---
 
-***Spellcasting.*** Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following cleric spells prepared:
 
-* Cantrips (at will): light, mending, sacred flame, thaumaturgy
+* Trucos (a voluntad): light, mending, sacred flame, thaumaturgy
 
 * 1st level (4 slots): bane, command, detect evil and good, protection from evil and good
 
@@ -42,7 +42,7 @@ armor_class: "10"
 
 ### Actions
 
-***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.
 
 ***Curse (Recharges after a Long Rest).*** Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage.
 

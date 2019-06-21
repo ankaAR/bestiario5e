@@ -28,9 +28,9 @@ condition_immunities: "blinded"
 
 ***Multiattack*** The balhannoth makes a bite attack and up to two tentacle attacks, or it makes up to four tentacle attacks.
 
-***Bite*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) piercing damage.
 
-***Tentacle*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is restrained, and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
+***Tentacle*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is restrained, and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
 
 ### Legendary Actions
 

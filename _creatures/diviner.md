@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "8 (3,900 XP)"
 languages: "any four languages"
 skills: "Arcana +7, Historia +7"
@@ -19,7 +19,7 @@ hit_points: "67 (15d8)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The diviner is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The diviner is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:
 
 Cantrips (at will): fire bolt, light, mage hand, message, true strike
 
@@ -45,4 +45,4 @@ Cantrips (at will): fire bolt, light, mage hand, message, true strike
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.

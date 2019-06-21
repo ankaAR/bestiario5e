@@ -24,9 +24,9 @@ armor_class: "17 (armadura natural)"
 
 ***Multiataque.*** The behir makes two attacks: one with its bite and one to constrict.
 
-***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d10 + 6) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d10 + 6) piercing damage.
 
-***Constrict.*** Melee Weapon Attack: +10 al ataque, alcance 5 ft., one Large or smaller creature. Hit: 17 (2d10 + 6) puntos de daño contundente plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
+***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 ft., one Large or smaller creature. Hit: 17 (2d10 + 6) puntos de daño contundente plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
 
 ***Lightning Breath (Recharge 5-6).*** The behir exhales a line of lightning that is 20 ft. long and 5 ft. wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 

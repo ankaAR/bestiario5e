@@ -33,7 +33,7 @@ At will: gaseous form, major image (6th-level version), wind walk
 
 ***Magic Weapons.*** The ki-rin's weapon attacks are magical.
 
-***Spellcasting.*** The ki-rin is a 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The ki-rin is a 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following cleric spells prepared:
 
 Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
@@ -59,9 +59,9 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 ***Multiataque.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
 
-***Hoof.*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) puntos de daño contundente.
+***Hoof.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) puntos de daño contundente.
 
-***Horn.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
+***Horn.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
 
 ### Legendary Actions
 

@@ -23,4 +23,4 @@ armor_class: "10"
 
 ### Actions
 
-***Beak.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.

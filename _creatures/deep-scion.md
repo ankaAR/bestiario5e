@@ -28,10 +28,10 @@ armor_class: "11"
 
 ***Multiataque.*** In humanoid form, the deep scion makes two melee attacks. In hybrid form, the deep scion makes three attacks: one with its bite and two with its claws.
 
-***Battleaxe (Humanoid Form Only).*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage, or 9 (1d10+4) slashing damage if used with two hands.
+***Battleaxe (Humanoid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage, or 9 (1d10+4) slashing damage if used with two hands.
 
-***Bite (Hybrid Form Only).*** Melee Weapon Attack: +6 al ataque, alcance 5 ft, one creature. Hit: 6 (1d4+4) piercing damage.
+***Bite (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 6 (1d4+4) piercing damage.
 
-***Claw (Hybrid Form Only).*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) slashing damage.
+***Claw (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) slashing damage.
 
 ***Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest).*** The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be stunned until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.

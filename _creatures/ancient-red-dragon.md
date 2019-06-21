@@ -27,9 +27,9 @@ armor_class: "22 (armadura natural)"
 
 ***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage.
 
-***Claw.*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d6 + 10) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d6 + 10) slashing damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (2d8 + 10) puntos de daño contundente.
 

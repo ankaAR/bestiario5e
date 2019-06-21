@@ -24,4 +24,4 @@ condition_immunities: "blinded, deafened, frightened"
 
 ***Multiataque.*** The fungus makes 1d4 Rotting Touch attacks.
 
-***Rotting Touch.*** Melee Weapon Attack: +2 al ataque, alcance 10 ft., one creature. Hit: 4 (1d8) necrotic damage.
+***Rotting Touch.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 10 ft., one creature. Hit: 4 (1d8) necrotic damage.

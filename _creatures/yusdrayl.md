@@ -21,7 +21,7 @@ armor_class: "12 (15 with mage armor)"
 
 ***Source.*** tales from the yawning portal,  page 248
 
-***Spellcasting.*** Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:
 
 Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
 
@@ -33,4 +33,4 @@ Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
 
 ### Actions
 
-***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

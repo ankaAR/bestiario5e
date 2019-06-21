@@ -24,6 +24,6 @@ armor_class: "15 (armadura natural)"
 
 ### Actions
 
-***Dagger.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 4 (1d6) piercing damage.

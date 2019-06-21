@@ -44,7 +44,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Juiblex makes three acid lash attacks.
 
-***Acid Lash*** Melee Weapon Attack: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (4d6 + 7) acid damage. Any creature killed by this attack is drawn into Juiblex's body, and the corpse is obliterated after 1 minute.
+***Acid Lash*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (4d6 + 7) acid damage. Any creature killed by this attack is drawn into Juiblex's body, and the corpse is obliterated after 1 minute.
 
 ***Eject Slime (Recharge 5-6)*** Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must make a DC 21 Dexterity saving throw. On a failure, the target takes 55 (10d10) acid damage. Unless the target avoids taking any of this damage, any metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any metal weapon it is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed.
 
@@ -56,4 +56,4 @@ Juiblex can take 3 legendary actions, choosing from the options below. Only one 
 
 ***Attack*** Juiblex makes one acid lash attack.
 
-***Corrupting Touch (cuesta 2 acciones)*** Melee Weapon Attack: +14 al ataque, alcance 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an ooze, is poisoned while within 10 feet of the target.
+***Corrupting Touch (cuesta 2 acciones)*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an ooze, is poisoned while within 10 feet of the target.

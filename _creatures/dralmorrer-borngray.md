@@ -22,9 +22,9 @@ armor_class: "16 (studded leather, shield)"
 
 ***Fey Ancestry.*** Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.
 
-***Spellcasting.*** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:
+***Lanzamiento de conjuros.*** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): fire bolt, prestidigitation, shocking grasp
+* Trucos (a voluntad): fire bolt, prestidigitation, shocking grasp
 
 * 1st level (4 slots): longstrider, magic missile, shield, thunderwave
 
@@ -38,6 +38,6 @@ armor_class: "16 (studded leather, shield)"
 
 ***Multiataque.*** Dralmorrer attacks twice, either with his longsword or dagger.
 
-***Longsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.

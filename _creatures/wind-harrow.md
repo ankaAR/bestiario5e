@@ -21,9 +21,9 @@ armor_class: "15 (cuero endurecido)"
 
 ***Fey Ancestry.*** Windharrow has advantage on saving throws against being charmed, and magic can't put him to sleep.
 
-***Spellcasting.*** Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:
+***Lanzamiento de conjuros.*** Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:
 
-* Cantrips (at will): friends, prestidigitation, vicious mockery
+* Trucos (a voluntad): friends, prestidigitation, vicious mockery
 
 * 1st level (4 slots): disguise self, dissonant whispers, thunderwave
 
@@ -37,4 +37,4 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** Windharrow makes two melee attacks.
 
-***Rapier.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.
+***Rapier.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.

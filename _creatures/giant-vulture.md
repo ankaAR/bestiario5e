@@ -26,6 +26,6 @@ armor_class: "10"
 
 ***Multiataque.*** The vulture makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) piercing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) piercing damage.
 
-***Talons.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage.
+***Talons.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage.

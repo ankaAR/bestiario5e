@@ -34,9 +34,9 @@ Halaster also wears a *horned ring* (a very rare magic item that requires attune
 
 ***Rejuvenation.*** If Halaster dies in Undermountain, he revives after 1d10 days, with all his hit points and any missing body parts restored. His new body appears in a random safe location in Undermountain.
 
-***Spellcasting.***  Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He can cast *disguise self* and *invisibility* at will. He can cast *fly* and *lightning bolt* once each without expending a spell slot, but can’t do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:
+***Lanzamiento de conjuros.***  Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He can cast *disguise self* and *invisibility* at will. He can cast *fly* and *lightning bolt* once each without expending a spell slot, but can’t do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:
 
-* Cantrips (at will): dancing lights, fire bolt, light, mage hand, prestidigitation
+* Trucos (a voluntad): dancing lights, fire bolt, light, mage hand, prestidigitation
 
 * 1st level (4 slots): mage armor, magic missile, shield, silent image
 

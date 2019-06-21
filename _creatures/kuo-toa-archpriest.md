@@ -27,9 +27,9 @@ armor_class: "13 (armadura natural)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-***Spellcasting.*** The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, sacred flame, thaumaturgy
+* Trucos (a voluntad): guidance, sacred flame, thaumaturgy
 
 * 1st level (4 slots): detect magic, sanctuary, shield of faith
 
@@ -45,6 +45,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The kuo-toa makes two melee attacks.
 
-***Scepter.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente plus 14 (4d6) lightning damage.
+***Scepter.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente plus 14 (4d6) lightning damage.
 
-***Unarmed Strike.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente.

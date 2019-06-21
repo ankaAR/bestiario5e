@@ -33,9 +33,9 @@ At will: dancing lights
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
-***Spellcasting.*** The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list:
+***Lanzamiento de conjuros.*** The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list:
 
-* Cantrips (at will): poison spray, thaumaturgy
+* Trucos (a voluntad): poison spray, thaumaturgy
 
 * 1st level (4 slots): bane, detect magic, sanctuary
 
@@ -49,8 +49,8 @@ At will: dancing lights
 
 ***Multiataque.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
-***Longsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
 ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.

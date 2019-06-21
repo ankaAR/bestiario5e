@@ -45,11 +45,11 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Baphomet makes three attacks: one with Heartcleaver, one with his bite, and one with his gore attack.
 
-***Heartcleaver*** Melee Weapon Attack: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) slashing damage.
+***Heartcleaver*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) slashing damage.
 
-***Bite*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d8 + 10) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d8 + 10) piercing damage.
 
-***Gore*** Melee Weapon Attack: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d6 + 10) piercing damage.
+***Gore*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d6 + 10) piercing damage.
 
 ***Frightful Presence*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
 If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.

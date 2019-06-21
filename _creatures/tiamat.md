@@ -40,7 +40,7 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Multiataque.*** Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.
 
-***Claw.*** Melee Weapon Attack: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 24 (4d6 + 10) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 24 (4d6 + 10) slashing damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 25 pies, un objetivo. Impacto: 28 (4d8 + 10) piercing damage.
 
@@ -54,7 +54,7 @@ The tiamat can take 3 legendary actions, choosing from the options below. Only o
 
 Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.
 
-Melee Weapon Attack: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
+Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
 
 ***Black Dragon Head: Acid Breath (cuesta 2 acciones).*** Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 

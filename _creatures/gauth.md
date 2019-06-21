@@ -27,7 +27,7 @@ condition_immunities: "prone"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) piercing damage.
 
 ***Eye Rays.*** The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 

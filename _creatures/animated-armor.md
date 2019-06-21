@@ -27,4 +27,4 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Multiataque.*** The armor makes two melee attacks.
 
-***Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente.

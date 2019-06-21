@@ -28,7 +28,7 @@ damage_resistances: "poison"
 
 ***Multiattack*** The duergar makes three hammer or javelin attacks and uses Call to Attack, or Enlarge if it is available.
 
-***Psychic-Attuned Hammer*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño contundente plus 5 (1d10) psychic damage, or 15 (2d10 + 4) puntos de daño contundente plus 5 (1d10) psychic damage while enlarged,
+***Psychic-Attuned Hammer*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño contundente plus 5 (1d10) psychic damage, or 15 (2d10 + 4) puntos de daño contundente plus 5 (1d10) psychic damage while enlarged,
 
 ***Javelin*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
 

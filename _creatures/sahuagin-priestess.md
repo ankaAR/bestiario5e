@@ -25,9 +25,9 @@ armor_class: "12 (armadura natural)"
 
 ***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, thaumaturgy
+* Trucos (a voluntad): guidance, thaumaturgy
 
 * 1st level (4 slots): bless, detect magic, guiding bolt
 
@@ -39,6 +39,6 @@ armor_class: "12 (armadura natural)"
 
 ***Multiataque.*** The sahuagin makes two melee attacks: one with her bite and one with her claws.
 
-***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) slashing damage.

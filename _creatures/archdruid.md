@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "12 (8,400 XP)"
 languages: "Druidic plus any two languages"
 skills: "Medicina +9, Nature +5, Percepción +9"
@@ -19,7 +19,7 @@ hit_points: "132 (24d8+24)"
 armor_class: "16 (hide armor, shield)"
 ---
 
-***Spellcasting.*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:
+***Lanzamiento de conjuros.*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:
 
 Cantrips (at will): druidcraft, mending, poison spray, produce flame
 
@@ -43,7 +43,7 @@ Cantrips (at will): druidcraft, mending, poison spray, produce flame
 
 ### Actions
 
-***Scimitar.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage.
 
 ***Change Shape (2/Day).*** The archdruid magically polymorphs into a beast or elemental with a challenge rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The archdruid reverts to its true form if it dies or falls unconscious. The archdruid can revert to its true form using a bonus action on its turn.
 

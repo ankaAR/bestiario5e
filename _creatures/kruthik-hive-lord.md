@@ -29,7 +29,7 @@ armor_class: "20 (armadura natural)"
 
 ***Multiattack*** The kruthik makes two stab attacks or two spike attacks.
 
-***Stab*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
+***Stab*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
 
 ***Spike*** Ranged Weapon Attack: +6 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
 

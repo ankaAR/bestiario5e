@@ -39,7 +39,7 @@ At will: minor illusion
 
 ***Multiataque.*** Droki makes two attacks with his shortsword
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target. Hit:6 (1d6 + 3) piercing damage. The sword is coated with serpent venom that wears off after the first hit. A target subjected to the venom must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target. Hit:6 (1d6 + 3) piercing damage. The sword is coated with serpent venom that wears off after the first hit. A target subjected to the venom must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ### Reactions
 

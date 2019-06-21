@@ -33,7 +33,7 @@ damage_resistances: "cold, lightning, necrotic; bludgeoning, piercing, and slash
 
 ***Rejuvenation.*** If Var is destroyed but his phylactery remains intact, Var gains a new body in ldlO days, regaining all his hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-***Spellcasting.*** Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
 
 Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost
 

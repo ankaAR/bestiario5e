@@ -35,9 +35,9 @@ At will: detect evil and good, detect magic, detect thoughts
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 ft., one creature. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
-***Constrict.*** Melee Weapon Attack: +6 al ataque, alcance 10 ft., one Medium or smaller creature. Hit: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
+***Constrict.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 ft., one Medium or smaller creature. Hit: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
 
 ***Change Shape.*** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
 

@@ -25,6 +25,6 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The orog makes two greataxe attacks.
 
-***Greataxe.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) slashing damage.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.

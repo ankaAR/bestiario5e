@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "3 (700 XP)"
 languages: "any four languages"
 skills: "Arcana +5, Historia +5"
@@ -19,7 +19,7 @@ hit_points: "38 (7d8+7)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The illusionist is a 7th-level spellcaster. its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The illusionist is a 7th-level spellcaster. its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:
 
 Cantrips (at will): dancing lights, mage hand, minor illusion, poison spray
 
@@ -37,4 +37,4 @@ Cantrips (at will): dancing lights, mage hand, minor illusion, poison spray
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.

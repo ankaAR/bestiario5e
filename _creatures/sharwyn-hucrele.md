@@ -24,7 +24,7 @@ armor_class: "16 (Barkskin trait)"
 
 ***Special Equipment.*** Sharwyn has a spell book that contains the spells listed in her Spellcasting trait, plus detect magic and silent image.
 
-***Spellcasting.*** Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
 Cantrips (at will): light, prestidigitation, ray of frost
 
@@ -34,4 +34,4 @@ Cantrips (at will): light, prestidigitation, ray of frost
 
 ### Actions
 
-***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.

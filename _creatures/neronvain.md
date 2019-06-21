@@ -30,7 +30,7 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Multiataque.*** Neronvain makes two attacks, either with his shortsword or Eldritch Arrow.
 
-***Shortsword.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 13 (3d8) poison damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 13 (3d8) poison damage.
 
 ***Eldritch Arrow.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 11 (2d10) force damage plus 9 (2d8) poison damage.
 

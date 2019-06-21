@@ -27,6 +27,6 @@ armor_class: "14 (armadura natural)"
 
 ### Actions
 
-***Greataxe.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) slashing damage.
 
-***Gore.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage.

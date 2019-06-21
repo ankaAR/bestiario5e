@@ -9,7 +9,7 @@ con: 18 (+4)
 dex: 16 (+3)
 str: 20 (+5)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "12 (8,400 XP)"
 languages: "any two languages"
 skills: "Athletics +9, Intimidation +8, Percepción +5, Persuasion +8"
@@ -27,7 +27,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The warlord makes two weapon attacks.
 
-***Greatsword.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) slashing damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 it, one target. Hit: 6 (1d6+3) piercing damage.
 

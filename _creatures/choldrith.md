@@ -21,9 +21,9 @@ armor_class: "15 (studded leather armor)"
 
 ***Fey Ancestry.*** The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.
 
-***Spellcasting.*** The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, mending, resistance, thaumaturgy
+* Trucos (a voluntad): guidance, mending, resistance, thaumaturgy
 
 * 1st level (4 slots): bane, healing word, sanctuary, shield of faith
 

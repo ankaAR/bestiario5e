@@ -46,6 +46,6 @@ To be granted a wish, a creature within 60 feet of the genie states a desired ef
 
 ***Multiataque.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
-***Scimitar.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 
 ***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 17 (5d6) fire damage.

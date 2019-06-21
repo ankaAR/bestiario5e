@@ -26,9 +26,9 @@ damage_resistances: "lightning"
 
 ***Legendary Resistance (2/Day).*** If Aerisi fails a saving throw, she can choose to succeed instead.
 
-***Spellcasting.*** Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:
 
-* Cantrips (at will): gust, mage hand, message, prestidigitation, ray of frost, shocking grasp
+* Trucos (a voluntad): gust, mage hand, message, prestidigitation, ray of frost, shocking grasp
 
 * 1st level (4 slots): charm person, feather fall, mage armor, thunderwave
 

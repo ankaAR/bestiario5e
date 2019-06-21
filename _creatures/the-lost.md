@@ -25,6 +25,6 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 
 ***Multiattack*** The Lost makes two arm spike attacks.
 
-***Arm Spike*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) piercing damage.
+***Arm Spike*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) piercing damage.
 
-***Embrace*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) piercing damage, and the target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is frightened, and it takes 27 (6d8) psychic damage at the end of each of its turns. The Lost can embrace only one creature at a time.
+***Embrace*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) piercing damage, and the target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is frightened, and it takes 27 (6d8) psychic damage at the end of each of its turns. The Lost can embrace only one creature at a time.

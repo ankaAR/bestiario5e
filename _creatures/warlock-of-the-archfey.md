@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 13 (+1)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "4 (1,100 XP)"
 languages: "any two languages (usually Sylvan)"
 skills: "Arcana +2, Deception +6, Nature +2, Persuasion +6"
@@ -26,7 +26,7 @@ At will: disguise self, mage armor (self only), silent image, speak with animals
 
 1/day: conjure fey
 
-***Spellcasting.*** The warlock is a 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+***Lanzamiento de conjuros.*** The warlock is a 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
 Cantrips (at will): dancing lights, eldritch blast, friends, mage hand, minor illusion, prestidigitation, vicious mockery
 

@@ -21,9 +21,9 @@ armor_class: "11 (14 with mage armor)"
 
 ***Grim Harvest.*** Once per turn when Oreioth kills one or more creatures with a spell of 1st level or higher, he regains hit points equal to twice the spell's level.
 
-***Spellcasting.*** Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:
 
-* Cantrips (at will): chill touch, minor illusion, prestidigitation, shocking grasp
+* Trucos (a voluntad): chill touch, minor illusion, prestidigitation, shocking grasp
 
 * 1st level (4 slots): false life, mage armor, magic missile, ray of sickness
 
@@ -35,4 +35,4 @@ armor_class: "11 (14 with mage armor)"
 
 ### Actions
 
-***Dagger.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.

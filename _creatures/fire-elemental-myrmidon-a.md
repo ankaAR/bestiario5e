@@ -31,6 +31,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The myrmidon makes three scimitar attacks.
 
-***Scimitar.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) slashing damage.
 
 ***Fiery Strikes (Recharge 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) fire damage.

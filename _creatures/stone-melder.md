@@ -21,9 +21,9 @@ armor_class: "17 (splint)"
 
 ***Death Burst.*** When the Stonemelder dies, it turns to stone and explodes in a burst of rock shards, becoming a smoking pile of rubble. Each creature within 10 feet of the exploding Stonemelder must make a DC 14 Dexterity saving throw, taking 11 (2d10) puntos de daño contundente on a failed save, or half as much damage on a successful one.
 
-***Spellcasting.*** The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, blade ward, light, mending, mold earth
+* Trucos (a voluntad): acid splash, blade ward, light, mending, mold earth
 
 * 1st level (4 slots): expeditious retreat, false life, shield
 
@@ -35,4 +35,4 @@ armor_class: "17 (splint)"
 
 ### Actions
 
-***Black Earth Rod.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente. The Stonemelder can also expend a spell slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level slot, plus an additional 1d8 for each level of the slot above 1st.
+***Black Earth Rod.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente. The Stonemelder can also expend a spell slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level slot, plus an additional 1d8 for each level of the slot above 1st.

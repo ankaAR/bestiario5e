@@ -26,10 +26,10 @@ armor_class: "13"
 
 ***Multiataque.*** The kamadan makes two attacks: one with its bite or claw and one with its snakes.
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld6 +3) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld6 +3) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target.Hit: 6 (ld6 +3) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target.Hit: 6 (ld6 +3) slashing damage.
 
-***Snakes.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 6 (ld6 +3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+***Snakes.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 6 (ld6 +3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Sleep Breath (Recharges after a Short or Long Rest).*** The kamadan exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if it takes damage or someone uses an action to wake it.

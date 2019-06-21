@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "6 (2,300 XP)"
 languages: "any two languages, telepathy 30 ft."
 senses: "Visión en la oscuridad 60 pies (18 mts)"
@@ -27,7 +27,7 @@ At will: detect magic, jump, levitate, mage armor (self only), speak with dead
 
 1/day each: arcane gate, true seeing
 
-***Spellcasting.*** The warlock is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+***Lanzamiento de conjuros.*** The warlock is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
 Cantrips (at will): chill touch, eldritch blast, guidance, mage hand, minor illusion, prestidigitation, shocking grasp
 

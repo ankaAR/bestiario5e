@@ -19,7 +19,7 @@ armor_class: "10 (13 with mage armor)"
 senses: " passive Perception 11"
 ---
 
-***Spellcasting.*** Naxene is a 6th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). She has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Naxene is a 6th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). She has the following wizard spells prepared:
 
 Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
@@ -31,7 +31,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
 ### Actions
 
-***Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
+***Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
 
 ### Roleplaying Information
 

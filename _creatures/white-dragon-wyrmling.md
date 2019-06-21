@@ -23,6 +23,6 @@ armor_class: "16 (armadura natural)"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.

@@ -30,8 +30,8 @@ damage_resistances: "poison"
 * At will: dancing lights
 * 1/day each: darkness, faerie fire, levitate (self only)
 
-***Spellcasting.*** The drow is a 16th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
-* Cantrips (at will): chill touch, eldritch blast, mage hand, poison spray
+***Lanzamiento de conjuros.*** The drow is a 16th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+* Trucos (a voluntad): chill touch, eldritch blast, mage hand, poison spray
 * 5th level (3 slots): conjure animals (spiders only), crown of madness, dimension door, dispel magic, fear, fly, giant insect, hold monster, insect plague, invisibility, vampiric touch, web, witch bolt
 * 6th Level (1 slot): eyebite - Can only be cast 1/day
 * 7th Level (1 slot): etherealness - Can only be cast 1/day
@@ -48,8 +48,8 @@ damage_resistances: "poison"
 
 ***Multiattack*** The drow makes two poisonous touch attacks or two bite attacks. The first of these attacks that hits each round deals an extra 26 (4d12) poison damage to the target.
 
-***Poisonous Touch (Humanoid Form Only)*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 28 (8d6) poison damage.
+***Poisonous Touch (Humanoid Form Only)*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 28 (8d6) poison damage.
 
-***Bite (Giant Spider Form Only)*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+***Bite (Giant Spider Form Only)*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 ***Web (Giant Spider Form Only Recharge 5-6)*** Ranged Weapon Attack: +8 to hit, range 30/60 pies, un objetivo. Impacto: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).

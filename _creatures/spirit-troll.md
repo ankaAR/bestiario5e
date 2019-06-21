@@ -31,6 +31,6 @@ damage_resistances: "acid, cold, fire, lightning, thunder"
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one creature. Hit: 19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving throw or be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claws*** Melee Weapon Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 14 (2d10 + 3) psychic damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one creature. Hit: 14 (2d10 + 3) psychic damage.

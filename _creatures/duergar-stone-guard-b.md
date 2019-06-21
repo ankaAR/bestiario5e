@@ -28,7 +28,7 @@ damage_resistances: "poison"
 
 ### Actions
 
-***King's Knife (Shortsword)*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
+***King's Knife (Shortsword)*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
 
 ***Javelin*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage while enlarged.
 

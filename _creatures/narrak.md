@@ -23,7 +23,7 @@ armor_class: "12 (15 to mage armor)"
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** Narrak is a 5th-level spellcaster. His spellcasting ability is Charisma (Save DC 13, +5 to hit with spell attacks) Narrak has two 2nd-level spell slots, which he regains after finishing a short or long rest, and knows the following Warlock spells:>>>
+***Lanzamiento de conjuros.*** Narrak is a 5th-level spellcaster. His spellcasting ability is Charisma (Save DC 13, +5 to hit with spell attacks) Narrak has two 2nd-level spell slots, which he regains after finishing a short or long rest, and knows the following Warlock spells:>>>
 
 Cantrips (at will): eldritch blast, friends, poison spray
 
@@ -37,7 +37,7 @@ Cantrips (at will): eldritch blast, friends, poison spray
 
 ***Armor of Shadows (Recharges after a Short or Long Rest).*** Narrak casts mage armor on himself
 
-***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one target. Hit:5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one target. Hit:5 (1d6 + 2) piercing damage.
 
 ### Reactions
 

@@ -50,6 +50,6 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one bite attack and one scimitar attack.
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
 
-***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) slashing damage.
+***Scimitar (Yuan-ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) slashing damage.

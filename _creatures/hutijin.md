@@ -43,13 +43,13 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Hutijin makes four attacks: one with his bite, one with his claw, one with his mace, and one with his tail.
 
-***Bite*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) piercing damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) piercing damage. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claw*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
 
-***Mace*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente.
+***Mace*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente.
 
-***Tail*** Melee Weapon Attack: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) puntos de daño contundente.
+***Tail*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d10 + 8) puntos de daño contundente.
 
 ***Teleport*** Hutijin magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 

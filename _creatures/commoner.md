@@ -9,9 +9,9 @@ con: 10 (0)
 dex: 10 (0)
 str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "0 (10 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 speed: "30 ft."
 hit_points: "4 (1d8)"
 armor_class: "10"
@@ -19,4 +19,4 @@ armor_class: "10"
 
 ### Actions
 
-***Club.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.
+***Clava.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.

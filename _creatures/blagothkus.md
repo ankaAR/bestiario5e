@@ -25,9 +25,9 @@ armor_class: "17 (splint)"
 
 * 3/day each: fog cloud, levitate
 
-***Spellcasting.*** Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:
+***Lanzamiento de conjuros.*** Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): light, mage hand, prestidigitation
+* Trucos (a voluntad): light, mage hand, prestidigitation
 
 * 1st level (4 slots): detect magic, identify, magic missile, shield
 
@@ -39,4 +39,4 @@ armor_class: "17 (splint)"
 
 ***Multiataque.*** Blagothkus attacks twice with his morningstar.
 
-***Morningstar.*** Melee Weapon Attack: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage.

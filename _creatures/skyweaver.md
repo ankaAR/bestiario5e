@@ -18,9 +18,9 @@ hit_points: "44 (8d8+8)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): blade ward, light, message, ray of frost, shocking grasp
+* Trucos (a voluntad): blade ward, light, message, ray of frost, shocking grasp
 
 * 1st level (4 slots): feather fall, mage armor, witch bolt
 

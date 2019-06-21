@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "9 (5,000 XP)"
 languages: "any four languages"
 skills: "Arcana +7, Historia +7"
@@ -20,7 +20,7 @@ armor_class: "12 (15 with mage armor)"
 damage_resistances: "necrotic"
 ---
 
-***Spellcasting.*** The necromancer is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The necromancer has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The necromancer is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The necromancer has the following wizard spells prepared:
 
 Cantrips (at will): chill touch, dancing lights, mage hand, mending
 

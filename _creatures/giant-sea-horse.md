@@ -22,4 +22,4 @@ armor_class: "13 (armadura natural)"
 
 ### Actions
 
-***Ram.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente.
+***Ram.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente.

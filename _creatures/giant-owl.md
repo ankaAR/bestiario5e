@@ -25,4 +25,4 @@ armor_class: "12"
 
 ### Actions
 
-***Talons.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d6 + 1) slashing damage.
+***Talons.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d6 + 1) slashing damage.

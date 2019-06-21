@@ -24,9 +24,9 @@ armor_class: "10 (13 with mage armor)"
 
 * 1/day: pass without trace
 
-***Spellcasting.*** Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, blade ward, friends, light, message, mold earth
+* Trucos (a voluntad): acid splash, blade ward, friends, light, message, mold earth
 
 * 1st level (4 slots): chromatic orb, mage armor, magic missile
 
@@ -42,4 +42,4 @@ armor_class: "10 (13 with mage armor)"
 
 ### Actions
 
-***Staff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente, or 5 (1d8 + 1) puntos de daño contundente when used with two hands.
+***Staff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente, or 5 (1d8 + 1) puntos de daño contundente when used with two hands.

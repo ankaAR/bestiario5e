@@ -27,7 +27,7 @@ damage_resistances: "lightning, thunder, bludgeoning, piercing, and slashing fro
 
 ***Multiataque.*** The elemental makes two slam attacks.
 
-***Slam.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente.
 
 ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) puntos de daño contundente and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) puntos de daño contundente for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
 

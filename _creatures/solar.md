@@ -41,7 +41,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Multiataque.*** The solar makes two greatsword attacks.
 
-***Greatsword.*** Melee Weapon Attack: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.
 
 ***Slaying Longbow.*** Ranged Weapon Attack: +13 to hit, range 150/600 pies, un objetivo. Impacto: 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 190 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
 

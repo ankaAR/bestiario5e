@@ -36,6 +36,6 @@ If Marlos sees himself reflected on a polished surface within 30 feet of him and
 
 ***Multiataque.*** Marlos makes three melee attacks, one with his snake hair and two with Ironfang.
 
-***Snake Hair.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage.
+***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage.
 
-***Ironfang.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) thunder damage.
+***Ironfang.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) thunder damage.

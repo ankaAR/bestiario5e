@@ -18,9 +18,9 @@ hit_points: "71 (11d8+22)"
 armor_class: "16 (breastplate)"
 ---
 
-***Spellcasting.*** Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:
 
-* Cantrips (at will): friends, gust, light, message, ray of frost
+* Trucos (a voluntad): friends, gust, light, message, ray of frost
 
 * 1st level (4 slots): expeditious retreat, feather fall, jump
 
@@ -32,9 +32,9 @@ armor_class: "16 (breastplate)"
 
 ***Multiataque.*** Thurl makes two melee attacks.
 
-***Greatsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) slashing damage.
 
-***Lance.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
+***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
 
 ### Reactions
 

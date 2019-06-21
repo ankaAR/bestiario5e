@@ -25,7 +25,7 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Multiataque.*** The goblin makes two attacks with its scimitar. The second attack has disadvantage.
 
-***Scimitar.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6) piercing damage.
 

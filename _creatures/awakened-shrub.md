@@ -23,4 +23,4 @@ damage_resistances: "piercing"
 
 ### Actions
 
-***Rake.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4 - 1) slashing damage.
+***Rake.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4 - 1) slashing damage.

@@ -19,9 +19,9 @@ armor_class: "12 (15 with mage armor)"
 damage_resistances: "fire"
 ---
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): control flames, create bonfire, fire bolt, light, minor illusion
+* Trucos (a voluntad): control flames, create bonfire, fire bolt, light, minor illusion
 
 * 1st level (4 slots): burning hands, expeditious retreat, mage armor
 

@@ -10,7 +10,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 9 (0)
 size: Humanoide Mediano (dwarf)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "6 (2300 XP)"
 languages: "any four languages"
 senses: "darkvision, passive Perception 11"
@@ -24,8 +24,8 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. The mage has the following wizard spells prepared:
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation
+***Lanzamiento de conjuros.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. The mage has the following wizard spells prepared:
+* Trucos (a voluntad): fire bolt, light, mage hand, prestidigitation
 * 1st level (4 slots): detect magic, mage armor, magic missile, shield
 * 2nd level (3 slots): misty step, suggestion
 * 3rd level (3 slots): counterspell, fireball, fly

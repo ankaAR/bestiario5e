@@ -11,7 +11,7 @@ str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
 alignment: any non-good alignment
 challenge: "1/8 (25 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Deception +2, Religión +2"
 speed: "30 ft."
 hit_points: "9 (2d8)"
@@ -22,4 +22,4 @@ armor_class: "12 (leather armor)"
 
 ### Actions
 
-***Scimitar.*** Melee Weapon Attack: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.

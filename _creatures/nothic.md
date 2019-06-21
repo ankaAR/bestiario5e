@@ -25,7 +25,7 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The nothic makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
 
 ***Rotting Gaze.*** The nothic targets one creature it can see within 30 ft. of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
 

@@ -29,9 +29,9 @@ armor_class: "14 (armadura natural)"
 
 ***Multiataque.*** The troglodyte makes three attacks: one with its bite and two with either its claws or its greatclub.
 
-***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) slashing damage.
 
 ***Greatclub.*** Melee Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño contundente.
 

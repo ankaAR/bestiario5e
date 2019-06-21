@@ -11,7 +11,7 @@ str: 16 (+3)
 size: Humanoide Mediano (cualquier raza)
 alignment: any chaotic alignment
 challenge: "2 (450 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 speed: "30 ft."
 hit_points: "67 (9d8+27)"
 armor_class: "13 (hide armor)"
@@ -21,4 +21,4 @@ armor_class: "13 (hide armor)"
 
 ### Actions
 
-***Greataxe.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) slashing damage.

@@ -30,4 +30,4 @@ On its turn, the Angry has disadvantage on attack rolls if no other creature has
 
 ***Multiattack*** The Angry makes two hook attacks.
 
-***Hook*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d12 + 3) piercing damage.
+***Hook*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d12 + 3) piercing damage.

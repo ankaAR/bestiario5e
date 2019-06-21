@@ -42,7 +42,7 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 ***Multiataque.*** Olhydra makes two slam attacks or two water jet attacks.
 
-***Slam.*** Melee Weapon Attack: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d10 + 5) puntos de daño contundente, and the target is grappled (escape DC 19). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d10 + 5) puntos de daño contundente, and the target is grappled (escape DC 19). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her.
 
 ***Water Jet.*** Ranged Weapon Attack: +12 to hit, range 120 pies, un objetivo. Impacto: 21 (6d6) puntos de daño contundente, and the target is knocked prone if it fails a DC 19 Strength saving throw.
 

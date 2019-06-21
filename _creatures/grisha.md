@@ -19,7 +19,7 @@ hit_points: "33 (6d8+6)"
 armor_class: "18 (chain mail, shield)"
 ---
 
-***Spellcasting.*** Grisha is a 6th-level-spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** Grisha is a 6th-level-spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:
 
 Cantrips (at will): guidance, light, sacred flame, thaumaturgy
 
@@ -33,4 +33,4 @@ Cantrips (at will): guidance, light, sacred flame, thaumaturgy
 
 ***Multiataque.*** Grisha makes two attacks with his +1 flail.
 
-***+1 Flail.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one target. Hit:7 (1d8 + 3) puntos de daño contundente
+***+1 Flail.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target. Hit:7 (1d8 + 3) puntos de daño contundente

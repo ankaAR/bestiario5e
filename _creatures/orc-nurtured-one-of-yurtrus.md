@@ -26,6 +26,6 @@ armor_class: "9"
 
 ### Actions
 
-***Claws.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) slashing damage plus 2 (1d4) necrotic damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) slashing damage plus 2 (1d4) necrotic damage.
 
 ***Corrupted Vengeance.*** The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait.

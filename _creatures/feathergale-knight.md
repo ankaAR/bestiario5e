@@ -18,9 +18,9 @@ hit_points: "33 (6d8+6)"
 armor_class: "16 (scale)"
 ---
 
-***Spellcasting.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:
+***Lanzamiento de conjuros.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:
 
-* Cantrips (at will): gust, light, message, ray of frost
+* Trucos (a voluntad): gust, light, message, ray of frost
 
 * 1st level (2 slots): expeditious retreat, feather fall
 
@@ -28,6 +28,6 @@ armor_class: "16 (scale)"
 
 ***Multiataque.*** The knight makes two melee attacks.
 
-***Longsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.

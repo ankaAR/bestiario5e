@@ -25,9 +25,9 @@ armor_class: "13 (16 with mage armor)"
 
 ***Sculpt Spells.*** When Azbara casts an evocation spell that affects other creatures that he can see, he can choose a number of them equal to 1+the spell's level to succeed on their saving throws against the spell. Those creatures take no damage if they would normally take half damage from the spell.
 
-***Spellcasting.*** Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:
+***Lanzamiento de conjuros.*** Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
+* Trucos (a voluntad): mage hand, prestidigitation, ray of frost, shocking grasp
 
 * 1st level (4 slots): fog cloud, magic missile, shield, thunderwave
 

@@ -19,9 +19,9 @@ hit_points: "22 (5d8)"
 armor_class: "12"
 ---
 
-***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
+***Lanzamiento de conjuros.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
 
-* Cantrips (at will): light, mage hand, shocking grasp
+* Trucos (a voluntad): light, mage hand, shocking grasp
 
 * 1st Level (4 slots): charm person, magic missile
 
@@ -29,4 +29,4 @@ armor_class: "12"
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +1 al ataque, alcance 5 ft., one target.  Hit: 3 (1d8-1) puntos de daño contundente.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 ft., one target.  Hit: 3 (1d8-1) puntos de daño contundente.

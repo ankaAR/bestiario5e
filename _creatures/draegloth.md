@@ -34,6 +34,6 @@ At will: darkness
 
 ***Multiataque.*** The draegloth makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +8 al ataque, alcance 5 ft., one creature. Hit: 16 (2d10+5) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 ft., one creature. Hit: 16 (2d10+5) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10+5) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10+5) slashing damage.

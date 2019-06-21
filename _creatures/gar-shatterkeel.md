@@ -23,9 +23,9 @@ damage_resistances: "cold"
 
 ***Legendary Resistance (2/Day).*** If Gar fails a saving throw, he can choose to succeed instead.
 
-***Spellcasting.*** Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared:
+***Lanzamiento de conjuros.*** Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared:
 
-* Cantrips (at will): mending, resistance, shape water
+* Trucos (a voluntad): mending, resistance, shape water
 
 * 1st level (4 slots): create or destroy water, cure wounds, fog cloud, thunderwave
 
@@ -45,6 +45,6 @@ damage_resistances: "cold"
 
 ***Multiataque.*** Gar makes two melee attacks, one with his claw and one with Drown.
 
-***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
 
 ***Drown.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 4 (1d8) cold damage.

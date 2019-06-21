@@ -26,6 +26,6 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The duodrone makes two fist attacks or two javelin attacks.
 
-***Fist.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.

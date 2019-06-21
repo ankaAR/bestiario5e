@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "12 (8,400 XP)"
 languages: "any six languages"
 skills: "Arcana +13, Historia +13"
@@ -22,9 +22,9 @@ damage_resistances: "damage from spells; non magical bludgeoning, piercing, and 
 
 ***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
+* Trucos (a voluntad): fire bolt, light, mage hand, prestidigitation, shocking grasp
 
 * 1st level (4 slots): detect magic, identify, mage armor*, magic missile
 

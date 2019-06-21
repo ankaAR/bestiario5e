@@ -19,7 +19,7 @@ hit_points: "27 (5d6+10)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Spellcasting.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
+***Lanzamiento de conjuros.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
 
 Cantrips (at will): fire bolt, mage hand, mending, poison spray
 

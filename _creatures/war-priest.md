@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 10 (0)
 str: 16 (+3)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "9 (5,000 XP)"
 languages: "any two languages"
 skills: "Intimidation +5, Religión +4"
@@ -19,7 +19,7 @@ hit_points: "117 (18d8+36)"
 armor_class: "18 (plate)"
 ---
 
-***Spellcasting.*** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
 
 Cantrips (at will): light, mending, sacred flame, spare the dying
 
@@ -37,7 +37,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying
 
 ***Multiataque.*** The priest makes two melee attacks.
 
-***Maul.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 +3) puntos de daño contundente.
+***Maul.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 +3) puntos de daño contundente.
 
 ### Reactions
 

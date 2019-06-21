@@ -10,7 +10,7 @@ con: 11 (0)
 dex: 12 (+1)
 str: 11 (0)
 size: Humanoide Mediano (dwarf)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1/8 (25 XP)"
 languages: "any two languages"
 senses: "darkvision, passive Perception 12"
@@ -25,4 +25,4 @@ damage_resistances: "poison"
 
 ### Actions
 
-***Rapier*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
+***Rapier*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.

@@ -31,7 +31,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Multiattack*** The sword wraith makes two weapon attacks.
 
-***Longsword*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
 

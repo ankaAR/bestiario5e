@@ -10,7 +10,7 @@ con: 15 (+2)
 dex: 9 (-1)
 str: 12 (+1)
 size: Humanoide Mediano (mongrelfolk)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1/4 (50 XP)"
 languages: "Common"
 skills: "Deception +2, Percepción +2, Sigilo +3"
@@ -41,8 +41,8 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.
 
-***Bite.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) slashing damage.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.

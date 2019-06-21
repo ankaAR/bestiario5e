@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 11 (0)
 str: 13 (+1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1/8 (25 XP)"
 languages: "any one language"
 speed: "30 ft."

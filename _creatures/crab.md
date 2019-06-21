@@ -22,4 +22,4 @@ armor_class: "11 (armadura natural)"
 
 ### Actions
 
-***Claw.*** Melee Weapon Attack: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.

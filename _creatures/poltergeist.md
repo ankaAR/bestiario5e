@@ -29,7 +29,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing
 
 ### Actions
 
-***Forceful Slam.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft. one creature. Hit: 10 (3d6) force damage.
+***Forceful Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft. one creature. Hit: 10 (3d6) force damage.
 
 ***Telekinetic Thrust.*** The poltergeist targets a creature or unattended object within 30 feet of it. A creature must be Medium or smaller to be affected by this magic, and an object can weigh up to 150 pounds.
 

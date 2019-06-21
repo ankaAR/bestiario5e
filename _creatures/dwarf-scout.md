@@ -10,9 +10,9 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 11 (0)
 size: Humanoide Mediano (dwarf)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1/2 (100 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 senses: "darkvision, passive Perception 15"
 skills: "Nature +4, Percepción +5, Sigilo +6, Survival +5"
 speed: "30 ft."
@@ -29,6 +29,6 @@ damage_resistances: "poison"
 
 ***Multiattack*** The scout makes two melee attacks or two ranged attacks.
 
-***Shortsword*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 
 ***Longbow*** Ranged Weapon Attack: +4 to hit, ranged 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.

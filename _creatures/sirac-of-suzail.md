@@ -21,7 +21,7 @@ senses: "passive Perception 11"
 
 ### Actions
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) piercing  damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) piercing  damage.
 
 ***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage. Sirac carries six darts.
 

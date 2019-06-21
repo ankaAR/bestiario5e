@@ -28,6 +28,6 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiataque.*** The shoosuva makes two attacks: one with its bite and one with its tail stinger.
 
-***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d10+4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d10+4) piercing damage.
 
-***Tail Stinger.*** Melee Weapon Attack: +7 al ataque, alcance 15 ft, one creature. Hit: 13 (2d8+4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Tail Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 15 ft, one creature. Hit: 13 (2d8+4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -30,9 +30,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
-***Bite.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
 
-***Claws.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo:+10 al ataque, alcance 10 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente plus 10 (3d6) cold damage.
 

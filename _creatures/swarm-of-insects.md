@@ -23,4 +23,4 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ### Actions
 
-***Bites.*** Melee Weapon Attack: +3 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+***Bites.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.

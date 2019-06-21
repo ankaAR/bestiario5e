@@ -27,9 +27,9 @@ damage_resistances: "cold, lightning, necrotic"
 
 ***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost
+* Trucos (a voluntad): mage hand, prestidigitation, ray of frost
 
 * 1st level (4 slots): detect magic, magic missile, shield, thunderwave
 

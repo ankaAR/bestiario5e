@@ -28,8 +28,8 @@ condition_immunities: "poisoned"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
 
-***Claw.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
 
 ***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.

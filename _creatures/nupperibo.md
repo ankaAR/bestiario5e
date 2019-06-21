@@ -29,4 +29,4 @@ damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmag
 
 ### Actions
 
-***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.

@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "9 (5,000 XP)"
 languages: "any four languages"
 skills: "Arcana +8, Historia +8"
@@ -19,7 +19,7 @@ hit_points: "84 (13d8+26)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared:
 
 Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
 
@@ -43,4 +43,4 @@ Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) puntos de daño contundente, or 3 (1d8-l) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) puntos de daño contundente, or 3 (1d8-l) puntos de daño contundente if used with two hands.

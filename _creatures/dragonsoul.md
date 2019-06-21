@@ -32,6 +32,6 @@ damage_resistances: "one of the following: acid, cold, fire, lightning or poison
 
 ***Multiataque.*** The Dragonsoul attacks twice with its shortsword.
 
-***Shortsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has resistance.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has resistance.
 
 ***Orb of Dragon's Breath (3/Day).*** Ranged Spell Attack: +7 to hit, range 90 pies, un objetivo. Impacto: 27 (6d8) damage of the type to which the dragonsoul has damage resistance.

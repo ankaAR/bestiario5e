@@ -28,9 +28,9 @@ damage_resistances: "fire, poison"
 
 ***Multiataque.*** The tanarukk makes two attacks: one with its bite and one with its greatsword.
 
-***Bite.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
 
-***Greatsword.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) slashing damage.
 
 ### Reactions
 

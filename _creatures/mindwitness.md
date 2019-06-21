@@ -27,9 +27,9 @@ condition_immunities: "prone"
 
 ***Multiataque.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 16 (4d6+2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 16 (4d6+2) piercing damage.
 
-***Tentacles.*** Melee Weapon Attack: +5 al ataque, alcance 5 it, one creature. Hit: 20 (4d8+2) psychic damage. if the target is Large or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one creature. Hit: 20 (4d8+2) psychic damage. if the target is Large or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends.
 
 ***Eye Rays.*** Eye Rays. The mindwitness shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 

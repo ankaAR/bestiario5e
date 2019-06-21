@@ -23,7 +23,7 @@ armor_class: "14 (armadura natural)"
 
 ***Multiataque.*** The fomorian attacks twice with its greatclub or makes one greatclub attack and uses Evil Eye once.
 
-***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (3d8 + 6) puntos de daño contundente.
+***Greatclub.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (3d8 + 6) puntos de daño contundente.
 
 ***Evil Eye.*** The fomorian magically forces a creature it can see within 60 feet of it to make a DC 14 Charisma saving throw. The creature takes 27 (6d8) psychic damage on a failed save, or half as much damage on a successful one.
 

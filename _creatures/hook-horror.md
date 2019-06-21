@@ -27,4 +27,4 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The hook horror makes two hook attacks.
 
-***Hook.*** Melee Weapon Attack: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.
+***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.

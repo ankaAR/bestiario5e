@@ -23,6 +23,6 @@ armor_class: "14 (armadura natural)"
 
 ***Multiataque.*** The cyclops makes two greatclub attacks.
 
-***Greatclub.*** Melee Weapon Attack: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (3d8 + 6) puntos de daño contundente.
+***Greatclub.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (3d8 + 6) puntos de daño contundente.
 
 ***Rock.*** Ranged Weapon Attack: +9 to hit, range 30/120 pies, un objetivo. Impacto: 28 (4d10 + 6) puntos de daño contundente.

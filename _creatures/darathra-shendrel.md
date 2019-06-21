@@ -25,7 +25,7 @@ senses: " passive Perception 12"
 
 ***Multiataque.*** Darthra makes two melee attacks.
 
-***Greatsword.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) slashing damage
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) slashing damage
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage. Darathra carries twenty crossbow bolts.
 

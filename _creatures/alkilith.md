@@ -37,4 +37,4 @@ If the saving throw against Foment Madness fails by 5 or more, the creature is i
 
 ***Multiattack*** The alkilith makes three tentacle attacks.
 
-***Tentacle*** Melee Weapon Attack: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 18 (4d6 + 4) acid damage.
+***Tentacle*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 18 (4d6 + 4) acid damage.

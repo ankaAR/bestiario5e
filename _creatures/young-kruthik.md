@@ -27,4 +27,4 @@ armor_class: "16 (armadura natural)"
 
 ### Actions
 
-***Stab*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.
+***Stab*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

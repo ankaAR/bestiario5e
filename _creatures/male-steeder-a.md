@@ -25,6 +25,6 @@ armor_class: "12 (armadura natural)"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 7 (1d8 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 4 (1d8) acid damage on a failed save, or half as much damage on a successful one.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one creature. Hit: 7 (1d8 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 4 (1d8) acid damage on a failed save, or half as much damage on a successful one.
 
-***Sticky Leg (Recharges when the Steeder Has No Creatures Grappled.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft., one Small or Tiny creature. Hit: The target is stuck ot the steeder's leg and grappled until it escapes (escape DC 12)
+***Sticky Leg (Recharges when the Steeder Has No Creatures Grappled.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one Small or Tiny creature. Hit: The target is stuck ot the steeder's leg and grappled until it escapes (escape DC 12)

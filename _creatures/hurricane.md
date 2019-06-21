@@ -18,9 +18,9 @@ hit_points: "33 (6d8+6)"
 armor_class: "14"
 ---
 
-***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): blade ward, gust, light, prestidigitation
+* Trucos (a voluntad): blade ward, gust, light, prestidigitation
 
 * 1st level (4 slots): feather fall, jump, thunderwave
 
@@ -34,7 +34,7 @@ armor_class: "14"
 
 ***Multiataque.*** The hurricane makes two melee attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
 ### Reactions
 

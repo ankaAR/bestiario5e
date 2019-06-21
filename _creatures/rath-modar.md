@@ -21,9 +21,9 @@ armor_class: "13 (16 with mage armor)"
 
 ***Special Equipment.*** Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball.
 
-***Spellcasting.*** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:
+***Lanzamiento de conjuros.*** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): fire bolt, minor illusion, prestidigitation, shocking grasp
+* Trucos (a voluntad): fire bolt, minor illusion, prestidigitation, shocking grasp
 
 * 1st level (4 slots): chromatic orb, color spray, mage armor, magic missile
 
@@ -39,7 +39,7 @@ armor_class: "13 (16 with mage armor)"
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) puntos de daño contundente.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) puntos de daño contundente.
 
 ### Reactions
 

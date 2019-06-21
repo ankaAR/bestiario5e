@@ -36,9 +36,9 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The yagnoloth makes one massive arm attack and one electrified touch attack, or it makes one massive arm attack and teleports before or after the attack.
 
-***Electrified Touch*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 27 (6d8) lightning damage.
+***Electrified Touch*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 27 (6d8) lightning damage.
 
-***Massive Arm*** Melee Weapon Attack: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (3d12 + 4) puntos de daño contundente. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or is stunned until the end of the yagnoloth's next turn.
+***Massive Arm*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (3d12 + 4) puntos de daño contundente. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or is stunned until the end of the yagnoloth's next turn.
 
 ***Life Leech*** The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.
 

@@ -33,7 +33,7 @@ damage_resistances: "lightning, necrotic; bludgeoning, piercing, and slashing fr
 
 ***Instinctive Attack.*** When the Ooze Master casts a spell with a casting time of 1 action, it can make one pseudopod attack as a bonus action.
 
-***Spellcasting.*** The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
 
 Cantrips (at will): acid splash, friends, mage hand, poison spray
 
@@ -51,7 +51,7 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ### Actions
 
-***Pseudopod.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) acid damage.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) acid damage.
 
 ### Reactions
 

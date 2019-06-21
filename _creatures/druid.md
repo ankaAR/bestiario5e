@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "2 (450 XP)"
 languages: "Druidic plus any two languages"
 skills: "Medicina +4, Nature +3, Percepción +4"
@@ -18,9 +18,9 @@ hit_points: "27 (5d8+5)"
 armor_class: "11 (16 with barkskin)"
 ---
 
-***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+***Lanzamiento de conjuros.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-* Cantrips (at will): druidcraft, produce flame, shillelagh
+* Trucos (a voluntad): druidcraft, produce flame, shillelagh
 
 * 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
 
@@ -28,4 +28,4 @@ armor_class: "11 (16 with barkskin)"
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente with shillelagh or if wielded with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +2 to hit (+4 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente with shillelagh or if wielded with two hands.

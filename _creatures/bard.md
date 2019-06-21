@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "2 (450 XP)"
 languages: "any two languages"
 skills: "Acrobatics +4, Percepción +5, Performance +6"
@@ -19,7 +19,7 @@ hit_points: "44 (8d8+8)"
 armor_class: "15 (chain shirt)"
 ---
 
-***Spellcasting.*** The bard is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following bard spells prepared:
+***Lanzamiento de conjuros.*** The bard is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following bard spells prepared:
 
 Cantrips (at will): friends, mage hand, vicious mockery
 
@@ -33,6 +33,6 @@ Cantrips (at will): friends, mage hand, vicious mockery
 
 ### Actions
 
-***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one: target. Hit: 5 (1d6+2) piercing damage.

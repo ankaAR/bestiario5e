@@ -20,4 +20,4 @@ armor_class: "11 (armadura natural)"
 
 ### Actions
 
-***Gore.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.

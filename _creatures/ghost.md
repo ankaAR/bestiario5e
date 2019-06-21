@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 13 (+1)
 str: 7 (-2)
 size: Medium undead
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "4 (1,100 XP)"
 languages: "any languages it knew in life"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
@@ -27,7 +27,7 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ### Actions
 
-***Withering Touch.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) necrotic damage.
+***Withering Touch.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) necrotic damage.
 
 ***Etherealness.*** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 

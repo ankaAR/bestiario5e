@@ -22,9 +22,9 @@ armor_class: "12 (hide armor)"
 
 The possession lats until either the body drops to 0 hit points, the yakfolk ends the possession as an action, or the yakfolk is forced out of the body by an effect such as dispel evil and good spell. When the possession ends, the yakfolk appears in an unoccupied space within 5 feet of the body and is stunned until the end of its next turn. If the host body dies while it is possessed by the yakfolk, the yakfolk dies as well and its body does not reappear.
 
-***Spellcasting.*** The yakfolk is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The yakfolk is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-* Cantrips (at will): light, mending, sacred flame, thaumaturgy
+* Trucos (a voluntad): light, mending, sacred flame, thaumaturgy
 
 * 1st level (4 slots): bane, command, cure wounds, sanctuary
 
@@ -38,6 +38,6 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 ***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 
-***Quarterstaff.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) puntos de daño contundente, or 12 (2d8+3) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) puntos de daño contundente, or 12 (2d8+3) puntos de daño contundente if used with two hands.
 
 ***Summon Earth Elemental (1/día).*** The yakfolk summons an earth elemental. The elemental appears in an unoccupied space within 60 feet of its summoner and acts as an ally of the summoner. It remains for 10 minutes, until it dies, or until its summoner dismisses it as an action.

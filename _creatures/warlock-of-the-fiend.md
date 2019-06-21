@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "7 (2,900 XP)"
 languages: "any two languages (usually Abyssal or Infernal)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
@@ -27,7 +27,7 @@ At will: alter self, false life, levitate (self only), mage armor (self only), s
 
 1/day each: feeblemind, finger of death, plane shift
 
-***Spellcasting.*** The warlock is a l7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+***Lanzamiento de conjuros.*** The warlock is a l7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
 Cantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusion, prestidigitation, shocking grasp
 
@@ -37,4 +37,4 @@ Cantrips (at will): eldritch blast, fire bolt, friends, mage hand, minor illusio
 
 ### Actions
 
-***Mace.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente plus 10 (3d6) fire damage.
+***Mace.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente plus 10 (3d6) fire damage.

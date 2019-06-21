@@ -34,9 +34,9 @@ At will: darkness, detect magic, dispel magic
 
 ***Multiataque.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
-***Pincer.*** Melee Weapon Attack: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño contundente. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+***Pincer.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño contundente. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 
-***Fist.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño contundente.
 
 ***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
 

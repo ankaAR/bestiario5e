@@ -24,9 +24,9 @@ armor_class: "15 (chain shirt)"
 
 ***Multiataque.*** The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage.
 
-***Glaive.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 8 (1d10 + 3) slashing damage.
+***Glaive.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 8 (1d10 + 3) slashing damage.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
 

@@ -31,8 +31,8 @@ damage_resistances: "cold, fire, lightning, necrotic; bludgeoning, piercing, and
 
 ***Multiattack*** The maurezhi makes two attacks: one with its bite and one with its claws.
 
-***Bite*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) piercing damage. If the target is a humanoid, its Charisma score is reduced by 1d4. This reduction lasts until the target finishes a short or long rest. The target dies if this reduces its Charisma to 0. It rises 24 hours later as a ghoul, unless it has been revived or its corpse has been destroyed.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) piercing damage. If the target is a humanoid, its Charisma score is reduced by 1d4. This reduction lasts until the target finishes a short or long rest. The target dies if this reduces its Charisma to 0. It rises 24 hours later as a ghoul, unless it has been revived or its corpse has been destroyed.
 
-***Claws*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 12 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 12 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Raise Ghoul (Recharge 5-6)*** The maurezhi targets one dead ghoul or ghast it can see within 30 feet of it. The target is revived with all its hit points.

@@ -18,4 +18,4 @@ armor_class: "10"
 
 ### Actions
 
-***Hooves.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño contundente.
+***Hooves.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño contundente.

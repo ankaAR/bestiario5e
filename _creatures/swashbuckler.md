@@ -11,7 +11,7 @@ str: 12 (+1)
 size: Humanoide Mediano (cualquier raza)
 alignment: any non-lawful alignment
 challenge: "3 (700 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Acrobatics +8, Athletics +5, Persuasion +6"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
@@ -28,4 +28,4 @@ armor_class: "17 (leather armor)"
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d4+4) piercing damage.
 
-***Rapier.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
+***Rapier.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.

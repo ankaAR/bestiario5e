@@ -32,9 +32,9 @@ armor_class: "11 (14 with mage armor)"
 
 * 1/day each: darkness, faerie fire (save DC 12)
 
-***Spellcasting.*** Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:
+***Lanzamiento de conjuros.*** Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:
 
-* Cantrips (at will): mage hand, ray of frost, shocking grasp
+* Trucos (a voluntad): mage hand, ray of frost, shocking grasp
 
 * 1st Level (4 slots): mage armor, magic missile, shield
 
@@ -42,4 +42,4 @@ armor_class: "11 (14 with mage armor)"
 
 ### Actions
 
-***Spider Staff.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente plus 3 (1d6) poison damage.
+***Spider Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente plus 3 (1d6) poison damage.

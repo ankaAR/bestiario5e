@@ -21,6 +21,6 @@ armor_class: "13 (hide armor)"
 
 ### Actions
 
-***Fist*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño contundente.
+***Fist*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño contundente.
 
 ***Bolt Launcher*** Ranged Weapon Attack: +3 to hit, range 120/480 pies, un objetivo. Impacto: 17 (3d10 + 1) piercing damage.

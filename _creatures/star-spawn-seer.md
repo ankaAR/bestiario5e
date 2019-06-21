@@ -30,7 +30,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** The seer makes two comet staff attacks or uses Psychic Orb twice.
 
-***Comet Staff*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño contundente plus 18 (4d8) psychic damage, or 10 (1d8 + 6) puntos de daño contundente plus 18 (4d8) psychic damage, if used with two hands, and the target must succeed on a DC 19 Constitution saving throw or be incapacitated until the end of its next turn.
+***Comet Staff*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño contundente plus 18 (4d8) psychic damage, or 10 (1d8 + 6) puntos de daño contundente plus 18 (4d8) psychic damage, if used with two hands, and the target must succeed on a DC 19 Constitution saving throw or be incapacitated until the end of its next turn.
 
 ***Psychic Orb*** Ranged Spell Attack: +11 to hit, range 120 feet, one target. Hit: 27 (5d10) psychic damage.
 

@@ -28,7 +28,7 @@ armor_class: "18 (chain mail, shield)"
 
 ### Actions
 
-***Longsword.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands.
 
 ### Reactions
 

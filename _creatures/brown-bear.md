@@ -25,4 +25,4 @@ armor_class: "11 (armadura natural)"
 
 ***Bite.*** Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.

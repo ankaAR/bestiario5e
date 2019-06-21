@@ -35,7 +35,7 @@ At will: druidcraft
 
 ### Actions
 
-***Club.*** Melee Weapon Attack: +2 to hit (+6 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 2 (1 d4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente with shillelagh.
+***Clava.*** Ataque de arma cuerpo a cuerpo: +2 to hit (+6 to hit with shillelagh), reach 5 pies, un objetivo. Impacto: 2 (1 d4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente with shillelagh.
 
 ***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 

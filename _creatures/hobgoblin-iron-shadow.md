@@ -19,7 +19,7 @@ hit_points: "32 (5d8+10)"
 armor_class: "15"
 ---
 
-***Spellcasting.*** The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
 
 Cantrips (at will): minor illusion, prestidigitation, true strike
 
@@ -31,7 +31,7 @@ Cantrips (at will): minor illusion, prestidigitation, true strike
 
 ***Multiataque.*** The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.
 
-***Unarmed Strike.*** Melee Weapon Attack: +5 al ataque, alcance 5 it, one target. Hit: 5 (1d4+3) puntos de daño contundente.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one target. Hit: 5 (1d4+3) puntos de daño contundente.
 
 ***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 it, one target. Hit: 5 (1d4+3) piercing damage.
 

@@ -20,9 +20,9 @@ armor_class: "15 (cuero endurecido)"
 
 ***Hold Breath.*** The priest can hold its breath for 30 minutes.
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): blade ward, gust, light, prestidigitation, shocking grasp
+* Trucos (a voluntad): blade ward, gust, light, prestidigitation, shocking grasp
 
 * 1st level (4 slots): featherfall, shield, witch bolt
 
@@ -34,6 +34,6 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** The priest makes two melee attacks or two ranged attacks.
 
-***Scimitar.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

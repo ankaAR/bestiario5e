@@ -20,9 +20,9 @@ hit_points: "16 (3d8+3)"
 armor_class: "10"
 ---
 
-***Spellcasting.*** The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost
+* Trucos (a voluntad): mage hand, prestidigitation, ray of frost
 
 * 1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter
 
@@ -30,6 +30,6 @@ armor_class: "10"
 
 ### Actions
 
-***Claws (Requires Alter Self).*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage. This attack is magical.
+***Claws (Requires Alter Self).*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage. This attack is magical.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 2 (1d4) piercing damage.

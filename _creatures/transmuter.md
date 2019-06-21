@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "5 (1,800 XP)"
 languages: "any four languages"
 skills: "Arcana +6, Historia +6"
@@ -19,7 +19,7 @@ hit_points: "40 (9d8)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The transmuter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The transmuter has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The transmuter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The transmuter has the following wizard spells prepared:
 
 Cantrips (at will): light, mending, prestidigitation, ray of frost
 
@@ -49,4 +49,4 @@ Cantrips (at will): light, mending, prestidigitation, ray of frost
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.

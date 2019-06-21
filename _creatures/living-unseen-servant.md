@@ -26,4 +26,4 @@ condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.

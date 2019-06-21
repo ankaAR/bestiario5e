@@ -32,4 +32,4 @@ damage_resistances: "acid, fire, necrotic, thunder, bludgeoning, piercing, and s
 
 ### Actions
 
-***Claws.*** Melee Weapon Attack: +5 al ataque, alcance 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.

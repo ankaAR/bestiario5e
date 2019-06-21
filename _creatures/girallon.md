@@ -26,6 +26,6 @@ armor_class: "13"
 
 ***Multiataque.*** The girallon makes five attacks: one with its bite and four with its claws.
 
-***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft, one creature. Hit: 7 (1d6+4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 7 (1d6+4) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +6 to hit. reach 10 pies, un objetivo. Impacto: 7 (1d6+4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 to hit. reach 10 pies, un objetivo. Impacto: 7 (1d6+4) slashing damage.

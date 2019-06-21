@@ -21,4 +21,4 @@ armor_class: "14"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage plus 7 (3d4) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage plus 7 (3d4) poison damage.

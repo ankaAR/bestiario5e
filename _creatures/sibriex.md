@@ -38,9 +38,9 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The sibriex uses Squirt Bile once and makes three attacks using its chain, bite, or both.
 
-***Chain*** Melee Weapon Attack: +6 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d12 + 7) piercing damage.
+***Chain*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d12 + 7) piercing damage.
 
-***Bite*** Melee Weapon Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) piercing damage plus 9 (2d8) acid damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) piercing damage plus 9 (2d8) acid damage.
 
 ***Squirt Bile*** The sibriex targets one creature it can see within 120 feet of it. The target must succeed on a DC 20 Dexterity saving throw or take 35 (10d6) acid damage.
 

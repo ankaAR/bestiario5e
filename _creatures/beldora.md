@@ -21,7 +21,7 @@ senses: "qpassive Perception 13"
 
 ### Actions
 
-***Shortsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage, .
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) slashing damage, .
 
 ***Hand Crossbow.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage. Beldora carries ten crossbow bolts.
 

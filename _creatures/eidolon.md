@@ -10,7 +10,7 @@ con: 9 (0)
 dex: 8 (-1)
 str: 7 (-1)
 size: Medium undead
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "12 (8400 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 18"

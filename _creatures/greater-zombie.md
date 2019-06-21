@@ -34,4 +34,4 @@ damage_resistances: "cold, necrotic"
 
 ***Multiataque.*** The zombie makes two melee attacks.
 
-***Empowered Slam.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente and 7 (2d6) necrotic damage.
+***Empowered Slam.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente and 7 (2d6) necrotic damage.

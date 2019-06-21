@@ -40,9 +40,9 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Melee Weapon Attack: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (5d10 + 9) piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.
+***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (5d10 + 9) piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.
 
-***Claw*** Melee Weapon Attack: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d6 + 9) slashing damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d6 + 9) slashing damage.
 
 ### Legendary Actions
 

@@ -21,4 +21,4 @@ armor_class: "13 (armadura natural)"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) slashing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) slashing damage.

@@ -29,4 +29,4 @@ armor_class: "14 (leather armor)"
 
 ***Multiataque.*** The dragonclaw attacks twice with its scimitar.
 
-***Scimitar.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.

@@ -31,7 +31,7 @@ At will: detect thoughts, levitate
 
 1/day each: dominate monster, plane shift (self only)
 
-***Spellcasting.*** The alhoon is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The alhoon has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The alhoon is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The alhoon has the following wizard spells prepared:
 
 Cantrips (at will): chill touch, dancing lights, mage hand, prestidigitation, shocking grasp
 

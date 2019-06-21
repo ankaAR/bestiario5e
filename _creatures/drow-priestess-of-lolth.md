@@ -28,9 +28,9 @@ At will: dancing lights
 
 1/day each: darkness, faerie fire, levitate (self only)
 
-***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy
+* Trucos (a voluntad): guidance, poison spray, resistance, spare the dying, thaumaturgy
 
 * 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness
 
@@ -48,6 +48,6 @@ At will: dancing lights
 
 ***Multiataque.*** The drow makes two scourge attacks.
 
-***Scourge.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
+***Scourge.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
 
 ***Summon Demon (1/Day).*** The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.

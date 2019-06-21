@@ -26,9 +26,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Weapons.*** The sphinx's weapon attacks are magical.
 
-***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, minor illusion, prestidigitation
+* Trucos (a voluntad): mage hand, minor illusion, prestidigitation
 
 * 1st level (4 slots): detect magic, identify, shield
 
@@ -44,7 +44,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
 
 ### Legendary Actions
 

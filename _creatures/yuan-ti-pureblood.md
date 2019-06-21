@@ -33,6 +33,6 @@ At will: animal friendship (snakes only)
 
 ***Multiataque.*** The yuan-ti makes two melee attacks.
 
-***Scimitar.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.
+***Scimitar.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.

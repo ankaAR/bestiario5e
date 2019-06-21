@@ -24,6 +24,6 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The roc makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 27 (4d8 + 9) piercing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 27 (4d8 + 9) piercing damage.
 
-***Talons.*** Melee Weapon Attack: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+***Talons.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.

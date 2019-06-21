@@ -27,4 +27,4 @@ armor_class: "17 (armadura natural)"
 
 ***Multiataque.*** The crab makes two attacks with its claws.
 
-***Claw.*** Melee Weapon Attack: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d10+4) puntos de daño contundente, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d10+4) puntos de daño contundente, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.

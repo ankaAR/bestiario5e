@@ -23,9 +23,9 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Poison Strike (3/Day).*** Once per turn, when Pharblex hits with a melee attack, he can expend a use of this trait to deal an extra 9 (2d8) poison damage.
 
-***Spellcasting.*** Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:
+***Lanzamiento de conjuros.*** Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:
 
-* Cantrips (at will): druidcraft, guidance, poison spray
+* Trucos (a voluntad): druidcraft, guidance, poison spray
 
 * 1st level (4 slots): cure wounds, entangle, healing word, thunderwave
 
@@ -41,6 +41,6 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Multiataque.*** Pharblex attacks twice. Once with his bite and once with his spear.
 
-***Bite.*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +5 to hit. reach 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

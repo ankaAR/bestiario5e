@@ -21,9 +21,9 @@ armor_class: "12 (15 with mage armor)"
 
 ***Chilling Mist.*** While it is alive, the one-eyed shiver projects an aura of cold mist within 10 feet of itself. If the one-eyed shiver deals damage to a creature in this area, the creature also takes 5 (1d10) cold damage.
 
-***Spellcasting.*** The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): chill touch, mage hand
+* Trucos (a voluntad): chill touch, mage hand
 
 * 1st level (4 slots): fog cloud, mage armor, thunderwave
 
@@ -33,6 +33,6 @@ armor_class: "12 (15 with mage armor)"
 
 ### Actions
 
-***Dagger.*** Melee Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
 ***Eye of Frost.*** The one-eyed shiver casts ray of frost from its missing eye. If it hits, the target is also restrained. A target restrained in this way can end the condition by using an action, succeeding on a DC 13 Strength check.

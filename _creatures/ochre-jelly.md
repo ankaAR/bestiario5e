@@ -26,7 +26,7 @@ damage_resistances: "acid"
 
 ### Actions
 
-***Pseudopod.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente plus 3 (1d6) acid damage.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente plus 3 (1d6) acid damage.
 
 ### Reactions
 

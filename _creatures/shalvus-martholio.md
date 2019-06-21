@@ -23,7 +23,7 @@ senses: " passive Perception 12"
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente, or 4 (1d8) puntos de daño contundente if used with both hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente, or 4 (1d8) puntos de daño contundente if used with both hands.
 
 ***Hand Crossbow.*** Ranged Weapon Attack: +2 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage. Shalvus carries ten crossbow bolts.
 

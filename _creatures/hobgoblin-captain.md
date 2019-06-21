@@ -24,7 +24,7 @@ armor_class: "17 (half plate)"
 
 ***Multiataque.*** The hobgoblin makes two greatsword attacks.
 
-***Greatsword.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) piercing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) piercing damage.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 

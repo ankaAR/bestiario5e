@@ -26,9 +26,9 @@ damage_resistances: "fire"
 
 ***Multiataque.*** The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
-***Bite.*** Melee Weapon Attack: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 26 (3d12 + 7) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 26 (3d12 + 7) piercing damage.
 
-***Claw.*** Melee Weapon Attack: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d8 + 7) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d8 + 7) slashing damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 26 (3d12 + 7) puntos de daño contundente. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
 

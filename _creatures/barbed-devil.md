@@ -33,7 +33,7 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Multiataque.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
-***Claw.*** Melee Weapon Attack: +6 al ataque, alcance 5 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) piercing damage.
 

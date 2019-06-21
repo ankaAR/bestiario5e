@@ -25,4 +25,4 @@ damage_resistances: "cold, fire, lightning"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8+2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8+2) piercing damage.

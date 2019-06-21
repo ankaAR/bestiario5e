@@ -24,7 +24,7 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Slam.*** Melee Weapon Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (3d4 + 1) puntos de daño contundente plus 7 (3d4) poison damage.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (3d4 + 1) puntos de daño contundente plus 7 (3d4) poison damage.
 
 ***Caustic Spores (1/Day).*** Yestabrod releases spores in a 30-foot cone. Each creature in that area must succeed on a DC 12 Dexterity saving throw ortake 1d6 acid damage at the start of each of Yestbrod's turns. A creature can repeat the saving throw at the end of each of its turn, ending the effect on itself on a success.
 

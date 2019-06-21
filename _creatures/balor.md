@@ -34,9 +34,9 @@ damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from n
 
 ***Multiataque.*** The balor makes two attacks: one with its longsword and one with its whip.
 
-***Longsword.*** Melee Weapon Attack: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
 
-***Whip.*** Melee Weapon Attack: +14 al ataque, alcance 30 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
+***Whip.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 30 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
 
 ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 

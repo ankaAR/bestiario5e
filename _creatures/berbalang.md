@@ -32,6 +32,6 @@ The duplicate has the same statistics and knowledge as the berbalang, and everyt
 
 ***Multiattack*** The berbalang makes two attacks: one with its bite and one with its claws.
 
-***Bite*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage.
 
-***Claws*** Melee Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage.

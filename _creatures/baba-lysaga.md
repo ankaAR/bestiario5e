@@ -24,9 +24,9 @@ armor_class: "15 (armadura natural)"
 
 ***Blessing of Mother Night.*** Baba Lysaga is shielded against divination magic, as though protected by a nondetection spell.
 
-***Spellcasting.*** Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following wizard spells prepared:
 
-* Cantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation
+* Trucos (a voluntad): acid splash, fire bolt, light, mage hand, prestidigitation
 
 * 1st level (4 slots): detect magic, magic missile, sleep, witch bolt
 
@@ -48,6 +48,6 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** Baba Lysaga makes three attacks with her quarterstaff
 
-***Quarterstaff.*** Melee Weapon Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) puntos de daño contundente if wielded with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) bludegoning damage, or 8 (1d8+4) puntos de daño contundente if wielded with two hands.
 
 ***Summon Swarms of Insects (Recharges after a Short or Long Rest).*** Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It remains until it dies or until Baba Lysaga dismisses it as an action.

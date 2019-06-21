@@ -23,7 +23,7 @@ armor_class: "14 (hide armor)"
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-***Spellcasting.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:
 
 Cantrips (at will): guidance, mending, resistance, thaumaturgy
 
@@ -37,4 +37,4 @@ Cantrips (at will): guidance, mending, resistance, thaumaturgy
 
 ***Multiataque.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
 
-***Claw.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) slashing damage.

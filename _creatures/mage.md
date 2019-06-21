@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 9 (-1)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "6 (2,300 XP)"
 languages: "any four languages"
 skills: "Arcana +6, Historia +6"
@@ -19,9 +19,9 @@ hit_points: "40 (9d8)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation
+* Trucos (a voluntad): fire bolt, light, mage hand, prestidigitation
 
 * 1st level (4 slots): detect magic, mage armor, magic missile, shield
 

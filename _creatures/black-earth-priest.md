@@ -18,9 +18,9 @@ hit_points: "45 (7d8+14)"
 armor_class: "17 (splint)"
 ---
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
+***Lanzamiento de conjuros.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, blade ward, light, mending, mold earth
+* Trucos (a voluntad): acid splash, blade ward, light, mending, mold earth
 
 * 1st level (4 slots): earth tremor, expeditious retreat, shield
 
@@ -32,7 +32,7 @@ armor_class: "17 (splint)"
 
 ***Multiataque.*** The priest makes two melee attacks.
 
-***Glaive.*** Melee Weapon Attack: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) slashing damage.
+***Glaive.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) slashing damage.
 
 ### Reactions
 

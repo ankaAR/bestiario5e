@@ -31,9 +31,9 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 ***Magic Weapons.*** The arcanaloth's weapon attacks are magical.
 
-***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
+***Lanzamiento de conjuros.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
+* Trucos (a voluntad): fire bolt, mage hand, minor illusion, prestidigitation
 
 * 1st level (4 slots): detect magic, identify, shield, Tenser's floating disk
 
@@ -53,7 +53,7 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 ### Actions
 
-***Claws.*** Melee Weapon Attack: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 

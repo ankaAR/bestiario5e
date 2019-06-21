@@ -27,9 +27,9 @@ armor_class: "11 (armadura natural)"
 
 ***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
-* Cantrips (at will): sacred flame, thaumaturgy
+* Trucos (a voluntad): sacred flame, thaumaturgy
 
 * 1st level (3 slots): bane, shield of faith
 
@@ -37,6 +37,6 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
 
-***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Pincer Staff.*** Melee Weapon Attack: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
+***Pincer Staff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.

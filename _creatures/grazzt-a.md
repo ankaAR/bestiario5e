@@ -43,7 +43,7 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 ***Multiataque.*** Graz'zt attacks twice with the Wave of Sorrow.
 
-***Wave of Sorrow (Greatsword).*** Melee Weapon Attack: +13 al ataque, alcance 10 ft., one target, Hit; 20 (4d6 + 6) slashing damage plus 14 (4d6) acid damage.
+***Wave of Sorrow (Greatsword).*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 ft., one target, Hit; 20 (4d6 + 6) slashing damage plus 14 (4d6) acid damage.
 
 ***Teleport.*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

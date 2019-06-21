@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 13 (+1)
 str: 13 (+1)
 size: Humanoide Mediano (dwarf)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "1 (200 XP)"
 languages: "Común, Dwarvish"
 senses: "darkvision 60ft., passive Perception 14"

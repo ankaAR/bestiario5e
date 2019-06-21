@@ -40,9 +40,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** Geryon makes two attacks: one with his claws and one with his stinger.
 
-***Claws*** Melee Weapon Attack: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) slashing damage.
 
-***Stinger*** Melee Weapon Attack: +16 al ataque, alcance 20 ft., one creature. Hit: 14 (2d4 + 9) piercing damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.
+***Stinger*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 ft., one creature. Hit: 14 (2d4 + 9) piercing damage, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.
 
 ***Teleport*** Geryon magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 

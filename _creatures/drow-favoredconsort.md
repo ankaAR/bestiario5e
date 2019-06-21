@@ -27,8 +27,8 @@ armor_class: "15 (18 with mage armor)"
 * At will: dancing lights
 * 1/day each: darkness, faerie fire, levitate (self only)
 
-***Spellcasting.*** The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:
-* Cantrips (at will): mage hand, message, poison spray, shocking grasp, ray of frost
+***Lanzamiento de conjuros.*** The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:
+* Trucos (a voluntad): mage hand, message, poison spray, shocking grasp, ray of frost
 * 1st level (4 slots): burning hands, mage armor, magic missile, shield
 * 2nd level (3 slots): gust of wind, invisibility, misty step, shatter
 * 3rd level (3 slots): counterspell, fireball, haste
@@ -44,6 +44,6 @@ armor_class: "15 (18 with mage armor)"
 
 ***Multiattack*** The drow makes three scimitar attacks.
 
-***Scimitar*** Melee Weapon Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d6 + 5) slashing damage plus 18 (4d8) poison damage. In addition, the target has disadvantage on the next saving throw it makes against a spell the drow casts before the end of the drow's next turn.
+***Scimitar*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d6 + 5) slashing damage plus 18 (4d8) poison damage. In addition, the target has disadvantage on the next saving throw it makes against a spell the drow casts before the end of the drow's next turn.
 
 ***Hand Crossbow*** Ranged Weapon Attack: +11 to hit, range 30/120 pies, un objetivo. Impacto: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.

@@ -32,8 +32,8 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Magic Resistance.*** The drow has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom. The drow has the following cleric spells prepared:
-* Cantrips (at will): guidance, mending, resistance, sacred flame , thaumaturgy
+***Lanzamiento de conjuros.*** The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom. The drow has the following cleric spells prepared:
+* Trucos (a voluntad): guidance, mending, resistance, sacred flame , thaumaturgy
 * 1st level (4 slots): bane, command, cure wounds, guiding bolt
 * 2nd level (3 slots): hold person, silence, spiritual weapon
 * 3rd level (3 slots): bestow curse, clairvoyance, dispel magic, spirit guardians
@@ -50,9 +50,9 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Multiattack*** The matron mother makes two demon staff attacks or three tentacle rod attacks.
 
-***Demon Staff*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente if used with two hands, plus 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become frightened of the drow for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Demon Staff*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente if used with two hands, plus 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become frightened of the drow for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Tentacle Rod*** Melee Weapon Attack: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente. If the target is hit three times by the rod on one turn, the target must succeed on a DC 15 Constitution saving throw or suffer the following effects for 1 minute: the target's speed is halved, it has disadvantage on Dexterity saving throws, and it can't use reactions. Moreover, on each of its turns, it can take either an action or a bonus action, but not both. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.
+***Tentacle Rod*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente. If the target is hit three times by the rod on one turn, the target must succeed on a DC 15 Constitution saving throw or suffer the following effects for 1 minute: the target's speed is halved, it has disadvantage on Dexterity saving throws, and it can't use reactions. Moreover, on each of its turns, it can take either an action or a bonus action, but not both. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.
 
 ***Summon Servant (1/Day)*** The drow magically summons a retriever or a yochlol. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 

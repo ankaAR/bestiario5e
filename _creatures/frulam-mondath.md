@@ -19,9 +19,9 @@ hit_points: "44 (8d8+8)"
 armor_class: "16 (chain mail)"
 ---
 
-***Spellcasting.*** Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:
+***Lanzamiento de conjuros.*** Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:
 
-* Cantrips (at will): light, sacred flame, thaumaturgy
+* Trucos (a voluntad): light, sacred flame, thaumaturgy
 
 * 1st level (4 slots): command, cure wounds, healing word, sanctuary
 
@@ -33,4 +33,4 @@ armor_class: "16 (chain mail)"
 
 ***Multiataque.*** Frulam attacks twice with her halberd.
 
-***Halberd.*** Melee Weapon Attack: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño contundente.
+***Halberd.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño contundente.

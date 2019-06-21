@@ -26,9 +26,9 @@ condition_immunities: "exhaustion, poisoned"
 
 ***Multiataque.*** The witherling makes two attacks: one with its bite and one with its club, or two with its club.
 
-***Bite.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
 
-***Club.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente.
+***Clava.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente.
 
 ### Reactions
 

@@ -50,6 +50,6 @@ To be granted a wish, a creature within 60 feet of the genie states a desired ef
 
 ***Multiataque.*** The Dao makes two fist attacks or two maul attacks.
 
-***Fist.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d8 + 6) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d8 + 6) puntos de daño contundente.
 
-***Maul.*** Melee Weapon Attack: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (4d6 + 6) puntos de daño contundente. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.
+***Maul.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 20 (4d6 + 6) puntos de daño contundente. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.

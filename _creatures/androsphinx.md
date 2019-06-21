@@ -26,9 +26,9 @@ condition_immunities: "charmed, frightened"
 
 ***Magic Weapons.*** The sphinx's weapon attacks are magical.
 
-***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-* Cantrips (at will): sacred flame, spare the dying, thaumaturgy
+* Trucos (a voluntad): sacred flame, spare the dying, thaumaturgy
 
 * 1st level (4 slots): command, detect evil and good, detect magic
 
@@ -46,7 +46,7 @@ condition_immunities: "charmed, frightened"
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
-***Claw.*** Melee Weapon Attack: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
 
 ***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 

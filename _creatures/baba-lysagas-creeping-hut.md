@@ -34,6 +34,6 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paral
 
 ***Multiataque.*** The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.
 
-***Root.*** Melee Weapon Attack: +12 al ataque, alcance 60 pies, un objetivo. Impacto: 30 (4d10+8) puntos de daño contundente.
+***Root.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 60 pies, un objetivo. Impacto: 30 (4d10+8) puntos de daño contundente.
 
 ***Rock.*** Ranged Weapon Attack: +12 to hit, range 120 pies, un objetivo. Impacto: 21 (3d8+8) bludegoning damage.

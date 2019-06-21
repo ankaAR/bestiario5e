@@ -32,11 +32,11 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Multiataque.*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tai l. It can use its Swallow instead of its bite.
 
-***Bite.*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
 
-***Claw.*** Melee Weapon Attack: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (4d8 + 10) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (4d8 + 10) slashing damage.
 
-***Horns.*** Melee Weapon Attack: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 32 (4d10 + 10) piercing damage.
+***Horns.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 32 (4d10 + 10) piercing damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 24 (4d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 

@@ -23,4 +23,4 @@ damage_resistances: "cold, fire, lightning"
 
 ### Actions
 
-***Claws.*** Melee Weapon Attack: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) slashing damage.

@@ -9,9 +9,9 @@ con: 14 (+2)
 dex: 15 (+2)
 str: 20 (+5)
 size: Humanoide Mediano (cualquier raza)
-alignment: any alignment
+alignment: cualquier alineamiento
 challenge: "9 (5,000 XP)"
-languages: "any one language (usually Common)"
+languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Athletics +9, Intimidation +5, Percepción +6"
 saving_throws: "Str +9, Con +6"
 speed: "30 ft."
@@ -27,6 +27,6 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The champion makes three attacks with its greatsword or its light crossbow.
 
-***Greatsword.*** Melee Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.
 
 ***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage, plus 7 (2d6) piercing damage if the champion has more than half of its total hit points remaining.

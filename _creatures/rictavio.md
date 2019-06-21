@@ -22,9 +22,9 @@ armor_class: "12 (leather armor)"
 
 ***Special Equipment.*** In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.
 
-***Spellcasting.*** Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following cleric spells prepared:
+***Lanzamiento de conjuros.*** Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, light, mending, thaumaturgy
+* Trucos (a voluntad): guidance, light, mending, thaumaturgy
 
 * 1st level (4 slots): cure wounds, detect evil and good, protection from evil and good, sanctuary
 
@@ -42,4 +42,4 @@ armor_class: "12 (leather armor)"
 
 ***Multiataque.*** Rictavio makes two attacks with his sword cane.
 
-***Sword Cane.*** Melee Weapon Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente (wooden cane) or piercing damage (silvered sword).
+***Sword Cane.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente (wooden cane) or piercing damage (silvered sword).
