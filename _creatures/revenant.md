@@ -17,7 +17,7 @@ damage_immunities: "poison"
 saving_throws: "Str +7, Con +7, Sab +6, Car +7"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
 damage_resistances: "necrotic, psychic"
 ---

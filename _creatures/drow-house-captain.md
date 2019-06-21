@@ -37,6 +37,6 @@ armor_class: "16 (chain mail)"
 
 ***Scimitar*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) slashing damage plus 14 (4d6) poison damage.
 
-***Whip*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 6 (1d4 + 4) slashing damage. If the target is an ally, it has advantage on attack rolls until the end of its next turn.
+***Whip*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 6 (1d4 + 4) puntos de daño cortante. If the target is an ally, it has advantage on attack rolls until the end of its next turn.
 
 ***Hand Crossbow*** Ranged Weapon Attack: +8 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.

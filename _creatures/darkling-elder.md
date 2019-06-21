@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "2 (450 XP)"
 languages: "Elvish, Sylvan"
 senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Acrobatics +5, Deception +3, Percepción +6, Sigilo +7"
+skills: "Acrobatics +5, Engaño +3, Percepción +6, Sigilo +7"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "15 (studded leather armor)"

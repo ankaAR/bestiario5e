@@ -40,7 +40,7 @@ At will: detect magic, fireball
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) puntos de daño cortante.
 
 ***Mace.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente plus 21 (6d6) fire damage.
 

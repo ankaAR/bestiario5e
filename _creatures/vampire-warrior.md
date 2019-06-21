@@ -51,7 +51,7 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 
 ***Multiattack (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack.
 
-***Unarmed Strike (Vampire Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one creature. Hit: 8 (1d8 + 4) puntos de daño contundente. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
+***Unarmed Strike (Vampire Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 8 (1d8 + 4) puntos de daño contundente. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
 
 ***Bite (Bat or Vampire Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
 
@@ -61,4 +61,4 @@ Each time the vampire or the vampire's companions do anything harmful to the tar
 
 ***Children of the Night (1/Day).*** The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one creature. Hit: 11 (2d6 + 4) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 11 (2d6 + 4) puntos de daño cortante.

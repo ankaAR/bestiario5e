@@ -16,7 +16,7 @@ senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +6"
 speed: "30 ft."
 hit_points: "7 (2d6)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
 ***Innate Spellcasting.*** The nilbog's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:

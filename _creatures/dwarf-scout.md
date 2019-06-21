@@ -17,7 +17,7 @@ senses: "darkvision, passive Perception 15"
 skills: "Nature +4, Percepción +5, Sigilo +6, Survival +5"
 speed: "30 ft."
 hit_points: "16  (3d8 + 3)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 damage_resistances: "poison"
 ---
 

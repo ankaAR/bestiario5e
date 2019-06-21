@@ -27,6 +27,6 @@ armor_class: "12"
 
 ***Multiataque.*** The tabaxi makes two claws attacks or two dart attacks.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 ft., o e target. Hit: 2 (ld4) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 ft., o e target. Hit: 2 (ld4) puntos de daño cortante.
 
 ***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 pies, un objetivo. Impacto: 4 (ld4 +2) piercing damage.

@@ -23,4 +23,4 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The scorpion makes three attacks: two with its claws and one with its sting.
 
-***Sting.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+***Sting.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.

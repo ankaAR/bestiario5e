@@ -30,7 +30,7 @@ At will: darkness, dispel magic, fear, heat metal, levitate
 
 ***Multiataque.*** The babau makes two melee attacks. It can also use Weakening Gaze before or after making these attacks.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) puntos de daño cortante.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 7 (1d6+4) piercing damage, or 8 (1d8+4) piercing damage when used with two hands to make a melee attack.
 

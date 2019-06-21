@@ -13,7 +13,7 @@ size: Humanoide Mediano (human)
 alignment: chaotic good
 challenge: "8 (3,900 XP)"
 languages: "Común, Elvish"
-skills: "Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicina +3, Percepción +6, Performance +6, Sleight of Hand +7, Sigilo +7, Survival +6"
+skills: "Acrobatics +7, Arcana +6, Engaño +9, Insight +3, Medicina +3, Percepción +6, Performance +6, Sleight of Hand +7, Sigilo +7, Survival +6"
 saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
@@ -40,7 +40,7 @@ armor_class: "17 (studded leather armor +1)"
 
 ***Rapier +1.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8+5) piercing damage.
 
-***Handaxe +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6+3) slashing damage.
+***Handaxe +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 6 (1d6+3) puntos de daño cortante.
 
 ***Silvered Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
 

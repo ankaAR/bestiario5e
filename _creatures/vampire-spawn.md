@@ -41,4 +41,4 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 8 (2d4 + 3) puntos de daño cortante. Instead of dealing damage, the vampire can grapple the target (escape DC 13).

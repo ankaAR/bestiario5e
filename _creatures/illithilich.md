@@ -61,11 +61,11 @@ At will: detect thoughts, levitate
 
 ### Actions
 
-***Paralyzing Touch.*** Melee Spell Attack: +12 al ataque, alcance 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** Melee Spell Attack: +12 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 
 
-***Tentacles.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 ft., one creature. Hit: 21 (3d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 21 (3d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be stunned until this grapple ends.
 
 ***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the lich. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 

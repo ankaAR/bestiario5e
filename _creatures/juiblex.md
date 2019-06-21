@@ -56,4 +56,4 @@ Juiblex can take 3 legendary actions, choosing from the options below. Only one 
 
 ***Attack*** Juiblex makes one acid lash attack.
 
-***Corrupting Touch (cuesta 2 acciones)*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft., one creature. Hit: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an ooze, is poisoned while within 10 feet of the target.
+***Corrupting Touch (cuesta 2 acciones)*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an ooze, is poisoned while within 10 feet of the target.

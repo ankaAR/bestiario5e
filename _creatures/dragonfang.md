@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Común, Draconic, Infernal"
-skills: "Deception +4, Sigilo +5"
+skills: "Engaño +4, Sigilo +5"
 saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"

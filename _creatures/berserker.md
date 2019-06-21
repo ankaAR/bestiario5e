@@ -21,4 +21,4 @@ armor_class: "13 (hide armor)"
 
 ### Actions
 
-***Greataxe.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño cortante.

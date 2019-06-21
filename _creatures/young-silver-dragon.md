@@ -27,7 +27,7 @@ armor_class: "18 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d10 + 6) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 

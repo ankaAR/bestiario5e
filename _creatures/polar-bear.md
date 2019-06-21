@@ -25,4 +25,4 @@ armor_class: "12 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) piercing damage.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.

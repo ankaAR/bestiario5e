@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 13 (+1)
 str: 16 (+3)
 size: Humanoide Mediano (human)
-alignment: any non-good alignment
+alignment: cualquier alineamiento no bueno
 challenge: "2 (450 XP)"
 languages: "Común, Thayan"
 skills: "Percepción +2"

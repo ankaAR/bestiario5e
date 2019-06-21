@@ -34,6 +34,6 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** The priest makes two melee attacks or two ranged attacks.
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.

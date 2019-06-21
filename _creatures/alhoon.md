@@ -13,7 +13,7 @@ alignment: any evil alignment
 challenge: "10 (5,900 XP)"
 languages: "Deep Speech, Undercommon, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Arcana +8, Deception +7, Historia +8, Insight +7, Percepción +7, Sigilo +5"
+skills: "Arcana +8, Engaño +7, Historia +8, Insight +7, Percepción +7, Sigilo +5"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
 saving_throws: "Con +7, Int +8, Sab +7, Car +7"
 speed: "30 ft."

@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "21 (33,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 21"
-skills: "Deception +13, Intimidation +13, Percepción +11"
+skills: "Engaño +13, Intimidation +13, Percepción +11"
 damage_immunities: "fire, poison"
 saving_throws: "Des +11, Con +13, Sab +11, Car +13"
 speed: "30 ft."
@@ -42,7 +42,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d8 + 8) piercing damage.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) puntos de daño cortante.
 
 ***Many-Tailed Whip*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 30 pies, un objetivo. Impacto: 13 (2d4 + 8) slashing damage plus 11 (2d10) lightning damage. If the target is a creature, it must succeed on a DC 24 Strength saving throw or be pulled up to 30 feet in a straight line toward Moloch.
 

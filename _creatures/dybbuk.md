@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "4 (1100 XP)"
 languages: "Abyssal, Common, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 14"
-skills: "Deception +6, Intimidation +4, Percepción +4"
+skills: "Engaño +6, Intimidation +4, Percepción +4"
 damage_immunities: "poison"
 speed: "0 ft., 40 ft. (hover)"
 hit_points: "37  (5d8 + 15)"

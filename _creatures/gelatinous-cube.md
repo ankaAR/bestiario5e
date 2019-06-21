@@ -30,7 +30,7 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 ### Actions
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one creature. Hit: 10 (3d6) acid damage.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) acid damage.
 
 ***Engulf.*** The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw.
 

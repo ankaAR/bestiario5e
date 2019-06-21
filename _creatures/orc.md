@@ -23,6 +23,6 @@ armor_class: "13 (hide armor)"
 
 ### Actions
 
-***Greataxe.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño cortante.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.

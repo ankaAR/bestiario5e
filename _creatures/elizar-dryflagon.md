@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Común, Druidic"
-skills: "Arcana +3, Deception +3"
+skills: "Arcana +3, Engaño +3"
 speed: "30 ft."
 hit_points: "71 (11d8+22)"
 armor_class: "14 (hide)"

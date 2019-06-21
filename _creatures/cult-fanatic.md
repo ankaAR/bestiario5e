@@ -9,16 +9,16 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
-alignment: any non-good alignment
+alignment: cualquier alineamiento no bueno
 challenge: "2 (450 XP)"
 languages: "Un idioma cualquiera (usualmente Común)"
-skills: "Deception +4, Persuasion +4, Religión +2"
+skills: "Engaño +4, Persuasion +4, Religión +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
-***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.
+***Devoción oscura.*** The fanatic has advantage on saving throws against being charmed or frightened.
 
 ***Lanzamiento de conjuros.*** The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
@@ -32,4 +32,4 @@ Cantrips (at will): light, sacred flame, thaumaturgy
 
 ***Multiataque.*** The fanatic makes two melee attacks.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 4 (1d4 + 2) piercing damage.

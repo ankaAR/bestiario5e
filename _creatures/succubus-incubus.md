@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common, Infernal, telepathy 60 ft."
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +9, Insight +5, Percepción +5, Persuasion +9, Sigilo +7"
+skills: "Engaño +9, Insight +5, Percepción +5, Persuasion +9, Sigilo +7"
 speed: "30 ft., fly 60 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "15 (armadura natural)"
@@ -26,7 +26,7 @@ damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and s
 
 ### Actions
 
-***Claw (Fiend Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Claw (Fiend Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
 ***Charm.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
 

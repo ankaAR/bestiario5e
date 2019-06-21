@@ -20,6 +20,6 @@ armor_class: "12"
 
 ### Actions
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 11 (2d6 + 4) piercing damage.
 
-***Constrict.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft., one creature. Hit: 13 (2d8 + 4) puntos de daño contundente, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+***Constrict.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 13 (2d8 + 4) puntos de daño contundente, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.

@@ -13,7 +13,7 @@ size: Humanoide Mediano (mongrelfolk)
 alignment: cualquier alineamiento
 challenge: "1/4 (50 XP)"
 languages: "Common"
-skills: "Deception +2, Percepción +2, Sigilo +3"
+skills: "Engaño +2, Percepción +2, Sigilo +3"
 speed: "20 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "11 (armadura natural)"
@@ -43,6 +43,6 @@ armor_class: "11 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) puntos de daño cortante.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.

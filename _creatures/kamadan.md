@@ -28,8 +28,8 @@ armor_class: "13"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld6 +3) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target.Hit: 6 (ld6 +3) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target.Hit: 6 (ld6 +3) puntos de daño cortante.
 
-***Snakes.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 6 (ld6 +3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+***Snakes.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (ld6 +3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Sleep Breath (Recharges after a Short or Long Rest).*** The kamadan exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if it takes damage or someone uses an action to wake it.

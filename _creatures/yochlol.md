@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "10 (5,900 XP)"
 languages: "Abyssal, Elvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +10, Insight +6"
+skills: "Engaño +10, Insight +6"
 damage_immunities: "poison"
 saving_throws: "Des +6, Int +5, Sab +6, Car +6"
 speed: "30 ft., climb 30 ft."

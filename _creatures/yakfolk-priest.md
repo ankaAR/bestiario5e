@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Común, Yikaria"
-skills: "Deception +4, Medicina +6, Survival +6"
+skills: "Engaño +4, Medicina +6, Survival +6"
 speed: "30 ft."
 hit_points: "52 (7d10+14)"
 armor_class: "12 (hide armor)"

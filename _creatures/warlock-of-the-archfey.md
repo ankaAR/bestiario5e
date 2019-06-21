@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "4 (1,100 XP)"
 languages: "any two languages (usually Sylvan)"
-skills: "Arcana +2, Deception +6, Nature +2, Persuasion +6"
+skills: "Arcana +2, Engaño +6, Nature +2, Persuasion +6"
 saving_throws: "Sab +3, Car +6"
 speed: "30 ft."
 hit_points: "49 (11d8)"

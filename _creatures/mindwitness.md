@@ -27,7 +27,7 @@ condition_immunities: "prone"
 
 ***Multiataque.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 16 (4d6+2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 16 (4d6+2) piercing damage.
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one creature. Hit: 20 (4d8+2) psychic damage. if the target is Large or smaller, it is grappled (escape DC 13) and must succeed on a DC 13 Intelligence saving throw or be stunned until this grapple ends.
 

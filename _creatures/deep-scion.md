@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Aquan, Common, thieves' cant"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +6, Insight +3, Sleight of Hand +3, Sigilo +3"
+skills: "Engaño +6, Insight +3, Sleight of Hand +3, Sigilo +3"
 saving_throws: "Sab +3, Car +4"
 speed: "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 hit_points: "67 (9d8+27)"
@@ -32,6 +32,6 @@ armor_class: "11"
 
 ***Bite (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 6 (1d4+4) piercing damage.
 
-***Claw (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) slashing damage.
+***Claw (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño cortante.
 
 ***Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest).*** The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be stunned until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.

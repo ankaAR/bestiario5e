@@ -23,6 +23,6 @@ armor_class: "15 (leather armor, shield)"
 
 ### Actions
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño cortante.
 
 ***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.

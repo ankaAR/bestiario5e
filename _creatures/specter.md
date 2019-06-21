@@ -27,4 +27,4 @@ damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing
 
 ### Actions
 
-***Life Drain.*** Melee Spell Attack: +4 al ataque, alcance 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+***Life Drain.*** Melee Spell Attack: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.

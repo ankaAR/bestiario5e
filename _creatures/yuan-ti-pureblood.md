@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Abyssal, Common, Dragón"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +6, Percepción +3, Sigilo +3"
+skills: "Engaño +6, Percepción +3, Sigilo +3"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "40 (9d8)"
@@ -33,6 +33,6 @@ At will: animal friendship (snakes only)
 
 ***Multiataque.*** The yuan-ti makes two melee attacks.
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño cortante.
 
 ***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.

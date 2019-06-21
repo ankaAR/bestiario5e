@@ -37,7 +37,7 @@ At will: dancing lights
 
 ***Multiataque.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 

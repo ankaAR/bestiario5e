@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Bullywug, Draconic, Elvish, Goblin, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +5, Deception +1, Insight +2, Percepción +2, Religión +5"
+skills: "Arcana +5, Engaño +1, Insight +2, Percepción +2, Religión +5"
 saving_throws: "Str +6, Con +4"
 speed: "30 ft."
 hit_points: "52 (7d10+14)"
@@ -38,6 +38,6 @@ armor_class: "16 (studded leather, shield)"
 
 ***Multiataque.*** Dralmorrer attacks twice, either with his longsword or dagger.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.

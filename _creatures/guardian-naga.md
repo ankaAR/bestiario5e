@@ -41,6 +41,6 @@ condition_immunities: "charmed, poisoned"
 
 ### Actions
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
-***Spit Poison.*** Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+***Spit Poison.*** Ranged Weapon Attack: +8 to hit, range 15/30 pies (XX mts), una criatura. Impacto: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.

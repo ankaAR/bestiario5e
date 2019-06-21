@@ -16,7 +16,7 @@ senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "49 (11d6+11)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
 ***Insanity.*** The derro has advantage on saving throws against being charmed or frightened.

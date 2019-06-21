@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Común, Ignan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +3, Deception +7"
+skills: "Arcana +3, Engaño +7"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "12 (15 with mage armor)"

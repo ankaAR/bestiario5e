@@ -12,7 +12,7 @@ size: Humanoide Mediano (shapechanger)
 alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Common (can't speak in jackal form)"
-skills: "Deception +4, Percepción +2, Sigilo +4"
+skills: "Engaño +4, Percepción +2, Sigilo +4"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 speed: "40 ft."
 hit_points: "18 (4d8)"
@@ -29,6 +29,6 @@ armor_class: "12"
 
 ***Bite (Jackal or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
 
-***Scimitar (Human or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) slashing damage.
+***Scimitar (Human or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño cortante.
 
 ***Sleep Gaze.*** The jackalwere gazes at one creature it can see within 30 feet of it. The target must make a DC 10 Wisdom saving throw. On a failed save, the target succumbs to a magical slumber, falling unconscious for 10 minutes or until someone uses an action to shake the target awake. A creature that successfully saves against the effect is immune to this jackalwere's gaze for the next 24 hours. Undead and creatures immune to being charmed aren't affected by it.

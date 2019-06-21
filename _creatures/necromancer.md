@@ -42,4 +42,4 @@ Cantrips (at will): chill touch, dancing lights, mage hand, mending
 
 ### Actions
 
-***Withering Touch.*** Melee Spell Attack: +7 al ataque, alcance 5 ft., one creature. Hit: 5 (2d4) necrotic damage.
+***Withering Touch.*** Melee Spell Attack: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (2d4) necrotic damage.

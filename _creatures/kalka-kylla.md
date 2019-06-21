@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Olman"
 senses: "blindsight 30 ft."
-skills: "Deception +3, Insight +5, Sigilo +3"
+skills: "Engaño +3, Insight +5, Sigilo +3"
 speed: "30 ft., nadando 30 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "15 (armadura natural)"

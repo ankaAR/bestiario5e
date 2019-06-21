@@ -43,7 +43,7 @@ Cantrips (at will): acid splash, mage hand, mending, ray of frost, shocking gras
 
 ***Multiataque.*** The morkoth makes three attacks: two with its bite and one with its tentacles or three with its bite.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6+2) slashing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6+2) puntos de daño cortante.
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (3d8+2) puntos de daño contundente, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends. the target is restrained and takes 15 (3d8+2) puntos de daño contundente at the start of each of the morkoth's turns. and the morkoth can't use its tentacles on another target.
 

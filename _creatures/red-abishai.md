@@ -36,7 +36,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Morningstar*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8 + 6) piercing damage.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d10 + 6) piercing damage plus 38 (7d10) fire damage.
 

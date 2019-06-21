@@ -36,7 +36,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The nabassu uses its Soul-Stealing Gaze and makes two attacks: one with its claws and one with its bite.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 32 (4d12 + 6) piercing damage.
 

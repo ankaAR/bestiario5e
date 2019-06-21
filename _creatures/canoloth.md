@@ -37,6 +37,6 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (6d6 + 4) piercing damage.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño cortante.
 
 ***Tongue*** Ranged Weapon Attack: +7 to hit, range 30 pies, un objetivo. Impacto: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 15), pulled up to 30 feet toward the canoloth, and is restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue.

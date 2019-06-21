@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Yikaria"
-skills: "Deception +4, Survival +4"
+skills: "Engaño +4, Survival +4"
 speed: "30 ft."
 hit_points: "60 (8d10+16)"
 armor_class: "11 (leather)"
@@ -26,6 +26,6 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 ***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 + 4) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 + 4) puntos de daño cortante.
 
 ***Longbow.*** Ranged Weapon Attack: +2 to hit, range 150/600 pies, un objetivo. Impacto: 9 (2d8) piercing damage.

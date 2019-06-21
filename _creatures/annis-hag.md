@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Común, Giant, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +5, Percepción +5"
+skills: "Engaño +5, Percepción +5"
 saving_throws: "Con +5"
 speed: "40 ft."
 hit_points: "75 (10d10+20)"
@@ -97,6 +97,6 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) puntos de daño cortante.
 
 ***Crushing Hug.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 36 (9d6+5) puntos de daño contundente, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6+5) puntos de daño contundente at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.

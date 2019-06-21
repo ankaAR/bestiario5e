@@ -31,7 +31,7 @@ armor_class: "22 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 20 ft ., one target. Hit: 17 (2d8 + 8) puntos de daño contundente.
 

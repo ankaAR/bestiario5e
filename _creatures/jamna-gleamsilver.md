@@ -13,11 +13,11 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Común, Gnomish, Goblin, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Acrobatics +5, Deception +3, Insight +2, Percepción +4, Persuasion +3, Sigilo +7"
+skills: "Acrobatics +5, Engaño +3, Insight +2, Percepción +4, Persuasion +3, Sigilo +7"
 saving_throws: "Des +5, Int +4"
 speed: "25 ft."
 hit_points: "22 (4d6+8)"
-armor_class: "15 (leather armor)"
+armor_class: "15 (armadura de cuero)"
 ---
 
 ***Cunning Action.*** Jamna can take a bonus action to take the Dash, Disengage, or Hide action.

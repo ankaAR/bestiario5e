@@ -34,4 +34,4 @@ The duplicate has the same statistics and knowledge as the berbalang, and everyt
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) puntos de daño cortante.

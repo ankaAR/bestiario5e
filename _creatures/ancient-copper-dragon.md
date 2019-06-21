@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "21 (33,000 XP)"
 languages: "Común, Dragón"
 senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +11, Percepción +17, Sigilo +8"
+skills: "Engaño +11, Percepción +17, Sigilo +8"
 damage_immunities: "acid"
 saving_throws: "Des +8, Con +14, Sab +10, Car +11"
 speed: "40 ft., climb 40 ft., fly 80 ft."
@@ -29,7 +29,7 @@ armor_class: "21 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (2d10 + 8) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d6 + 8) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 20 pies, un objetivo. Impacto: 17 (2d8 + 8) puntos de daño contundente.
 

@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +6, Insight +3"
+skills: "Engaño +6, Insight +3"
 damage_immunities: "charmed"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"

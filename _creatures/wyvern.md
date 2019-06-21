@@ -22,8 +22,8 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 11 (2d6 + 4) piercing damage.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
-***Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+***Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.

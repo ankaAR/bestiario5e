@@ -32,6 +32,6 @@ damage_resistances: "cold"
 
 ***Multiattack*** The mangler makes two claw attacks.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage. If the attack roll has advantage, the target also takes 7 (2d6) psychic damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante. If the attack roll has advantage, the target also takes 7 (2d6) psychic damage.
 
 ***Flurry of Claws (Recharge 4-6)*** The mangler makes six claw attacks against one target. Either before or after these attacks, it can move up to its speed as a bonus action without provoking opportunity attacks.

@@ -33,7 +33,7 @@ At will: detect magic, feather fall, levitate, light
 
 ***Multiataque.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 30 (6d6 + 9) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 30 (6d6 + 9) puntos de daño cortante.
 
 ***Rock.*** Ranged Weapon Attack: +14 to hit, range 60/240 pies, un objetivo. Impacto: 35 (4d12 + 9) puntos de daño contundente.
 

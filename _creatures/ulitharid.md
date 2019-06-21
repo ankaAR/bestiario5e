@@ -34,7 +34,7 @@ At will: detect thoughts, levitate
 
 ### Actions
 
-***Tentacles.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 ft., one creature. Hit: 27 (4d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 27 (4d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be stunned until this grapple ends.
 
 ***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the ulitharid. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.
 

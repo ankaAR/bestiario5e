@@ -23,7 +23,7 @@ armor_class: "16 (chain mail)"
 
 ***Multiataque.*** Sildar makes two melee attacks.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100 ft./400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
 

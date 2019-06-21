@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Elvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +6, Deception +5, Percepción +4, Sigilo +5"
+skills: "Arcana +6, Engaño +5, Percepción +4, Sigilo +5"
 speed: "30 ft."
 hit_points: "45 (10d8)"
 armor_class: "12 (15 with mage armor)"

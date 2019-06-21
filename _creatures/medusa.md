@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +5, Insight +4, Percepción +4, Sigilo +5"
+skills: "Engaño +5, Insight +4, Percepción +4, Sigilo +5"
 speed: "30 ft."
 hit_points: "127 (17d8+51)"
 armor_class: "15 (armadura natural)"
@@ -29,7 +29,7 @@ If the medusa sees itself reflected on a polished surface within 30 ft. of it an
 
 ***Multiataque.*** The medusa makes either three melee attacks -  one with its snake hair and two with its shortsword - or two ranged attacks with its longbow.
 
-***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
+***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
 
 ***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
 

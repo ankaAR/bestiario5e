@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +7, Insight +4, Sigilo +3"
+skills: "Engaño +7, Insight +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "97 (13d10+26)"
 armor_class: "13 (armadura natural)"
@@ -25,8 +25,8 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) puntos de daño cortante.
 
 ***Dagger.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.
 
-***Intoxicating Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+***Intoxicating Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.

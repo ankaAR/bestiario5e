@@ -32,4 +32,4 @@ condition_immunities: "blinded"
 
 ### Actions
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) slashing damage. If the skulk has advantage on the attack roll, the target also takes 7 (2d6) necrotic damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) puntos de daño cortante. If the skulk has advantage on the attack roll, the target also takes 7 (2d6) necrotic damage.

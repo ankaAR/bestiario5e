@@ -13,10 +13,10 @@ alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
 languages: "Elvish, Sylvan"
 senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Acrobatics +5, Deception +2, Percepción +5, Sigilo +7"
+skills: "Acrobatics +5, Engaño +2, Percepción +5, Sigilo +7"
 speed: "30 ft."
 hit_points: "13 (3d6+3)"
-armor_class: "14 (leather armor)"
+armor_class: "14 (armadura de cuero)"
 ---
 
 ***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 10 Constitution saving throw or be blinded until the end of the creature's next turn.

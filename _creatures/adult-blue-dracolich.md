@@ -33,7 +33,7 @@ damage_resistances: "necrotic"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño contundente.
 

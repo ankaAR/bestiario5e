@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Draconic, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +3, Deception +4, Percepción +4, Sigilo +3"
+skills: "Arcana +3, Engaño +4, Percepción +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "17 (armadura natural)"
@@ -53,7 +53,7 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
 
 ### Actions
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
 ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 

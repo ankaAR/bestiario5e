@@ -24,6 +24,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The owlbear makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (1d10 + 5) piercing damage.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.

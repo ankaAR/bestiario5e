@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "12 (8,400 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +7, Insight +6"
+skills: "Engaño +7, Insight +6"
 damage_immunities: "fire, poison"
 saving_throws: "Int +5, Sab +6, Car +7"
 speed: "40 ft., fly 40 ft."
@@ -31,6 +31,6 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Multiataque.*** The devil makes three attacks: two with its claws and one with its sting.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante.
 
 ***Sting.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success .

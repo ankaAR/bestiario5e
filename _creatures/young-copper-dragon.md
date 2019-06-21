@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "7 (2,900 XP)"
 languages: "Común, Dragón"
 senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +5, Percepción +7, Sigilo +4"
+skills: "Engaño +5, Percepción +7, Sigilo +4"
 damage_immunities: "acid"
 saving_throws: "Des +4, Con +6, Sab +4, Car +5"
 speed: "40 ft., climb 40 ft., fly 80 ft."
@@ -27,7 +27,7 @@ armor_class: "17 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 

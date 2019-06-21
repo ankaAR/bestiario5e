@@ -25,6 +25,6 @@ condition_immunities: "exhaustion, poisoned"
 
 ### Actions
 
-***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) slashing damage.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) puntos de daño cortante.
 
 ***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage.

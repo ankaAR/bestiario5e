@@ -40,7 +40,7 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Multiataque.*** Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 24 (4d6 + 10) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 24 (4d6 + 10) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 25 pies, un objetivo. Impacto: 28 (4d8 + 10) piercing damage.
 

@@ -32,7 +32,7 @@ armor_class: "17 (splint)"
 
 ***Multiataque.*** The priest makes two melee attacks.
 
-***Glaive.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) slashing damage.
+***Glaive.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño cortante.
 
 ### Reactions
 

@@ -13,7 +13,7 @@ alignment: yuan-ti)
 challenge: "3 (700 XP)"
 languages: "Abyssal, Common, Dragón"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Deception +5, Sigilo +4"
+skills: "Engaño +5, Sigilo +4"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
@@ -43,8 +43,8 @@ Type 3: Human head and upper body with a serpentine lower body instead of legs
 
 ***Multiattack (Yuan_ti Form Only).*** The yuan_ti makes two ranged attacks or two melee attacks, but can use its bite only once.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
 
-***Scimitar (Yuan_ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Scimitar (Yuan_ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
 ***Longbow (Yuan_ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.

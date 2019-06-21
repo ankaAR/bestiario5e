@@ -12,7 +12,7 @@ size: Humanoide Mediano (earth genasi)
 alignment: neutral evil
 challenge: "6 (2,300 XP)"
 languages: "Común, Primordial"
-skills: "Arcana +4, Deception +7"
+skills: "Arcana +4, Engaño +7"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "10 (13 with mage armor)"

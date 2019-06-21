@@ -24,4 +24,4 @@ damage_resistances: "cold, fire, lightning"
 
 ### Actions
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante.

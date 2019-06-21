@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Común, Deep Speech, Undercommon, telepathy 30 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts) (penetrates magical darkness)"
-skills: "Arcana +5, Deception +6, Intimidation +6, Percepción +3, Persuasion +6"
+skills: "Arcana +5, Engaño +6, Intimidation +6, Percepción +3, Persuasion +6"
 saving_throws: "Sab +3"
 speed: "30 ft., climb 30 ft."
 hit_points: "71 (13d6+26)"
@@ -36,6 +36,6 @@ Cantrips (at will): eldritch blast (range 300 ft., +4 bonus to each damage roll)
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one target. Hit: 6 (1d6+3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4+3) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4+3) puntos de daño cortante.
 
 ***Esclavizar (Recharges after a Short or Long Rest).*** The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically  charmed by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The charmed target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the charmed target takes damage, it can repeat the saving throw, ending the effect on itself on a success.

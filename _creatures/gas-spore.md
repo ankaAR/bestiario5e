@@ -27,4 +27,4 @@ Spores invade an infected creature's system, killing the creature in a number of
 
 ### Actions
 
-***Touch.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.
+***Touch.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.

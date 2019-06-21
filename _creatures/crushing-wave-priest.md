@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Aquan, Common"
-skills: "Deception +5, Religión +2, Sigilo +2"
+skills: "Engaño +5, Religión +2, Sigilo +2"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "13 (chain shirt)"

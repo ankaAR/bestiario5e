@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Infernal, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +5, Insight +5, Percepción +8"
+skills: "Engaño +5, Insight +5, Percepción +8"
 damage_immunities: "fire, poison"
 saving_throws: "Str +6, Con +7, Sab +5, Car +5"
 speed: "30 ft."

@@ -16,7 +16,7 @@ senses: "darkvision 30 ft."
 skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "7 (2d6)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
 ***Low Cunning.*** The xvart can take the Disengage action as a bonus action on each of its turns.

@@ -34,7 +34,7 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (4d8 + 10) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (4d8 + 10) puntos de daño cortante.
 
 ***Horns.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 32 (4d10 + 10) piercing damage.
 

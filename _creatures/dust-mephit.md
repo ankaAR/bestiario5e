@@ -28,7 +28,7 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) puntos de daño cortante.
 
 ***Blinding Breath (Recharge 6).*** The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

@@ -23,4 +23,4 @@ armor_class: "13"
 
 ### Actions
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d6 + 2) piercing damage.

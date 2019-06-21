@@ -17,7 +17,7 @@ skills: "Arcana +9, Insight +7, Medicina +7, Percepción +7, Religión +6, Sleig
 saving_throws: "Con +4, Sab +7"
 speed: "30 ft."
 hit_points: "77 (14d8+14)"
-armor_class: "12 (leather armor)"
+armor_class: "12 (armadura de cuero)"
 ---
 
 ***Special Equipment.*** In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.

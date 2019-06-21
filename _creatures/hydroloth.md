@@ -41,7 +41,7 @@ damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from n
 
 ***Multiattack*** The hydroloth makes two melee attacks. In place of one of these attacks, it can cast one spell that takes 1 action to cast.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) piercing damage.
 

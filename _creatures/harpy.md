@@ -21,7 +21,7 @@ armor_class: "11"
 
 ***Multiataque.*** The harpy makes two attacks: one with its claws and one with its club.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño cortante.
 
 ***Clava.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente.
 

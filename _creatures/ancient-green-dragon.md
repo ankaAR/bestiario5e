@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "22 (41,000 XP)"
 languages: "Común, Dragón"
 senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Deception +11, Insight +10, Percepción +17, Persuasion +11, Sigilo +8"
+skills: "Engaño +11, Insight +10, Percepción +17, Persuasion +11, Sigilo +8"
 damage_immunities: "poison"
 saving_throws: "Des +8, Con +14, Sab +10, Car +11"
 speed: "40 ft., fly 80 ft., nadando 40 pies (12 mts)"
@@ -32,7 +32,7 @@ condition_immunities: "poisoned"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 15 pies, un objetivo. Impacto: 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d6 + 8) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d6 + 8) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 20 pies, un objetivo. Impacto: 17 (2d8 + 8) puntos de daño contundente.
 

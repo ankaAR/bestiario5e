@@ -35,8 +35,8 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The dhergoloth makes two claw attacks.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) slashing damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) puntos de daño cortante.
 
-***Flailing Claws (Recharge 5-6)*** The dhergoloth moves up to its walking speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14 Dexterity saving throw or take 22 (3d12 + 3) slashing damage.
+***Flailing Claws (Recharge 5-6)*** The dhergoloth moves up to its walking speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14 Dexterity saving throw or take 22 (3d12 + 3) puntos de daño cortante.
 
 ***Teleport*** The dhergoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.

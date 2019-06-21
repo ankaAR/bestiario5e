@@ -18,7 +18,7 @@ skills: "Percepción +2, Sigilo +5"
 saving_throws: "Sab +2"
 speed: "25 ft."
 hit_points: "39  (6d8 + 12)"
-armor_class: "14 (leather armor)"
+armor_class: "14 (armadura de cuero)"
 damage_resistances: "poison"
 ---
 

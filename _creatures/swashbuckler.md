@@ -15,7 +15,7 @@ languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Acrobatics +8, Athletics +5, Persuasion +6"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
-armor_class: "17 (leather armor)"
+armor_class: "17 (armadura de cuero)"
 ---
 
 ***Lightfooted.*** The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns.

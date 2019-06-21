@@ -46,4 +46,4 @@ condition_immunities: "poisoned"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño cortante.

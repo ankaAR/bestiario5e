@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft."
-skills: "Deception +4, Intimidation +4, Percepción +5, Sigilo +4"
+skills: "Engaño +4, Intimidation +4, Percepción +5, Sigilo +4"
 damage_immunities: "acid, poison"
 speed: "60 ft. (30 ft.in goblin form)"
 hit_points: "90 (12d10+24)"
@@ -42,4 +42,4 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8+4) piercing damage.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) puntos de daño cortante.

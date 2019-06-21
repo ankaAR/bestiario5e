@@ -12,11 +12,11 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Común, Dragón"
-skills: "Deception +3, Sigilo +5"
+skills: "Engaño +3, Sigilo +5"
 saving_throws: "Sab +2"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"
-armor_class: "14 (leather armor)"
+armor_class: "14 (armadura de cuero)"
 ---
 
 ***Dragon Fanatic.*** The dragonclaw has advantage on saving throws against being charmed or frightened. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened.
@@ -29,4 +29,4 @@ armor_class: "14 (leather armor)"
 
 ***Multiataque.*** The dragonclaw attacks twice with its scimitar.
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.

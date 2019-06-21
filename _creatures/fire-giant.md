@@ -28,6 +28,6 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The giant makes two greatsword attacks.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 28 (6d6 + 7) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 28 (6d6 + 7) puntos de daño cortante.
 
 ***Rock.*** Ranged Weapon Attack: +11 to hit, range 60/240 pies, un objetivo. Impacto: 29 (4d10 + 7) puntos de daño contundente.

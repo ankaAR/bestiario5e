@@ -33,6 +33,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d8 + 6) piercing damage plus 5 (1d10) poison damage.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (3d6 + 6) slashing damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (3d6 + 6) puntos de daño cortante.
 
 ***Whirlwind of Claws (Recharge 5-6)*** Each creature within 10 feet of the troll must make a DC 19 Dexterity saving throw, taking 44 (8d10) slashing damage on a failed save, or half as much damage on a successful one.

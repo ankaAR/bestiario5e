@@ -45,7 +45,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Baphomet makes three attacks: one with Heartcleaver, one with his bite, and one with his gore attack.
 
-***Heartcleaver*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) slashing damage.
+***Heartcleaver*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 15 pies, un objetivo. Impacto: 21 (2d10 + 10) puntos de daño cortante.
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (2d8 + 10) piercing damage.
 

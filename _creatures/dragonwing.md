@@ -12,11 +12,11 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Común, Dragón"
-skills: "Deception +3, Sigilo +5"
+skills: "Engaño +3, Sigilo +5"
 saving_throws: "Sab +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
-armor_class: "14 (leather armor)"
+armor_class: "14 (armadura de cuero)"
 damage_resistances: "one of the following: acid, cold, fire, lightning, or poison"
 ---
 
@@ -32,4 +32,4 @@ damage_resistances: "one of the following: acid, cold, fire, lightning, or poiso
 
 ***Multiataque.*** The dragonwing attacks twice with its scimitar.
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has resistance.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has resistance.

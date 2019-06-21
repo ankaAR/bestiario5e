@@ -12,7 +12,7 @@ size: Huge giant (cloud giant)
 alignment: chaotic neutral
 challenge: "11 (7,200 XP)"
 languages: "Común, Giant"
-skills: "Deception +11, Insight +7, Percepción +7, Sleight of Hand +9"
+skills: "Engaño +11, Insight +7, Percepción +7, Sleight of Hand +9"
 saving_throws: "Con +10, Int +6, Sab +7"
 speed: "40 ft."
 hit_points: "262 (21d12+126)"

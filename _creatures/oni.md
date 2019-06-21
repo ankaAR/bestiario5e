@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "7 (2,900 XP)"
 languages: "Común, Giant"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +5, Deception +8, Percepción +4"
+skills: "Arcana +5, Engaño +8, Percepción +4"
 saving_throws: "Des +3, Con +6, Sab +4, Car +5"
 speed: "30 ft., fly 30 ft."
 hit_points: "110 (13d10+39)"
@@ -34,7 +34,7 @@ At will: darkness, invisibility
 
 ***Multiataque.*** The oni makes two attacks, either with its claws or its glaive.
 
-***Claw (Oni Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage.
+***Claw (Oni Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante.
 
 ***Glaive.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
 

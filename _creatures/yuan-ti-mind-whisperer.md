@@ -13,7 +13,7 @@ alignment: yuan-ti)
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common, Dragón"
 senses: "Visión en la oscuridad 120 ft. (36 mts) (penetrates magical darkness)"
-skills: "Deception +5, Sigilo +4"
+skills: "Engaño +5, Sigilo +4"
 damage_immunities: "poison"
 saving_throws: "Sab +4, Car +5"
 speed: "30 ft."
@@ -52,4 +52,4 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
 
-***Scimitar (Yuan-ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) slashing damage.
+***Scimitar (Yuan-ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño cortante.

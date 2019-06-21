@@ -27,6 +27,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The redcap makes three attacks with its wicked sickle.
 
-***Wicked Sickle.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4+4) slashing damage.
+***Wicked Sickle.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4+4) puntos de daño cortante.
 
 ***Ironbound Pursuit.*** The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (3d10+4) puntos de daño contundente and be knocked prone.

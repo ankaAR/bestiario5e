@@ -25,4 +25,4 @@ armor_class: "12 (armadura natural)"
 
 If the wormling takes 10 damage or more on a single turn from a creature inside it, the wormling must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the wormling. If the wormling dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 5 feet of movement, exiting prone.
 
-***Tail Stinger.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+***Tail Stinger.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.

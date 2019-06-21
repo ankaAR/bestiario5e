@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "7 (2,900 XP)"
 languages: "Deep Speech, Undercommon, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +7, Deception +6, Insight +6, Percepción +6, Persuasion +6, Sigilo +4"
+skills: "Arcana +7, Engaño +6, Insight +6, Percepción +6, Persuasion +6, Sigilo +4"
 saving_throws: "Int +7, Sab +6, Car +6"
 speed: "30 ft."
 hit_points: "71 (13d8+13)"
@@ -30,7 +30,7 @@ At will: detect thoughts, levitate
 
 ### Actions
 
-***Tentacles.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
+***Tentacles.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends.
 
 ***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
 

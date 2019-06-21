@@ -31,7 +31,7 @@ armor_class: "14 (armadura natural)"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d4 + 4) puntos de daño cortante.
 
 ***Greatclub.*** Melee Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño contundente.
 

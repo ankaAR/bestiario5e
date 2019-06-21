@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Común, Ignan, Infernal"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +5, Deception +8, Performance +8"
+skills: "Arcana +5, Engaño +8, Performance +8"
 damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"

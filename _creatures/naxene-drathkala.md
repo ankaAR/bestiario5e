@@ -31,7 +31,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 
 ### Actions
 
-***Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 ft., one creature. Hit: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
+***Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands.
 
 ### Roleplaying Information
 

@@ -16,7 +16,7 @@ senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +3"
 speed: "30 ft."
 hit_points: "22 (4d8+4)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
 ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.

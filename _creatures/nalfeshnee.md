@@ -30,7 +30,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 32 (5d10 + 5) piercing damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (3d6 + 5) slashing damage.
+***Claw.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (3d6 + 5) puntos de daño cortante.
 
 ***Horror Nimbus (Recharge 5-6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 

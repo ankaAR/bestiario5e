@@ -31,7 +31,7 @@ armor_class: "15 (studded leather armor)"
 
 ***Multiataque.*** The orc makes two scimitar or dart attacks.
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6+3) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6+3) puntos de daño cortante.
 
 ***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 10 (3d4+3) piercing damage.
 

@@ -15,7 +15,7 @@ languages: "Dwarvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "25 ft."
 hit_points: "18 (4d8)"
-armor_class: "14 (leather armor)"
+armor_class: "14 (armadura de cuero)"
 damage_resistances: "poison"
 ---
 

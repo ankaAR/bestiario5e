@@ -23,4 +23,4 @@ armor_class: "17 (armadura natural), 12 while prone"
 
 ### Actions
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 +4) slashing damage.
+***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 +4) puntos de daño cortante.

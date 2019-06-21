@@ -15,7 +15,7 @@ languages: "Común, Elvish, Sylvan"
 skills: "Percepción +2, Performance +6, Sigilo +5"
 speed: "40 ft."
 hit_points: "31 (7d8)"
-armor_class: "14 (leather armor)"
+armor_class: "14 (armadura de cuero)"
 ---
 
 ***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.

@@ -30,7 +30,7 @@ damage_resistances: "fire, poison"
 
 ***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) slashing damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6+4) puntos de daño cortante.
 
 ### Reactions
 

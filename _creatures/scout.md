@@ -15,7 +15,7 @@ languages: "Un idioma cualquiera (usualmente Común)"
 skills: "Nature +4, Percepción +5, Sigilo +6, Survival +5"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
 ***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.

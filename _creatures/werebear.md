@@ -29,6 +29,6 @@ armor_class: "10 (in humanoid form, 11 in bear and hybrid forms )"
 
 ***Bite (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.
 
-***Claw (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage.
+***Claw (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
-***Greataxe (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) slashing damage.
+***Greataxe (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) puntos de daño cortante.

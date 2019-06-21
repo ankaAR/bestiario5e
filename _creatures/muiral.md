@@ -47,7 +47,7 @@ armor_class: "16 (armadura natural)"
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.
 
-***Sting.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 ft., one creature. Hit: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
+***Sting.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 9 (1d10 + 4) piercing damage. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
 
 ### Legendary Actions
 

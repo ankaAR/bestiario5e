@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Auran, Common"
-skills: "Deception +5, Persuasion +5"
+skills: "Engaño +5, Persuasion +5"
 speed: "30 ft."
 hit_points: "44 (8d8+8)"
 armor_class: "12 (15 with mage armor)"

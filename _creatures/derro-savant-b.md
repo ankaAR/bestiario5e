@@ -17,7 +17,7 @@ senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 7"
 skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "36  (8d6 + 8)"
-armor_class: "13 (leather armor)"
+armor_class: "13 (armadura de cuero)"
 ---
 
 ***Magic Resistance.*** The derro savant has advantage on saving throws against spells and other magical effects.

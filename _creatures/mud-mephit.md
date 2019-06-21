@@ -27,7 +27,7 @@ condition_immunities: "poisoned"
 
 ### Actions
 
-***Fists.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft., one creature. Hit: 4 (1d6 + 1) puntos de daño contundente.
+***Fists.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d6 + 1) puntos de daño contundente.
 
 ***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 ft. of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

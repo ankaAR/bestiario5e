@@ -26,4 +26,4 @@ condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrif
 
 ### Actions
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) slashing damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante.

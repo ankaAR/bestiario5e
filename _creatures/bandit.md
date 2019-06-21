@@ -14,11 +14,11 @@ challenge: "1/8 (25 XP)"
 languages: "Un idioma cualquiera (usualmente Común)"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"
-armor_class: "12 (leather armor)"
+armor_class: "12 (armadura de cuero)"
 ---
 
 ### Actions
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño cortante.
 
 ***Light Crossbow.*** Ranged Weapon Attack: +3 to hit, range 80 ft./320 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.

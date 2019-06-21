@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Auran, Common, Elvish"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Acrobatics +5, Deception +7, Persuasion +5, Performance +7, Sigilo +5"
+skills: "Acrobatics +5, Engaño +7, Persuasion +5, Performance +7, Sigilo +5"
 speed: "30 ft."
 hit_points: "55 (10d8+10)"
 armor_class: "15 (cuero endurecido)"
@@ -37,4 +37,4 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** Windharrow makes two melee attacks.
 
-***Rapier.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage.
+***Rapier.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d8 + 3) piercing damage.

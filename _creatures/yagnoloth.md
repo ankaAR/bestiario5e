@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "11 (7200 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
-skills: "Deception +8, Insight +6, Percepción +6, Persuasion +8"
+skills: "Engaño +8, Insight +6, Percepción +6, Persuasion +8"
 damage_immunities: "acid, poison"
 saving_throws: "Des +6, Int +7, Sab +6, Car +8"
 speed: "40 ft."

@@ -24,6 +24,6 @@ armor_class: "16 (chain shirt, shield)"
 
 ***Multiataque.*** The firenewt makes two attacks with its scimitar.
 
-***Scimitar.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) slashing damage.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño cortante.
 
 ***Spit Fire (Recharges after a Short or Long Rest).*** The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one
