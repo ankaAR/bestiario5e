@@ -39,4 +39,4 @@ Purple. The poisoned creature feels a desperate need to soak itself in liquid or
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.

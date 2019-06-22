@@ -12,7 +12,7 @@ size: Huge beast
 alignment: unaligned
 challenge: "7 (2,900 XP)"
 skills: "Athletics +9, Percepción +4"
-speed: "40 ft., climb 40 ft."
+speed: "40 pies (12 mts), climb 40 ft."
 hit_points: "157 (15d12+60)"
 armor_class: "12"
 ---

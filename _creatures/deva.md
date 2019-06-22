@@ -38,7 +38,7 @@ At will: detect evil and good
 
 ***Mace.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente plus 18 (4d8) radiant damage.
 
-***Healing Touch (3/Day).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+***Healing Touch (3/Día).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
 ***Change Shape.*** The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).
 

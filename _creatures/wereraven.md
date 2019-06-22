@@ -28,8 +28,8 @@ armor_class: "12"
 
 ***Multiattack (Human or Hybrid Form Only).*** The wereraven makes two weapon attacks, one of which can be with its hand crossbow.
 
-***Beak (Raven or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage in raven form, or 4 (1d4+2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.
+***Beak (Raven or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage in raven form, or 4 (1d4+2) puntos de daño perforante in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.
 
-***Shortsword (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
+***Shortsword (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante.
 
-***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
+***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante.

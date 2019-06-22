@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
 skills: "Percepción +3, Sigilo +4"
-speed: "40 ft., climb 30 ft."
+speed: "40 pies (12 mts), climb 30 ft."
 hit_points: "2 (1d4)"
 armor_class: "12"
 ---

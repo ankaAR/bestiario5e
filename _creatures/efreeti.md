@@ -15,7 +15,7 @@ languages: "Ignan"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "fire"
 saving_throws: "Int +7, Sab +6, Car +7"
-speed: "40 ft., fly 60 ft."
+speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "200 (16d10+112)"
 armor_class: "17 (armadura natural)"
 ---

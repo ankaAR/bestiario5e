@@ -26,4 +26,4 @@ damage_resistances: "poison"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante.

@@ -35,4 +35,4 @@ At will: detect thoughts, disguise self, mage hand, minor illusion
 
 ***Multiataque.*** The rakshasa makes two claw attacks
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.

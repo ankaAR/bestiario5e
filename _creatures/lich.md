@@ -23,7 +23,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "cold, lightning, necrotic"
 ---
 
-***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the lich fails a saving throw, it can choose to succeed instead.
 
 ***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 

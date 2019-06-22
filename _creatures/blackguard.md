@@ -33,6 +33,6 @@ armor_class: "18 (plate)"
 
 ***Glaive.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10+4) puntos de daño cortante.
 
-***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante.
 
 ***Dreadful Aspect (Recharges after a Short or Long Rest).*** The blackguard exudes magical menace. Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If a frightened target ends its turn more than 30 feet away from the blackguard, the target can repeat the saving throw, ending the effect on itself on a success.

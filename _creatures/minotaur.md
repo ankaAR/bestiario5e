@@ -19,7 +19,7 @@ hit_points: "76 (9d10+27)"
 armor_class: "14 (armadura natural)"
 ---
 
-***Charge.*** If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.
+***Charge.*** If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) puntos de daño perforante. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.
 
 ***Labyrinthine Recall.*** The minotaur can perfectly recall any path it has traveled.
 
@@ -29,4 +29,4 @@ armor_class: "14 (armadura natural)"
 
 ***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) puntos de daño cortante.
 
-***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño perforante.

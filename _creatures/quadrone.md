@@ -29,4 +29,4 @@ armor_class: "16 (armadura natural)"
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente.
 
-***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

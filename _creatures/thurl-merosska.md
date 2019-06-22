@@ -34,7 +34,7 @@ armor_class: "16 (breastplate)"
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
 
-***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) piercing damage.
+***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante.
 
 ### Reactions
 

@@ -12,11 +12,11 @@ size: Gargantuan dragon
 alignment: legal maligna
 challenge: "23 (50,000 XP)"
 languages: "Común, Draconic, Giant, Terran"
-senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +17, Sigilo +7"
 damage_immunities: "lightning"
 saving_throws: "Des +7, Con +15, Sab +10, Car +12"
-speed: "40 ft., burrow 40 ft., fly 80 ft."
+speed: "40 pies (12 mts), burrow 40 pies (12 mts), fly 80 ft."
 hit_points: "481 (26d20+208)"
 armor_class: "22 (armadura natural)"
 ---
@@ -27,17 +27,17 @@ armor_class: "22 (armadura natural)"
 
 ### Acciones
 
-***Multiataque.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dragon can use its Resistencia Pavorosa. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) puntos de daño perforante plus 11 (2d10) lightning damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d6 + 9) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d6 + 9) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 18 (2d8 + 9) puntos de daño contundente.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Resistencia Pavorosa.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Resistencia Pavorosa for the next 24 hours.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recarga 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 ***Change Shape.*** Iymrith magically polymorphs into a female storm giant or back into her true form. She reverts to her true form if she dies. Any equipment she is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
@@ -49,6 +49,6 @@ The iymrith, ancient blue dragon can take 3 legendary actions, choosing from the
 
 ***Detectar.*** The dragon hace una prueba de Sabiduría (Percepción).
 
-***Tail Attack.*** The dragon makes a tail attack.
+***Ataque de Cola.*** El dragón hace un ataque con la cola.
 
-***Wing Attack (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.
+***Ataque de Ala (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.

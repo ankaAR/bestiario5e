@@ -24,4 +24,4 @@ armor_class: "12 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño perforante.

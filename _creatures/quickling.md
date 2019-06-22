@@ -27,4 +27,4 @@ armor_class: "16"
 
 ***Multiataque.*** The quickling makes three dagger attacks.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +8 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +8 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) puntos de daño perforante.

@@ -14,7 +14,7 @@ alignment: unaligned
 challenge: "5 (1800 XP)"
 languages: "Kruthik"
 senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 12"
-speed: "40 ft., burrow 20 ft., climb 40 ft."
+speed: "40 pies (12 mts), burrow 20 ft., climb 40 ft."
 hit_points: "102  (12d10 + 36)"
 armor_class: "20 (armadura natural)"
 ---
@@ -29,8 +29,8 @@ armor_class: "20 (armadura natural)"
 
 ***Multiattack*** The kruthik makes two stab attacks or two spike attacks.
 
-***Stab*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
+***Stab*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante.
 
-***Spike*** Ranged Weapon Attack: +6 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
+***Spike*** Ranged Weapon Attack: +6 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
 
-***Acid Spray (Recharge 5-6)*** The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Spray (Recarga 5-6)*** The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (4d10) puntos de daño por ácido on a failed save, or half as much damage on a successful one.

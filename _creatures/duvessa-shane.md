@@ -21,7 +21,7 @@ senses: " passive Perception 12"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60pies, un objetivo. Impacto: 2 (1d4) piercing damage. Duvessa carries only one dagger.
+***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante. Duvessa carries only one dagger.
 
 ### Reactions
 

@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "2 (450 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Sigilo +5"
-damage_immunities: "acid"
+damage_immunities: "ácido"
 speed: "15 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "12 (armadura natural)"
@@ -32,4 +32,4 @@ condition_immunities: "prone"
 
 ***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente. If the mimic is in object form, the target is subjected to its Adhesive trait.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 4 (1d8) puntos de daño por ácido.

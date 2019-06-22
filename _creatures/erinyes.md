@@ -32,7 +32,7 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 
-***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
+***Longbow.*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 
 ***Variant: Rope of Entanglement.*** Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 

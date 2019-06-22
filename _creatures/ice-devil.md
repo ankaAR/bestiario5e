@@ -12,7 +12,7 @@ size: Large fiend (devil)
 alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "Infernal, telepathy 120 ft."
-senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "fire, poison"
 saving_throws: "Des +7, Con +9, Sab +7, Car +9"
 speed: "40 ft."
@@ -30,7 +30,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño perforante plus 10 (3d6) cold damage.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
 

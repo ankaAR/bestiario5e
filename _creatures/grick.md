@@ -26,4 +26,4 @@ damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical 
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño cortante.
 
-***Beak.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

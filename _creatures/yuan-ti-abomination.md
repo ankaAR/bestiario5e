@@ -37,10 +37,10 @@ At will: animal friendship (snakes only)
 
 ***Multiattack (Abomination Form Only).*** The yuan_ti makes two ranged attacks or three melee attacks, but can use its bite and constrict attacks only once each.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 10 (3d6) poison damage.
 
 ***Constrict.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the yuan_ti can't constrict another target.
 
 ***Scimitar (Abomination Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 
-***Longbow (Abomination Form Only).*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison damage.
+***Longbow (Abomination Form Only).*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 12 (2d8 + 3) puntos de daño perforante plus 10 (3d6) poison damage.

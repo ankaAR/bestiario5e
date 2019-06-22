@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Medium construct
 alignment: unaligned
 challenge: "1 (200 XP)"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "poison, psychic"
 speed: "25 ft."
 hit_points: "33 (6d8+6)"

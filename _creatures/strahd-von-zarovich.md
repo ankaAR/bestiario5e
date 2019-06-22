@@ -28,7 +28,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 >While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage he takes from sunlight.
 
-***Legendary Resistance (3/Day).*** If Strahd fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Strahd fails a saving throw, he can choose to succeed instead.
 
 ***Misty Escape.*** When he drops to 0 hit points outside his coffin, Strahd transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that he isn't in running water or sunlight. If he can't transform, he is destroyed.
 
@@ -68,7 +68,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Unarmed Strike (Vampire Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 8 (1d8+4) puntos de daño contundente, plus 14 (4d6) necrotic damage. If the target is a creature, Strahd can grapple it (escape DC 18) instead of dealing the bludgeoning damage.
 
-***Bite (Bat or Vampire Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. Hit: 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if  its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strahd's control.
+***Bite (Bat or Vampire Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one willing creature, or a creature that is grappled by Strahd, incapacitated, or restrained. Hit: 7 (1d6+4) puntos de daño perforante plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strahd regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if  its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strahd's control.
 
 ***Charm.*** Strahd targets one humanoid he can see within 30 ft. of him. If the target can see Strahd, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed. The charmed target regards Strahd as a trusted friend to be heeded and protected. The target isn't under Strahd's control, but it takes Strahd's requests and actions in the most favorable way and lets Strahd bite it.
 

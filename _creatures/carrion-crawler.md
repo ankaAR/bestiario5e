@@ -28,4 +28,4 @@ armor_class: "13 (armadura natural)"
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño perforante.

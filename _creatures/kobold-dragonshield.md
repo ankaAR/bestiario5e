@@ -31,4 +31,4 @@ armor_class: "15 (leather armor, shield)"
 
 ***Multiataque.*** The kobold makes two melee attacks.
 
-***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 4 (ld6+l) piercing damage, or 5 (ld8+l) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 4 (ld6+l) puntos de daño perforante, or 5 (ld8+l) puntos de daño perforante if used with two hands to make a melee attack.

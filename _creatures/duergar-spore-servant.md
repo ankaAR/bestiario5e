@@ -12,7 +12,7 @@ size: Medium plant
 alignment: unaligned
 challenge: "1/2 (100 XP)"
 languages: "-"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "15 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "16 (scale armor, shield)"
@@ -22,4 +22,4 @@ damage_resistances: "poison"
 
 ### Acciones
 
-***War Pick.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
+***War Pick.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.

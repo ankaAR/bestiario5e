@@ -24,10 +24,10 @@ armor_class: "15 (chain shirt)"
 
 ***Multiataque.*** The gnoll makes two attacks, either with its glaive or its longbow, and uses its Incite Rampage if it can.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño perforante.
 
 ***Glaive.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
 
-***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.
 
-***Incite Rampage (Recharge 5-6).*** One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait.
+***Incite Rampage (Recarga 5-6).*** One creature the gnoll can see within 30 feet of it can use its reaction to make a melee attack if it can hear the gnoll and has the Rampage trait.

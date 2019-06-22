@@ -17,7 +17,7 @@ senses: "darkvision 60 ft., passive Perception 17"
 skills: "Percepción +7"
 damage_immunities: "poison"
 saving_throws: "Str +11, Des +7"
-speed: "40 ft., fly 60 ft."
+speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "190  (20d8 + 100)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "poisoned"
@@ -38,6 +38,6 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 32 (4d12 + 6) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 32 (4d12 + 6) puntos de daño perforante.
 
 ***Soul-Stealing Gaze*** The nabassu targets one creature it can see within 30 feet of it. If the target can see the nabassu and isn't a construct or an undead, it must succeed on a DC 16 Charisma saving throw or reduce its hit point maximum by 13 (2d12) damage and give the nabassu an equal number of temporary hit points. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a humanoid, it immediately rises as a ghoul under the nabassu's control.

@@ -29,6 +29,6 @@ damage_resistances: "poison"
 
 ***Longsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Shortsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Shortsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
-***Heavy Crossbow*** Ranged Weapon Attack: +3 to hit, range 100/400 pies, un objetivo. Impacto: 6 (1d10 + 1) piercing damage.
+***Heavy Crossbow*** Ranged Weapon Attack: +3 to hit, range 100/400 pies, un objetivo. Impacto: 6 (1d10 + 1) puntos de daño perforante.

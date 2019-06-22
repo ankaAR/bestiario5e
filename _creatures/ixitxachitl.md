@@ -20,10 +20,10 @@ armor_class: "15 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante.
 
 ### Reactions
 
 ***Barbed Tail.*** When a creature provokes an opportunity attack from the ixitxachitl, the ixitxachitl can make the following attack instead of using its bite.
 
-Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.
+Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante.

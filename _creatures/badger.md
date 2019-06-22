@@ -21,4 +21,4 @@ armor_class: "10"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage.

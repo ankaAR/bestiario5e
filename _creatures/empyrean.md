@@ -27,7 +27,7 @@ At will: greater restoration, pass without trace, water breathing, water walk
 
 1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)
 
-***Legendary Resistance (3/Day).*** If the empyrean fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the empyrean fails a saving throw, it can choose to succeed instead.
 
 ***Magic Resistance.*** The empyrean has advantage on saving throws against spells and other magical effects.
 

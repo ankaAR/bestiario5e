@@ -12,7 +12,7 @@ size: Medium construct
 alignment: unaligned
 challenge: "4 (1,100 XP)"
 languages: "understands the languages of its creator but can't speak"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Percepción +4"
 damage_immunities: "force, necrotic, poison"
 speed: "30 ft., fly 30 ft."

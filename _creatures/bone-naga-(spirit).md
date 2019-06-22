@@ -32,4 +32,4 @@ condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 10 (2d6 + 3) puntos de daño perforante plus 10 (3d6) poison damage.

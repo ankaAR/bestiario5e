@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Medium beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-senses: "blindsight 30 ft."
+senses: "Vista ciega 30 pies (9 mts)"
 skills: "Percepción +2"
 speed: "swim 40 ft."
 hit_points: "22 (4d8+4)"
@@ -24,4 +24,4 @@ armor_class: "12 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.

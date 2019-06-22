@@ -21,4 +21,4 @@ armor_class: "12 (armadura de cuero)"
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño cortante.
 
-***Light Crossbow.*** Ranged Weapon Attack: +3 to hit, range 80 ft./320 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
+***Light Crossbow.*** Ranged Weapon Attack: +3 to hit, range 80 ft./320 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante.

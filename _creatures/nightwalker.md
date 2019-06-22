@@ -16,7 +16,7 @@ languages: "-"
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 9"
 damage_immunities: "necrotic, poison"
 saving_throws: "Con +13"
-speed: "40 ft., fly 40 ft."
+speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "297  (22d12 + 154)"
 armor_class: "14"
 condition_immunities: "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
@@ -33,4 +33,4 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Enervating Focus*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (5d8 + 6) necrotic damage. The target must succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest.
 
-***Finger of Doom (Recharge 6)*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 26 (4d12) necrotic damage and become frightened until the end of the nightwalker's next turn. While frightened in this way, the creature is also paralyzed. If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.
+***Finger of Doom (Recarga 6)*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 26 (4d12) necrotic damage and become frightened until the end of the nightwalker's next turn. While frightened in this way, the creature is also paralyzed. If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.

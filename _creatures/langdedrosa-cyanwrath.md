@@ -12,7 +12,7 @@ size: Humanoide Mediano (half-dragon)
 alignment: legal maligna
 challenge: "4 (1,100 XP)"
 languages: "Común, Dragón"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Athletics +6, Intimidation +3, Percepción +4"
 saving_throws: "Str +6, Con +5"
 speed: "30 ft."
@@ -31,6 +31,6 @@ damage_resistances: "lightning"
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft.,/60 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft.,/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
 
-***Lightning Breath (Recharge 5-6).*** Langdedrosa breathes lightning in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recarga 5-6).*** Langdedrosa breathes lightning in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.

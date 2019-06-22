@@ -23,7 +23,7 @@ condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
-***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.
+***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) puntos de daño perforante. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked prone.
 
 ***Labyrinthine Recall.*** The goristro can perfectly recall any path it has traveled.
 
@@ -39,4 +39,4 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Hoof.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 23 (3d10 + 7) puntos de daño contundente. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
 
-***Gore.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 45 (7d10 + 7) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 45 (7d10 + 7) puntos de daño perforante.

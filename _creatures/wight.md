@@ -33,4 +33,4 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
 
-***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.

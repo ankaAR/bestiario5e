@@ -12,9 +12,9 @@ size: Humanoide Mediano (half-black dragon)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Común, Draconic, Infernal, Giant, Netherese"
-senses: "blindsight 10 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 10 pies (3 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Arcana +5, Sigilo +9"
-damage_immunities: "acid"
+damage_immunities: "ácido"
 saving_throws: "Des +6, Sab +4"
 speed: "30 ft."
 hit_points: "90 (12d8+36)"
@@ -32,15 +32,15 @@ condition_immunities: "charmed, frightened"
 
 ***Immolation.*** When Rezmir is reduced to 0 hit points, her body disintegrates into a pile of ash.
 
-***Legendary Resistance (1/Day).*** If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.
+***Resistencia Legendaria (1/Día).*** If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.
 
 ### Acciones
 
 ***Greatsword (Hazirawn).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 
-***Caustic Bolt.*** Ranged Spell Attack: +8 to hit, range 90 pies, un objetivo. Impacto: 18 (4d8) acid damage.
+***Caustic Bolt.*** Ranged Spell Attack: +8 to hit, range 90 pies, un objetivo. Impacto: 18 (4d8) puntos de daño por ácido.
 
-***Acid Breath (Recharge 5-6).*** Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+***Aliento de ácido (Recarga 5-6).*** Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 
 ### Acciones Legendarias
 

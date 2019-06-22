@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Large plant
 alignment: unaligned
 challenge: "5 (1,800 XP)"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Sigilo +2"
 damage_immunities: "lightning"
 speed: "20 ft., nadando 20 ft."

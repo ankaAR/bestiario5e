@@ -29,6 +29,6 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Multiataque.*** The bugbear makes two melee attacks
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8 + 3) piercing damage.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8 + 3) puntos de daño perforante.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range.
+***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 9 (2d6 + 3) puntos de daño perforante in melee or 5 (1d6 + 3) puntos de daño perforante at range.

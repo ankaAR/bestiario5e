@@ -11,7 +11,7 @@ str: 1 (-5)
 size: Tiny elemental
 alignment: neutral
 challenge: "0 (10 XP)"
-senses: "blindsight 60ft., passive Perception 17"
+senses: "Vista ciega 60ft., passive Perception 17"
 skills: "Acrobatics +7, Percepción +7, Sigilo +7"
 speed: "20 ft., climb 20 ft., nadando 20 ft."
 hit_points: "5 (2d4)"
@@ -26,6 +26,6 @@ At will: druldcraft, guidance, pass without trace, resistance
 
 ### Acciones
 
-***Magical Gift (1/Day).*** The chwinga targets a humanoid it can see within S feet of it. The target gains a supernatural charm of the DM's choice. See chapter 7 of the Dungeon Master's Guide for more information on supernatural charms.
+***Magical Gift (1/Día).*** The chwinga targets a humanoid it can see within S feet of it. The target gains a supernatural charm of the DM's choice. See chapter 7 of the Dungeon Master's Guide for more information on supernatural charms.
 
-***Natural Shelter.*** The chwinga magically takes shelter inside a rock, a living plant, or a natural source of fresh water in its space. The chwinga can't be targeted by any attack, spell, or other effect while inside this shelter, and the shelter doesn't impair the chwinga's blindsight. The chwinga can use its action to emerge from a shelter. If its shelter is destroyed, the chwinga is forced out and appears in the shelter's space, but is otherwise unharmed.
+***Natural Shelter.*** The chwinga magically takes shelter inside a rock, a living plant, or a natural source of fresh water in its space. The chwinga can't be targeted by any attack, spell, or other effect while inside this shelter, and the shelter doesn't impair the chwinga's Vista ciega. The chwinga can use its action to emerge from a shelter. If its shelter is destroyed, the chwinga is forced out and appears in the shelter's space, but is otherwise unharmed.

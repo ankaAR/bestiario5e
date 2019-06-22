@@ -12,7 +12,7 @@ size: Medium aberration (shapechanger)
 alignment: chaotic neutral
 challenge: "9 (5,000 XP)"
 languages: "Slaad, telepathy 60 ft."
-senses: "blindsight 60 ft., darkvision 60 ft."
+senses: "Vista ciega 60 pies (18 mts), darkvision 60 ft."
 skills: "Arcana +5, Percepción +6"
 speed: "30 ft."
 hit_points: "127 (17d8+51)"
@@ -48,7 +48,7 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 
 ***Multiataque.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 
-***Bite (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Bite (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
 ***Claws (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
 

@@ -22,4 +22,4 @@ armor_class: "13"
 
 ### Acciones
 
-***Horn.*** Mele Weapon Attack: +5 al ataque, alcance 5pies, un objetivo. Impacto: 5 (1d4 +3) piercing damage.
+***Horn.*** Mele Weapon Attack: +5 al ataque, alcance 5pies, un objetivo. Impacto: 5 (1d4 +3) puntos de daño perforante.

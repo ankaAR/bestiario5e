@@ -12,7 +12,7 @@ size: Medium fey
 alignment: chaotic neutral
 challenge: "2 (450 XP)"
 languages: "Elvish, Sylvan"
-senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Acrobatics +5, Engaño +3, Percepción +6, Sigilo +7"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
@@ -25,6 +25,6 @@ armor_class: "15 (studded leather armor)"
 
 ***Multiataque.*** The darkling elder makes two melee attacks.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 fit, one target. Hit: 6 (1d6+3) piercing damage. If the darkling elder had advantage on the attack roll, the attack deals as: extra 10 (3d6) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 fit, one target. Hit: 6 (1d6+3) puntos de daño perforante. If the darkling elder had advantage on the attack roll, the attack deals as: extra 10 (3d6) puntos de daño perforante.
 
 ***Darkness (Recharges after a Short or Long Rest).*** The darkling elder casts darkness without any components. Wisdom is its spellcasting ability.

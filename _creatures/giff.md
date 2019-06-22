@@ -29,8 +29,8 @@ armor_class: "16 (breastplate)"
 
 ***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
-***Musket*** Ranged Weapon Attack: +4 to hit, range 40/120 pies, un objetivo. Impacto: 7 (1d12 + 2) piercing damage.
+***Musket*** Ranged Weapon Attack: +4 to hit, range 40/120 pies, un objetivo. Impacto: 7 (1d12 + 2) puntos de daño perforante.
 
-***Pistol*** Ranged Weapon Attack: +4 to hit, range 30/90 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage.
+***Pistol*** Ranged Weapon Attack: +4 to hit, range 30/90 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño perforante.
 
-***Fragmentation Grenade (1/day)*** The giff throws a grenade up to 60 feet. Each creature within 20 feet of the grenade's detonation must make a DC 15 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much damage on a successful one.
+***Fragmentation Grenade (1/day)*** The giff throws a grenade up to 60 feet. Each creature within 20 feet of the grenade's detonation must make a DC 15 Dexterity saving throw, taking 17 (5d6) puntos de daño perforante on a failed save, or half as much damage on a successful one.

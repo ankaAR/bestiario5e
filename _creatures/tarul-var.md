@@ -29,7 +29,7 @@ damage_resistances: "cold, lightning, necrotic; bludgeoning, piercing, and slash
 
 ***Focused Conjuration.*** While Var is concentrating on a conjuration spell, his concentration can't be broken as a result of taking damage.
 
-***Legendary Resistance (3/Day).*** If Var fails a saving throw, he can choose to succeed instead .
+***Resistencia Legendaria (3/Día).*** If Var fails a saving throw, he can choose to succeed instead .
 
 ***Rejuvenation.*** If Var is destroyed but his phylactery remains intact, Var gains a new body in ldlO days, regaining all his hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 

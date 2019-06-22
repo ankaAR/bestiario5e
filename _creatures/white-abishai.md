@@ -39,4 +39,4 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage plus 3 (1d6) cold damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) cold damage.

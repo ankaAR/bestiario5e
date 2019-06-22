@@ -11,7 +11,7 @@ str: 2 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-senses: "blindsight 30 ft."
+senses: "Vista ciega 30 pies (9 mts)"
 skills: "Sigilo +2"
 speed: "20 ft., nadando 20 ft."
 hit_points: "2 (1d4)"
@@ -22,4 +22,4 @@ armor_class: "11 (armadura natural)"
 
 ### Acciones
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.

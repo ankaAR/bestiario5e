@@ -12,7 +12,7 @@ size: Large elemental
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "understands Aquan but doesn't speak"
-senses: "blindsight 30 ft."
+senses: "Vista ciega 30 pies (9 mts)"
 damage_immunities: "poison"
 speed: "0 ft., nadando 60 ft."
 hit_points: "58 (9d10+9)"

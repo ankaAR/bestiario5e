@@ -12,7 +12,7 @@ size: Huge beast
 alignment: unaligned
 challenge: "5 (1,800 XP)"
 languages: "--"
-senses: "blindsight 30 ft."
+senses: "Vista ciega 30 pies (9 mts)"
 skills: "Sigilo +2"
 speed: "20 ft., nadando 30 ft."
 hit_points: "76 (8d12+24)"
@@ -27,4 +27,4 @@ armor_class: "17 (armadura natural)"
 
 ***Multiataque.*** The crab makes two attacks with its claws.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d10+4) puntos de daño contundente, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d10+4) puntos de daño contundente, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.

@@ -24,6 +24,6 @@ armor_class: "16 (studded leather armor)"
 
 ***Multiattack .*** The archer makes two attacks with its longbow.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.
 
-***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 8 (1d8+4) puntos de daño perforante.

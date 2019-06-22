@@ -12,11 +12,11 @@ size: Large fiend (demon)
 alignment: caótico maligno
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, telepathy 120 ft."
-senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +5, Sigilo +5"
 damage_immunities: "poison"
 saving_throws: "Des +5, Con +6"
-speed: "40 ft., climb 40 ft."
+speed: "40 pies (12 mts), climb 40 ft."
 hit_points: "68 (8d10+24)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "poisoned"
@@ -37,11 +37,11 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiataque.*** The barlgura makes three attacks: one with its bite and two with its fists.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño contundente.
 
-***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
+***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 
 A barlgura has a 30 percent chance of summoning one barlgura.
 

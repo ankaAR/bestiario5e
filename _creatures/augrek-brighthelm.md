@@ -35,4 +35,4 @@ Sheriff's deputy Augrek guards the southwest gate of BRyn Shander and welcomes v
 
 ***Warhammer.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño contundente, or 7 (1d10+2) puntos de daño contundente if used with two hands.
 
-***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage. Augrek carries ten crossbow bolts.
+***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) puntos de daño perforante. Augrek carries ten crossbow bolts.

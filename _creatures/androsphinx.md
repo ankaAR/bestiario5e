@@ -16,7 +16,7 @@ senses: "truesight 120 ft."
 skills: "Arcana +9, Percepción +10, Religión +15"
 damage_immunities: "psychic, bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Des +6, Con +11, Int +9, Sab +10"
-speed: "40 ft., fly 60 ft."
+speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "199 (19d10+95)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, frightened"
@@ -46,9 +46,9 @@ condition_immunities: "charmed, frightened"
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
-***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+***Roar (3/Día).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
 First Roar. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

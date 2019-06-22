@@ -25,4 +25,4 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ### Acciones
 
-***Bites.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+***Bites.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 7 (2d6) puntos de daño perforante, or 3 (1d6) puntos de daño perforante if the swarm has half of its hit points or fewer.

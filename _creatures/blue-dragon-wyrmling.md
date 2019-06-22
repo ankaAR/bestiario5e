@@ -12,7 +12,7 @@ size: Medium dragon
 alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "Dragón"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +2"
 damage_immunities: "lightning"
 saving_throws: "Des +2, Con +4, Sab +2, Car +4"
@@ -23,6 +23,6 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante plus 3 (1d6) lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recarga 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.

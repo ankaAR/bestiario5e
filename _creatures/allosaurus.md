@@ -21,6 +21,6 @@ armor_class: "15 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante.

@@ -39,6 +39,6 @@ armor_class: "12 (armadura natural)"
 
 ***Multiataque.*** The sahuagin makes two melee attacks: one with her bite and one with her claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño cortante.

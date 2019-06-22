@@ -33,6 +33,6 @@ Cantrips (at will): minor illusion, prestidigitation, true strike
 
 ***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one target. Hit: 5 (1d4+3) puntos de daño contundente.
 
-***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 it, one target. Hit: 5 (1d4+3) piercing damage.
+***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 it, one target. Hit: 5 (1d4+3) puntos de daño perforante.
 
 ***Shadow Jaunt.*** The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness.

@@ -22,6 +22,6 @@ condition_immunities: "poisoned"
 
 ### Acciones
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
 
-***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

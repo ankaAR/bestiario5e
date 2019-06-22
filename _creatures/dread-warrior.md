@@ -34,4 +34,4 @@ condition_immunities: "exhaustion, poisoned"
 
 ***Battleaxe.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if wielded with two hands.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

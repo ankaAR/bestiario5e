@@ -11,16 +11,16 @@ str: 2 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-senses: "blindsight 60 ft."
+senses: "Vista ciega 60 pies (18 mts)"
 speed: "5 ft., fly 30 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "12"
 ---
 
-***Echolocation.*** The bat can't use its blindsight while deafened.
+***Echolocation.*** The bat can't use its Vista ciega while deafened.
 
 ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 1 piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 1 piercing damage.

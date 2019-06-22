@@ -12,7 +12,7 @@ size: Small plant
 alignment: neutral evil
 challenge: "1/8 (25 XP)"
 languages: "understands Common but can't speak"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Sigilo +3"
 speed: "20 ft."
 hit_points: "4 (1d6+1)"
@@ -25,4 +25,4 @@ condition_immunities: "blinded, deafened"
 
 ### Acciones
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.

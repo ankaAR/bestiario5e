@@ -30,6 +30,6 @@ armor_class: "18 (chain mail, shield)"
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8+3) slashing damage, or 14 (2d10+3) slashing damage when used with two hands.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6+3) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño perforante.
 
 ***Ilneval's Command (Recharges 4-6).*** Up to three allied orcs within 120 feet of this orc that can hear it can use their reactions to each make one weapon attack.

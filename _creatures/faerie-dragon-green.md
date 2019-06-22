@@ -49,9 +49,9 @@ A green or older faerie dragon's CR increases to 2.
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 1 piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 1 piercing damage.
 
-***Euphoria Breath (Recharge 5-6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:
+***Euphoria Breath (Recarga 5-6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:
 
 1-4. The target takes no action or bonus action and uses all of its movement to move in a random direction.
 

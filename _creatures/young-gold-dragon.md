@@ -12,11 +12,11 @@ size: Large dragon
 alignment: lawful good
 challenge: "10 (5,900 XP)"
 languages: "Común, Dragón"
-senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Insight +5, Percepción +9, Persuasion +9, Sigilo +6"
 damage_immunities: "fire"
 saving_throws: "Des +6, Con +9, Sab +5, Car +9"
-speed: "40 ft., fly 80 ft., nadando 40 pies (12 mts)"
+speed: "40 pies (12 mts), volando 80 pies (24 mts), nadando 40 pies (12 mts)"
 hit_points: "178 (17d10+85)"
 armor_class: "18 (armadura natural)"
 ---
@@ -27,11 +27,11 @@ armor_class: "18 (armadura natural)"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d10 + 6) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante.
 
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 
 Fire Breath. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
 

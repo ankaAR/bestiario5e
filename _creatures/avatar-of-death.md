@@ -28,4 +28,4 @@ condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned , unc
 
 ### Acciones
 
-***Reaping Scythe.*** The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage.
+***Reaping Scythe.*** The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage más 4 (1d8) necrotic damage.

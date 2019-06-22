@@ -12,7 +12,7 @@ size: Small fey
 alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
 languages: "Elvish, Sylvan"
-senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Acrobatics +5, Engaño +2, Percepción +5, Sigilo +7"
 speed: "30 ft."
 hit_points: "13 (3d6+3)"
@@ -25,4 +25,4 @@ armor_class: "14 (armadura de cuero)"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) puntos de daño perforante.

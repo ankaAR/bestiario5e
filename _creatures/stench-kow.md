@@ -18,10 +18,10 @@ armor_class: "10"
 damage_resistances: "cold, fire, poison"
 ---
 
-***Charge.*** If the kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
+***Charge.*** If the kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) puntos de daño perforante.
 
 ***Stench.*** Any creature other than a stench kow that starts its turn within 5 feet of the stench kow must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all stench kows for 1 hour.
 
 ### Acciones
 
-***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.

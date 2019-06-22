@@ -24,6 +24,6 @@ damage_resistances: "fire"
 
 ***Multiataque.*** The drake attacks twice, once with its bite and once with its tail.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) puntos de daño perforante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño contundente.

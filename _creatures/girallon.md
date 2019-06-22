@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "4 (1,100 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +5"
-speed: "40 ft., climb 40 ft."
+speed: "40 pies (12 mts), climb 40 ft."
 hit_points: "59 (7d10+21)"
 armor_class: "13"
 ---
@@ -26,6 +26,6 @@ armor_class: "13"
 
 ***Multiataque.*** The girallon makes five attacks: one with its bite and four with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 7 (1d6+4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 7 (1d6+4) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +6 to hit. reach 10 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 to hit. reach 10 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño cortante.

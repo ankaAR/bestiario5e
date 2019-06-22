@@ -12,7 +12,7 @@ size: Large fiend (devil)
 alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "Infernal, telepathy 120 ft."
-senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "fire, poison"
 saving_throws: "Des +7, Con +9, Sab +7, Car +9"
 speed: "40 ft."
@@ -30,9 +30,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The devil makes two attacks: one with its spear and one with its tail.
 
-***Ice Spear.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Ice Spear.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño perforante plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño perforante plus 10 (3d6) cold damage.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
 

@@ -31,6 +31,6 @@ damage_resistances: "poison"
 
 ***Greatsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
 
-***Heavy Crossbow*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
+***Heavy Crossbow*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) puntos de daño perforante.
 
 ***Leadership (Recharges after a Short or Long Rest)*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.

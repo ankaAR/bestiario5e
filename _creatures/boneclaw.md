@@ -31,7 +31,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Multiattack*** The boneclaw makes two claw attacks.
 
-***Piercing Claw*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (3d10 + 4) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is grappled (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
+***Piercing Claw*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (3d10 + 4) puntos de daño perforante. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is grappled (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
 
 ***Shadow Jump*** If the boneclaw is in dim light or darkness, each creature of the boneclaw's choice within 5 feet of it must succeed on a DC 14 Constitution saving throw or take 34 (5d12 + 2) necrotic damage.
 The boneclaw then magically teleports up to 60 feet to an unoccupied space it can see. It can bring one creature it's grappling, teleporting that creature to an unoccupied space it can see within 5 feet of its destination. The destination spaces of this teleportation must be in dim light or darkness.

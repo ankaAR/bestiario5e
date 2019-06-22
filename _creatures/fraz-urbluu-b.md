@@ -17,7 +17,7 @@ senses: "truesight 120 ft., passive Perception 24"
 skills: "Engaño +15, Percepción +14, Sigilo +8"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
 saving_throws: "Des +8, Con +14, Int +15, Sab +14"
-speed: "40 ft., fly 40 ft."
+speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "337  (27d10 + 189)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
@@ -29,7 +29,7 @@ damage_resistances: "cold, fire, lightning"
 * 3/day each: confusion, dream, mislead, programmed illusion, seeming
 * 1/day each: mirage arcane, modify memory, project image
 
-***Legendary Resistance (3/Day).*** If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Fraz-Urb'luu has advantage on saving throws against spells and other magical effects.
 
@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (3d6 + 9) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 19 (3d6 + 9) puntos de daño perforante.
 
 ***Fist*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (3d8 + 9) puntos de daño contundente.
 

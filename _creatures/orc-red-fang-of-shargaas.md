@@ -33,6 +33,6 @@ armor_class: "15 (studded leather armor)"
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6+3) puntos de daño cortante.
 
-***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 10 (3d4+3) piercing damage.
+***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 10 (3d4+3) puntos de daño perforante.
 
 ***Veil of Shargaas (Recharges after a Short or Long Rest).*** The orc casts darkness without any components. Wisdom is its spellcasting ability.

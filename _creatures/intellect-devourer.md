@@ -12,7 +12,7 @@ size: Tiny aberration
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "understands Deep Speech but can't speak, telepathy 60 ft."
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Percepción +2, Sigilo +4"
 speed: "40 ft."
 hit_points: "21 (6d4+6)"

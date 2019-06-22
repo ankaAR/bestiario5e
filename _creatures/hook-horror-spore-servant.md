@@ -12,7 +12,7 @@ size: Medium plant
 alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "-"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "20 ft., climb 20 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "15 (armadura natural)"
@@ -24,4 +24,4 @@ damage_resistances: "poison"
 
 ***Multiataque.*** The spore servant makes two hyook attacks.
 
-***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) piercing damage.
+***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.

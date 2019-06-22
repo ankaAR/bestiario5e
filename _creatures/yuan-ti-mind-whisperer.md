@@ -32,7 +32,7 @@ At will: animal friendship (snakes only)
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
-***Mind Fangs (2/Day).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.
+***Mind Fangs (2/Día).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.
 
 ***Spellcasting (Yuan-ti Form Only).*** The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
@@ -44,12 +44,12 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
 
-***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
+***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
 ### Acciones
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one bite attack and one scimitar attack.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante plus 7 (2d6) poison damage.
 
 ***Scimitar (Yuan-ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño cortante.

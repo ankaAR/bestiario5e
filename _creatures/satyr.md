@@ -24,8 +24,8 @@ armor_class: "14 (armadura de cuero)"
 
 ***Ram.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño contundente.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1 d6 + 3) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1 d6 + 3) puntos de daño perforante.
 
-***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
 ***Variant: Panpipes.*** Gentle Lullaby. The creature falls asleep and is unconscious for 1 minute. The effect ends if the creature takes damage or if someone takes an action to shake the creature awake.

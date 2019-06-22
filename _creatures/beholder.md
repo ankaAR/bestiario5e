@@ -25,7 +25,7 @@ condition_immunities: "prone"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) puntos de daño perforante.
 
 ***Eye Rays.*** The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 ft. of it:
 

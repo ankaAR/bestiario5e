@@ -40,4 +40,4 @@ armor_class: "16 (studded leather, shield)"
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d4 + 4) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d4 + 4) puntos de daño perforante.

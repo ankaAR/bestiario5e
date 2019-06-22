@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3"
-speed: "40 ft., nadando 30 ft."
+speed: "40 pies (12 mts), nadando 30 ft."
 hit_points: "42 (5d10+15)"
 armor_class: "12 (armadura natural)"
 ---
@@ -24,6 +24,6 @@ armor_class: "12 (armadura natural)"
 
 ***Multiataque.*** The bear makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.

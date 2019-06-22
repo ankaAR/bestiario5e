@@ -26,7 +26,7 @@ condition_immunities: "charmed, frightened"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d6+5) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d6+5) puntos de daño perforante, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.
 
 ***Tongue.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (3d6) necrotic damage, and the target must make a DC 15 Strength savng throw. On a failed save, the target is pulled to a space within 5 feet of the banderhobb, which can use a bonus action to make a bite attack against the target.
 

@@ -11,7 +11,7 @@ str: 12 (+1)
 size: Small construct
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "poison, psychic"
 saving_throws: "Des +4"
 speed: "0 ft., fly 50 ft. It can hover."

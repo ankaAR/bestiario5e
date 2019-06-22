@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Medium plant
 alignment: unaligned
 challenge: "1 (200 XP)"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "poison"
 speed: "20 ft., climb 20 ft."
 hit_points: "45 (6d8+18)"
@@ -23,4 +23,4 @@ condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
 
 ***Multiataque.*** The spore servant makes two claw attacks.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.

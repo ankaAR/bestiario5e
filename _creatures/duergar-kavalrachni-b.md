@@ -30,8 +30,8 @@ damage_resistances: "poison"
 
 ***Multiattack*** The duergar makes two war pick attacks.
 
-***War Pick*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.
+***War Pick*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante plus 5 (2d4) poison damage.
 
-***Heavy Crossbow*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
+***Heavy Crossbow*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) puntos de daño perforante.
 
 ***Shared Invisibility (Recharges after a Short or Long Rest)*** The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it. While the invisible duergar is mounted on a female steeder, the steeder is invisible as well. The invisibility ends early on the steeder immediately after it attacks.

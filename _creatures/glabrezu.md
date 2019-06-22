@@ -38,7 +38,7 @@ At will: darkness, detect magic, dispel magic
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño contundente.
 
-***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
+***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 
 A glabrezu has a 30 percent chance of summoning 1d3 vrocks, 1d2 hezrous, or one glabrezu.
 

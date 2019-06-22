@@ -13,7 +13,7 @@ size: Large aberration
 alignment: caótico maligno
 challenge: "11 (7200 XP)"
 languages: "understands Deep Speech, telepathy 1 mile"
-senses: "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
+senses: "Vista ciega 500 ft. (blind beyond this radius), passive Perception 16"
 skills: "Percepción +6"
 saving_throws: "Con +8"
 speed: "25 ft., climb 25 ft."
@@ -22,13 +22,13 @@ armor_class: "17 (armadura natural)"
 condition_immunities: "blinded"
 ---
 
-***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (2/Día).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
 
 ### Acciones
 
 ***Multiattack*** The balhannoth makes a bite attack and up to two tentacle attacks, or it makes up to four tentacle attacks.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (4d10 + 3) puntos de daño perforante.
 
 ***Tentacle*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is restrained, and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
 

@@ -32,9 +32,9 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Infernal Dagger*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d4 + 6) slashing damage, and the target must make a DC 17 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Brass Crossbow*** Ranged Weapon Attack: +7 to hit, range 100/400 pies, un objetivo. Impacto: 14 (2d10 + 3) piercing damage, plus one of the following effects:
+***Brass Crossbow*** Ranged Weapon Attack: +7 to hit, range 100/400 pies, un objetivo. Impacto: 14 (2d10 + 3) puntos de daño perforante, plus one of the following effects:
 
-***1 Acid*** The target must make a DC 17 Constitution saving throw, taking an additional 17 (5d6) acid damage on a failed save, or half as much damage on a successful one.
+***1 Acid*** The target must make a DC 17 Constitution saving throw, taking an additional 17 (5d6) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 
 ***2 Blindness (1/Day)*** The target takes 5 (1d10) radiant damage. In addition, the target and all other creatures within 20 feet of it must each make a successful DC 17 Dexterity saving throw or be blinded until the end of the orthon's next turn.
 

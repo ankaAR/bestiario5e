@@ -12,7 +12,7 @@ size: Tiny undead
 alignment: neutral evil
 challenge: "0 (10 XP)"
 languages: "understands Common but can't speak"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "poison"
 speed: "20 ft., climb 20 ft."
 hit_points: "2 (1d4)"
@@ -24,4 +24,4 @@ condition_immunities: "poisoned"
 
 ### Acciones
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning or slashing damage (claw's choice) .
+***Garras.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) bludgeoning or slashing damage (claw's choice) .

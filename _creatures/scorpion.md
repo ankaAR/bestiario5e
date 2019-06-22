@@ -11,7 +11,7 @@ str: 2 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-senses: "blindsight 10 ft."
+senses: "Vista ciega 10 pies (3 mts)"
 speed: "10 ft."
 hit_points: "1 (1d4-1)"
 armor_class: "11 (armadura natural)"

@@ -49,7 +49,7 @@ While in mist form, the yochlol is incapacitated and can't speak. It has a flyin
 
 While in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target is incapacitated.
 
-***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
+***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 
 A yochlol has a 50 percent chance of summoning one yochlol.
 

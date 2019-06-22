@@ -15,7 +15,7 @@ languages: "Común, Sphinx"
 senses: "truesight 120 ft."
 skills: "Arcana +12, Historia +12, Percepción +8, Religión +8"
 damage_immunities: "psychic"
-speed: "40 ft., fly 60 ft."
+speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "136 (16d10+48)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "charmed, frightened"
@@ -44,7 +44,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
 ### Acciones Legendarias
 

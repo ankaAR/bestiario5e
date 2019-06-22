@@ -53,4 +53,4 @@ Cantrips (at will): chill touch, dancing lights, mage hand, prestidigitation, sh
 
 ***Chilling Grasp.*** Melee Spell Attack: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (3d6) cold damage.
 
-***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8+4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recarga 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8+4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

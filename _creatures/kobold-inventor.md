@@ -21,13 +21,13 @@ armor_class: "12"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
 
 ***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente.
 
 ***Weapon Invention.*** The kobold uses one of the following options (roll a d8 or choose one); the kobold can use each one no more than once per day:
 
-1. Acid. The kobold hurls a flask of acid. Ranged Weapon Attack: +4 to hit, range 5/20 pies, un objetivo. Impacto: 7 (2d6) acid damage.
+1. Acid. The kobold hurls a flask of acid. Ranged Weapon Attack: +4 to hit, range 5/20 pies, un objetivo. Impacto: 7 (2d6) puntos de daño por ácido.
 
 2. Alchemist's fire. The kobold throws a flask of alchemist's fire. Ranged Weapon Attack: +4 to hit, range 5/20 pies, un objetivo. Impacto: 2 (1d4) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 

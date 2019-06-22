@@ -31,4 +31,4 @@ armor_class: "14 (hide armor)"
 
 ***Multiataque.*** The chitine makes three attacks with its daggers.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.

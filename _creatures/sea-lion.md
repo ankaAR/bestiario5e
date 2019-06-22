@@ -31,6 +31,6 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The sea lion makes three attacks: one bite attack and two claw attacks.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) piercing damage
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d8 + 3) puntos de daño perforante

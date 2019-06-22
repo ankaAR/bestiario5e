@@ -13,7 +13,7 @@ size: Medium construct
 alignment: unaligned
 challenge: "0 (10 XP)"
 languages: "understands one language (usually Common) but can’t speak"
-senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius), passive Perception 12"
 skills: "Percepción +2, Sigilo +4"
 damage_immunities: "poison"
 speed: "30 ft."

@@ -34,9 +34,9 @@ At will: dancing lights
 
 ***Multiataque.*** The drow makes two shortsword attacks.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 10 (3d6) poison damage.
 
-***Hand Crossbow.*** Ranged Weapon Attack: +7 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+***Hand Crossbow.*** Ranged Weapon Attack: +7 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 ### Reactions
 

@@ -12,7 +12,7 @@ size: Medium plant
 alignment: unaligned
 challenge: "1/8 (25 XP)"
 languages: "-"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "20 ft."
 hit_points: "13 (3d8)"
 armor_class: "15 (chain shirt)"
@@ -21,4 +21,4 @@ condition_immunities: "blinded, charmed, frightened, paralyzed"
 
 ### Acciones
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

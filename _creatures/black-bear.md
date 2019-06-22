@@ -11,7 +11,7 @@ str: 15 (+2)
 size: Medium beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-speed: "40 ft., climb 30 ft."
+speed: "40 pies (12 mts), climb 30 ft."
 hit_points: "19 (3d8+6)"
 armor_class: "11 (armadura natural)"
 ---
@@ -22,6 +22,6 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The bear makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño cortante.

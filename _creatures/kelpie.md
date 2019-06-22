@@ -12,7 +12,7 @@ size: Medium plant
 alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Común, Sylvan"
-senses: "blindsight 60 ft."
+senses: "Vista ciega 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +4"
 speed: "10 pies (3 mts), nadando 30 ft."
 hit_points: "67 (9d8+27)"
@@ -33,7 +33,7 @@ damage_resistances: "bludgeoning, fire, piercing"
 
 ***Multiataque.*** The kelpie makes two slam attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d8 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 12).
+***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d8 + 2) puntos de daño perforante. If the target is a Medium or smaller creature, it is grappled (escape DC 12).
 
 ***Drowning Hypnosis.*** The kelpie chooses one humanoid it can see within 150 feet of it. If the target can see the kelpie, the target must succeed on a DC 11 Wisdom saving throw or be magically charmed while the kelpie maintains concentration, up to 10 minutes (as if concentrating on a spell).
 

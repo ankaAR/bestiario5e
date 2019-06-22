@@ -24,7 +24,7 @@ condition_immunities: "frightened"
 
 ***Light Sensitivity.*** While in bright light, the meenlock has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-***Shadow Teleport (Recharge 5-6).*** As a bonus action, the meenlock can teleport to an unoccupied space within 30 feet of it, provided that both the space it's teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.
+***Shadow Teleport (Recarga 5-6).*** As a bonus action, the meenlock can teleport to an unoccupied space within 30 feet of it, provided that both the space it's teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.
 
 ### Acciones
 

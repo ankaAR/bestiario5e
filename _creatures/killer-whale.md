@@ -11,14 +11,14 @@ str: 19 (+4)
 size: Huge beast
 alignment: unaligned
 challenge: "3 (700 XP)"
-senses: "blindsight 120 ft."
+senses: "Vista ciega 120 ft."
 skills: "Percepción +3"
 speed: "swim 60 ft."
 hit_points: "90 (12d12+12)"
 armor_class: "12 (armadura natural)"
 ---
 
-***Echolocation.*** The whale can't use its blindsight while deafened.
+***Echolocation.*** The whale can't use its Vista ciega while deafened.
 
 ***Hold Breath.*** The whale can hold its breath for 30 minutes
 
@@ -26,4 +26,4 @@ armor_class: "12 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 21 (5d6 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 21 (5d6 + 4) puntos de daño perforante.

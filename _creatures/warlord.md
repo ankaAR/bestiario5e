@@ -19,7 +19,7 @@ hit_points: "229 (27d8+108)"
 armor_class: "18 (plate)"
 ---
 
-***Indomitable (3/Day).*** The warlord can reroll a saving throw it fails. It must use the new roll.
+***Indomitable (3/Día).*** The warlord can reroll a saving throw it fails. It must use the new roll.
 
 ***Survivor.*** The warlord regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum.
 
@@ -29,7 +29,7 @@ armor_class: "18 (plate)"
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) puntos de daño cortante.
 
-***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 it, one target. Hit: 6 (1d6+3) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 it, one target. Hit: 6 (1d6+3) puntos de daño perforante.
 
 ### Acciones Legendarias
 

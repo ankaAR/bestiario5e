@@ -29,4 +29,4 @@ armor_class: "14 (armadura de cuero)"
 
 ***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (l d6 +3) puntos de daño cortante.
 
-***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (ld6 +3) piercing damage.
+***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (ld6 +3) puntos de daño perforante.

@@ -28,7 +28,7 @@ armor_class: "20 (armadura natural)"
 
 ***Multiataque.*** The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d8 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d8 + 4) puntos de daño perforante.
 
 ***Tendril.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 50 pies (XX mts), una criatura. Impacto: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
 

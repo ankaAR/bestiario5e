@@ -29,7 +29,7 @@ damage_resistances: "cold, fire, lightning"
 * 3/day each: dispel magic, fear, invisibility
 * 1/day: teleport
 
-***Legendary Resistance (3/Day).*** If Yeenoghu fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Yeenoghu fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Yeenoghu has advantage on saving throws against spells and other magical effects.
 
@@ -46,7 +46,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Flail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (1d12 + 9) puntos de daño contundente.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) puntos de daño perforante.
 
 ### Acciones Legendarias
 

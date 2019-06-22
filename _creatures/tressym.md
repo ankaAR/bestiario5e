@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "0 (10 XP)"
 skills: "Percepción +5, Sigilo +4"
 damage_immunities: "poison"
-speed: "40 ft., climb 30 ft., fly 40' ft."
+speed: "40 pies (12 mts), climb 30 ft., fly 40' ft."
 hit_points: "5 (2d4)"
 armor_class: "12"
 condition_immunities: "poisoned"

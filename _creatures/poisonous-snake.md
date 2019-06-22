@@ -11,7 +11,7 @@ str: 2 (-4)
 size: Tiny beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
-senses: "blindsight 10 ft."
+senses: "Vista ciega 10 pies (3 mts)"
 speed: "30 ft., nadando 30 ft."
 hit_points: "2 (1d4)"
 armor_class: "13"
@@ -19,4 +19,4 @@ armor_class: "13"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.

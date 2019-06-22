@@ -13,7 +13,7 @@ size: Huge plant
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "understands Common and Druidic but doesn't speak"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 speed: "30 ft."
 hit_points: "149 (13d12+65)"
 armor_class: "15 (armadura natural)"
@@ -28,7 +28,7 @@ condition_immunities: "blinded, deafened"
 
 ***Multiataque.*** The blight makes four attacks: two with its branches and two with its grasping roots, If it has a target grappled, the blight can also make a bite attack against the target as a bonus action.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8+6) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8+6) puntos de daño perforante.
 
 ***Branch.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 ft., one target. Hit (3d6+6) puntos de daño contundente.
 

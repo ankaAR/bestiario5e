@@ -12,7 +12,7 @@ size: Gargantuan elemental
 alignment: neutral evil
 challenge: "20 (25,000 XP)"
 languages: "Común, Terran"
-senses: "blindsight 120 ft., tremorsense 120 ft."
+senses: "Vista ciega 120 ft., tremorsense 120 ft."
 damage_immunities: "poison"
 saving_throws: "Str +14, Con +15, Sab +8"
 speed: "50 ft., burrow 50 ft."
@@ -30,7 +30,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 * At will: meld into stone, move earth, wall of stone
 
-***Legendary Resistance (3/Day).*** If Ogremoch fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Ogremoch fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Ogremoch has advantage on saving throws against spells and other magical effects.
 
@@ -44,7 +44,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Boulder.*** Ranged Weapon Attack: +6 to hit, range 500 pies, un objetivo. Impacto: 46 (7d10 + 8) puntos de daño contundente. If the target is a creature, it must succeed on a DC 23 Strength saving throw or be knocked prone.
 
-***Summon Elementals (1/Day).*** Ogremoch summons up to three earth elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogremoch, and disappear if Ogremoch is reduced to 0 hit points.
+***Summon Elementals (1/Día).*** Ogremoch summons up to three earth elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogremoch, and disappear if Ogremoch is reduced to 0 hit points.
 
 ### Acciones Legendarias
 

@@ -12,7 +12,7 @@ size: Large aberration
 alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles"
-senses: "blindsight 120 ft."
+senses: "Vista ciega 120 ft."
 skills: "Arcana +10, Engaño +12, Insight +14, Intimidation +12, Persuasion +12"
 saving_throws: "Int +10, Sab +9, Car +12"
 speed: "5ft., nadando 10 ft."
@@ -28,7 +28,7 @@ At will: detect thoughts, levitate
 
 1/day each: dominate monster, plane shift (self only)
 
-***Legendary Resistance (3/Day).*** If the elder brain fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the elder brain fails a saving throw, it can choose to succeed instead.
 
 ***Magic Resistance.*** The elder brain has advantage on saving throws against spells and other magical effects.
 
@@ -38,7 +38,7 @@ At will: detect thoughts, levitate
 
 ***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 30 pies, un objetivo. Impacto: 20 (4d8+2) puntos de daño contundente. If the target is a Huge or smaller creature, it is grappled (escape DC 15) and takes 9 (1d8+5) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets grappled at a time.
 
-***Mind Blast (Recharge 5-6).*** The elder brain magically emits psychic energy. Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10+5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recarga 5-6).*** The elder brain magically emits psychic energy. Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (5d10+5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Psychic Link.*** The elder brain targets one incapacitated creature it can perceive with its Creature Sense trait and establishes a psychic link with that creature. Until the psychic link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer incapacitated, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the psychic link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (3d6) psychic damage. The psychic link also ends if the target and the elder brain are more than 5 miles apart, with no consequences to the target. The elder brain can form psychic links with up to ten creatures at a time.
 

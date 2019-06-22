@@ -12,7 +12,7 @@ size: Gargantuan elemental
 alignment: caótico maligno
 challenge: "23 (50,000 XP)"
 languages: "Ignan"
-senses: "blindsight 120 ft."
+senses: "Vista ciega 120 ft."
 damage_immunities: "fire, poison"
 saving_throws: "Con +12, Sab +7, Car +11"
 speed: "50 ft.."

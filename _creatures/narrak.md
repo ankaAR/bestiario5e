@@ -37,7 +37,7 @@ Cantrips (at will): eldritch blast, friends, poison spray
 
 ***Armor of Shadows (Recharges after a Short or Long Rest).*** Narrak casts mage armor on himself
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one target. Hit:5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one target. Hit:5 (1d6 + 2) puntos de daño perforante.
 
 ### Reactions
 

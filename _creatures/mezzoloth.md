@@ -12,7 +12,7 @@ size: Medium fiend (yugoloth)
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
-senses: "blindsight 60 ft., darkvision 60 ft."
+senses: "Vista ciega 60 pies (18 mts), darkvision 60 ft."
 skills: "Percepción +3"
 damage_immunities: "acid, poison"
 speed: "40 ft."
@@ -38,11 +38,11 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño cortante.
 
-***Trident.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.
+***Trident.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante when held with two claws and used to make a melee attack.
 
 ***Teleport.*** The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-***Variant: Summon Yugoloth (1/Day).*** The yugoloth attempts a magical summoning.
+***Variant: Summon Yugoloth (1/Día).*** The yugoloth attempts a magical summoning.
 
 A mezzoloth has a 30 percent chance of summoning one mezzoloth.
 

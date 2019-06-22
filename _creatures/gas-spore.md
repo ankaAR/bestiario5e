@@ -11,7 +11,7 @@ str: 5 (-3)
 size: Large plant
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "poison"
 speed: "0 ft., fly 10 ft. (hover)"
 hit_points: "1 (1d10-4)"

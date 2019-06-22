@@ -12,9 +12,9 @@ size: Medium dragon
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Dragón"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +4"
-damage_immunities: "acid"
+damage_immunities: "ácido"
 saving_throws: "Des +4, Con +3, Sab +2, Car +3"
 speed: "30 ft., fly 60 ft., nadando 30 ft."
 hit_points: "33 (6d8+6)"
@@ -25,6 +25,6 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño perforante plus 2 (1d4) puntos de daño por ácido.
 
-***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (Sd8) acid damage on a failed save, or half as much damage on a successful one.
+***Aliento de ácido (Recarga 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (Sd8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.

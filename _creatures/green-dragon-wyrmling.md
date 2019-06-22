@@ -12,7 +12,7 @@ size: Medium dragon
 alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Dragón"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +3"
 damage_immunities: "poison"
 saving_throws: "Des +3, Con +3, Sab +2, Car +3"
@@ -26,6 +26,6 @@ condition_immunities: "poisoned"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño perforante plus 3 (1d6) poison damage.
 
-***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+***Poison Breath (Recarga 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.

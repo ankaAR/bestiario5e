@@ -29,4 +29,4 @@ armor_class: "12 (armadura natural)"
 
 ***Battleaxe.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) piercing damage.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño perforante.

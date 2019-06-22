@@ -25,4 +25,4 @@ damage_resistances: "poison"
 
 ### Acciones
 
-***Spear*** Melee Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands. Or Ranged Weapon Attack: +3 to hit, range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage
+***Spear*** Melee Attack: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante or 5 (1d8 + 1) puntos de daño perforante if used with two hands. Or Ranged Weapon Attack: +3 to hit, range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante

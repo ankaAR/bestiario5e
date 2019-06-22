@@ -28,12 +28,12 @@ condition_immunities: "poisoned"
 
 ***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
 
-***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
+***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
 ### Acciones
 
 ***Multiataque.*** The broodguard makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.

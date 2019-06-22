@@ -25,4 +25,4 @@ damage_resistances: "cold, fire, lightning"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8+2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8+2) puntos de daño perforante.

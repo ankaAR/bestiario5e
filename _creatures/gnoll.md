@@ -22,8 +22,8 @@ armor_class: "15 (hide armor, shield)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) puntos de daño perforante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante, or 6 (1d8 + 2) puntos de daño perforante if used with two hands to make a melee attack.
 
-***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 pies, un objetivo. Impacto: 5 (1d8 + 1) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +3 to hit, range 150/600 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante.

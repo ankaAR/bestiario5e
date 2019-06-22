@@ -30,6 +30,6 @@ damage_resistances: "one of the following: acid, cold, fire, lightning or poison
 
 ***Multiataque.*** The Dragonfang attacks twice with its shortsword.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage plus 7 (2d6) damage of the type to which the dragonfang has resistance.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante plus 7 (2d6) damage of the type to which the dragonfang has resistance.
 
-***Orb of Dragon's Breath (2/Day).*** Ranged Spell Attack: +5 to hit, range 50 pies, un objetivo. Impacto: 22 (5d8) damage of the type to which the dragonfang has damage resistance.
+***Orb of Dragon's Breath (2/Día).*** Ranged Spell Attack: +5 to hit, range 50 pies, un objetivo. Impacto: 22 (5d8) damage of the type to which the dragonfang has damage resistance.

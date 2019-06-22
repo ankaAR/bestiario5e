@@ -24,7 +24,7 @@ condition_immunities: "poisoned"
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
 
-***Death Fangs (2/Day).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) necrotic damage to the target.
+***Death Fangs (2/Día).*** The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) necrotic damage to the target.
 
 ***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
@@ -40,7 +40,7 @@ Cantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each 
 
 ***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
 
-***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
+***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
 ### Acciones
 

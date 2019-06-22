@@ -12,34 +12,34 @@ size: Huge undead
 alignment: legal maligna
 challenge: "17 (18,000 XP)"
 languages: "Común, Dragón"
-senses: "blindsight 60 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +12, Sigilo +5"
 damage_immunities: "lightning, poison"
 saving_throws: "Des +5, Con +11, Sab +7, Car +9"
-speed: "40 ft., burrow 30 ft., fly 80 ft."
+speed: "40 pies (12 mts), burrow 30 ft., fly 80 ft."
 hit_points: "225 (18d12+108)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "necrotic"
 ---
 
-***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the dracolich fails a saving throw, it can choose to succeed instead.
 
 ***Magic Resistance.*** The dracolich has advantage on saving throws against spells and other magical effects.
 
 ### Acciones
 
-***Multiataque.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** The dracolich can use its Resistencia Pavorosa. It then makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) puntos de daño perforante plus 5 (1d10) lightning damage.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño contundente.
 
-***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
+***Resistencia Pavorosa.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Resistencia Pavorosa for the next 24 hours.
 
-***Lightning Breath (Recharge 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Breath (Recarga 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 ### Acciones Legendarias
 
@@ -47,6 +47,6 @@ The adult blue dracolich can take 3 legendary actions, choosing from the options
 
 ***Detectar.*** The dracolich hace una prueba de Sabiduría (Percepción).
 
-***Tail Attack.*** The dracolich makes a tail attack.
+***Ataque de Cola.*** The dracolich makes a tail attack.
 
-***Wing Attack (cuesta 2 acciones).*** The dracolich beats its tattered wings. Each creature within 10 ft. of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) puntos de daño contundente and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.
+***Ataque de Ala (cuesta 2 acciones).*** The dracolich beats its tattered wings. Each creature within 10 ft. of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) puntos de daño contundente and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.

@@ -19,7 +19,7 @@ hit_points: "143 (22d8+44)"
 armor_class: "18 (plate)"
 ---
 
-***Indomitable (2/Day).*** The champion rerolls a failed saving throw.
+***Indomitable (2/Día).*** The champion rerolls a failed saving throw.
 
 ***Second Wind (Recharges after a Short or Long Rest).*** As a bonus action, the champion can regain 20 hit points.
 
@@ -29,4 +29,4 @@ armor_class: "18 (plate)"
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.
 
-***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage, plus 7 (2d6) piercing damage if the champion has more than half of its total hit points remaining.
+***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño perforante, plus 7 (2d6) puntos de daño perforante if the champion has more than half of its total hit points remaining.

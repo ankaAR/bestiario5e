@@ -13,7 +13,7 @@ size: Tiny ooze
 alignment: legal maligna
 challenge: "1/4 (50 XP)"
 languages: "-"
-senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 12"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this distance), passive Perception 12"
 saving_throws: "Int +4, Car +2"
 speed: "20 ft."
 hit_points: "18  (4d4 + 8)"

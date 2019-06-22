@@ -37,4 +37,4 @@ Cantrips (at will): guidance, mending, resistance, thaumaturgy
 
 ***Multiataque.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño cortante.

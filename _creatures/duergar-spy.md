@@ -36,8 +36,8 @@ damage_resistances: "poison"
 
 ***Eniarge (Recharges after a Short or Long Rest).*** For 1 minute, the spy magically increases in size, along with anything it is wearing or carrying. While enlarged, the spy is Large, doubles her damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the spy lacks the room to become Large, it attains the maximum size possible in the space available.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 10 (2d6 + 3) piercing damage while enlarged.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante, or 10 (2d6 + 3) puntos de daño perforante while enlarged.
 
-***Hand Crossbow.*** Ranged Weapon Attack: +5 to hit, range 30/120 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
+***Hand Crossbow.*** Ranged Weapon Attack: +5 to hit, range 30/120 ft ., one target. Hit: 6 (1d6 + 3) puntos de daño perforante.
 
 ***Invisibility (Recharges after a Short or Long Rest).*** The spy magically turns invisible until it attacks, deals damage, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the spy wears or carries is invisible with it.

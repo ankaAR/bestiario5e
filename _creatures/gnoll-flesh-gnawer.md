@@ -25,8 +25,8 @@ armor_class: "14 (studded leather armor)"
 
 ***Multiataque.*** The gnoll makes three attacks: one with its bite and two with its shortsword.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante.
 
 ***Sudden Rush.*** Until the end of the turn, the gnoll's speed increases by 60 feet and it doesn't provoke opportunity attacks.

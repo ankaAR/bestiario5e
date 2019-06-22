@@ -23,6 +23,6 @@ armor_class: "11"
 
 ***Multiataque.*** The hippogriff makes two attacks: one with its beak and one with its claws.
 
-***Beak.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.

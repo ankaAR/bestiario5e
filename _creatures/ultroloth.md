@@ -44,7 +44,7 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 
 ***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-***Variant: Summon Yugoloth (1/Day).*** The yugoloth chooses what to summon and attempts a magical summoning.
+***Variant: Summon Yugoloth (1/Día).*** The yugoloth chooses what to summon and attempts a magical summoning.
 
 An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth.
 

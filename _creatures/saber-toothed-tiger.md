@@ -23,6 +23,6 @@ armor_class: "12"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10 + 5) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10 + 5) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.

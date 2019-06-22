@@ -26,6 +26,6 @@ condition_immunities: "poisoned"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 12 (2d8 + 3) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 12 (2d8 + 3) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

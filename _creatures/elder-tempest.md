@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Flyby.*** The tempest doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-***Legendary Resistance (3/Day).*** If the tempest fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the tempest fails a saving throw, it can choose to succeed instead.
 
 ***Living Storm.*** The tempest is always at the center of a storm 1d6 + 4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing.
 In addition, strong winds swirl in the area covered by the storm. The winds impose disadvantage on ranged attack rolls. The winds extinguish open flames and disperse fog.
@@ -40,7 +40,7 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Thunderous Slam*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 23 (4d6 + 9) thunder damage.
 
-***Lightning Storm (Recharge 6)*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
+***Lightning Storm (Recarga 6)*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
 
 ### Acciones Legendarias
 

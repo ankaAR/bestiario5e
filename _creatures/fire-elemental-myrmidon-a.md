@@ -33,4 +33,4 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño cortante.
 
-***Fiery Strikes (Recharge 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) fire damage.
+***Fiery Strikes (Recarga 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) fire damage.

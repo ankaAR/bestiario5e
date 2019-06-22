@@ -21,7 +21,7 @@ armor_class: "19 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
+***Fey Step (Recarga 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
 ***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: charm person, Tasha's hideous laughter
@@ -37,6 +37,6 @@ Whenever the eladrin deals damage to the charmed creature, it can repeat the sav
 
 ***Multiattack*** The eladrin makes two weapon attacks. The eladrin can cast one spell in place of one of these attacks.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage plus 4 (1d8) psychic damage, or 7 (1d10 + 2) slashing damage plus 4 (1d8) psychic damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) slashing damage más 4 (1d8) psychic damage, or 7 (1d10 + 2) slashing damage más 4 (1d8) psychic damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) psychic damage.
+***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 4 (1d8) psychic damage.

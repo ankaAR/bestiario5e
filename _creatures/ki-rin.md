@@ -12,7 +12,7 @@ size: Huge celestial
 alignment: lawful good
 challenge: "12 (8,400 XP)"
 languages: "all, telepathy 120 ft."
-senses: "blindsight 30 ft., Visión en la oscuridad 120 ft. (36 mts)"
+senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Insight +9, Percepción +9, Religión +8"
 damage_immunities: "poison"
 speed: "60 ft., fly 120 ft. (hover)"
@@ -27,7 +27,7 @@ At will: gaseous form, major image (6th-level version), wind walk
 
 1/day: create food and water
 
-***Legendary Resistance (3/Day).*** If the ki-rin fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the ki-rin fails a saving throw, it can choose to succeed instead.
 
 ***Magic Resistance.*** The ki-rin has advantage on saving throws against spells and other magical effects.
 
@@ -61,7 +61,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 ***Hoof.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) puntos de daño contundente.
 
-***Horn.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) piercing damage.
+***Horn.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) puntos de daño perforante.
 
 ### Acciones Legendarias
 

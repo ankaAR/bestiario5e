@@ -20,6 +20,6 @@ armor_class: "12 (armadura natural)"
 
 ### Acciones
 
-***Gore.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8 + 6) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8 + 6) puntos de daño perforante.
 
 ***Stomp.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 ft., one prone creature. Hit: 22 (3d10 + 6) puntos de daño contundente.

@@ -15,7 +15,7 @@ languages: "Abyssal, Common, Dragón"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +7, Sigilo +5"
 damage_immunities: "poison"
-speed: "40 ft., climb 30 ft., nadando 30 ft."
+speed: "40 pies (12 mts), climb 30 ft., nadando 30 ft."
 hit_points: "189 (18d12+72)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "poisoned"
@@ -38,11 +38,11 @@ At will: animal friendship (snakes only)
 
 ***Six Heads.*** The anathema has advantage on Wisdom (Perception) checks and on saving throws against being blinded. charmed, deafened, frightened, stunned, or knocked unconscious.
 
-***Variant: Acid Slime.*** As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes 5 (1d10) acid damage.
+***Variant: Acid Slime.*** As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes 5 (1d10) puntos de daño por ácido.
 
 ***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
 
-***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
+***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
 ### Acciones
 
@@ -50,6 +50,6 @@ At will: animal friendship (snakes only)
 
 ***Claw (Anathema Form Only).*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (2d6+6) puntos de daño cortante.
 
-***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) puntos de daño contundente plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) puntos de daño contundente plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
+***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) puntos de daño contundente plus 7 (2d6) puntos de daño por ácido, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) puntos de daño contundente plus 7 (2d6) puntos de daño por ácido at the start of each of its turns, and the anathema can't constrict another target.
 
-***Flurry of Bites.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 27 (6d6+6) piercing damage plus 14 (4d6) poison damage.
+***Flurry of Bites.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 27 (6d6+6) puntos de daño perforante plus 14 (4d6) poison damage.

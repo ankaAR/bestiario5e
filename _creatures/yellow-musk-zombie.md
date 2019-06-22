@@ -11,7 +11,7 @@ str: 13 (+1)
 size: Medium undead
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-senses: "blindsight 30 ft., passive Perception 8"
+senses: "Vista ciega 30 pies (9 mts), passive Perception 8"
 condition_immunities: "charmed, exhaustion"
 speed: "20 ft."
 hit_points: "33 (6d8 +6)"

@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Large plant
 alignment: unaligned
 challenge: "3 (700 XP)"
-senses: "blindsight 30 ft., passive Perception 10"
+senses: "Vista ciega 30 pies (9 mts), passive Perception 10"
 condition_immunities: "blinded, deafened, exhaustion, prone"
 damage_resistances: "cold, fire"
 speed: "5 ft., climb 5 ft."

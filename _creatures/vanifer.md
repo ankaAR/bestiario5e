@@ -22,7 +22,7 @@ armor_class: "15 (cuero endurecido)"
 
 ***Funeral Pyre.*** When Vanifer drops to 0 hit points, her body is consumed in a flash of fire and smoke. Anything she was wearing or carrying is left behind among ashes.
 
-***Legendary Resistance (2/Day).*** If Vanifer fails a saving throw, she can choose to succeed instead.
+***Resistencia Legendaria (2/Día).*** If Vanifer fails a saving throw, she can choose to succeed instead.
 
 ***Lanzamiento de conjuros.*** Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells:
 
@@ -42,4 +42,4 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** Vanifer makes two attacks.
 
-***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d4 + 5) piercing damage plus 7 (2d6) fire damage.
+***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d4 + 5) puntos de daño perforante plus 7 (2d6) fire damage.

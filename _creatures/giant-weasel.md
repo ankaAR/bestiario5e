@@ -22,4 +22,4 @@ armor_class: "13"
 
 ### Acciones
 
-***Bite.*** Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage.
+***Mordisco.*** Weapon Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.

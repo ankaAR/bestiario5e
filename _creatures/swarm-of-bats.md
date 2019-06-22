@@ -11,7 +11,7 @@ str: 5 (-3)
 size: Medium swarm
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-senses: "blindsight 60 ft."
+senses: "Vista ciega 60 pies (18 mts)"
 speed: "0 ft., fly 30 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"
@@ -19,7 +19,7 @@ condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, pron
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 
-***Echolocation.*** The swarm can't use its blindsight while deafened.
+***Echolocation.*** The swarm can't use its Vista ciega while deafened.
 
 ***Keen Hearing.*** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
 
@@ -27,4 +27,4 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ### Acciones
 
-***Bites.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 0 ft., one creature in the swarm's space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+***Bites.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 0 ft., one creature in the swarm's space. Hit: 5 (2d4) puntos de daño perforante, or 2 (1d4) puntos de daño perforante if the swarm has half of its hit points or fewer.

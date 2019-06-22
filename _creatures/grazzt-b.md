@@ -31,7 +31,7 @@ damage_resistances: "cold, fire, lightning"
 * 3/day each: counterspell, darkness, dominate person, sanctuary, telekinesis, teleport
 * 1/day each: dominate monster, greater invisibility
 
-***Legendary Resistance (3/Day).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Graz'zt has advantage on saving throws against spells and other magical effects.
 
@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Graz'zt attacks twice with Wave of Sorrow.
 
-***Wave of Sorrow (Greatsword)*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (4d6 + 6) slashing damage plus 10 (3d6) acid damage.
+***Wave of Sorrow (Greatsword)*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (4d6 + 6) slashing damage plus 10 (3d6) puntos de daño por ácido.
 
 ***Teleport*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

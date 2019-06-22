@@ -35,4 +35,4 @@ At will: animal friendship (snakes only)
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño cortante.
 
-***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.
+***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante plus 7 (2d6) poison damage.

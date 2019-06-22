@@ -12,7 +12,7 @@ size: Large plant
 alignment: unaligned
 challenge: "4 (1,100 XP)"
 languages: "-"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "poison"
 speed: "30 ft., nadando 30 ft."
 hit_points: "93 (11d10+33)"

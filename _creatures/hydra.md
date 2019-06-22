@@ -34,4 +34,4 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Multiataque.*** The hydra makes as many bite attacks as it has heads.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d10 + 5) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d10 + 5) puntos de daño perforante.

@@ -30,9 +30,9 @@ damage_resistances: "poison"
 
 ***Multiattack*** The duergar makes two melee attacks. It can replace one of those attacks with a use of Mind Mastery.
 
-***Mind-Poison Dagger*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) piercing damage and 10 (3d6) psychic damage, or 1 piercing damage and 14 (4d6) psychic damage while reduced.
+***Mind-Poison Dagger*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante and 10 (3d6) psychic damage, or 1 piercing damage and 14 (4d6) psychic damage while reduced.
 
-***Invisibility (Recharge 4-6)*** The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, it uses its Reduce, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+***Invisibility (Recarga 4-6)*** The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, it uses its Reduce, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 
 ***Mind Mastery*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be charmed are immune to this effect.
 

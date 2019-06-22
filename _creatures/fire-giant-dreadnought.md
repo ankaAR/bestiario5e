@@ -26,7 +26,7 @@ armor_class: "21 (plate, shields)"
 
 ***Multiataque.*** The giant makes two fireshield attacks.
 
-***Fireshield.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6+8) puntos de daño contundente plus 7 (2d6) fire damage plus 7 (2d6) piercing damage.
+***Fireshield.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6+8) puntos de daño contundente plus 7 (2d6) fire damage plus 7 (2d6) puntos de daño perforante.
 
 ***Rock.*** Ranged Weapon Attack: +13 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10+8) puntos de daño contundente.
 

@@ -18,4 +18,4 @@ armor_class: "13"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante.

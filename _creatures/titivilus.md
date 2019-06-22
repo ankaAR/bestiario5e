@@ -17,7 +17,7 @@ senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 16"
 skills: "Engaño +13, Insight +11, Intimidation +13, Persuasion +13"
 damage_immunities: "fire, poison"
 saving_throws: "Des +11, Con +8, Sab +11, Car +13"
-speed: "40 ft., fly 60 ft."
+speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "20 (armadura natural)"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
@@ -28,7 +28,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 * At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion
 * 3/day each: greater invisibility (self only), mislead 1/day each: feeblemind, symbol (discord or sleep only)
 
-***Legendary Resistance (3/Day).*** If Titivilus fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Titivilus fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Titivilus has advantage on saving throws against spells and other magical effects.
 

@@ -27,7 +27,7 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The neogi makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one target. Hit: 6 (1d6+3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 it, one target. Hit: 6 (1d6+3) puntos de daño perforante plus 14 (4d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4+3) puntos de daño cortante.
 

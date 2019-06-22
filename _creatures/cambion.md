@@ -33,7 +33,7 @@ damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and s
 
 ***Multiataque.*** The cambion makes two melee attacks or uses its Fire Ray twice.
 
-***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 ft ., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 ft ., one target. Hit: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
 ***Fire Ray.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 10 (3d6) fire damage.
 

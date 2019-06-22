@@ -12,7 +12,7 @@ size: Large construct
 alignment: unaligned
 challenge: "7 (2,900 XP)"
 languages: "understands commands given in any language but can't speak"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "142 (15d10+60)"

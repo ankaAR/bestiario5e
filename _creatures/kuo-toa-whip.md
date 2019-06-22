@@ -37,6 +37,6 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The kuo-toa makes two attacks: one with its bite and one with its pincer staff.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
 
-***Pincer Staff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
+***Pincer Staff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 10 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.

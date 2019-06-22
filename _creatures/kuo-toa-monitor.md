@@ -33,6 +33,6 @@ armor_class: "13 (natural armor, unarmored defense)"
 
 ***Multiataque.*** The kuo-toa makes one bite attack and two unarmed strikes.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
 
 ***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.

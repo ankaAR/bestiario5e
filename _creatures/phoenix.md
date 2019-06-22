@@ -32,7 +32,7 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Illumination.*** The phoenix sheds bright light in a 60-foot radius and dim light for an additional 30 feet.
 
-***Legendary Resistance (3/Day).*** If the phoenix fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the phoenix fails a saving throw, it can choose to succeed instead.
 
 ***Siege Monster.*** The phoenix deals double damage to objects and structures.
 

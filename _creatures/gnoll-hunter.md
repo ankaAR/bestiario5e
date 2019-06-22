@@ -25,8 +25,8 @@ armor_class: "13 (armadura de cuero)"
 
 ***Multiataque.*** The gnoll makes two melee attacks with its spear or two ranged attacks with its longbow.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage when used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante, or 6 (1d8+2) puntos de daño perforante when used with two hands to make a melee attack.
 
-***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8+2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn.
+***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño perforante, and the target's speed is reduced by 10 feet until the end of its next turn.

@@ -33,6 +33,6 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Longsword*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
+***Longbow*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.
 
 ***Call to Honor (1/Day)*** To use this action, the sword wraith must have taken damage during the current combat. If the sword wraith can use this action, it gives itself advantage on attack rolls until the end of its next turn, and 1d4 + 1 sword wraith warriors appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander's turn on the same initiative count.

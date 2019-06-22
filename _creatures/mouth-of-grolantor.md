@@ -33,6 +33,6 @@ condition_immunities: "frightened"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 15 (3d6+5) piercing damage, and the giant magically regains hit points equal to the damage dealt.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 15 (3d6+5) puntos de daño perforante, and the giant magically regains hit points equal to the damage dealt.
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8+5) puntos de daño contundente.

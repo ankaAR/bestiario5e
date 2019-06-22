@@ -37,4 +37,4 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** Windharrow makes two melee attacks.
 
-***Rapier.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d8 + 3) piercing damage.
+***Rapier.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d8 + 3) puntos de daño perforante.

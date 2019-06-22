@@ -11,7 +11,7 @@ str: 4 (-3)
 size: Tiny beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
-senses: "blindsight 10 ft."
+senses: "Vista ciega 10 pies (3 mts)"
 speed: "30 ft., fly 60 ft., nadando 30 ft."
 hit_points: "5 (2d4)"
 armor_class: "14"
@@ -21,4 +21,4 @@ armor_class: "14"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage plus 7 (3d4) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 1 piercing damage plus 7 (3d4) poison damage.

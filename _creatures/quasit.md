@@ -22,7 +22,7 @@ condition_immunities: "poisoned"
 damage_resistances: "cold; fire; lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
-***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., nadando 40 ft.), or back into its true form . Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed . It reverts to its true form if it dies.
+***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 pies (12 mts), climb 40 ft.), or a toad (40 pies (12 mts), nadando 40 ft.), or back into its true form . Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed . It reverts to its true form if it dies.
 
 ***Magic Resistance.*** The quasit has advantage on saving throws against spells and other magical effects.
 
@@ -30,7 +30,7 @@ damage_resistances: "cold; fire; lightning; bludgeoning, piercing, and slashing 
 
 ### Acciones
 
-***Claw (Bite in Beast Form).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claw (Bite in Beast Form).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft ., one target. Hit: 5 (1d4 + 3) puntos de daño perforante, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Scare (1/día).*** One creature of the quasit's choice within 20 ft. of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
 

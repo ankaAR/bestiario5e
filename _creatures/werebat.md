@@ -23,7 +23,7 @@ armor_class: "13"
 
 ***Shapechanger.*** The werebat can use its action to polymorph into a Medium bat-humanoid hybrid, or into a Large giant bat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-***Echolocation (Bat or Hybrid Form Only).*** The werebat has blindsight out to a range of 60 feet as long as it’s not deafened.
+***Echolocation (Bat or Hybrid Form Only).*** The werebat has Vista ciega out to a range of 60 feet as long as it’s not deafened.
 
 ***Keen Hearing.*** The werebat has advantage on Wisdom (Perception) checks that rely on hearing.
 
@@ -35,8 +35,8 @@ armor_class: "13"
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the werebat makes two scimitar attacks or two shortbow attacks. In hybrid form, it can make one bite attack and one scimitar attack.
 
-***Bite (Bat or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (1d6 + 3) piercing damage, and the werebat gains temporary hit points equal to the damage dealt. If the target is a humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with werebat lycanthropy.
+***Bite (Bat or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (1d6 + 3) puntos de daño perforante, and the werebat gains temporary hit points equal to the damage dealt. If the target is a humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with werebat lycanthropy.
 
 ***Scimitar (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
-***Shortbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Shortbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.

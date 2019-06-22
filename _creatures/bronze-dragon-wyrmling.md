@@ -12,7 +12,7 @@ size: Medium dragon
 alignment: lawful good
 challenge: "2 (450 XP)"
 languages: "Dragón"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +2"
 damage_immunities: "lightning"
 saving_throws: "Des +2, Con +4, Sab +2, Car +4"
@@ -25,9 +25,9 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante.
 
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 
 Lightning Breath. The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
 

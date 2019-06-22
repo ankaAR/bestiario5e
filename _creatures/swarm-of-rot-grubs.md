@@ -11,7 +11,7 @@ str: 2 (-4)
 size: Medium swarm
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-senses: "blindsight 10 ft."
+senses: "Vista ciega 10 pies (3 mts)"
 speed: "5 ft., climb 5 ft."
 hit_points: "22 (5d8)"
 armor_class: "8"

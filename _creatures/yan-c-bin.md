@@ -12,7 +12,7 @@ size: Huge elemental
 alignment: neutral evil
 challenge: "18 (20,000 XP)"
 languages: "Auran"
-senses: "blindsight 120 ft."
+senses: "Vista ciega 120 ft."
 damage_immunities: "lightning, poison, thunder"
 saving_throws: "Des +13, Sab +11, Car +12"
 speed: "50 ft., fly 150 ft."
@@ -32,7 +32,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 * 2/day each: chain lightning, cloudkill, haste
 
-***Legendary Resistance (3/Day).*** If Yan-C-Bin fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Yan-C-Bin fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Yan-C-Bin has advantage on saving throws against spells and other magical effects.
 
@@ -46,7 +46,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Change Shape.*** Yan-C-Bin polymorphs into a Medium humanoid. While in polymorphed form, a swirling breeze surrounds him, his eyes are pale and cloudy, and he loses the Air Form trait. He can remain in polymorphed form for up to 1 hour. Reverting to his true form requires an action.
 
-***Summon Elementals (1/Day).*** Yan-C-Bin summons up to three air elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points.
+***Summon Elementals (1/Día).*** Yan-C-Bin summons up to three air elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points.
 
 ### Acciones Legendarias
 

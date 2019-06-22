@@ -38,7 +38,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Teleport.*** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
+***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 
 A marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 glabrezus, 1d2 nalfeshnees, or one marilith.
 

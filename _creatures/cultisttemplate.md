@@ -22,7 +22,7 @@ alignment: cualquier alineamiento
 
 ***Crushing Blow (Recharges after a Short or Long Rest)(Geryon).*** As a bonus action, the creature gains a bonus to the damage roll of its next melee weapon attack that hits within the next minute. The bonus equals its Strength modifier (minimum of +1).
 
-***Indomitable Strength (Recharge 5-6)(Geryon).*** As a reaction when this creature takes damage, it can roll a d10 and subtract the number rolled from the damage.
+***Indomitable Strength (Recarga 5-6)(Geryon).*** As a reaction when this creature takes damage, it can roll a d10 and subtract the number rolled from the damage.
 
 ***Step into Shadows (Recharges after a Short or Long Rest)(Glasya).*** As an action, this creature, along with anything it is wearing and carrying, magically becomes invisible until the end of its next turn.
 

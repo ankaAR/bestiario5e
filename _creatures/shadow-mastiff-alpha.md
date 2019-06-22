@@ -29,6 +29,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) puntos de daño perforante. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 ***Terrifying Howl*** The shadow mastiff howls. Any beast or humanoid within 300 feet of the mastiff and able to to hear its howl must succeed on a DC 11 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.

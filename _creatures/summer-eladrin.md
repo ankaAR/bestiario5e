@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Fearsome Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.
 
-***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
+***Fey Step (Recarga 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
@@ -31,6 +31,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** The eladrin makes two weapon attacks.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage plus 4 (1d8) fire damage, or 15 (2d10 + 4) slashing damage plus 4 (1d8) fire damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) slashing damage más 4 (1d8) fire damage, or 15 (2d10 + 4) slashing damage más 4 (1d8) fire damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +9 to hit, range 150/600 pies, un objetivo. Impacto: 14 (2d8 + 5) piercing damage plus 4 (1d8) fire damage.
+***Longbow*** Ranged Weapon Attack: +9 to hit, range 150/600 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño perforante más 4 (1d8) fire damage.

@@ -28,7 +28,7 @@ armor_class: "11 (armadura natural)"
 
 ***Piscine Anatomy.*** The sea spawn has one or more of the following attack options, provided it has the appropriate anatomy:
 
-Bite. Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+Bite. Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
 
 Poison Quills. Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 3 (1d6) poison damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

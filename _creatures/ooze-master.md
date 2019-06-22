@@ -12,7 +12,7 @@ size: Huge undead
 alignment: legal maligna
 challenge: "10 (5,900 XP)"
 languages: "Común, Primordial, Thayan"
-senses: "blindsight 120 ft."
+senses: "Vista ciega 120 ft."
 skills: "Arcana +7, Insight +4"
 damage_immunities: "acid, cold, poison"
 saving_throws: "Int +7, Sab +4"
@@ -27,7 +27,7 @@ damage_resistances: "lightning, necrotic; bludgeoning, piercing, and slashing fr
 
 ***Undead Nature.*** The ooze master doesn't require air, food, drink, or sleep.
 
-***Corrosive Form.*** A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) acid damage. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.
+***Corrosive Form.*** A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) puntos de daño por ácido. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.
 
 >The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
@@ -51,7 +51,7 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) acid damage.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) puntos de daño por ácido.
 
 ### Reactions
 

@@ -13,7 +13,7 @@ size: Large fiend (yugoloth)
 alignment: neutral evil
 challenge: "11 (7200 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
-senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
+senses: "Vista ciega 60 pies (18 mts), darkvision 60 ft., passive Perception 16"
 skills: "Engaño +8, Insight +6, Percepción +6, Persuasion +8"
 damage_immunities: "acid, poison"
 saving_throws: "Des +6, Int +7, Sab +6, Car +8"
@@ -42,6 +42,6 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Life Leech*** The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.
 
-***Battlefield Cunning (Recharge 4-6)*** Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each.
+***Battlefield Cunning (Recarga 4-6)*** Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each.
 
 ***Teleport*** The yagnoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.

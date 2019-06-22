@@ -29,7 +29,7 @@ damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lig
 
 ***Ignite Enemy.*** If Severin deals fire damage to a creature while wearing the Mask of the Dragon Queen, the target catches fire. At the start of each of its turns, the burning target takes 5 (1d10) fire damage. A creature within reach of the fire can use an action to extinguish it.
 
-***Legendary Resistance (5/Day).*** While wearing the Mask of the Dragon Queen, if Severin fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (5/Día).*** While wearing the Mask of the Dragon Queen, if Severin fails a saving throw, he can choose to succeed instead.
 
 ### Acciones
 

@@ -20,7 +20,7 @@ armor_class: "19 (armadura natural)"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
+***Fey Step (Recarga 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
 ***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
 * At will: fog cloud, gust of wind
@@ -35,4 +35,4 @@ Whenever the eladrin deals damage to the charmed creature, it can repeat the sav
 
 ***Longsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) piercing damage.
+***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.

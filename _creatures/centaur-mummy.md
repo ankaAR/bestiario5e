@@ -27,13 +27,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Undead Nature.*** A mummy doesn't require air, food, drink, or sleep.
 
-***Charge.*** If the centaur mummy moves at least 20 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+***Charge.*** If the centaur mummy moves at least 20 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) puntos de daño perforante.
 
 ### Acciones
 
 ***Multiataque.*** The centaur mummy makes two melee attacks, one with its pike and one with its hooves, or it attacks with its pike and uses Dreadful Glare.
 
-***Pike.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d10 + 5) piercing damage.
+***Pike.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d10 + 5) puntos de daño perforante.
 
 ***Hooves.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or similar magic.
 

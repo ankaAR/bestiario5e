@@ -13,7 +13,7 @@ size: Medium ooze
 alignment: legal maligna
 challenge: "5 (1800 XP)"
 languages: "Common plus two more languages"
-senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 14"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this distance), passive Perception 14"
 skills: "Engaño +5, Percepción +4, plus one of the following, Arcana +7, Historia +7, Nature +7, or Religión +7"
 saving_throws: "Int +7, Car +5"
 speed: "20 ft."

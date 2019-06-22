@@ -11,7 +11,7 @@ str: 8 (-1)
 size: Small beast
 alignment: unaligned
 challenge: "0 (10 XP)"
-senses: "blindsight 30 ft."
+senses: "Vista ciega 30 pies (9 mts)"
 speed: "30 ft."
 hit_points: "4 (1d6+1)"
 armor_class: "13 (armadura natural)"
@@ -21,4 +21,4 @@ armor_class: "13 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) puntos de daño cortante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) puntos de daño cortante.

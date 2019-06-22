@@ -13,7 +13,7 @@ size: Gargantuan construct
 alignment: unaligned
 challenge: "11 (7,200 XP)"
 languages: "-"
-senses: "blindsight 120 ft. (blind beyond this radius)"
+senses: "Vista ciega 120 ft. (blind beyond this radius)"
 damage_immunities: "poison, psychic"
 saving_throws: "Con +9, Sab +0, Car +0"
 speed: "30 ft."

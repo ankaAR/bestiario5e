@@ -27,4 +27,4 @@ condition_immunities: "paralyzed, petrified, poisoned"
 
 ***Clava.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño contundente.
 
-***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) piercing damage.
+***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.

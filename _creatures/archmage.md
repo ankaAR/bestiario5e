@@ -48,4 +48,4 @@ damage_resistances: "damage from spells; non magical bludgeoning, piercing, and 
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.

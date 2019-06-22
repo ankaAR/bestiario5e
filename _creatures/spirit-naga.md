@@ -39,4 +39,4 @@ condition_immunities: "charmed, poisoned"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 7 (1d6 + 4) puntos de daño perforante, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.

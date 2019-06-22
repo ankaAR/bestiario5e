@@ -12,7 +12,7 @@ size: Medium dragon
 alignment: lawful good
 challenge: "2 (450 XP)"
 languages: "Dragón"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +2"
 damage_immunities: "cold"
 saving_throws: "Des +2, Con +5, Sab +2, Car +4"
@@ -23,9 +23,9 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante.
 
-***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 
 Cold Breath. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 

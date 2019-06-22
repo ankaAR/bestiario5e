@@ -35,7 +35,7 @@ At will: detect evil and good, detect magic, detect thoughts
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 8 (1d6 + 5) puntos de daño perforante, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
 ***Constrict.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 ft., one Medium or smaller creature. Hit: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
 

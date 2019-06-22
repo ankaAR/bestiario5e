@@ -30,11 +30,11 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Multiataque.*** The hezrou makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 
-***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
+***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 
 A hezrou has a 30 percent chance of summoning 2d6 dretches or one hezrou.
 

@@ -25,6 +25,6 @@ armor_class: "14 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d8 + 3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 9 (2d8) acid damage on a failed save, or half as much damage on a successful one.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (1d8 + 3) puntos de daño perforante, and the target must make a DC 12 Constitution saving throw, taking 9 (2d8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 
 ***Sticky Leg (Recharges when the Steeder Has No Creatures Grappled.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one Medium or smaller creature. Hit: The target is stuck ot the steeder's leg and grappled until it escapes (escape DC 12)

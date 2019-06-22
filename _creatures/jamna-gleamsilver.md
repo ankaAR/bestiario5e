@@ -34,4 +34,4 @@ armor_class: "15 (armadura de cuero)"
 
 ***Multiataque.*** Jamna attacks twice with her shortswords.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante, or 9 (1d6 + 3) plus (1d6) puntos de daño perforante if the target is Medium or larger.

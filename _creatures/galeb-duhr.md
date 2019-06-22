@@ -29,4 +29,4 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 ft ., one target. Hit: 12 (2d6 + 5) puntos de daño contundente.
 
-***Animate Boulders (1/Day).*** The galeb duhr magically animates up to two boulders it can see within 60 ft. of it. A boulder has statistics like those of a galeb duhr, except it has Intelligence 1 and Charisma 1, it can't be charmed or frightened, and it lacks this action option. A boulder remains animated as long as the galeb duhr maintains concentration, up to 1 minute (as if concentrating on a spell) .
+***Animate Boulders (1/Día).*** The galeb duhr magically animates up to two boulders it can see within 60 ft. of it. A boulder has statistics like those of a galeb duhr, except it has Intelligence 1 and Charisma 1, it can't be charmed or frightened, and it lacks this action option. A boulder remains animated as long as the galeb duhr maintains concentration, up to 1 minute (as if concentrating on a spell) .

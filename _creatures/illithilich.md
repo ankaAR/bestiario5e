@@ -23,7 +23,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 damage_resistances: "cold, lightning, necrotic"
 ---
 
-***Legendary Resistance (3/Day).*** If the illithilich fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the illithilich fails a saving throw, it can choose to succeed instead.
 
 ***Rejuvenation.*** If it has a phylactery, a destroyed illithilich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
@@ -67,9 +67,9 @@ At will: detect thoughts, levitate
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 21 (3d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be stunned until this grapple ends.
 
-***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the lich. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the lich. Hit: 55 (10d10) puntos de daño perforante. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
-***Mind Blast (Recharge 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (5d8+5) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recarga 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (5d8+5) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Acciones Legendarias
 

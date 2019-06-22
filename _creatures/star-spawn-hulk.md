@@ -31,4 +31,4 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Slam*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño contundente.
 
-***Reaping Arms (Recharge 5-6)*** The hulk makes a separate slam attack against each creature within 10 feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving throw or be knocked prone.
+***Reaping Arms (Recarga 5-6)*** The hulk makes a separate slam attack against each creature within 10 feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity saving throw or be knocked prone.

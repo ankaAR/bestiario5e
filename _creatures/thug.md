@@ -26,4 +26,4 @@ armor_class: "11 (armadura de cuero)"
 
 ***Mace.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d6 + 2) puntos de daño contundente.
 
-***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) piercing damage.
+***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) puntos de daño perforante.

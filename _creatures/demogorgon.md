@@ -29,7 +29,7 @@ damage_resistances: "cold, fire, lightning"
 * 3/day each: dispel magic, fear, telekinesis
 * 1/day each: feeblemind, project image
 
-***Legendary Resistance (3/Day).*** If Demogorgon fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Demogorgon fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Demogorgon has advantage on saving throws against spells and other magical effects.
 

@@ -30,7 +30,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 * At will: charm person, command, dispel magic, hold monster
 * 3/day: feeblemind
 
-***Legendary Resistance (3/Day).*** If the sibriex fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the sibriex fails a saving throw, it can choose to succeed instead.
 
 ***Magic Resistance.*** The sibriex has advantage on saving throws against spells and other magical effects.
 
@@ -38,11 +38,11 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The sibriex uses Squirt Bile once and makes three attacks using its chain, bite, or both.
 
-***Chain*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d12 + 7) piercing damage.
+***Chain*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d12 + 7) puntos de daño perforante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) piercing damage plus 9 (2d8) acid damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) puntos de daño perforante plus 9 (2d8) puntos de daño por ácido.
 
-***Squirt Bile*** The sibriex targets one creature it can see within 120 feet of it. The target must succeed on a DC 20 Dexterity saving throw or take 35 (10d6) acid damage.
+***Squirt Bile*** The sibriex targets one creature it can see within 120 feet of it. The target must succeed on a DC 20 Dexterity saving throw or take 35 (10d6) puntos de daño por ácido.
 
 ***Warp Creature*** The sibriex targets up to three creatures it can see within 120 feet of it. Each target must make a DC 20 Constitution saving throw. On a successful save, a creature becomes immune to this sibriex's Warp Creature. On a failed save, the target is poisoned, which causes it to also gain 1 level of exhaustion. While poisoned in this way, the target must repeat the saving throw at the start of each of its turns. Three successful saves against the poison end it, and ending the poison removes any levels of exhaustion caused by it. Each failed save causes the target to suffer another level of exhaustion. Once the target reaches 6 levels of exhaustion, it dies and instantly transforms into a living abyssal wretch under the sibriex's control. The transformation of the body can be undone only by a wish spell. (See 'Other' tab for variant)
 

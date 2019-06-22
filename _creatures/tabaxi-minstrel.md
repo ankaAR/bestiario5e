@@ -21,7 +21,7 @@ armor_class: "12"
 
 ***Feline agility.*** When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can't use it again until it moves 0 feet on one of its turns.
 
-***Inspire (1/Day).*** While taking a short rest, the tabaxi can spend 1 minute singing, playing an instrument, telling a story, or reciting a poem to soothe and inspire creatures other than itself. Up to five creatures of the tabaxi's choice that can see and hear its performance gain 8 temporary hit points at the end of the tabaxi's short rest.
+***Inspire (1/Día).*** While taking a short rest, the tabaxi can spend 1 minute singing, playing an instrument, telling a story, or reciting a poem to soothe and inspire creatures other than itself. Up to five creatures of the tabaxi's choice that can see and hear its performance gain 8 temporary hit points at the end of the tabaxi's short rest.
 
 ### Acciones
 
@@ -29,4 +29,4 @@ armor_class: "12"
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 ft., o e target. Hit: 2 (ld4) puntos de daño cortante.
 
-***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 pies, un objetivo. Impacto: 4 (ld4 +2) piercing damage.
+***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 pies, un objetivo. Impacto: 4 (ld4 +2) puntos de daño perforante.

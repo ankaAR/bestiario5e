@@ -30,7 +30,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 ***Demiplanar Donjon.*** Any creature or object that the astral dreadnought swallows is transported to a demiplane that can be entered by no other means except a wish spell or this creature's Donjon Visit ability. A creature can leave the demiplane only by using magic that enables planar travel, such as the plane shift spell. The demiplane resembles a stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high. Like a stomach, it contains the remains of the dreadnought's past meals.
 The dreadnought can't be harmed from within the demiplane. If the dreadnought dies, the demiplane disappears, and everything inside it appears around the corpse. The demiplane is otherwise indestructible.
 
-***Legendary Resistance (3/Day).*** If the astral dreadnought fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the astral dreadnought fails a saving throw, it can choose to succeed instead.
 
 ***Magic Weapons.*** An astral dreadnought's weapon attacks are magical.
 
@@ -40,7 +40,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (5d10 + 9) piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.
+***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (5d10 + 9) puntos de daño perforante. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought's Demiplanar Donjon.
 
 ***Claw*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d6 + 9) puntos de daño cortante.
 

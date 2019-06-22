@@ -32,8 +32,8 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** Ghald makes three attacks, one with his bite and two with his shortswords.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d4 + 4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d4 + 4) puntos de daño perforante.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 11 (2d6 + 4) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 11 (2d6 + 4) puntos de daño perforante.
 
 ***Garrote.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 ft., one Medium or Small creature against which Ghald has advantage on the attack roll. Hit: 9 (2d4 + 4) puntos de daño contundente, and the target is grappled (escape DC 15). Until the grapple ends, the target can't breathe, and Ghald has advantage on attack rolls against it.

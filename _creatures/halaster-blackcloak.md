@@ -28,9 +28,9 @@ Halaster wields a *blast scepter* (a very rare magic item that requires attuneme
 
 Halaster also wears a *horned ring* (a very rare magic item that requires attunement), which allows an attuned wearer to ignore Undermountain’s magical restrictions (see “Alterations to Magic”).
 
-***Arcane Recovery (1/Day).*** When he finishes a short rest, Halaster recovers all his spell slots of 5th level and lower.
+***Arcane Recovery (1/Día).*** When he finishes a short rest, Halaster recovers all his spell slots of 5th level and lower.
 
-***Legendary Resistance (3/Day).*** If Halaster fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Halaster fails a saving throw, he can choose to succeed instead.
 
 ***Rejuvenation.*** If Halaster dies in Undermountain, he revives after 1d10 days, with all his hit points and any missing body parts restored. His new body appears in a random safe location in Undermountain.
 

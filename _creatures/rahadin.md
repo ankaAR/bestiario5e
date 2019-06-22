@@ -39,4 +39,4 @@ armor_class: "18 (cuero endurecido)"
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d6+6) puntos de daño cortante.
 
-***Poisoned Dart.*** Ranged Weapon Attack: +10 to hit, range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) piercing damage plus 5 (2d4) poison damage.
+***Poisoned Dart.*** Ranged Weapon Attack: +10 to hit, range 20/60 pies, un objetivo. Impacto: 8 (1d4+6) puntos de daño perforante plus 5 (2d4) poison damage.

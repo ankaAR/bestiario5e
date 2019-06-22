@@ -29,6 +29,6 @@ damage_resistances: "poison"
 
 ***Multiattack*** The scout makes two melee attacks or two ranged attacks.
 
-***Shortsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
 
-***Longbow*** Ranged Weapon Attack: +4 to hit, ranged 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage.
+***Longbow*** Ranged Weapon Attack: +4 to hit, ranged 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.

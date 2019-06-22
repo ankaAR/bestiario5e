@@ -30,7 +30,7 @@ condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Demiplanar Donjon*** Any creature or object that the astral dreadnought swallows is transported to a demiplane that can be entered by no other means except a wish spell or this creature’s Donjon Visit ability. A creature can leave the demiplane only by using magic that enables planar travel, such as the plane shift spell. The demiplane resembles a stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high. Like a stomach, it contains the remains of the dreadnought’s past meals. The dreadnought can’t be harmed from within the demiplane. If the dreadnought dies, the demiplane disappears, and everything inside it appears around the corpse. The demiplane is otherwise indestructible.
 
-***Legendary Resistance (3/Day)*** If the astral dreadnought fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Day)*** If the astral dreadnought fails a saving throw, it can choose to succeed instead.
 
 ***Magic Weapons*** An astral dreadnought’s weapon attacks are magical.
 

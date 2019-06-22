@@ -37,8 +37,8 @@ If another demon drinks the foul water as an action, it gains 11 (2d10) temporar
 
 ***Multiattack*** The wastrilith uses Grasping Spout and makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 30 (4d12 + 4) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 30 (4d12 + 4) puntos de daño perforante.
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (4d6 + 4) puntos de daño cortante.
 
-***Grasping Spout*** The wastrilith magically launches a spout of water at one creature it can see within 60 feet of it. The target must make a DC 17 Strength saving throw, and it has disadvantage if it's underwater. On a failed save, it takes 22 (4d8 + 4) acid damage and is pulled up to 60 feet toward the wastrilith. On a successful save, it takes half as much damage and isn't pulled.
+***Grasping Spout*** The wastrilith magically launches a spout of water at one creature it can see within 60 feet of it. The target must make a DC 17 Strength saving throw, and it has disadvantage if it's underwater. On a failed save, it takes 22 (4d8 + 4) puntos de daño por ácido and is pulled up to 60 feet toward the wastrilith. On a successful save, it takes half as much damage and isn't pulled.

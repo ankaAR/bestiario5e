@@ -25,4 +25,4 @@ armor_class: "10"
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4- 1) puntos de daño contundente plus 2 (1d4) poison damage.
 
-***Rapport Spores (3/Day).*** A 10-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
+***Rapport Spores (3/Día).*** A 10-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.

@@ -32,4 +32,4 @@ armor_class: "16 (chain mail)"
 
 ***Flail of Paralysis.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
 
-***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.

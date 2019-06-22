@@ -12,7 +12,7 @@ size: Gargantuan ooze
 alignment: chaotic neutral
 challenge: "10 (5,900 XP)"
 languages: "telepathy 50 ft."
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "poison"
 speed: "10 ft."
 hit_points: "217 (14d20+70)"
@@ -38,4 +38,4 @@ damage_resistances: "acid, cold, fire"
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d8 + 4) puntos de daño contundente plus 9 (2d8) acid damage. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 22 (4d8 + 4) puntos de daño contundente plus 9 (2d8) puntos de daño por ácido. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.

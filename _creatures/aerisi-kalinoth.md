@@ -24,7 +24,7 @@ damage_resistances: "lightning"
 
 ***Howling Defeat.*** When Aerisi drops to 0 hit points, her body disappears in a howling whirlwind that disperses quickly and harmlessly. Anything she is wearing or carrying is left behind.
 
-***Legendary Resistance (2/Day).*** If Aerisi fails a saving throw, she can choose to succeed instead.
+***Resistencia Legendaria (2/Día).*** If Aerisi fails a saving throw, she can choose to succeed instead.
 
 ***Lanzamiento de conjuros.*** Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:
 
@@ -44,4 +44,4 @@ damage_resistances: "lightning"
 
 ### Acciones
 
-***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) piercing damage, or 10 (1d8 + 6) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.
+***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño perforante, or 10 (1d8 + 6) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.

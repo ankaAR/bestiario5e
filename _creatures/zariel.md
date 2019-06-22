@@ -32,7 +32,7 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 * At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire
 * 3/day each: blade barrier, dispel evil and good, finger of death
 
-***Legendary Resistance (3/Day).*** If Zariel fails a saving throw, she can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Zariel fails a saving throw, she can choose to succeed instead.
 
 ***Magic Resistance.*** Zariel has advantage on saving throws against spells and other magical effects.
 
@@ -44,9 +44,9 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Longsword*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.
 
-***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 pies, un objetivo. Impacto: 15 (2d6 + 8) piercing damage plus 36 (8d8) fire damage.
+***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño perforante plus 36 (8d8) fire damage.
 
-***Horrid Touch (Recharge 5-6)*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 44 (8d10) necrotic damage, and the target is poisoned for 1 minute. While poisoned in this way, the target is also blinded and deafened. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Horrid Touch (Recarga 5-6)*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 44 (8d10) necrotic damage, and the target is poisoned for 1 minute. While poisoned in this way, the target is also blinded and deafened. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Teleport*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.
 

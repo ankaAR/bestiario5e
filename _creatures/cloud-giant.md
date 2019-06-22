@@ -37,6 +37,6 @@ At will: detect magic, fog cloud, light
 
 ***Multiataque.*** The giant makes two morningstar attacks.
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño perforante.
 
 ***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10 + 8) puntos de daño contundente.

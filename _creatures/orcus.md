@@ -17,7 +17,7 @@ senses: "truesight 120 ft., passive Perception 22"
 skills: "Arcana +12, Percepción +12"
 damage_immunities: "necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks"
 saving_throws: "Des +10, Con +15, Sab +13"
-speed: "40 ft., fly 40 ft."
+speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "405  (30d12 + 210)"
 armor_class: "17 (armadura natural), 20 with the Wand of Orcus"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
@@ -32,7 +32,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 * 3/day each: create undead, dispel magic
 * 1/day: time stop
 
-***Legendary Resistance (3/Day).*** If Orcus fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Orcus fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Orcus has advantage on saving throws against spells and other magical effects.
 
@@ -46,7 +46,7 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Wand of Orcus*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño contundente plus 13 (2d12) necrotic damage.
 
-***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage.
+***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño perforante plus 9 (2d8) poison damage.
 
 ### Acciones Legendarias
 

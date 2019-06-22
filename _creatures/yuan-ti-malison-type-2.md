@@ -43,4 +43,4 @@ Type 3: Human head and upper body with a serpentine lower body instead of legs
 
 ***Multiattack (Yuan_ti Form Only).*** The yuan_ti makes two bite attacks using its snake arms.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 7 (2d6) poison damage.

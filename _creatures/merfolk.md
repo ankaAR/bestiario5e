@@ -22,4 +22,4 @@ armor_class: "11"
 
 ### Acciones
 
-***Spear.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d6) puntos de daño perforante, or 4 (1d8) puntos de daño perforante if used with two hands to make a melee attack.

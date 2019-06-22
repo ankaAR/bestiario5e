@@ -15,7 +15,7 @@ languages: "Abyssal, telepathy 120 ft."
 senses: "truesight 120 ft."
 damage_immunities: "fire, poison"
 saving_throws: "Str +14, Con +12, Sab +9, Car +12"
-speed: "40 ft., fly 80 ft."
+speed: "40 pies (12 mts), fly 80 ft."
 hit_points: "262 (21d12+126)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "poisoned"
@@ -40,7 +40,7 @@ damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from n
 
 ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
-***Variant: Summon Demon (1/Day).*** The demon chooses what to summon and attempts a magical summoning.
+***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 
 A balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro.
 

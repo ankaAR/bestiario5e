@@ -57,7 +57,7 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 ***Teleport.*** The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-***Variant: Summon Yugoloth (1/Day).*** The yugoloth attempts a magical summoning.
+***Variant: Summon Yugoloth (1/Día).*** The yugoloth attempts a magical summoning.
 
 An arcanaloth has a 40 percent chance of summoning one arcanaloth.
 

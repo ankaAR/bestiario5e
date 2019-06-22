@@ -31,7 +31,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 * 3/day each: counterspell, dispel magic, fly, suggestion, wall of fire
 * 1/day each: dominate monster, symbol (stunning only)
 
-***Legendary Resistance (3/Day).*** If Bael fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Bael fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Bael has advantage on saving throws against spells and other magical effects.
 
@@ -43,7 +43,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Bael makes two melee attacks.
 
-***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies, un objetivo. Impacto: 16 (2d8 + 7) piercing damage plus 13 (3d8) necrotic damage.
+***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante plus 13 (3d8) necrotic damage.
 
 ***Infernal Command*** Each ally of Bael's within 60 feet of him can't be charmed or frightened until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 

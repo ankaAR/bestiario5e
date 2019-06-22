@@ -13,7 +13,7 @@ size: Medium fiend (devil)
 alignment: legal maligna
 challenge: "1/2 (100 XP)"
 languages: "understands Infernal but can't speak"
-senses: "blindsight 10 ft. (blind beyond this radius), passive Perception 11"
+senses: "Vista ciega 10 pies (3 mts) (blind beyond this radius), passive Perception 11"
 skills: "Percepción +1"
 damage_immunities: "fire, poison"
 speed: "20 ft."
@@ -23,10 +23,10 @@ condition_immunities: "blinded, charmed, frightened, poisoned"
 damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
-***Cloud of Vermin.*** Any creature, other than a devil, that starts its turn within 20 feet of the nupperibo must make a DC 11 Constitution saving throw. A creature within the areas of two or more nupperibos makes the saving throw with disadvantage. On a failure, the creature takes 2 (1d4) piercing damage.
+***Cloud of Vermin.*** Any creature, other than a devil, that starts its turn within 20 feet of the nupperibo must make a DC 11 Constitution saving throw. A creature within the areas of two or more nupperibos makes the saving throw with disadvantage. On a failure, the creature takes 2 (1d4) puntos de daño perforante.
 
 ***Hunger-Driven.*** In the Nine Hells, the nupperibos can flawlessly track any creature that has taken damage from any nupperibo's Cloud of Vermin within the previous 24 hours.
 
 ### Acciones
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.

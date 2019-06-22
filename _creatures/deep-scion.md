@@ -30,7 +30,7 @@ armor_class: "11"
 
 ***Battleaxe (Humanoid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8+4) slashing damage, or 9 (1d10+4) slashing damage if used with two hands.
 
-***Bite (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 6 (1d4+4) piercing damage.
+***Bite (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 6 (1d4+4) puntos de daño perforante.
 
 ***Claw (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño cortante.
 

@@ -16,7 +16,7 @@ skills: "Arcana +4, Engaño +5, Insight +2, Persuasion +5"
 speed: "30 ft., nadando 30 ft."
 hit_points: "60 (8d8+24)"
 armor_class: "10 (13 with mage armor)"
-damage_resistances: "acid"
+damage_resistances: "ácido"
 ---
 
 ***Anfibio.*** Shoalar puede respirar aire y agua.
@@ -39,4 +39,4 @@ damage_resistances: "acid"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or ranged 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or ranged 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.

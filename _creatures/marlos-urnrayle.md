@@ -17,14 +17,14 @@ skills: "Arcana +4, Engaño +6, Percepción +4"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "15 (armadura natural)"
-damage_resistances: "acid"
+damage_resistances: "ácido"
 ---
 
 ***Earthen Defeat.*** When Marlos drops to 0 hit points, his body transforms into mud and collapses into a pool. Anything he is wearing or carrying is left behind.
 
 ***Earth Passage.*** Marlos can move in difficult terrain composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were difficult terrain. If he ends his turn there, he is shunted into the nearest space he last occupied.
 
-***Legendary Resistance (2/Day).*** If Marlos fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (2/Día).*** If Marlos fails a saving throw, he can choose to succeed instead.
 
 ***Petrifying Gaze.*** When a creature that can see Marlos's eyes starts its turn within 30 feet of him, Marlos can force it to make a DC 14 Constitution saving throw if Marlos isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
 
@@ -36,6 +36,6 @@ If Marlos sees himself reflected on a polished surface within 30 feet of him and
 
 ***Multiataque.*** Marlos makes three melee attacks, one with his snake hair and two with Ironfang.
 
-***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage.
+***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante plus 14 (4d6) poison damage.
 
-***Ironfang.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage plus 4 (1d8) thunder damage.
+***Ironfang.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 4 (1d8) thunder damage.

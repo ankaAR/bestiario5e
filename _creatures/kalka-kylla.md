@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Olman"
-senses: "blindsight 30 ft."
+senses: "Vista ciega 30 pies (9 mts)"
 skills: "Engaño +3, Insight +5, Sigilo +3"
 speed: "30 ft., nadando 30 ft."
 hit_points: "85 (10d10+30)"
@@ -31,4 +31,4 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** Kalka-Kylla makes two claw attacks.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and if the target is a Medium or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the target is restrained. Kalka-Kylla has two claws, each of which can grapple only one target.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and if the target is a Medium or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the target is restrained. Kalka-Kylla has two claws, each of which can grapple only one target.

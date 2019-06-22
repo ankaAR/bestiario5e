@@ -13,7 +13,7 @@ size: Medium construct
 alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "understands Common but can't speak"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Percepción +3"
 damage_immunities: "lightning, poison"
 speed: "30 ft."

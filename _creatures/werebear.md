@@ -14,7 +14,7 @@ challenge: "5 (1,800 XP)"
 languages: "Common (can't speak in bear form)"
 skills: "Percepción +7"
 damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
-speed: "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)"
+speed: "30 ft. (40 pies (12 mts), climb 30 ft. in bear or hybrid form)"
 hit_points: "135 (18d8+54)"
 armor_class: "10 (in humanoid form, 11 in bear and hybrid forms )"
 ---
@@ -27,7 +27,7 @@ armor_class: "10 (in humanoid form, 11 in bear and hybrid forms )"
 
 ***Multiataque.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
-***Bite (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.
+***Bite (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.
 
 ***Claw (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 

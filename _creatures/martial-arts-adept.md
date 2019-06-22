@@ -32,7 +32,7 @@ armor_class: "16"
 
 * The target must succeed on a DC 13 Constitution saving throw or be stunned until the end ot'the adept's next turn.
 
-***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) piercing damage.
+***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante.
 
 ### Reactions
 

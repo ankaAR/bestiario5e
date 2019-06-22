@@ -23,7 +23,7 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, poiso
 damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 
 ***Master of the Grave.*** While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.
 

@@ -28,4 +28,4 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d6 + 4) puntos de daño cortante.
 
-***Longbow.*** Ranged Weapon Attack: +2 to hit, range 150/600 pies, un objetivo. Impacto: 9 (2d8) piercing damage.
+***Longbow.*** Ranged Weapon Attack: +2 to hit, range 150/600 pies, un objetivo. Impacto: 9 (2d8) puntos de daño perforante.

@@ -23,6 +23,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The velociraptor makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d6+2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d6+2) puntos de daño perforante.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño cortante.

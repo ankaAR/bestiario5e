@@ -12,7 +12,7 @@ size: Medium plant
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "understands Common but can't speak"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"
 armor_class: "12 (armadura natural)"
@@ -21,6 +21,6 @@ condition_immunities: "blinded, deafened"
 
 ### Acciones
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) piercing damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño perforante.
 
-***Needles.*** Ranged Weapon Attack: +3 to hit, range 30/60 pies, un objetivo. Impacto: 8 (2d6 + 1) piercing damage.
+***Needles.*** Ranged Weapon Attack: +3 to hit, range 30/60 pies, un objetivo. Impacto: 8 (2d6 + 1) puntos de daño perforante.

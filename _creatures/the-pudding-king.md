@@ -50,7 +50,7 @@ Cantrips (at will): acid splash, light, mage hand, poison spray, prestidigitatio
 
 ### Acciones
 
-***War Pick.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft., one target. Hit 4 (1d8) piercing damage.
+***War Pick.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft., one target. Hit 4 (1d8) puntos de daño perforante.
 
 ***Change Shape.*** The Pudding King magically transforms into an ooze, or back into his true form. He reverts to his true form if he dies. Any equipment he is wearing or carrying is absorbed by the new form. In ooze form, the Pudding King retains his alignment, hit points, Hit Dice, and Intelligence, Wisdom, and Charisma scores, as well as this action. His statistics and capabilities are otherwise replaced by those of the new form.
 

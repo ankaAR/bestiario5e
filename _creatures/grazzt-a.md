@@ -33,7 +33,7 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 1/day each: dominate monster, greater invisibility
 
-***Legendary Resistance (3/Day).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
 
 ***Magic Resistance.*** Graz'zt has advantage on saving throws against spell and other magic effects.
 
@@ -43,7 +43,7 @@ At will: charm person, crown of madness, detect magic, dispel magic, dissonant w
 
 ***Multiataque.*** Graz'zt attacks twice with the Wave of Sorrow.
 
-***Wave of Sorrow (Greatsword).*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 ft., one target, Hit; 20 (4d6 + 6) slashing damage plus 14 (4d6) acid damage.
+***Wave of Sorrow (Greatsword).*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 ft., one target, Hit; 20 (4d6 + 6) slashing damage plus 14 (4d6) puntos de daño por ácido.
 
 ***Teleport.*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

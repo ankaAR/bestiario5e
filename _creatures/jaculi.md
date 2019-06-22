@@ -11,7 +11,7 @@ str: 15 (+2)
 size: Large beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-senses: "blindsight 30 ft., passive Perception 11"
+senses: "Vista ciega 30 pies (9 mts), passive Perception 11"
 skills: "Athleitcs +4, Percepción +1, Sigilo +4"
 speed: "30 ft., climb 20 ft."
 hit_points: "16 (3d10)"
@@ -24,6 +24,6 @@ armor_class: "14 (armadura natural)"
 
 ### Acciones
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 +2) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 +2) puntos de daño perforante.
 
-***Spring.*** The jaculi springs up to 30 feet in a straight line and makes a bite attack against a target within its reach. This attack has advantage if the jaculi springs at least 10 feet. If the attack hits, the bite deals an extra 7 (2d6) piercing damage.
+***Spring.*** The jaculi springs up to 30 feet in a straight line and makes a bite attack against a target within its reach. This attack has advantage if the jaculi springs at least 10 feet. If the attack hits, the bite deals an extra 7 (2d6) puntos de daño perforante.

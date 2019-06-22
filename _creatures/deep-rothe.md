@@ -17,10 +17,10 @@ hit_points: "13 (2d8+4)"
 armor_class: "10"
 ---
 
-***Charge.*** If the rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
+***Charge.*** If the rothe moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) puntos de daño perforante.
 
 ***Innate Spellcasting.*** The deep rothe's spellcasting ability is Charisma. It can innately cast dancing lights at will, requiring no components.
 
 ### Acciones
 
-***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.

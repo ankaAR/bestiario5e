@@ -27,8 +27,8 @@ armor_class: "11 (in humanoid form, 12 in wolf or hybrid form)"
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: one with its bite and one with its claws or spear.
 
-***Bite (Wolf or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+***Bite (Wolf or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
 
 ***Claws (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (2d4 + 2) puntos de daño cortante.
 
-***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 5 (1d6 + 2) puntos de daño perforante, or 6 (1d8 + 2) puntos de daño perforante if used with two hands to make a melee attack.

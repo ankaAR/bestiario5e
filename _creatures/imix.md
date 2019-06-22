@@ -12,7 +12,7 @@ size: Huge elemental
 alignment: neutral evil
 challenge: "19 (22,000 XP)"
 languages: "Común, Ignan"
-senses: "blindsight 120 ft."
+senses: "Vista ciega 120 ft."
 damage_immunities: "fire, poison"
 saving_throws: "Des +14, Con +13, Car +13"
 speed: "50 ft., fly 50 ft."
@@ -30,7 +30,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Illumination.*** Imix sheds bright light in a 60-foot radius and dim light for an additional 60 feet.
 
-***Legendary Resistance (3/Day).*** If Imix fails a saving throw, he can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** If Imix fails a saving throw, he can choose to succeed instead.
 
 ***Innate Spellcasting.*** Imix's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
@@ -48,7 +48,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Flame Blast.*** Ranged Spell Attack: +12 to hit, range 250 pies, un objetivo. Impacto: 35 (10d6) fire damage.
 
-***Summon Elementals (1/Day).*** Imix summons up to three fire elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points.
+***Summon Elementals (1/Día).*** Imix summons up to three fire elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points.
 
 ### Acciones Legendarias
 

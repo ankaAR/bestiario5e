@@ -12,7 +12,7 @@ str: 10 (0)
 size: Small construct
 alignment: unaligned
 challenge: "1/4 (50 XP)"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "poison, psychic"
 speed: "0 ft., fly 50 ft. (hover)"
 hit_points: "17 (5d6)"

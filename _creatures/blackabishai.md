@@ -38,6 +38,6 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Scimitar*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) piercing damage plus 9 (2d8) acid damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante plus 9 (2d8) puntos de daño por ácido.
 
-***Creeping Darkness (Recharge 6)*** The abishai casts darkness at a point within 120 feet of it, requiring no components. Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.
+***Creeping Darkness (Recarga 6)*** The abishai casts darkness at a point within 120 feet of it, requiring no components. Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.

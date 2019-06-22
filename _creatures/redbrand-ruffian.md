@@ -22,4 +22,4 @@ armor_class: "14 (studded leather armor)"
 
 ***Multiataque.*** The ruffian makes two melee attacks.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

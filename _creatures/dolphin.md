@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Medium beast
 alignment: unaligned
 challenge: "1/8 (25 XP)"
-senses: "blindsight 60 ft."
+senses: "Vista ciega 60 pies (18 mts)"
 skills: "Percepción +3"
 speed: "0 ft., nadando 60 ft."
 hit_points: "11 (2d8+2)"

@@ -29,7 +29,7 @@ armor_class: "20 (plate, shield)"
 
 ***Shield Bash.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño contundente. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6 + 3) piercing damage.
+***Javelin.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
 ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.
 

@@ -29,9 +29,9 @@ armor_class: "16 (studded leather armor)"
 
 ***Multiataque.*** The thief makes three attacks with its shortsword.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5pies, un objetivo. Impacto: 7 (1d6+4) piercing damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.
 
-***Light Crossbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 pies, un objetivo. Impacto: 8 (1d8+4) piercing damage.
+***Light Crossbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 pies, un objetivo. Impacto: 8 (1d8+4) puntos de daño perforante.
 
 ### Reactions
 

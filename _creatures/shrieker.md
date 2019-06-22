@@ -11,7 +11,7 @@ str: 1 (-5)
 size: Medium plant
 alignment: unaligned
 challenge: "0 (10 XP)"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "0 ft."
 hit_points: "13 (3d8)"
 armor_class: "5"

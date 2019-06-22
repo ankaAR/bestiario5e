@@ -41,8 +41,8 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4+1) puntos de daño cortante.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4+1) piercing damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4+1) puntos de daño perforante.

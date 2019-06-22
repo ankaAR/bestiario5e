@@ -22,7 +22,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The guard makes two melee attacks.
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) piercing damage.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante.
 
 ### Reactions
 

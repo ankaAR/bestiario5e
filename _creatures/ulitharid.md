@@ -36,6 +36,6 @@ At will: detect thoughts, levitate
 
 ***Tentacles.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 27 (4d10+5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be stunned until this grapple ends.
 
-***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the ulitharid. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.
+***Extract Brain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 ft., one incapacitated humanoid grappled by the ulitharid. Hit: 55 (10d10) puntos de daño perforante. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.
 
-***Mind Blast (Recharge 5-6).*** The ulitharid magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17 Intelligence saving throw or take 31 (4d12+5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recarga 5-6).*** The ulitharid magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17 Intelligence saving throw or take 31 (4d12+5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

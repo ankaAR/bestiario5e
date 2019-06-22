@@ -13,7 +13,7 @@ size: Medium fiend (yugoloth)
 alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
-senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
+senses: "Vista ciega 60 pies (18 mts), darkvision 60 ft., passive Perception 14"
 skills: "Insight +4, Percepción +4"
 damage_immunities: "acid, poison"
 speed: "20 ft., nadando 40 pies (12 mts)"
@@ -43,7 +43,7 @@ damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from n
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) piercing damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante.
 
 ***Steal Memory (1/Day)*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 4d6 psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
 

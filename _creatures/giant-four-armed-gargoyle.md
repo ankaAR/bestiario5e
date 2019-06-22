@@ -29,6 +29,6 @@ armor_class: "17 (armadura natural)"
 
 ***Multiataque.*** The gargoyle makes five attacks: one with its bite and four with its claws.
 
-***Bite.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 +4) piercing damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 +4) puntos de daño perforante.
 
-***Claw.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 +4) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 +4) puntos de daño cortante.

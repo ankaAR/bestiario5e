@@ -13,7 +13,7 @@ size: Huge ooze
 alignment: legal maligna
 challenge: "10 (5900 XP)"
 languages: "Common plus six more"
-senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 15"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this distance), passive Perception 15"
 skills: "Arcana +10, Engaño +8, Historia +10, Nature +10, Percepción +5, Religión +10"
 saving_throws: "Int +10, Car +8"
 speed: "20 ft."

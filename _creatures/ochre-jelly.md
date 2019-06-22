@@ -11,13 +11,13 @@ str: 15 (+2)
 size: Large ooze
 alignment: unaligned
 challenge: "2 (450 XP)"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "lightning, slashing"
 speed: "10 pies (3 mts), climb 10 ft."
 hit_points: "45 (6d10+12)"
 armor_class: "8"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
-damage_resistances: "acid"
+damage_resistances: "ácido"
 ---
 
 ***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
@@ -26,7 +26,7 @@ damage_resistances: "acid"
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente plus 3 (1d6) acid damage.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente plus 3 (1d6) puntos de daño por ácido.
 
 ### Reactions
 

@@ -36,7 +36,7 @@ armor_class: "17 (armadura natural)"
 
 ***Esclavizar (3/día).*** El abolez elige a una criatura que pueda ver a 30 pies (9 mts) o menos de él. El objetivo debe superar una tirada de salvación de Sabiduría CD 14 para no quedar hechizado mágicamente por el abolez hasta que este muera o se encuentre en un plano de existencia diferente al plano en el que se encuentre el objetivo. El objetivo hechizado está bajo el control del abolez y no puede realizar reacciones, y ambos se pueden comunicar telepáticamente entre sí a cualquier distancia.
 
-WCuando el objetivo hechizado recibe daño, puede repetir la tirada de salvación. Si tiene éxito, el efecto termina. Una vez cada 24 horas, el objetivo puede repetir la tirada de salvación si está al menos a 1 milla de distancia del abolez.
+Cuando el objetivo hechizado recibe daño, puede repetir la tirada de salvación. Si tiene éxito, el efecto termina. Una vez cada 24 horas, el objetivo puede repetir la tirada de salvación si está al menos a 1 milla de distancia del abolez.
 
 ### Acciones Legendarias
 
