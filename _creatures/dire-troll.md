@@ -31,7 +31,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** The troll makes five attacks: one with its bite and four with its claws.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d8 + 6) puntos de daño perforante plus 5 (1d10) poison damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d8 + 6) puntos de daño perforante más 5 (1d10) poison damage.
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (3d6 + 6) puntos de daño cortante.
 

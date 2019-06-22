@@ -22,7 +22,7 @@ condition_immunities: "charmed, paralyzed, poisoned"
 damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Lightning Absorption.*** Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) lightning damage until the end of its next turn.
+***Lightning Absorption.*** Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) puntos de daño por relámpago until the end of its next turn.
 
 ***Scaladar Link.*** The scaladar knows the location of other scaladar within 100 feet of it, and it can sense when any of them take damage.
 
@@ -32,4 +32,4 @@ damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d12 + 4) puntos de daño contundente, and the target is grappled (escape DC 15). The scaladar has two claws, each of which can grapple one target.
 
-***Sting.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante plus 11 (2d10) lightning damage.
+***Sting.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante plus 11 (2d10) puntos de daño por relámpago.

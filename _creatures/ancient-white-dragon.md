@@ -23,7 +23,7 @@ armor_class: "20 (armadura natural)"
 
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 

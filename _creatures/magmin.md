@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
 languages: "Ignan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "14 (armadura natural)"

@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "127 (15d10+45)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.

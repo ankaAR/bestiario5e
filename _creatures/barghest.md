@@ -18,7 +18,7 @@ damage_immunities: "acid, poison"
 speed: "60 ft. (30 ft.in goblin form)"
 hit_points: "90 (12d10+24)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

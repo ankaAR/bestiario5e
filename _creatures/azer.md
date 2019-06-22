@@ -17,7 +17,7 @@ saving_throws: "Con +4"
 speed: "30 ft."
 hit_points: "39 (6d8+12)"
 armor_class: "17 (natural armor, shield)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.

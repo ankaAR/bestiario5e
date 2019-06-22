@@ -16,7 +16,7 @@ speed: "20 ft."
 hit_points: "59 (7d12+14)"
 armor_class: "13 (armadura natural)"
 senses: " passive Perception 10"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 damage_resistances: "blugdeoning, piercing"
 ---
 

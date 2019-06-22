@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "1 (200 XP)"
 languages: "Giant Eagle, understands Common and Auran but can't speak"
 skills: "Percepción +4"
-speed: "10 pies (3 mts), fly 80 ft."
+speed: "10 pies (3 mts), volando 80 pies (24 mts)"
 hit_points: "26 (4d10+4)"
 armor_class: "13"
 ---

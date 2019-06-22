@@ -16,7 +16,7 @@ damage_immunities: "poison"
 speed: "40 pies (12 mts), climb 30 ft., fly 40' ft."
 hit_points: "5 (2d4)"
 armor_class: "12"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Detect Invisibility.*** Within 50 feet of the tressym, magical invisibility fails to conceal anything from the tressym's sight

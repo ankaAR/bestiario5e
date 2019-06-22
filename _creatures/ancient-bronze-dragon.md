@@ -14,7 +14,7 @@ challenge: "22 (41,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Insight +10, Percepción +17, Sigilo +7"
-damage_immunities: "lightning"
+damage_immunities: "Relámpago"
 saving_throws: "Des +7, Con +15, Sab +10, Car +12"
 speed: "40 pies (12 mts), volando 80 pies (24 mts), nadando 40 pies (12 mts)"
 hit_points: "444 (24d20+192)"
@@ -23,7 +23,7 @@ armor_class: "22 (armadura natural)"
 
 ***Anfibio.*** The dragon puede respirar aire y agua.
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 
@@ -39,7 +39,7 @@ armor_class: "22 (armadura natural)"
 
 ***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 
-Lightning Breath. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+Lightning Breath. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.
 
 Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
 

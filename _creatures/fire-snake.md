@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understands Ignan but can't speak"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "14 (armadura natural)"

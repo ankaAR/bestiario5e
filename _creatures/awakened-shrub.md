@@ -15,7 +15,7 @@ languages: "one language known by its creator"
 speed: "20 ft."
 hit_points: "10 (3d6)"
 armor_class: "9"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 damage_resistances: "piercing"
 ---
 

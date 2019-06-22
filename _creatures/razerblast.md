@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "5 (1,800 XP)"
 languages: "Común, Ignan"
 skills: "Intimidation +4, Percepción +3"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "17 (splint)"

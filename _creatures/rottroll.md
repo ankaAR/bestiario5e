@@ -29,4 +29,4 @@ armor_class: "16 (armadura natural)"
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 16 (3d10) necrotic damage.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage plus 5 (1d10) necrotic damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) slashing damage más 5 (1d10) necrotic damage.

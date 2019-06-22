@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Resistencia Legendaria (1/Día).*** If Yestabrod fails a saving throw, it can choose to succeed instead.

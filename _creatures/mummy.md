@@ -18,7 +18,7 @@ saving_throws: "Sab +2"
 speed: "20 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "11 (armadura natural)"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 condition_immunities: "necrotic, poisoned"
 ---
 

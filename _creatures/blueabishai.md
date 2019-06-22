@@ -20,7 +20,7 @@ saving_throws: "Int +12, Sab +12"
 speed: "30 ft., fly 50 ft."
 hit_points: "195  (26d8 + 78)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
@@ -46,4 +46,4 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Quarterstaff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d10 + 2) puntos de daño perforante plus 14 (4d6) lightning damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d10 + 2) puntos de daño perforante plus 14 (4d6) puntos de daño por relámpago.

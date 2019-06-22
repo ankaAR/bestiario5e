@@ -12,7 +12,7 @@ size: Large undead
 alignment: caótico maligno
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft., passive Perception 8"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_immunities: "poison"
 speed: "30 ft., climb 30 ft."
 hit_points: "59 (7d10 +21)"

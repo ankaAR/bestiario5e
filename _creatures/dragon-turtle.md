@@ -17,7 +17,7 @@ saving_throws: "Des +6, Con +11, Sab +7"
 speed: "20 ft., nadando 40 pies (12 mts)"
 hit_points: "341 (22d20+110)"
 armor_class: "20 (armadura natural)"
-damage_resistances: "fire"
+damage_resistances: "Fuego"
 ---
 
 ***Anfibio.*** The dragon turtle puede respirar aire y agua.

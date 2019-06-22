@@ -12,7 +12,7 @@ size: Large fiend
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "understands Abyssal, Common, and Infernal but can't speak"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "60 ft., fly 90 ft."
 hit_points: "68 (8d10+24)"
 armor_class: "13 (armadura natural)"

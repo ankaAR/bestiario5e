@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "36 (8d8)"
 armor_class: "11"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---

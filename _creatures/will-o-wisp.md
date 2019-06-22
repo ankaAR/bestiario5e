@@ -31,6 +31,6 @@ damage_resistances: "acid, cold, fire, necrotic, thunder, bludgeoning, piercing,
 
 ### Acciones
 
-***Shock.*** Melee Spell Attack: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d8) lightning damage.
+***Shock.*** Melee Spell Attack: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d8) puntos de daño por relámpago.
 
 ***Invisibility.*** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).

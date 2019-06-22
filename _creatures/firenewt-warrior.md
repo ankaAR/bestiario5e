@@ -12,7 +12,7 @@ size: Humanoide Mediano (firenewt)
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Draconic, Ignan"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "22 (4d8+4)"
 armor_class: "16 (chain shirt, shield)"

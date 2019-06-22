@@ -12,7 +12,7 @@ size: Huge undead
 alignment: unaligned
 challenge: "8 (3,900 XP)"
 senses: "darkvision 60 ft., passive Perception 6"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "136 (13d12 +52)"

@@ -16,7 +16,7 @@ languages: "understands one language of its creator but can't speak"
 senses: "darkvision 60 ft., passive Perception 16"
 skills: "Percepción +6, Sigilo +7"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
-speed: "30 ft., burrow 30 ft."
+speed: "30 ft., escavando 30 pies (9 mts)"
 hit_points: "18  (4d8)"
 armor_class: "13"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
@@ -28,6 +28,6 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ### Acciones
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) lightning damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) puntos de daño por relámpago.
 
-***Lightning Flare (Recharges after a Short or Long Rest)*** Each creature in contact with the ground within 15 feet of the bronze scout must make a DC 13 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save, or half as much damage on a successful one.
+***Lightning Flare (Recharges after a Short or Long Rest)*** Each creature in contact with the ground within 15 feet of the bronze scout must make a DC 13 Dexterity saving throw, taking 14 (4d6) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

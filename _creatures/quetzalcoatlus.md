@@ -12,7 +12,7 @@ size: Huge beast
 alignment: unaligned
 challenge: "2 (450 XP)"
 skills: "Percepción +2"
-speed: "10 pies (3 mts), fly 80 ft."
+speed: "10 pies (3 mts), volando 80 pies (24 mts)"
 hit_points: "30 (4d12+4)"
 armor_class: "13 (armadura natural)"
 ---

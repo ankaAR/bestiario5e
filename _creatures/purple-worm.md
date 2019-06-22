@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "15 (13,000 XP)"
 senses: "Vista ciega 30 pies (9 mts), tremorsense 60 ft."
 saving_throws: "Con +11, Sab +4"
-speed: "50 ft., burrow 30 ft."
+speed: "50 ft., escavando 30 pies (9 mts)"
 hit_points: "247 (15d20+90)"
 armor_class: "18 (armadura natural)"
 ---

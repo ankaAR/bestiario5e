@@ -18,7 +18,7 @@ saving_throws: "Con +5, Car +6"
 speed: "30 ft."
 hit_points: "49 (9d6+18)"
 armor_class: "13 (16 with mage armor)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "acid, poison"
 ---
 

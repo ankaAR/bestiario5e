@@ -35,6 +35,6 @@ damage_resistances: "cold, fire"
 
 ***Multiataque.*** The armor makes two melee attacks or uses Shocking Bolt twice.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) slashing damage plus 3 (1d6) lightning damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) slashing damage plus 3 (1d6) puntos de daño por relámpago.
 
-***Shocking Bolt.*** Ranged Spell Attack: +4 to hit (with advantage on the attack roll if the target is wearing armor made of metal), range 60 pies, un objetivo. Impacto: 10 (3d6) lightning damage.
+***Shocking Bolt.*** Ranged Spell Attack: +4 to hit (with advantage on the attack roll if the target is wearing armor made of metal), range 60 pies, un objetivo. Impacto: 10 (3d6) puntos de daño por relámpago.

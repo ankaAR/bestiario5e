@@ -16,12 +16,12 @@ senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Engaño +11, Percepción +17, Sigilo +8"
 damage_immunities: "ácido"
 saving_throws: "Des +8, Con +14, Sab +10, Car +11"
-speed: "40 pies (12 mts), climb 40 pies (12 mts), fly 80 ft."
+speed: "40 pies (12 mts), climb 40 pies (12 mts), volando 80 pies (24 mts)"
 hit_points: "350 (20d20+140)"
 armor_class: "21 (armadura natural)"
 ---
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 

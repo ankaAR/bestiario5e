@@ -14,14 +14,14 @@ challenge: "20 (25,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Historia +9, Percepción +14, Persuasion +10, Sigilo +6"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 saving_throws: "Des +6, Con +13, Sab +8, Car +10"
-speed: "40 pies (12 mts), burrow 40 pies (12 mts), fly 80 ft."
+speed: "40 pies (12 mts), burrow 40 pies (12 mts), volando 80 pies (24 mts)"
 hit_points: "297 (17d20+119)"
 armor_class: "20 (armadura natural)"
 ---
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 

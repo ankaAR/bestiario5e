@@ -16,7 +16,7 @@ senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Engaño +5, Percepción +7, Sigilo +4"
 damage_immunities: "ácido"
 saving_throws: "Des +4, Con +6, Sab +4, Car +5"
-speed: "40 pies (12 mts), climb 40 pies (12 mts), fly 80 ft."
+speed: "40 pies (12 mts), climb 40 pies (12 mts), volando 80 pies (24 mts)"
 hit_points: "119 (14d10+42)"
 armor_class: "17 (armadura natural)"
 ---

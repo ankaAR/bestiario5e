@@ -17,7 +17,7 @@ skills: "Athletics +7, Percepción +4, Sigilo +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "18 (natural armor, shield)"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 condition_immunities: "charmed, frightened"
 damage_resistances: "bludgeoning, piercing"
 ---

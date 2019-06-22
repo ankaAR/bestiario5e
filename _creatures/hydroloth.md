@@ -19,7 +19,7 @@ damage_immunities: "acid, poison"
 speed: "20 ft., nadando 40 pies (12 mts)"
 hit_points: "135  (18d8 + 54)"
 armor_class: "15"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

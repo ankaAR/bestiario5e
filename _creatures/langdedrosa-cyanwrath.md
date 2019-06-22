@@ -18,7 +18,7 @@ saving_throws: "Str +6, Con +5"
 speed: "30 ft."
 hit_points: "57 (6d12+18)"
 armor_class: "17 (splint)"
-damage_resistances: "lightning"
+damage_resistances: "Relámpago"
 ---
 
 ***Action Surge (Recharges on a Short or Long Rest).*** On his turn, Langdedrosa can take one additional action.
@@ -33,4 +33,4 @@ damage_resistances: "lightning"
 
 ***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft.,/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
 
-***Lightning Breath (Recarga 5-6).*** Langdedrosa breathes lightning in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Aliento de Relámpago (Recarga 5-6).*** Langdedrosa breathes lightning in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22 (4d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

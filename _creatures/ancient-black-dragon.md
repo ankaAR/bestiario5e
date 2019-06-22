@@ -23,7 +23,7 @@ armor_class: "22 (armadura natural)"
 
 ***Anfibio.*** The dragon puede respirar aire y agua.
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 

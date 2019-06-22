@@ -17,7 +17,7 @@ speed: "30 ft."
 hit_points: "13 (2d8+4)"
 armor_class: "13 (armor scraps)"
 damage_vulnerabilities: "bludgeoning"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ### Acciones

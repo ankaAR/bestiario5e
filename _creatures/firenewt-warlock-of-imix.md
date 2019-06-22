@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Draconic, Ignan"
 senses: "Visión en la oscuridad 120 ft. (36 mts) (penetrates magical darkness)"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "10 (13 with mage armor)"

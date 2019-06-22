@@ -58,7 +58,7 @@ Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Imp
 
 ***Black Dragon Head: Acid Breath (cuesta 2 acciones).*** Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 
-***Blue Dragon Head: Lightning Breath (cuesta 2 acciones).*** Tiamat breathes lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Blue Dragon Head: Lightning Breath (cuesta 2 acciones).*** Tiamat breathes lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 88 (16d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.
 
 ***Green Dragon Head: Poison Breath (cuesta 2 acciones).*** Tiamat breathes poisonous gas in a 90-foot cone. Each creature in that area must make a DC 27 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 

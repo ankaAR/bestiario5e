@@ -19,7 +19,7 @@ damage_immunities: "acid, poison"
 speed: "50 ft."
 hit_points: "120  (16d8 + 48)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

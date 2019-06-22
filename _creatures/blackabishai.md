@@ -20,7 +20,7 @@ saving_throws: "Des +6, Sab +6"
 speed: "30 ft., fly 40 ft."
 hit_points: "58  (9d8 + 18)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 

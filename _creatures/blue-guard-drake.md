@@ -17,7 +17,7 @@ skills: "Percepción +2"
 speed: "30 ft., burrow 20 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "14 (armadura natural)"
-damage_resistances: "lightning"
+damage_resistances: "Relámpago"
 ---
 
 ### Acciones

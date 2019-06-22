@@ -14,7 +14,7 @@ challenge: "11 (7,200 XP)"
 languages: "Dragón"
 senses: "darkvision 90 ft."
 skills: "Percepción +6, Sigilo +7"
-damage_immunities: "lightning"
+damage_immunities: "Relámpago"
 speed: "50 ft., climb 40 ft."
 hit_points: "168 (16d12+64)"
 armor_class: "17 (armadura natural)"
@@ -28,7 +28,7 @@ armor_class: "17 (armadura natural)"
 
 ***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 ft., one Large or smaller creature. Hit: 17 (2d10 + 6) puntos de daño contundente plus 17 (2d10 + 6) puntos de daño cortante. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
 
-***Lightning Breath (Recarga 5-6).*** The behir exhales a line of lightning that is 20 ft. long and 5 ft. wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Aliento de Relámpago (Recarga 5-6).*** The behir exhales a line of lightning that is 20 ft. long and 5 ft. wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.
 
 ***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) puntos de daño por ácido at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 

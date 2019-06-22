@@ -35,7 +35,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** The leviathan makes two attacks: one with its slam and one with its tail.
 
-***Slam*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 15 (1d10 + 10) puntos de daño contundente plus 5 (1d10) puntos de daño por ácido.
+***Slam*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 15 (1d10 + 10) puntos de daño contundente más 5 (1d10) puntos de daño por ácido.
 
 ***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 16 (1d12 + 10) puntos de daño contundente plus 6 (1d12) puntos de daño por ácido.
 

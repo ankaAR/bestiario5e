@@ -19,7 +19,7 @@ saving_throws: "Des +4, Con +6, Sab +4, Car +5"
 speed: "40 pies (12 mts), volando 80 pies (24 mts), nadando 40 pies (12 mts)"
 hit_points: "136 (16d10+48)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Anfibio.*** The dragon puede respirar aire y agua.

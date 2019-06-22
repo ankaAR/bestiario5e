@@ -14,7 +14,7 @@ challenge: "3 (700 XP)"
 languages: "Dragón"
 senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +2"
-damage_immunities: "lightning"
+damage_immunities: "Relámpago"
 saving_throws: "Des +2, Con +4, Sab +2, Car +4"
 speed: "30 ft., burrow 15 ft., fly 60 ft."
 hit_points: "52 (8d8+16)"
@@ -23,6 +23,6 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante plus 3 (1d6) lightning damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante plus 3 (1d6) puntos de daño por relámpago.
 
-***Lightning Breath (Recarga 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Aliento de Relámpago (Recarga 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

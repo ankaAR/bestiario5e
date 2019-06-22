@@ -16,14 +16,14 @@ senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +11, Sigilo +5"
 damage_immunities: "cold"
 saving_throws: "Des +5, Con +11, Sab +6, Car +6"
-speed: "40 pies (12 mts), burrow 30 ft., volando 80 pies (24 mts), nadando 40 pies (12 mts)"
+speed: "40 pies (12 mts), escavando 30 pies (9 mts), volando 80 pies (24 mts), nadando 40 pies (12 mts)"
 hit_points: "200 (16d12+96)"
 armor_class: "18 (armadura natural)"
 ---
 
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 

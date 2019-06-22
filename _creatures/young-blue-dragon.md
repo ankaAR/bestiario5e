@@ -14,9 +14,9 @@ challenge: "9 (5,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +9, Sigilo +4"
-damage_immunities: "lightning"
+damage_immunities: "Relámpago"
 saving_throws: "Des +4, Con +8, Sab +5, Car +7"
-speed: "40 pies (12 mts), burrow 40 pies (12 mts), fly 80 ft."
+speed: "40 pies (12 mts), burrow 40 pies (12 mts), volando 80 pies (24 mts)"
 hit_points: "152 (16d10+64)"
 armor_class: "18 (armadura natural)"
 ---
@@ -25,8 +25,8 @@ armor_class: "18 (armadura natural)"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante plus 5 (1d10) lightning damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante más 5 (1d10) puntos de daño por relámpago.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.
 
-***Lightning Breath (Recarga 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Aliento de Relámpago (Recarga 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

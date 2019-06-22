@@ -15,7 +15,7 @@ languages: "one language known by its creator"
 speed: "20 ft."
 hit_points: "59 (7d12+14)"
 armor_class: "13 (armadura natural)"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 damage_resistances: "bludgeoning, piercing"
 ---
 

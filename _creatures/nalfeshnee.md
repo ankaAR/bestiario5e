@@ -18,7 +18,7 @@ saving_throws: "Con +11, Int +9, Sab +6, Car +7"
 speed: "20 ft., fly 30 ft."
 hit_points: "184 (16d10+96)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

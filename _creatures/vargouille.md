@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "5 ft., fly 40 ft."
 hit_points: "13 (3d4+6)"
 armor_class: "12"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 

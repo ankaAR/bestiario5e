@@ -18,7 +18,7 @@ saving_throws: "Des +7, Con +9, Sab +7, Car +9"
 speed: "40 ft."
 hit_points: "180 (19d10+76)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 

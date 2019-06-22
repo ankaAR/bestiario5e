@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Ignan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "90 (12d10+24)"
 armor_class: "15 (armadura natural)"

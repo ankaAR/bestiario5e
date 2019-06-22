@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "40 (9d8)"
 armor_class: "11"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:

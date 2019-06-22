@@ -18,7 +18,7 @@ saving_throws: "Des +5"
 speed: "25 ft., climb 25 ft."
 hit_points: "49 (9d6+18)"
 armor_class: "13"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Anfibio.*** The grung puede respirar aire y agua.

@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Adult Blue Dragon"
+name: "Dragón Azul Adulto"
 tags: [huge, dragon, cr16, monster-manual]
 cha: 19 (+4)
 wis: 15 (+2)
@@ -14,35 +14,35 @@ challenge: "16 (15,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +12, Sigilo +5"
-damage_immunities: "lightning"
+damage_immunities: "Relámpago"
 saving_throws: "Des +5, Con +11, Sab +7, Car +9"
-speed: "40 pies (12 mts), burrow 30 ft., fly 80 ft."
+speed: "40 pies (12 mts), escavando 30 pies (9 mts), volando 80 pies (24 mts)"
 hit_points: "225 (18d12+108)"
 armor_class: "19"
 ---
 
-***Resistencia Legendaria (3/Día).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Resistencia Legendaria (3/Día).*** Si el dragón falla una tirada de salvación, puede decidir tener éxito en su lugar.
 
 ### Acciones
 
-***Multiataque.*** The dragon can use its Resistencia Pavorosa. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** El dragón puede usar su Resistencia Pavorosa. Luego realiza tres ataques: uno con su mordisco y dos con sus garras.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) puntos de daño perforante plus 5 (1d10) lightning damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) puntos de daño perforante más 5 (1d10) puntos de daño por relámpago.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño contundente.
 
-***Resistencia Pavorosa.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Resistencia Pavorosa for the next 24 hours.
+***Resistencia Pavorosa.*** Toda criatura que elija el dragón, que se encuentre a 120 pies (36 mts) o menos de él y que sea consciente de su presencia debe superar una tirada de salvación de Sabiduría CD 17 para no quedar asustada durante 1 minuto. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos; si tiene éxito, el efecto termina. Cuando el efecto termine de la manera que sea, la criatura se vuelve inmune a la presencia pavorosa del dragón durante las siguientes 24 horas.
 
-***Lightning Breath (Recarga 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 ft. wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+***Aliento de Relámpago (Recarga 5-6).*** El dragón exhala relámpagos en una línea de 90 pies (27 mts) que tiene 5 pies (1.5 mts) de ancho. Toda criatura que se encuentre en esa línea debe realizar una tirada de salvación de Destreza CD 19. Si falla, recibe 66 (12d10) puntos de daño por ácido y, si tiene éxito, la mitad.
 
 ### Acciones Legendarias
 
-The adult blue dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult blue dragon regains spent legendary actions at the start of its turn.
+El dragón puede realizar 3 acciones legendarias, solo una a la vez y al final del turno de otra criatura. Recupera las acciones legendarias gastadas al principio de su turno.
 
-***Detectar.*** The dragon hace una prueba de Sabiduría (Percepción).
+***Detectar.*** El dragón hace una prueba de Sabiduría (Percepción).
 
 ***Ataque de Cola.*** El dragón hace un ataque con la cola.
 
-***Ataque de Ala (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.
+***Ataque de Ala (cuesta 2 acciones).*** El dragón bate sus alas. Todas las criaturas que se encuentren a 10 pies (3 mts) o menos del dragón deben superar una tirada de salvación de Destreza CD 20 para no recibir 14 (2d6+7) puntos de daño contundente y quedar tumbadas. Luego el dragón puede volar hasta la mitad de su velocidad de vuelo.

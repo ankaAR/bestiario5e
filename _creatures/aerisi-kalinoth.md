@@ -17,7 +17,7 @@ skills: "Arcana +6, Historia +6, Percepción +3"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "13 (16 with mage armor)"
-damage_resistances: "lightning"
+damage_resistances: "Relámpago"
 ---
 
 ***Fey Ancestry.*** Aerisi has advantage on saving throws against being charmed, and magic can't put her to sleep.
@@ -44,4 +44,4 @@ damage_resistances: "lightning"
 
 ### Acciones
 
-***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño perforante, or 10 (1d8 + 6) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.
+***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño perforante, or 10 (1d8 + 6) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) puntos de daño por relámpago.

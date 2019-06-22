@@ -18,7 +18,7 @@ saving_throws: "Des +7, Con +8, Sab +6, Car +8"
 speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
 armor_class: "18 (plate)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 

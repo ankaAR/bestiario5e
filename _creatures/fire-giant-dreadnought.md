@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "Giant"
 skills: "Athletics +13, Percepción +5"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 saving_throws: "Des +4, Con +11, Car +5"
 speed: "30 ft."
 hit_points: "187 (15d12+90)"

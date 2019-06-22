@@ -19,7 +19,7 @@ saving_throws: "Des +6, Int +5, Sab +6, Car +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

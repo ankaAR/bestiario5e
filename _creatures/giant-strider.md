@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Large monstrosity
 alignment: neutral evil
 challenge: "1 (200 XP)"
-damage_immunities: "fire"
+damage_immunities: "Fuego"
 speed: "50 ft."
 hit_points: "22 (3d10+6)"
 armor_class: "14 (armadura natural)"

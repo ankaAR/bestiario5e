@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "40 pies (12 mts), climb 30 ft., nadando 30 ft."
 hit_points: "189 (18d12+72)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "acid, fire, lightning"
 ---
 

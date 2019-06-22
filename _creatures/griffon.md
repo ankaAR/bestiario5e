@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +5"
-speed: "30 ft., fly 80 ft."
+speed: "30 ft., volando 80 pies (24 mts)"
 hit_points: "59 (7d10+21)"
 armor_class: "12"
 ---

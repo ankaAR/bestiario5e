@@ -18,7 +18,7 @@ saving_throws: "Des +5, Sab +4, Car +2"
 speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "104 (11d10+44)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

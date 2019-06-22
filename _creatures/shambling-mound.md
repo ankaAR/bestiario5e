@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "5 (1,800 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Sigilo +2"
-damage_immunities: "lightning"
+damage_immunities: "Relámpago"
 speed: "20 ft., nadando 20 ft."
 hit_points: "136 (16d10+48)"
 armor_class: "15 (armadura natural)"

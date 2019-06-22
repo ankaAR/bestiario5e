@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "30 ft., nadando 30 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Anfibio.*** The chuul puede respirar aire y agua.

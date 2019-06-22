@@ -15,7 +15,7 @@ languages: "Común, Druidic, Elvish, Sylvan"
 speed: "30 ft."
 hit_points: "138 (12d12+60)"
 armor_class: "16 (armadura natural)"
-damage_vulnerabilities: "fire"
+damage_vulnerabilities: "Fuego"
 damage_resistances: "bludgeoning, piercing"
 ---
 

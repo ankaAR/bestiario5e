@@ -19,7 +19,7 @@ saving_throws: "Sab +3, Car +5"
 speed: "30 ft."
 hit_points: "88 (16d8+16)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 ---
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.

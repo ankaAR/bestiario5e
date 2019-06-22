@@ -20,7 +20,7 @@ saving_throws: "Des +6, Int +7, Sab +6, Car +8"
 speed: "40 ft."
 hit_points: "147  (14d10 + 70)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -36,7 +36,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiattack*** The yagnoloth makes one massive arm attack and one electrified touch attack, or it makes one massive arm attack and teleports before or after the attack.
 
-***Electrified Touch*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 27 (6d8) lightning damage.
+***Electrified Touch*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 27 (6d8) puntos de daño por relámpago.
 
 ***Massive Arm*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (3d12 + 4) puntos de daño contundente. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or is stunned until the end of the yagnoloth's next turn.
 

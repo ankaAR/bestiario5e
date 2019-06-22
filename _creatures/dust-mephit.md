@@ -18,8 +18,8 @@ damage_immunities: "poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "17 (5d6)"
 armor_class: "12"
-damage_vulnerabilities: "fire"
-condition_immunities: "poisoned"
+damage_vulnerabilities: "Fuego"
+condition_immunities: "Envenenado"
 ---
 
 ***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.

@@ -19,7 +19,7 @@ saving_throws: "Des +5, Con +6"
 speed: "40 pies (12 mts), climb 40 ft."
 hit_points: "68 (8d10+24)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned"
+condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 
