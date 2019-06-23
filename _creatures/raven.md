@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Raven"
-tags: [tiny, beast, cr0, monster-manual]
+tags: [tiny, bestia, cr0, monster-manual]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 2 (-4)

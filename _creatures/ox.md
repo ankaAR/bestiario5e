@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ox"
-tags: [large, beast, cr1/4, volos-guide]
+tags: [large, bestia, cr1/4, volos-guide]
 cha: 4 (-3)
 wis: 10 (0)
 int: 2 (-4)

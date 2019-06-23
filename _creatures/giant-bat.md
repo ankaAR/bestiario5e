@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Bat"
-tags: [large, beast, cr1/4, monster-manual]
+tags: [large, bestia, cr1/4, monster-manual]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 2 (-4)

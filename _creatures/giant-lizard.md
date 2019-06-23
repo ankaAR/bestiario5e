@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Lizard"
-tags: [large, beast, cr1/4, monster-manual]
+tags: [large, bestia, cr1/4, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 2 (-4)

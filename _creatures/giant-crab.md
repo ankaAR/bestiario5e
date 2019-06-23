@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Crab"
-tags: [medium, beast, cr1/8, monster-manual]
+tags: [medium, bestia, cr1/8, monster-manual]
 cha: 3 (-4)
 wis: 9 (-1)
 int: 1 (-5)

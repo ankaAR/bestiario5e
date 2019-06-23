@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Ape"
-tags: [huge, beast, cr7, monster-manual]
+tags: [huge, bestia, cr7, monster-manual]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 7 (-2)

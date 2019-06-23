@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Owl"
-tags: [large, beast, cr1/4, monster-manual]
+tags: [large, bestia, cr1/4, monster-manual]
 cha: 10 (0)
 wis: 13 (+1)
 int: 8 (-1)

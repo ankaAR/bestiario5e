@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Subterranean Lizard"
-tags: [huge, beast, cr4, tales-from-the-yawning-portal]
+tags: [huge, bestia, cr4, tales-from-the-yawning-portal]
 cha: 7 (-2)
 wis: 10 (0)
 int: 2 (-4)

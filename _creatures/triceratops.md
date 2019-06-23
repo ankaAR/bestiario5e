@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Triceratops"
-tags: [huge, beast, cr5, monster-manual]
+tags: [huge, bestia, cr5, monster-manual]
 cha: 5 (-3)
 wis: 11 (0)
 int: 2 (-4)

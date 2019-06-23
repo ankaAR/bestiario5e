@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flying Snake"
-tags: [tiny, beast, cr1/8, monster-manual]
+tags: [tiny, bestia, cr1/8, monster-manual]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

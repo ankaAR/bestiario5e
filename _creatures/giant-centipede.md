@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Centipede"
-tags: [small, beast, cr1/4, monster-manual]
+tags: [small, bestia, cr1/4, monster-manual]
 cha: 3 (-4)
 wis: 7 (-2)
 int: 1 (-5)

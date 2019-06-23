@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deer"
-tags: [medium, beast, cr0, monster-manual]
+tags: [medium, bestia, cr0, monster-manual]
 cha: 5 (-3)
 wis: 14 (+2)
 int: 2 (-4)

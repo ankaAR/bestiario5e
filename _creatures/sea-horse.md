@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sea Horse"
-tags: [tiny, beast, cr0, monster-manual]
+tags: [tiny, bestia, cr0, monster-manual]
 cha: 2 (-4)
 wis: 10 (0)
 int: 1 (-5)

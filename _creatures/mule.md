@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mule"
-tags: [medium, beast, cr1/8, monster-manual]
+tags: [medium, bestia, cr1/8, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 2 (-4)

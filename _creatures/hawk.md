@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hawk"
-tags: [tiny, beast, cr0, monster-manual]
+tags: [tiny, bestia, cr0, monster-manual]
 cha: 6 (-2)
 wis: 14 (+2)
 int: 2 (-4)

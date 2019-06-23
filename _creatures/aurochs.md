@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Aurochs"
-tags: [large, beast, cr2, volos-guide]
+tags: [large, bestia, cr2, volos-guide]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

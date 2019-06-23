@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stegosaurus"
-tags: [huge, beast, cr4, volos-guide]
+tags: [huge, bestia, cr4, volos-guide]
 cha: 5 (-3)
 wis: 11 (0)
 int: 2 (-4)

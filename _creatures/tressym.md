@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tressym"
-tags: [tiny, beast, cr0, storm-kings-thunder]
+tags: [tiny, bestia, cr0, storm-kings-thunder]
 cha: 12 (+1)
 wis: 12 (+1)
 int: 11 (0)

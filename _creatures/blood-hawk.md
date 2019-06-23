@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blood Hawk"
-tags: [small, beast, cr1/8, monster-manual]
+tags: [small, bestia, cr1/8, monster-manual]
 cha: 5 (-3)
 wis: 14 (+2)
 int: 3 (-4)

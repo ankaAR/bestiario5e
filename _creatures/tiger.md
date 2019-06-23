@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tiger"
-tags: [large, beast, cr1, monster-manual]
+tags: [large, bestia, cr1, monster-manual]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 3 (-4)

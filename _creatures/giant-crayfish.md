@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Crayfish"
-tags: [large, beast, cr2, tales-from-the-yawning-portal]
+tags: [large, bestia, cr2, tales-from-the-yawning-portal]
 cha: 3 (-4)
 wis: 9 (-1)
 int: 1 (-5)

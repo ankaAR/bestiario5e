@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stirge"
-tags: [tiny, beast, cr1/8, monster-manual]
+tags: [tiny, bestia, cr1/8, monster-manual]
 cha: 6 (-2)
 wis: 8 (-1)
 int: 2 (-4)

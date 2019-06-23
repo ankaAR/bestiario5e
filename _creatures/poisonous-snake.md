@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Poisonous Snake"
-tags: [tiny, beast, cr1/8, monster-manual]
+tags: [tiny, bestia, cr1/8, monster-manual]
 cha: 3 (-4)
 wis: 10 (0)
 int: 1 (-5)

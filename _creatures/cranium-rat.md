@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cranium Rat"
-tags: [tiny, beast, cr0, volos-guide]
+tags: [tiny, bestia, cr0, volos-guide]
 cha: 8 (-1)
 wis: 11 (0)
 int: 4 (-3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deinonychus"
-tags: [medium, beast, cr1, volos-guide]
+tags: [medium, bestia, cr1, volos-guide]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 4 (-3)

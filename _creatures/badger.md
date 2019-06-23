@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Badger"
-tags: [tiny, beast, cr0, monster-manual]
+tags: [tiny, bestia, cr0, monster-manual]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

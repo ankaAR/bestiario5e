@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Wasp"
-tags: [medium, beast, cr1/2, monster-manual]
+tags: [medium, bestia, cr1/2, monster-manual]
 cha: 3 (-4)
 wis: 10 (0)
 int: 1 (-5)

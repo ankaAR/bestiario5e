@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mastiff"
-tags: [medium, beast, cr1/8, monster-manual]
+tags: [medium, bestia, cr1/8, monster-manual]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 3 (-4)
