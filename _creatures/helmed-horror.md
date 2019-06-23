@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Helmed Horror"
-tags: [medium, construct, cr4, monster-manual]
+tags: [medium, constructo, cr4, monster-manual]
 cha: 10 (0)
 wis: 10 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Monodrone"
-tags: [medium, construct, cr1/8, monster-manual]
+tags: [medium, constructo, cr1/8, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 4 (-3)

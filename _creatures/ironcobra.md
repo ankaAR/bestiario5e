@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Iron Cobra"
-tags: [medium, construct, cr4, mordenkainens-tome-of-foes]
+tags: [medium, constructo, cr4, mordenkainens-tome-of-foes]
 page_number: 125
 cha: 1 (-4)
 wis: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Strahd's Animated Armor"
-tags: [medium, construct, cr6, curse-of-strahd]
+tags: [medium, constructo, cr6, curse-of-strahd]
 page_number: 227
 cha: 9 (-1)
 wis: 10 (0)

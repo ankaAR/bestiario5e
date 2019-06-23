@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Iron Golem"
-tags: [large, construct, cr16, monster-manual]
+tags: [large, constructo, cr16, monster-manual]
 cha: 1 (-5)
 wis: 11 (0)
 int: 3 (-4)

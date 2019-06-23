@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stone Cursed"
-tags: [medium, construct, cr1, mordenkainens-tome-of-foes]
+tags: [medium, constructo, cr1, mordenkainens-tome-of-foes]
 page_number: 240
 cha: 7 (-1)
 wis: 8 (-1)

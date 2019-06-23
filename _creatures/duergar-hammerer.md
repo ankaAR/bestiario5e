@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Hammerer"
-tags: [medium, construct, cr2, mordenkainens-tome-of-foes]
+tags: [medium, constructo, cr2, mordenkainens-tome-of-foes]
 page_number: 188
 cha: 5 (-2)
 wis: 5 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rug of Smothering"
-tags: [large, construct, cr2, monster-manual]
+tags: [large, constructo, cr2, monster-manual]
 cha: 1 (-5)
 wis: 3 (-4)
 int: 1 (-5)

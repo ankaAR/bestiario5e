@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Clay Golem"
-tags: [large, construct, cr9, monster-manual]
+tags: [large, constructo, cr9, monster-manual]
 cha: 1 (-5)
 wis: 8 (-1)
 int: 3 (-4)

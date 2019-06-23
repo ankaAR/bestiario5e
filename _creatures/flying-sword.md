@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flying Sword"
-tags: [small, construct, cr1/4, monster-manual]
+tags: [small, constructo, cr1/4, monster-manual]
 cha: 1 (-5)
 wis: 5 (-3)
 int: 1 (-5)

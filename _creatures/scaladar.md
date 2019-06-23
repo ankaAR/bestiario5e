@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Scaladar"
-tags: [huge, construct, cr8, dungeon-of-the-mad-mage]
+tags: [huge, constructo, cr8, dungeon-of-the-mad-mage]
 page_number: 315
 cha: 1 (-5)
 wis: 12 (+1)

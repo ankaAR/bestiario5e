@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hellfire Engine"
-tags: [huge, construct, cr16, mordenkainens-tome-of-foes]
+tags: [huge, constructo, cr16, mordenkainens-tome-of-foes]
 page_number: 165
 cha: 1 (-4)
 wis: 10 (0)

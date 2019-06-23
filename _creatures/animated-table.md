@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Animated Table"
-tags: [large, construct, cr2, tales-from-the-yawning-portal]
+tags: [large, constructo, cr2, tales-from-the-yawning-portal]
 cha: 1 (-5)
 wis: 3 (-4)
 int: 1 (-5)

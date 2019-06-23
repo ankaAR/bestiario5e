@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pidlwick II"
-tags: [small, construct, cr1/4, curse-of-strahd]
+tags: [small, constructo, cr1/4, curse-of-strahd]
 page_number: 235
 cha: 10 (0)
 wis: 13 (+1)

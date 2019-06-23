@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pentadrone"
-tags: [medium, construct, cr2, monster-manual]
+tags: [medium, constructo, cr2, monster-manual]
 cha: 13 (+1)
 wis: 10 (0)
 int: 10 (0)
