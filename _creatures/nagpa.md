@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "17 (18,000 XP)"
 languages: "Common plus up to five other languages"
 senses: "truesight 120 ft., passive Perception 20"
-skills: "Arcana +12, Engaño +11, Historia +12, Insight +10, Percepción +10"
+skills: "Arcanos +12, Engaño +11, Historia +12, Perspicacia +10, Percepción +10"
 saving_throws: "Int +12, Sab +10, Car +11"
 speed: "30 ft."
 hit_points: "187  (34d8 + 34)"

@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Engaño +5, Insight +2, Investigation +5, Percepción +4, Persuasion +3, Sleight of Hand +5, Sigilo +7"
+skills: "Engaño +5, Perspicacia +2, Investigation +5, Percepción +4, Persuasión +3, Sleight of Hand +5, Sigilo +7"
 speed: "25 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "15 (cuero endurecido)"

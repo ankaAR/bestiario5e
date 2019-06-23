@@ -14,7 +14,7 @@ alignment: chaotic neutral
 challenge: "10 (5900 XP)"
 languages: "Común, Elvish, Sylvan"
 senses: "darkvision 60 ft., passive Perception 13"
-skills: "Insight +7, Medicina +7"
+skills: "Perspicacia +7, Medicina +7"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (armadura natural)"

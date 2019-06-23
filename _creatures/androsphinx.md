@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "17 (18,000 XP)"
 languages: "Común, Sphinx"
 senses: "truesight 120 ft."
-skills: "Arcana +9, Percepción +10, Religión +15"
+skills: "Arcanos +9, Percepción +10, Religión +15"
 damage_immunities: "psychic, bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Des +6, Con +11, Int +9, Sab +10"
 speed: "40 pies (12 mts), fly 60 ft."

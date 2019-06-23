@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "1/4 (50 XP)"
 Languages: "Common plus any two languages"
 senses: "darkvision 60 ft., passive Perception 13"
-skills: "Percepción +3, Performance +7, Persuasion +5, Sigilo +4"
+skills: "Percepción +3, Performance +7, Persuasión +5, Sigilo +4"
 speed: "30 ft., climb 20 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"

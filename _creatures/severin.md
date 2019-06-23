@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "11 (7,200 XP)"
 languages: "Común, Draconic, Infernal"
 senses: "While wearing the Mask of the Dragon Queen: darkvision 60 ft."
-skills: "Arcana +7, Religión +7"
+skills: "Arcanos +7, Religión +7"
 damage_immunities: "While wearing the mask of the Dragon Queen: fire"
 saving_throws: "Des +5, Sab +5"
 speed: "30 ft."

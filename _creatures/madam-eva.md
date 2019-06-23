@@ -13,7 +13,7 @@ size: Humanoide Mediano (human)
 alignment: chaotic neutral
 challenge: "10 (5,900 XP)"
 languages: "Abyssal, Common, Elvish, Infernal"
-skills: "Arcana +7, Engaño +8, Insight +13, Intimidation +8, Percepción +9, Religión +7"
+skills: "Arcanos +7, Engaño +8, Perspicacia +13, Intimidation +8, Percepción +9, Religión +7"
 saving_throws: "Con +5"
 speed: "20 ft."
 hit_points: "88 (16d8+16)"

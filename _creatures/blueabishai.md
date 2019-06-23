@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "17 (18,000 XP)"
 languages: "Draconic, Infernal, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 16"
-skills: "Arcana +12"
+skills: "Arcanos +12"
 damage_immunities: "fire, lightning, poison"
 saving_throws: "Int +12, Sab +12"
 speed: "30 ft., fly 50 ft."

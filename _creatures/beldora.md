@@ -12,7 +12,7 @@ size: Humanoide Mediano (illuskan human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Común, Draconic, Dwarvish, Halfling"
-skills: "Engaño +5, Insight +3, Investigation +5, Percepción +5, Persuasion +5"
+skills: "Engaño +5, Perspicacia +3, Investigation +5, Percepción +5, Persuasión +5"
 speed: "30 ft."
 hit_points: "18 (4d8)"
 armor_class: "12"

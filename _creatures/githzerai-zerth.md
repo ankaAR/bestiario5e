@@ -12,7 +12,7 @@ size: Humanoide Mediano (gith)
 alignment: lawful neutral
 challenge: "6 (2,300 XP)"
 languages: "Gith"
-skills: "Arcana +6, Insight +6, Percepción +6"
+skills: "Arcanos +6, Perspicacia +6, Percepción +6"
 saving_throws: "Str +4, Des +7, Int +6, Sab +6"
 speed: "30 ft."
 hit_points: "84 (13d8+26)"

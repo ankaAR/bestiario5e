@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "23 (50,000 XP)"
 languages: "Abyssal, Celestial, Common, Draconic, Dwarvish, Elvish, Infernal, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 21"
-skills: "Arcana +21, HIstory +21, Percepción +11"
+skills: "Arcanos +21, HIstory +21, Percepción +11"
 saving_throws: "Int +14, Sab +11"
 speed: "30 ft."
 hit_points: "246 (29d8+116)"

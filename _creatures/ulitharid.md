@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "9 (5,000 XP)"
 languages: "Deep Speech, Undercommon, telepathy 2 miles"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +9, Insight +8, Percepción +8, Sigilo +5"
+skills: "Arcanos +9, Perspicacia +8, Percepción +8, Sigilo +5"
 saving_throws: "Int +9, Sab +8, Car +9"
 speed: "30 ft."
 hit_points: "127 (17d10+34)"

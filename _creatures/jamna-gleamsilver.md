@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Común, Gnomish, Goblin, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Acrobatics +5, Engaño +3, Insight +2, Percepción +4, Persuasion +3, Sigilo +7"
+skills: "Acrobatics +5, Engaño +3, Perspicacia +2, Percepción +4, Persuasión +3, Sigilo +7"
 saving_throws: "Des +5, Int +4"
 speed: "25 ft."
 hit_points: "22 (4d6+8)"

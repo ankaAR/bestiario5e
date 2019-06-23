@@ -13,7 +13,7 @@ alignment: lawful good
 challenge: "22 (41,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Insight +10, Percepción +17, Sigilo +7"
+skills: "Perspicacia +10, Percepción +17, Sigilo +7"
 damage_immunities: "Relámpago"
 saving_throws: "Des +7, Con +15, Sab +10, Car +12"
 speed: "40 pies (12 mts), volando 80 pies (24 mts), nadando 40 pies (12 mts)"

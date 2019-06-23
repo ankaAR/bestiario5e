@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Draconic, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +3, Engaño +4, Percepción +4, Sigilo +3"
+skills: "Arcanos +3, Engaño +4, Percepción +4, Sigilo +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "17 (armadura natural)"

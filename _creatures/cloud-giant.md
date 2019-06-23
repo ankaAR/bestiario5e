@@ -12,7 +12,7 @@ size: Huge giant
 alignment: neutral good (50%) or neutral evil (50%)
 challenge: "9 (5,000 XP)"
 languages: "Común, Giant"
-skills: "Insight +7, Percepción +7"
+skills: "Perspicacia +7, Percepción +7"
 saving_throws: "Con +10, Sab +7, Car +7"
 speed: "40 ft."
 hit_points: "200 (16d12+96)"

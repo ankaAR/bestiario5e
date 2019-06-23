@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "1/2 (100 XP)"
 languages: "Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +4, Percepción +2"
+skills: "Arcanos +4, Percepción +2"
 speed: "30 ft."
 hit_points: "16 (3d8+3)"
 armor_class: "10"

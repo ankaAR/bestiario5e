@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "16 (15,000 XP)"
 languages: "Común, Giant"
 senses: "truesight 60 ft."
-skills: "Arcana +8, Historia +8, Percepción +10"
+skills: "Arcanos +8, Historia +8, Percepción +10"
 damage_immunities: "lightning, thunder"
 saving_throws: "Str +14, Con +10, Sab +10, Car +9"
 speed: "50 ft., fly 50 ft. (hover), nadando 50 ft."

@@ -14,7 +14,7 @@ alignment: chaotic neutral
 challenge: "10 (5900 XP)"
 languages: "Común, Elvish, Sylvan"
 senses: "darkvision 60 ft., passive Perception 10"
-skills: "Engaño +8, Persuasion +8"
+skills: "Engaño +8, Persuasión +8"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (armadura natural)"

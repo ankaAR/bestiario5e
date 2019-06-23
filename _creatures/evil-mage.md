@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Común, Draconic, Dwarvish, Elvish"
-skills: "Arcana +5, Historia +5"
+skills: "Arcanos +5, Historia +5"
 saving_throws: "Int +5, Sab +3"
 speed: "30 ft."
 hit_points: "22 (5d8)"

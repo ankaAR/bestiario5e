@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "the languages it knew in life"
 senses: "darkvision 60 ft., passive Perception 11"
-skills: "Arcana +4, Historia +4"
+skills: "Arcanos +4, Historia +4"
 damage_immunities: "poison"
 saving_throws: "Int +4, Car +5"
 speed: "30 ft."

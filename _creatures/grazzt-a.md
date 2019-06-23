@@ -13,7 +13,7 @@ alignment: shapechanger)
 challenge: "24 (62,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Engaño +15, Insight +12, Percepción +12, Persuasion +15"
+skills: "Engaño +15, Perspicacia +12, Percepción +12, Persuasión +15"
 damage_immunities: "poison; bludgeoning, piercing, and slashing that is nonmagical"
 saving_throws: "Des +9, Con +12, Sab +12"
 speed: "40 ft."

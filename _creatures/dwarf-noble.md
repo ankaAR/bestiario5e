@@ -14,7 +14,7 @@ alignment: cualquier alineamiento
 challenge: "1/8 (25 XP)"
 languages: "any two languages"
 senses: "darkvision, passive Perception 12"
-skills: "Engaño +5, Insight +4, Persuasion +5"
+skills: "Engaño +5, Perspicacia +4, Persuasión +5"
 speed: "30 ft."
 hit_points: "9  (2d8)"
 armor_class: "15 (breastplate)"

@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Común, Draconic, Elvish, Infernal"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Engaño +6, Insight +6, Percepción +6, Persuasion +6"
+skills: "Engaño +6, Perspicacia +6, Percepción +6, Persuasión +6"
 saving_throws: "Sab +6, Car +6"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"

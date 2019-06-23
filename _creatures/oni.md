@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "7 (2,900 XP)"
 languages: "Común, Giant"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +5, Engaño +8, Percepción +4"
+skills: "Arcanos +5, Engaño +8, Percepción +4"
 saving_throws: "Des +3, Con +6, Sab +4, Car +5"
 speed: "30 ft., fly 30 ft."
 hit_points: "110 (13d10+39)"

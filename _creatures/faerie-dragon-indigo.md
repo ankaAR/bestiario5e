@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "2 (450 XP)"
 languages: "Draconic, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +4, Percepción +3, Sigilo +7"
+skills: "Arcanos +4, Percepción +3, Sigilo +7"
 speed: "10 pies (3 mts), fly 60 ft."
 hit_points: "14 (4d4+4)"
 armor_class: "15"

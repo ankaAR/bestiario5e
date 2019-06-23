@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "13 (10,000 XP)"
 languages: "Abyssal, Common, Infernal, Primordial, Thayan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +9, Historia +9, Insight +7, Percepción +7"
+skills: "Arcanos +9, Historia +9, Perspicacia +7, Percepción +7"
 damage_immunities: "poison"
 saving_throws: "Con +8, Int +9, Sab +7"
 speed: "30 ft."

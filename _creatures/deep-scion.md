@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Aquan, Common, thieves' cant"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Engaño +6, Insight +3, Sleight of Hand +3, Sigilo +3"
+skills: "Engaño +6, Perspicacia +3, Sleight of Hand +3, Sigilo +3"
 saving_throws: "Sab +3, Car +4"
 speed: "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 hit_points: "67 (9d8+27)"

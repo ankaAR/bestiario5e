@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "10 (5,900 XP)"
 languages: "Slaad, telepathy 60 ft."
 senses: "Vista ciega 60 pies (18 mts), darkvision 60 ft."
-skills: "Arcana +6, Percepción +8"
+skills: "Arcanos +6, Percepción +8"
 speed: "30 ft."
 hit_points: "170 (20d8+80)"
 armor_class: "18 (armadura natural)"

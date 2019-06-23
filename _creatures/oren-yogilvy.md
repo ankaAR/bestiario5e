@@ -12,7 +12,7 @@ size: Small humanoid (strongheart halfling)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Común, Halfling"
-skills: "Percepción +2, Performance +7, Persuasion +5"
+skills: "Percepción +2, Performance +7, Persuasión +5"
 speed: "25 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "11"

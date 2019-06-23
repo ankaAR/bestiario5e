@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
 senses: "Vista ciega 60 pies (18 mts), darkvision 60 ft., passive Perception 14"
-skills: "Insight +4, Percepción +4"
+skills: "Perspicacia +4, Percepción +4"
 damage_immunities: "acid, poison"
 speed: "20 ft., nadando 40 pies (12 mts)"
 hit_points: "135  (18d8 + 54)"

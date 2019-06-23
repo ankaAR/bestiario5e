@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "12 (8,400 XP)"
 languages: "any six languages"
-skills: "Arcana +13, Historia +13"
+skills: "Arcanos +13, Historia +13"
 saving_throws: "Int +9, Sab +6"
 speed: "30 ft."
 hit_points: "99 (18d8+18)"

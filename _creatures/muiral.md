@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "13 (10,000 XP)"
 languages: "Común, Dwarvish, Elvish, Goblin, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 16"
-skills: "Arcana +9, Athletics +9, Percepción +6, Sigilo +5"
+skills: "Arcanos +9, Athletics +9, Percepción +6, Sigilo +5"
 saving_throws: "Con +8, Int +9"
 speed: "50 ft."
 hit_points: "195 (23d10+69)"

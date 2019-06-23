@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "the languages it knew in life"
 senses: "Visión en la oscuridad 120 ft. (36 mts) (including magical darkness), passive Perception 14"
-skills: "Arcana +5, Historia +5, Percepción +4"
+skills: "Arcanos +5, Historia +5, Percepción +4"
 damage_immunities: "poison"
 saving_throws: "Int +5, Car +6"
 speed: "30 ft."

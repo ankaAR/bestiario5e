@@ -14,7 +14,7 @@ alignment: lawful neutral
 challenge: "16 (15,000 XP)"
 languages: "Gith"
 senses: "passive Perception 20"
-skills: "Arcana +9, Insight +10, Percepción +10"
+skills: "Arcanos +9, Perspicacia +10, Percepción +10"
 saving_throws: "Str +8, Des +10, Int +9, Sab +10"
 speed: "30 ft., fly 40 ft. (hover)"
 hit_points: "144  (17d8 + 68)"

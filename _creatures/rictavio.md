@@ -13,7 +13,7 @@ size: Humanoide Mediano (human)
 alignment: lawful good
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Elvish, Infernal"
-skills: "Arcana +9, Insight +7, Medicina +7, Percepción +7, Religión +6, Sleight of Hand +4"
+skills: "Arcanos +9, Perspicacia +7, Medicina +7, Percepción +7, Religión +6, Sleight of Hand +4"
 saving_throws: "Con +4, Sab +7"
 speed: "30 ft."
 hit_points: "77 (14d8+14)"

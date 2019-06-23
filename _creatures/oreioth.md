@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Abyssal, Common"
-skills: "Arcana +5, Investigation +5, Medicina +1"
+skills: "Arcanos +5, Investigation +5, Medicina +1"
 saving_throws: "Sab +1"
 speed: "30 ft."
 hit_points: "39 (6d8+12)"

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "12 (8,400 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
-skills: "Arcana +13, Engaño +9, Insight +9, Percepción +7"
+skills: "Arcanos +13, Engaño +9, Perspicacia +9, Percepción +7"
 damage_immunities: "acid, poison"
 saving_throws: "Des +5, Int +9, Sab +7, Car +7"
 speed: "30 ft., fly 30 ft."

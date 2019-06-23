@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Común, Draconic, Goblin"
-skills: "Arcana +5, Insight +4, Persuasion + 1"
+skills: "Arcanos +5, Perspicacia +4, Persuasión + 1"
 speed: "30 ft."
 hit_points: "13 (2d8+4)"
 armor_class: "16 (Barkskin trait)"

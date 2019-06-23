@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Terran"
-skills: "Intimidation +5, Religión +3, Persuasion +5"
+skills: "Intimidation +5, Religión +3, Persuasión +5"
 speed: "30 ft."
 hit_points: "45 (7d8+14)"
 armor_class: "17 (splint)"

@@ -12,7 +12,7 @@ size: Humanoide Mediano (illuskan human)
 alignment: lawful good
 challenge: "0 (10 XP)"
 languages: "Común, Dwarvish, Giant, Orc"
-skills: "Engaño +5, Insight +3, Persuasion +3"
+skills: "Engaño +5, Perspicacia +3, Persuasión +3"
 speed: "30 ft."
 hit_points: "9 (2d8)"
 armor_class: "10"

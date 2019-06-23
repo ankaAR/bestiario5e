@@ -12,7 +12,7 @@ size: Humanoide Mediano (turami human)
 alignment: neutral good
 challenge: "0 (10 XP)"
 languages: "Común, Draconic, Dwarvish, Elvish"
-skills: "Arcana +5, Historia +5"
+skills: "Arcanos +5, Historia +5"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "10 (13 with mage armor)"

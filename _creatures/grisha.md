@@ -12,7 +12,7 @@ size: Humanoide Mediano (damaran human)
 alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Común, Undercommon"
-skills: "Persuasion +5, Religión +2"
+skills: "Persuasión +5, Religión +2"
 saving_throws: "Sab +4, Car +5"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"

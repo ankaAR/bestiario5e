@@ -12,7 +12,7 @@ size: Humanoide Mediano (illuskan human)
 alignment: lawful good
 challenge: "0 (10 XP)"
 languages: "Common"
-skills: "Insight +4, Investigation +2, Medicina +4, Survival +4"
+skills: "Perspicacia +4, Investigation +2, Medicina +4, Survival +4"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "18 (plate)"

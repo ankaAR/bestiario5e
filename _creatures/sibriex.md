@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "18 (20,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft., passive Perception 23"
-skills: "Arcana +13, Historia +13, Percepción +13"
+skills: "Arcanos +13, Historia +13, Percepción +13"
 damage_immunities: "poison"
 saving_throws: "Int +13, Car +13"
 speed: "0 ft., fly 20 ft. (hover)"

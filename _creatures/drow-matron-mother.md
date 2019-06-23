@@ -14,7 +14,7 @@ alignment: neutral evil
 challenge: "20 (25,000 XP)"
 languages: "Elvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 21"
-skills: "Insight +11, Percepción +11, Religión +9, Sigilo +10"
+skills: "Perspicacia +11, Percepción +11, Religión +9, Sigilo +10"
 saving_throws: "Con +9, Sab +11, Car +12"
 speed: "30 ft."
 hit_points: "262  (35d8 + 105)"

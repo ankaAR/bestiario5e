@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: caótico maligno
 challenge: "6 (2,300 XP)"
 languages: "Común, Ignan"
-skills: "Arcana +3, Religión +3"
+skills: "Arcanos +3, Religión +3"
 damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "105 (14d8+42)"

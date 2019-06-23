@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "the languages it knew in life"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +3, Percepción +4"
+skills: "Arcanos +3, Percepción +4"
 damage_immunities: "poison"
 saving_throws: "Sab +4"
 speed: "30 ft."

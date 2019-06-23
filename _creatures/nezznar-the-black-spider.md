@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Elvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +5, Percepción +4, Sigilo +3"
+skills: "Arcanos +5, Percepción +4, Sigilo +3"
 saving_throws: "Int +5, Sab +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"

@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "11 (7,200 XP)"
 languages: "telepathy 120 ft."
 senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +9, Historia +9, Percepción +10, Sigilo +6"
+skills: "Arcanos +9, Historia +9, Percepción +10, Sigilo +6"
 saving_throws: "Des +6, Int +9, Sab +6"
 speed: "25 ft., nadando 50 ft."
 hit_points: "130 (20d8+40)"

@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "10 (5,900 XP)"
 languages: "Común, Primordial, Thayan"
 senses: "Vista ciega 120 ft."
-skills: "Arcana +7, Insight +4"
+skills: "Arcanos +7, Perspicacia +4"
 damage_immunities: "acid, cold, poison"
 saving_throws: "Int +7, Sab +4"
 speed: "30 ft., climb 30 ft."

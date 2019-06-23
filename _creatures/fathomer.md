@@ -12,7 +12,7 @@ size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Aquan, Common"
-skills: "Arcana +2, Percepción +4, Sigilo +4"
+skills: "Arcanos +2, Percepción +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "10 (13 with mage armor)"

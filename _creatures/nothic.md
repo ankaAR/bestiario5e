@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Undercommon"
 senses: "truesight 120 ft."
-skills: "Arcana +3, Insight +4, Percepción +2, Sigilo +5"
+skills: "Arcanos +3, Perspicacia +4, Percepción +2, Sigilo +5"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "15 (armadura natural)"

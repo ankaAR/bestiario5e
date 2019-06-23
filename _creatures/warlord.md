@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "12 (8,400 XP)"
 languages: "any two languages"
-skills: "Athletics +9, Intimidation +8, Percepción +5, Persuasion +8"
+skills: "Athletics +9, Intimidation +8, Percepción +5, Persuasión +8"
 saving_throws: "Str +9, Des +7, Con +8"
 speed: "30 ft."
 hit_points: "229 (27d8+108)"

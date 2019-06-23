@@ -14,7 +14,7 @@ alignment: lawful neutral
 challenge: "25 (75,000 XP)"
 languages: "all but rarely speaks"
 senses: "darkvision 60 ft., passive Perception 20"
-skills: "Insight +10, Intimidation +12, Percepción +10"
+skills: "Perspicacia +10, Intimidation +12, Percepción +10"
 damage_immunities: "poison"
 saving_throws: "Int +12, Sab +10, Car +12"
 speed: "40 pies (12 mts), fly 30 ft. (hover)"

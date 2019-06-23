@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Engaño +5, Insight +4, Percepción +4, Sigilo +5"
+skills: "Engaño +5, Perspicacia +4, Percepción +4, Sigilo +5"
 speed: "30 ft."
 hit_points: "127 (17d8+51)"
 armor_class: "15 (armadura natural)"

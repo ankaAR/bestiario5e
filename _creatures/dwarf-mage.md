@@ -14,7 +14,7 @@ alignment: cualquier alineamiento
 challenge: "6 (2300 XP)"
 languages: "any four languages"
 senses: "darkvision, passive Perception 11"
-skills: "Arcana +6, Historia +6"
+skills: "Arcanos +6, Historia +6"
 saving_throws: "Int +6, Sab +4"
 speed: "30 ft."
 hit_points: "40  (9d8)"

@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "6 (2,300 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Percepción +6, Persuasion +5, Sigilo +3"
+skills: "Percepción +6, Persuasión +5, Sigilo +3"
 damage_immunities: "Fuego"
 saving_throws: "Des +3, Con +6, Sab +3, Car +5"
 speed: "40 pies (12 mts), burrow 20 ft., volando 80 pies (24 mts)"

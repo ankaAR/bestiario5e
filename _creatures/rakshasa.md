@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "13 (10,000 XP)"
 languages: "Común, Infernal"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Engaño +10, Insight +8"
+skills: "Engaño +10, Perspicacia +8"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "40 ft."
 hit_points: "110 (13d8+52)"

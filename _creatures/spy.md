@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "1 (200 XP)"
 languages: "any two languages"
-skills: "Engaño +5, Insight +4, Investigation +5, Percepción +6, Persuasion +5, Sleight of Hand +4, Sigilo +4"
+skills: "Engaño +5, Perspicacia +4, Investigation +5, Percepción +6, Persuasión +5, Sleight of Hand +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "12"

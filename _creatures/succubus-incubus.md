@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Abyssal, Common, Infernal, telepathy 60 ft."
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Engaño +9, Insight +5, Percepción +5, Persuasion +9, Sigilo +7"
+skills: "Engaño +9, Perspicacia +5, Percepción +5, Persuasión +9, Sigilo +7"
 speed: "30 ft., fly 60 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "15 (armadura natural)"

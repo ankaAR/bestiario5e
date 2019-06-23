@@ -13,7 +13,7 @@ size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "2 (450 XP)"
 languages: "Common (can't speak in raven form)"
-skills: "Insight +4, Percepción +6"
+skills: "Perspicacia +4, Percepción +6"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
 speed: "30 ft., fly 50 ft. in raven and hybrid forms"
 hit_points: "31 (7d8)"

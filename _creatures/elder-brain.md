@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "14 (11,500 XP)"
 languages: "understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles"
 senses: "Vista ciega 120 ft."
-skills: "Arcana +10, Engaño +12, Insight +14, Intimidation +12, Persuasion +12"
+skills: "Arcanos +10, Engaño +12, Perspicacia +14, Intimidation +12, Persuasión +12"
 saving_throws: "Int +10, Sab +9, Car +12"
 speed: "5ft., nadando 10 ft."
 hit_points: "210 (20d10+100)"

@@ -13,7 +13,7 @@ alignment: chaotic good (75%) or neutral evil (25%)
 challenge: "23 (50,000 XP)"
 languages: "all"
 senses: "truesight 120 ft."
-skills: "Insight +13, Persuasion +15"
+skills: "Perspicacia +13, Persuasión +15"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Str +17, Int +12, Sab +13, Car +15"
 speed: "50 ft., fly 50 ft., nadando 50 ft."

@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "1 (200 XP)"
 languages: "Común, Dragón"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +2, Medicina +1"
+skills: "Arcanos +2, Medicina +1"
 speed: "30 ft."
 hit_points: "27 (5d6+10)"
 armor_class: "15 (armadura natural)"

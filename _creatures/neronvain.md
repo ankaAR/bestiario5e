@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Común, Draconic, Elvish, Infernal"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +7, Percepción +5"
+skills: "Arcanos +7, Percepción +5"
 damage_immunities: "poison"
 saving_throws: "Con +6, Sab +5"
 speed: "30 ft."

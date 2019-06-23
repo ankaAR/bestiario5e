@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2,900 XP)"
 languages: "Común, Draconic, Infernal, Giant, Netherese"
 senses: "Vista ciega 10 pies (3 mts), Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +5, Sigilo +9"
+skills: "Arcanos +5, Sigilo +9"
 damage_immunities: "ácido"
 saving_throws: "Des +6, Sab +4"
 speed: "30 ft."

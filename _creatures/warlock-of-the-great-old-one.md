@@ -13,7 +13,7 @@ alignment: cualquier alineamiento
 challenge: "6 (2,300 XP)"
 languages: "any two languages, telepathy 30 ft."
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +4, Historia +4"
+skills: "Arcanos +4, Historia +4"
 saving_throws: "Sab +4, Car +7"
 speed: "30 ft."
 hit_points: "91 (14d8+28)"

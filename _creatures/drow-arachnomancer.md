@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "13 (10,000 XP)"
 languages: "Elvish, Undercommon, can speak with spiders"
 senses: "Vista ciega 10 pies (3 mts), Visión en la oscuridad 120 ft. (36 mts), passive Perception 17"
-skills: "Arcana +9, Nature +9, Percepción +7, Sigilo +8"
+skills: "Arcanos +9, Nature +9, Percepción +7, Sigilo +8"
 saving_throws: "Con +7, Int +9, Car +8"
 speed: "30 ft., climb 30 ft."
 hit_points: "162  (25d8 + 50)"

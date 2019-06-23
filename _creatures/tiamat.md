@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "30 (155,000 XP)"
 languages: "Común, Draconic, Infernal"
 senses: "darkvision 240 pies (12 mts), truesight 120 ft."
-skills: "Arcana +17, Percepción +26, Religión +17"
+skills: "Arcanos +17, Percepción +26, Religión +17"
 damage_immunities: "acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 saving_throws: "Str +19, Des +9, Sab +17"
 speed: "60 ft., fly 120 ft."

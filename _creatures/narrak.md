@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "Dwarvish, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Arcana +4, Sigilo +4"
+skills: "Arcanos +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "40 (9d6+9)"
 armor_class: "12 (15 to mage armor)"

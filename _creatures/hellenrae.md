@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "5 (1,800 XP)"
 languages: "Común, Terran"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
-skills: "Acrobatics +7, Athletics +4, Insight +5, Percepción +5"
+skills: "Acrobatics +7, Athletics +4, Perspicacia +5, Percepción +5"
 damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"

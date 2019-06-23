@@ -14,7 +14,7 @@ alignment: legal maligna
 challenge: "10 (5900 XP)"
 languages: "Gith"
 senses: "passive Perception 16"
-skills: "Insight +6, Percepción +6, Sigilo +6"
+skills: "Perspicacia +6, Percepción +6, Sigilo +6"
 saving_throws: "Con +6, Int +7, Sab +6"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"

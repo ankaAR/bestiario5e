@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: any non-lawful alignment
 challenge: "3 (700 XP)"
 languages: "Un idioma cualquiera (usualmente Común)"
-skills: "Acrobatics +8, Athletics +5, Persuasion +6"
+skills: "Acrobatics +8, Athletics +5, Persuasión +6"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "17 (armadura de cuero)"

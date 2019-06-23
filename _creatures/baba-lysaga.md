@@ -13,7 +13,7 @@ size: Humanoide Mediano (human
 alignment: shapechanger)
 challenge: "11 (7,200 XP)"
 languages: "Abyssal, Common, Draconic, Dwarvish, Giant"
-skills: "Arcana +13, Religión +13"
+skills: "Arcanos +13, Religión +13"
 saving_throws: "Sab +7"
 speed: "30 ft."
 hit_points: "120 (16d8+48)"

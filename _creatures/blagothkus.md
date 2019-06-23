@@ -12,7 +12,7 @@ size: Huge giant (cloud giant)
 alignment: neutral evil
 challenge: "9 (5,000 XP)"
 languages: "Común, Draconic, Giant"
-skills: "Arcana +7, Insight +6, Intimidation +6, Percepción +6"
+skills: "Arcanos +7, Perspicacia +6, Intimidation +6, Percepción +6"
 saving_throws: "Con +9, Sab +6, Car +6"
 speed: "40 ft."
 hit_points: "138 (12d12+60)"

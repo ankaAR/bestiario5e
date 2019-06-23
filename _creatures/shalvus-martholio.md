@@ -12,7 +12,7 @@ size: Humanoide Mediano (turami human)
 alignment: neutral
 challenge: "0 (10 XP)"
 languages: "Común, Elvish"
-skills: "Engaño +4, Insight +4, Investigation +3, Percepción +4, Sleight of Hand +4, Sigilo +4"
+skills: "Engaño +4, Perspicacia +4, Investigation +3, Percepción +4, Sleight of Hand +4, Sigilo +4"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "13 (leather)"

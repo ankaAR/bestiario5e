@@ -13,7 +13,7 @@ alignment: legal maligna
 challenge: "15 (13,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Engaño +8, Insight +7, Percepción +12, Persuasion +8, Sigilo +6"
+skills: "Engaño +8, Perspicacia +7, Percepción +12, Persuasión +8, Sigilo +6"
 damage_immunities: "poison"
 saving_throws: "Des +6, Con +10, Sab +7, Car +8"
 speed: "40 pies (12 mts), volando 80 pies (24 mts), nadando 40 pies (12 mts)"

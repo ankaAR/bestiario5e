@@ -12,7 +12,7 @@ size: Humanoide Mediano (illuskan human)
 alignment: lawful neutral
 challenge: "0 (10 XP)"
 languages: "Común, Elvish"
-skills: "Engaño +5, Insight +4, Persuasion +5"
+skills: "Engaño +5, Perspicacia +4, Persuasión +5"
 speed: "30 ft."
 hit_points: "16 (3d8 + 3)"
 armor_class: "10 (13 with mage armor)"

@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "2 (450 XP)"
 languages: "any two languages"
-skills: "Medicina +7, Persuasion +3, Religión +4"
+skills: "Medicina +7, Persuasión +3, Religión +4"
 speed: "25 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "13 (chain shirt)"

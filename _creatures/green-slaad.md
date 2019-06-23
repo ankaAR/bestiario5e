@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "8 (3,900 XP)"
 languages: "Slaad, telepathy 60 ft."
 senses: "Vista ciega 30 pies (9 mts), darkvision 60 ft."
-skills: "Arcana +3, Percepción +2"
+skills: "Arcanos +3, Percepción +2"
 speed: "30 ft."
 hit_points: "127 (15d10+45)"
 armor_class: "16 (armadura natural)"

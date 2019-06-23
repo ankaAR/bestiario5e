@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "3 (700 XP)"
 languages: "Un idioma cualquiera (usualmente Común)"
-skills: "Acrobatics +5, Insight +5, Sigilo +5"
+skills: "Acrobatics +5, Perspicacia +5, Sigilo +5"
 speed: "40 ft."
 hit_points: "60 (11d8+11)"
 armor_class: "16"

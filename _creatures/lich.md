@@ -13,7 +13,7 @@ alignment: any evil alignment
 challenge: "21 (33,000 XP)"
 languages: "Common plus up to five other languages"
 senses: "truesight 120 ft."
-skills: "Arcana +18, Historia +12, Insight +9, Percepción +9"
+skills: "Arcanos +18, Historia +12, Perspicacia +9, Percepción +9"
 damage_immunities: "poison, bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Con +10, Int +12, Sab +9"
 speed: "30 ft."

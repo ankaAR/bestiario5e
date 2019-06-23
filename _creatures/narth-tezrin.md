@@ -12,7 +12,7 @@ size: Humanoide Mediano (tethyrian human)
 alignment: chaotic good
 challenge: "0 (10 XP)"
 languages: "Común, Dwarvish"
-skills: "Insight +4, Investigation +3, Percepción +6, Persuasion +5"
+skills: "Perspicacia +4, Investigation +3, Percepción +6, Persuasión +5"
 speed: "30 ft."
 hit_points: "18 (4d8)"
 armor_class: "12"

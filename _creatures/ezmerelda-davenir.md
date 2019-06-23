@@ -13,7 +13,7 @@ size: Humanoide Mediano (human)
 alignment: chaotic good
 challenge: "8 (3,900 XP)"
 languages: "Común, Elvish"
-skills: "Acrobatics +7, Arcana +6, Engaño +9, Insight +3, Medicina +3, Percepción +6, Performance +6, Sleight of Hand +7, Sigilo +7, Survival +6"
+skills: "Acrobatics +7, Arcanos +6, Engaño +9, Perspicacia +3, Medicina +3, Percepción +6, Performance +6, Sleight of Hand +7, Sigilo +7, Survival +6"
 saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"

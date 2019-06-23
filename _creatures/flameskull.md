@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1,100 XP)"
 languages: "Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +5, Percepción +2"
+skills: "Arcanos +5, Percepción +2"
 damage_immunities: "cold, fire, poison"
 speed: "0 ft., fly 40 ft. It can hover."
 hit_points: "40 (9d4+18)"

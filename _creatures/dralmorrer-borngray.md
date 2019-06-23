@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Común, Bullywug, Draconic, Elvish, Goblin, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-skills: "Arcana +5, Engaño +1, Insight +2, Percepción +2, Religión +5"
+skills: "Arcanos +5, Engaño +1, Perspicacia +2, Percepción +2, Religión +5"
 saving_throws: "Str +6, Con +4"
 speed: "30 ft."
 hit_points: "52 (7d10+14)"

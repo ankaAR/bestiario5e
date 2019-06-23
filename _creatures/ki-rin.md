@@ -13,7 +13,7 @@ alignment: lawful good
 challenge: "12 (8,400 XP)"
 languages: "all, telepathy 120 ft."
 senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"
-skills: "Insight +9, Percepción +9, Religión +8"
+skills: "Perspicacia +9, Percepción +9, Religión +8"
 damage_immunities: "poison"
 speed: "60 ft., fly 120 ft. (hover)"
 hit_points: "152 (16d12+48)"

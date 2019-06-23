@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Común, Terran"
 senses: "darkvision 60 ft., tremorsense 60 ft."
-skills: "Arcana +4, Engaño +6, Percepción +4"
+skills: "Arcanos +4, Engaño +6, Percepción +4"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "15 (armadura natural)"

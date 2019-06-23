@@ -12,7 +12,7 @@ size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento no bueno
 challenge: "2 (450 XP)"
 languages: "Un idioma cualquiera (usualmente Común)"
-skills: "Engaño +4, Persuasion +4, Religión +2"
+skills: "Engaño +4, Persuasión +4, Religión +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (armadura de cuero)"
