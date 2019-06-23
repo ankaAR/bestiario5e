@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fomorian"
-tags: [huge, giant, cr8, monster-manual]
+tags: [huge, gigante, cr8, monster-manual]
 cha: 6 (-2)
 wis: 14 (+2)
 int: 9 (-1)

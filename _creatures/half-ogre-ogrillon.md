@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Half-Ogre (Ogrillon)"
-tags: [large, giant, cr1, monster-manual]
+tags: [large, gigante, cr1, monster-manual]
 cha: 10 (0)
 wis: 9 (-1)
 int: 7 (-2)

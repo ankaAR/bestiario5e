@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cloud Giant Smiling One"
-tags: [huge, giant, cr11, volos-guide]
+tags: [huge, gigante, cr11, volos-guide]
 cha: 17 (+3)
 wis: 16 (+3)
 int: 15 (+2)

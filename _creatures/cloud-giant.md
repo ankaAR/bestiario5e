@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cloud Giant"
-tags: [huge, giant, cr9, monster-manual]
+tags: [huge, gigante, cr9, monster-manual]
 cha: 16 (+3)
 wis: 16 (+3)
 int: 12 (+1)

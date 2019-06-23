@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mouth of Grolantor"
-tags: [huge, giant, cr6, volos-guide]
+tags: [huge, gigante, cr6, volos-guide]
 cha: 5 (-3)
 wis: 7 (-2)
 int: 5 (-3)

@@ -14,8 +14,8 @@
   tag: fata
 - name: Infernales
   tag: infernal
-- name: Giants
-  tag: giant
+- name: Gigantes
+  tag: gigante
 - name: Humanoids
   tag: humanoid
 - name: Monstrosities

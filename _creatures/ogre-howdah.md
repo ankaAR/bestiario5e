@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ogre Howdah"
-tags: [large, giant, cr2, mordenkainens-tome-of-foes]
+tags: [large, gigante, cr2, mordenkainens-tome-of-foes]
 page_number: 221
 cha: 7 (-1)
 wis: 7 (-1)

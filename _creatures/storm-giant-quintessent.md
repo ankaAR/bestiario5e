@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Storm Giant Quintessent"
-tags: [huge, giant, cr16, volos-guide]
+tags: [huge, gigante, cr16, volos-guide]
 cha: 19 (+4)
 wis: 30 (+10)
 int: 17 (+3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fire Giant Dreadnought"
-tags: [huge, giant, cr14, volos-guide]
+tags: [huge, gigante, cr14, volos-guide]
 cha: 11 (0)
 wis: 10 (0)
 int: 8 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fire Giant"
-tags: [huge, giant, cr9, monster-manual]
+tags: [huge, gigante, cr9, monster-manual]
 cha: 13 (+1)
 wis: 14 (+2)
 int: 10 (0)

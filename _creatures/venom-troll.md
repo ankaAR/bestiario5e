@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Venom Troll"
-tags: [large, giant, cr7, mordenkainens-tome-of-foes]
+tags: [large, gigante, cr7, mordenkainens-tome-of-foes]
 page_number: 245
 cha: 7 (-1)
 wis: 9 (0)

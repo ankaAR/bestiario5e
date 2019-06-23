@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rot Troll"
-tags: [large, giant, cr9, mordenkainens-tome-of-foes]
+tags: [large, gigante, cr9, mordenkainens-tome-of-foes]
 page_number: 244
 cha: 4 (-3)
 wis: 8 (-1)

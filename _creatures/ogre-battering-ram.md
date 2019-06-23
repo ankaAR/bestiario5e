@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ogre Battering Ram"
-tags: [large, giant, cr4, mordenkainens-tome-of-foes]
+tags: [large, gigante, cr4, mordenkainens-tome-of-foes]
 page_number: 220
 cha: 7 (-1)
 wis: 7 (-1)

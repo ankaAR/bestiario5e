@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stone Giant"
-tags: [huge, giant, cr7, monster-manual]
+tags: [huge, gigante, cr7, monster-manual]
 cha: 9 (-1)
 wis: 12 (+1)
 int: 10 (0)

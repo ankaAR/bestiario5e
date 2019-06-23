@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Troll"
-tags: [large, giant, cr5, monster-manual]
+tags: [large, gigante, cr5, monster-manual]
 cha: 7 (-2)
 wis: 9 (-1)
 int: 7 (-2)
