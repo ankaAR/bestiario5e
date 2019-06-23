@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gray Ooze"
-tags: [medium, ooze, cr1/2, monster-manual]
+tags: [medium, cieno, cr1/2, monster-manual]
 cha: 2 (-4)
 wis: 6 (-2)
 int: 1 (-5)

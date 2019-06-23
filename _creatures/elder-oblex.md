@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Elder Oblex"
-tags: [huge, ooze, cr10, mordenkainens-tome-of-foes]
+tags: [huge, cieno, cr10, mordenkainens-tome-of-foes]
 page_number: 219
 cha: 18 (+4)
 wis: 13 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Black Pudding"
-tags: [large, ooze, cr4, monster-manual]
+tags: [large, cieno, cr4, monster-manual]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 1 (-5)

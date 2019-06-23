@@ -20,8 +20,8 @@
   tag: humanoide
 - name: Monstruosidades
   tag: monstruosidad
-- name: Oozes
-  tag: ooze
+- name: Cienos
+  tag: cieno
 - name: Plants
   tag: plant
 - name: Undead
