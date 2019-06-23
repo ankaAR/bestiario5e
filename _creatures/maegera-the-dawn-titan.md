@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Maegera the Dawn Titan"
-tags: [gargantuan, elemental, cr23, storm-kings-thunder]
+tags: [gargantuesco, elemental, cr23, storm-kings-thunder]
 cha: 19 (+4)
 wis: 10 (0)
 int: 10 (0)

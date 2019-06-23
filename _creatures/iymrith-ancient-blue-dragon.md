@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Iymrith, Ancient Blue Dragon"
-tags: [gargantuan, dragon, cr23, monster-manual]
+tags: [gargantuesco, dragon, cr23, monster-manual]
 cha: 21 (+5)
 wis: 17 (+3)
 int: 18 (+4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ogremoch"
-tags: [gargantuan, elemental, cr20, elemental-evil]
+tags: [gargantuesco, elemental, cr20, elemental-evil]
 cha: 22 (+6)
 wis: 15 (+2)
 int: 11 (0)

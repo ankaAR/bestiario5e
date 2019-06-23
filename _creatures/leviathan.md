@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Leviathan"
-tags: [gargantuan, elemental, cr20, mordenkainens-tome-of-foes]
+tags: [gargantuesco, elemental, cr20, mordenkainens-tome-of-foes]
 page_number: 198
 cha: 17 (+3)
 wis: 18 (+4)

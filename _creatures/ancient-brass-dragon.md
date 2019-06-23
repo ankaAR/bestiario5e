@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Brass Dragon"
-tags: [gargantuan, dragon, cr20, monster-manual]
+tags: [gargantuesco, dragon, cr20, monster-manual]
 cha: 19 (+4)
 wis: 15 (+2)
 int: 16 (+3)

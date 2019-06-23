@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Brontosaurus"
-tags: [gargantuan, bestia, cr5, volos-guide]
+tags: [gargantuesco, bestia, cr5, volos-guide]
 cha: 7 (-2)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Phoenix"
-tags: [gargantuan, elemental, cr16, mordenkainens-tome-of-foes]
+tags: [gargantuesco, elemental, cr16, mordenkainens-tome-of-foes]
 page_number: 199
 cha: 18 (+4)
 wis: 21 (+5)

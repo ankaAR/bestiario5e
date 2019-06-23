@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Elder Tempest"
-tags: [gargantuan, elemental, cr23, mordenkainens-tome-of-foes]
+tags: [gargantuesco, elemental, cr23, mordenkainens-tome-of-foes]
 page_number: 200
 cha: 18 (+4)
 wis: 21 (+5)

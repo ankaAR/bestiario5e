@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragon Turtle"
-tags: [gargantuan, dragon, cr17, monster-manual]
+tags: [gargantuesco, dragon, cr17, monster-manual]
 cha: 12 (+1)
 wis: 12 (+1)
 int: 10 (0)

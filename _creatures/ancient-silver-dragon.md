@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Silver Dragon"
-tags: [gargantuan, dragon, cr23, monster-manual]
+tags: [gargantuesco, dragon, cr23, monster-manual]
 cha: 23 (+6)
 wis: 15 (+2)
 int: 18 (+4)

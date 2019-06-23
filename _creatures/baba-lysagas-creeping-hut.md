@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Baba Lysaga's Creeping Hut"
-tags: [gargantuan, constructo, cr11, curse-of-strahd]
+tags: [gargantuesco, constructo, cr11, curse-of-strahd]
 page_number: 226
 cha: 3 (-4)
 wis: 3 (-4)

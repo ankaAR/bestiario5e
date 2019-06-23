@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "White Maw"
-tags: [gargantuan, cieno, cr10, tales-from-the-yawning-portal]
+tags: [gargantuesco, cieno, cr10, tales-from-the-yawning-portal]
 cha: 3 (-4)
 wis: 10 (0)
 int: 12 (+1)
