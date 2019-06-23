@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hutijin"
-tags: [large, infernal, cr21, mordenkainens-tome-of-foes]
+tags: [grande, infernal, cr21, mordenkainens-tome-of-foes]
 page_number: 175
 cha: 25 (+7)
 wis: 19 (+4)

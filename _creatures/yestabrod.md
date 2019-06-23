@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yestabrod"
-tags: [large, monstruosidad, cr4, out-of-the-abyss]
+tags: [grande, monstruosidad, cr4, out-of-the-abyss]
 cha: 10 (0)
 wis: 15 (+2)
 int: 13 (+1)

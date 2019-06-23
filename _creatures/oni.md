@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Oni"
-tags: [large, gigante, cr7, monster-manual]
+tags: [grande, gigante, cr7, monster-manual]
 cha: 15 (+2)
 wis: 12 (+1)
 int: 14 (+2)

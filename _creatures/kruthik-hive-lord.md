@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kruthik Hive Lord"
-tags: [large, monstruosidad, cr5, mordenkainens-tome-of-foes]
+tags: [grande, monstruosidad, cr5, mordenkainens-tome-of-foes]
 page_number: 212
 cha: 10 (0)
 wis: 14 (+2)

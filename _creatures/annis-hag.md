@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Annis Hag"
-tags: [large, fata, cr6, volos-guide]
+tags: [grande, fata, cr6, volos-guide]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 13 (+1)

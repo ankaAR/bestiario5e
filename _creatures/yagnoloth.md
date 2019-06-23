@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yagnoloth"
-tags: [large, infernal, cr11, mordenkainens-tome-of-foes]
+tags: [grande, infernal, cr11, mordenkainens-tome-of-foes]
 page_number: 252
 cha: 18 (+4)
 wis: 15 (+2)

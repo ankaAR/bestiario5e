@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Salamander"
-tags: [large, elemental, cr5, monster-manual]
+tags: [grande, elemental, cr5, monster-manual]
 cha: 12 (+1)
 wis: 10 (0)
 int: 11 (0)

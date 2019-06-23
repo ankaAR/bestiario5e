@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gray Render"
-tags: [large, monstruosidad, cr12, mordenkainens-tome-of-foes]
+tags: [grande, monstruosidad, cr12, mordenkainens-tome-of-foes]
 page_number: 209
 cha: 8 (-1)
 wis: 6 (-2)

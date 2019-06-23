@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Female Steeder (A)"
-tags: [large, bestia, cr1, out-of-the-abyss]
+tags: [grande, bestia, cr1, out-of-the-abyss]
 cha: 3 (-4)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Marut"
-tags: [large, constructo, cr25, mordenkainens-tome-of-foes]
+tags: [grande, constructo, cr25, mordenkainens-tome-of-foes]
 page_number: 213
 cha: 18 (+4)
 wis: 15 (+2)

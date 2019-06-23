@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Air Elemental"
-tags: [large, elemental, cr5, monster-manual]
+tags: [grande, elemental, cr5, monster-manual]
 cha: 6 (-2)
 wis: 10 (0)
 int: 6 (-2)

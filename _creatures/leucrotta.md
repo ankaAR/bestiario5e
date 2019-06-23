@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Leucrotta"
-tags: [large, monstruosidad, cr3, volos-guide]
+tags: [grande, monstruosidad, cr3, volos-guide]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 9 (-1)

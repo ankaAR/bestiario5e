@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Androsphinx"
-tags: [large, monstruosidad, cr17, monster-manual]
+tags: [grande, monstruosidad, cr17, monster-manual]
 cha: 23 (+6)
 wis: 18 (+4)
 int: 16 (+3)

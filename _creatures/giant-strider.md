@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Strider"
-tags: [large, monstruosidad, cr1, volos-guide]
+tags: [grande, monstruosidad, cr1, volos-guide]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 4 (-3)

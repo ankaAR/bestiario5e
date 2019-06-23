@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Beholder Zombie"
-tags: [large, no-muerto, cr5, monster-manual]
+tags: [grande, no-muerto, cr5, monster-manual]
 cha: 5 (-3)
 wis: 8 (-1)
 int: 3 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Balhannoth"
-tags: [large, aberracion, cr11, mordenkainens-tome-of-foes]
+tags: [grande, aberracion, cr11, mordenkainens-tome-of-foes]
 page_number: 119
 cha: 8 (-1)
 wis: 15 (+2)

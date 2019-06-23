@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Octopus"
-tags: [large, bestia, cr1, monster-manual]
+tags: [grande, bestia, cr1, monster-manual]
 cha: 4 (-3)
 wis: 10 (0)
 int: 4 (-3)

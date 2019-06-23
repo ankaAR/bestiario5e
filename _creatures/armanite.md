@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Armanite"
-tags: [large, infernal, cr7, mordenkainens-tome-of-foes]
+tags: [grande, infernal, cr7, mordenkainens-tome-of-foes]
 page_number: 131
 cha: 13 (+1)
 wis: 12 (+1)

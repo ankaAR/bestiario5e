@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Lightning Eel"
-tags: [large, bestia, cr3, tales-from-the-yawning-portal]
+tags: [grande, bestia, cr3, tales-from-the-yawning-portal]
 cha: 3 (-4)
 wis: 12 (+1)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Water Elemental"
-tags: [large, elemental, cr5, monster-manual]
+tags: [grande, elemental, cr5, monster-manual]
 cha: 8 (-1)
 wis: 10 (0)
 int: 5 (-3)

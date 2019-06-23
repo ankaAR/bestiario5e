@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Trapper"
-tags: [large, monstruosidad, cr3, volos-guide]
+tags: [grande, monstruosidad, cr3, volos-guide]
 cha: 4 (-3)
 wis: 13 (+1)
 int: 2 (-4)

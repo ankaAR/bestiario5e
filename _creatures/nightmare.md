@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nightmare"
-tags: [large, infernal, cr3, monster-manual]
+tags: [grande, infernal, cr3, monster-manual]
 cha: 15 (+2)
 wis: 13 (+1)
 int: 10 (0)

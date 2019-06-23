@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Solar"
-tags: [large, celestial, cr21, monster-manual]
+tags: [grande, celestial, cr21, monster-manual]
 cha: 30 (+10)
 wis: 25 (+7)
 int: 25 (+7)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yakfolk Warrior"
-tags: [large, monstruosidad, cr3, storm-kings-thunder]
+tags: [grande, monstruosidad, cr3, storm-kings-thunder]
 cha: 14 (+2)
 wis: 15 (+2)
 int: 14 (+2)

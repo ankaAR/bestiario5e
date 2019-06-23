@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Unicorn"
-tags: [large, celestial, cr5, monster-manual]
+tags: [grande, celestial, cr5, monster-manual]
 cha: 16 (+3)
 wis: 17 (+3)
 int: 11 (0)

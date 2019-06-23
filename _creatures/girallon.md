@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Girallon"
-tags: [large, monstruosidad, cr4, volos-guide]
+tags: [grande, monstruosidad, cr4, volos-guide]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 5 (-3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bael"
-tags: [large, infernal, cr19, mordenkainens-tome-of-foes]
+tags: [grande, infernal, cr19, mordenkainens-tome-of-foes]
 page_number: 170
 cha: 24 (+7)
 wis: 24 (+7)

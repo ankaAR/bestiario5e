@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spirit Troll"
-tags: [large, gigante, cr11, mordenkainens-tome-of-foes]
+tags: [grande, gigante, cr11, mordenkainens-tome-of-foes]
 page_number: 244
 cha: 16 (+3)
 wis: 9 (0)

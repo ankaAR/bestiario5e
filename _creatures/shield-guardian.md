@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shield Guardian"
-tags: [large, constructo, cr7, monster-manual]
+tags: [grande, constructo, cr7, monster-manual]
 cha: 3 (-4)
 wis: 10 (0)
 int: 7 (-2)

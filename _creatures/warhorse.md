@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Warhorse"
-tags: [large, bestia, cr1/2, monster-manual]
+tags: [grande, bestia, cr1/2, monster-manual]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 2 (-4)

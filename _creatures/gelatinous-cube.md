@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gelatinous Cube"
-tags: [large, cieno, cr2, monster-manual]
+tags: [grande, cieno, cr2, monster-manual]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 1 (-5)

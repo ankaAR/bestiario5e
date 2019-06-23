@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Marid"
-tags: [large, elemental, cr11, monster-manual]
+tags: [grande, elemental, cr11, monster-manual]
 cha: 18 (+4)
 wis: 17 (+3)
 int: 18 (+4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kalka-Kylla"
-tags: [large, monstruosidad, cr3, tales-from-the-yawning-portal]
+tags: [grande, monstruosidad, cr3, tales-from-the-yawning-portal]
 cha: 12 (+1)
 wis: 16 (+3)
 int: 15 (+2)

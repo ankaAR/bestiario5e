@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chuul Spore Servant"
-tags: [large, planta, cr4, out-of-the-abyss]
+tags: [grande, planta, cr4, out-of-the-abyss]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 2 (-4)

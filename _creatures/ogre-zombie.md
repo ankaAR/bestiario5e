@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ogre Zombie"
-tags: [large, no-muerto, cr2, monster-manual]
+tags: [grande, no-muerto, cr2, monster-manual]
 cha: 5 (-3)
 wis: 6 (-2)
 int: 3 (-4)

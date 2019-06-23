@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Female Steeder (B)"
-tags: [large, monstruosidad, cr1, mordenkainens-tome-of-foes]
+tags: [grande, monstruosidad, cr1, mordenkainens-tome-of-foes]
 page_number: 238
 cha: 3 (-3)
 wis: 10 (0)

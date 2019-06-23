@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Otyugh"
-tags: [large, aberracion, cr5, monster-manual]
+tags: [grande, aberracion, cr5, monster-manual]
 cha: 6 (-2)
 wis: 13 (+1)
 int: 6 (-2)

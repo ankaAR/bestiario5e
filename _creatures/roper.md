@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Roper"
-tags: [large, monstruosidad, cr5, monster-manual]
+tags: [grande, monstruosidad, cr5, monster-manual]
 cha: 6 (-2)
 wis: 16 (+3)
 int: 7 (-2)

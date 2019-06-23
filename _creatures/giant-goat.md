@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Goat"
-tags: [large, bestia, cr1/2, monster-manual]
+tags: [grande, bestia, cr1/2, monster-manual]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 3 (-4)

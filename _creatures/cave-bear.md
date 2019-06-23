@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cave Bear"
-tags: [large, bestia, cr2, monster-manual]
+tags: [grande, bestia, cr2, monster-manual]
 cha: 7 (-2)
 wis: 13 (+1)
 int: 2 (-4)

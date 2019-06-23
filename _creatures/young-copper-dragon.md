@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Young Copper Dragon"
-tags: [large, dragon, cr7, monster-manual]
+tags: [grande, dragon, cr7, monster-manual]
 cha: 15 (+2)
 wis: 13 (+1)
 int: 16 (+3)

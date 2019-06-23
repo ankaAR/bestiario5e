@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wyvern"
-tags: [large, dragon, cr6, monster-manual]
+tags: [grande, dragon, cr6, monster-manual]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 5 (-3)

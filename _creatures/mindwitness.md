@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mindwitness"
-tags: [large, aberracion, cr5, volos-guide]
+tags: [grande, aberracion, cr5, volos-guide]
 cha: 10 (0)
 wis: 15 (+2)
 int: 15 (+2)

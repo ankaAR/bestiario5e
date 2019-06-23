@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Star Spawn Hulk"
-tags: [large, aberracion, cr10, mordenkainens-tome-of-foes]
+tags: [grande, aberracion, cr10, mordenkainens-tome-of-foes]
 page_number: 234
 cha: 9 (0)
 wis: 12 (+1)

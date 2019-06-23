@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Death Kiss"
-tags: [large, aberracion, cr10, volos-guide]
+tags: [grande, aberracion, cr10, volos-guide]
 cha: 10 (0)
 wis: 12 (+1)
 int: 10 (0)

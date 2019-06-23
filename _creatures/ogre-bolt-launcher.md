@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ogre Bolt Launcher"
-tags: [large, gigante, cr2, mordenkainens-tome-of-foes]
+tags: [grande, gigante, cr2, mordenkainens-tome-of-foes]
 page_number: 220
 cha: 7 (-1)
 wis: 7 (-1)

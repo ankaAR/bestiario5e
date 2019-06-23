@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Efreeti"
-tags: [large, elemental, cr11, monster-manual]
+tags: [grande, elemental, cr11, monster-manual]
 cha: 16 (+3)
 wis: 15 (+2)
 int: 16 (+3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ghald"
-tags: [large, humanoide, cr7, elemental-evil]
+tags: [grande, humanoide, cr7, elemental-evil]
 cha: 17 (+3)
 wis: 13 (+1)
 int: 14 (+2)

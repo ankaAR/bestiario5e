@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Constrictor Snake"
-tags: [large, bestia, cr1/4, monster-manual]
+tags: [grande, bestia, cr1/4, monster-manual]
 cha: 3 (-4)
 wis: 10 (0)
 int: 1 (-5)

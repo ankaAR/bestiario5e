@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bulette"
-tags: [large, monstruosidad, cr5, monster-manual]
+tags: [grande, monstruosidad, cr5, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 2 (-4)

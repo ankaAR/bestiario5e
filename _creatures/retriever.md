@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Retriever"
-tags: [large, constructo, cr14, mordenkainens-tome-of-foes]
+tags: [grande, constructo, cr14, mordenkainens-tome-of-foes]
 page_number: 222
 cha: 4 (-3)
 wis: 11 (0)

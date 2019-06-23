@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yakfolk Priest"
-tags: [large, monstruosidad, cr4, storm-kings-thunder]
+tags: [grande, monstruosidad, cr4, storm-kings-thunder]
 cha: 14 (+2)
 wis: 18 (+4)
 int: 14 (+2)

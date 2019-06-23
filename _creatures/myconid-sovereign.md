@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Myconid Sovereign"
-tags: [large, planta, cr2, monster-manual]
+tags: [grande, planta, cr2, monster-manual]
 cha: 10 (0)
 wis: 15 (+2)
 int: 13 (+1)

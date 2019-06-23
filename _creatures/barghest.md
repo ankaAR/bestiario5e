@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Barghest"
-tags: [large, infernal, cr4, volos-guide]
+tags: [grande, infernal, cr4, volos-guide]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 13 (+1)

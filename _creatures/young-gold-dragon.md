@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Young Gold Dragon"
-tags: [large, dragon, cr10, monster-manual]
+tags: [grande, dragon, cr10, monster-manual]
 cha: 20 (+5)
 wis: 13 (+1)
 int: 16 (+3)

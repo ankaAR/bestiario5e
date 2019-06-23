@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bone Devil Polearm"
-tags: [large, infernal, cr12, monster-manual]
+tags: [grande, infernal, cr12, monster-manual]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 13 (+1)

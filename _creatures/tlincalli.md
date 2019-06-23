@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tlincalli"
-tags: [large, monstruosidad, cr5, volos-guide]
+tags: [grande, monstruosidad, cr5, volos-guide]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 8 (-1)

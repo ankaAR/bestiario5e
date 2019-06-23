@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Centaur"
-tags: [large, monstruosidad, cr2, monster-manual]
+tags: [grande, monstruosidad, cr2, monster-manual]
 cha: 11 (0)
 wis: 13 (+1)
 int: 9 (-1)

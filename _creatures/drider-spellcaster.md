@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drider Spellcaster"
-tags: [large, monstruosidad, cr6, monster-manual]
+tags: [grande, monstruosidad, cr6, monster-manual]
 cha: 12 (+1)
 wis: 16 (+3)
 int: 13 (+1)

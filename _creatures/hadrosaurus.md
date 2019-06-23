@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hadrosaurus"
-tags: [large, bestia, cr1/4, volos-guide]
+tags: [grande, bestia, cr1/4, volos-guide]
 cha: 5 (-3)
 wis: 10 (0)
 int: 2 (-4)

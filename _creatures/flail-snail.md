@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flail Snail"
-tags: [large, elemental, cr3, volos-guide]
+tags: [grande, elemental, cr3, volos-guide]
 cha: 5 (-3)
 wis: 10 (0)
 int: 3 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cloaker"
-tags: [large, aberracion, cr8, monster-manual]
+tags: [grande, aberracion, cr8, monster-manual]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 13 (+1)

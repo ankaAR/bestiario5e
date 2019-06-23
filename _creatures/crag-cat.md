@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Crag Cat"
-tags: [large, bestia, cr1, storm-kings-thunder]
+tags: [grande, bestia, cr1, storm-kings-thunder]
 page_number: 17
 cha: 8 (-1)
 wis: 14 (+2)

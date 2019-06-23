@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Purple Wormling"
-tags: [large, monstruosidad, cr2, storm-kings-thunder]
+tags: [grande, monstruosidad, cr2, storm-kings-thunder]
 cha: 2 (-4)
 wis: 6 (-2)
 int: 1 (-5)

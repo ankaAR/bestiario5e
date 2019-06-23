@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Steel Predator"
-tags: [large, constructo, cr16, mordenkainens-tome-of-foes]
+tags: [grande, constructo, cr16, mordenkainens-tome-of-foes]
 page_number: 239
 cha: 6 (-2)
 wis: 14 (+2)
