@@ -1,5 +1,5 @@
 ---
 layout: tag
 name: Beastias
-tag: beastia
+tag: bestia
 ---
