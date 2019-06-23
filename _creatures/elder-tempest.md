@@ -38,7 +38,7 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Multiattack*** The tempest makes two attacks with its thunderous slam.
 
-***Thunderous Slam*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 23 (4d6 + 9) thunder damage.
+***Thunderous Slam*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 23 (4d6 + 9) thunder damage.
 
 ***Lightning Storm (Recarga 6)*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) puntos de daño por relámpago on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
 

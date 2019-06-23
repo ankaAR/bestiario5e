@@ -34,11 +34,11 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** The abishai can use its Resistencia Pavorosa. It also makes three attacks: one with its morningstar, one with its claw, and one with its bite.
 
-***Morningstar*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8 + 6) puntos de daño perforante.
+***Morningstar*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d8 + 6) puntos de daño perforante.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
+***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d10 + 6) puntos de daño perforante plus 38 (7d10) fire damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (5d10 + 6) puntos de daño perforante plus 38 (7d10) fire damage.
 
 ***Resistencia Pavorosa*** Each creature of the abishai's choice that is within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abishai's Resistencia Pavorosa for the next 24 hours.
 

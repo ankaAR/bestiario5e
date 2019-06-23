@@ -42,4 +42,4 @@ armor_class: "12 (armadura de cuero)"
 
 ***Multiataque.*** Rictavio makes two attacks with his sword cane.
 
-***Sword Cane.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente (wooden cane) or piercing damage (silvered sword).
+***Sword Cane.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente (wooden cane) or piercing damage (silvered sword).

@@ -30,7 +30,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Multiataque.*** The guardian makes two fist attacks.
 
-***Fist.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ### Reactions
 

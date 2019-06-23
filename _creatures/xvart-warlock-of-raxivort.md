@@ -37,4 +37,4 @@ Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, pre
 
 ### Acciones
 
-***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.

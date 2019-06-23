@@ -28,6 +28,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** The myrmidon makes two maul attacks.
 
-***Maul*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
+***Maul*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Thunderous Strike (Recarga 6)*** The myrmidon makes one maul attack. On a hit, the target takes an extra 16 (3d10) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.

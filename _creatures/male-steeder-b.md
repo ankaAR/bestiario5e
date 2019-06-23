@@ -26,6 +26,6 @@ armor_class: "12 (armadura natural)"
 
 ### Acciones
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante más 4 (1d8) poison damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante más 4 (1d8) poison damage.
 
 ***Sticky Leg*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft., one Small or Tiny creature. Hit: The target is stuck to the steeder's leg and is grappled until it escapes (escape DC 12). The steeder can have only one creature grappled at a time.

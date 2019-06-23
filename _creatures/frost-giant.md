@@ -26,6 +26,6 @@ armor_class: "15 (patchwork armor)"
 
 ***Multiataque.*** The giant makes two greataxe attacks.
 
-***Greataxe.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 25 (3d12 + 6) puntos de daño cortante.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 25 (3d12 + 6) puntos de daño cortante.
 
 ***Rock.*** Ranged Weapon Attack: +9 to hit, range 60/240 pies, un objetivo. Impacto: 28 (4d10 + 6) puntos de daño contundente.

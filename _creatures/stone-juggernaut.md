@@ -29,4 +29,4 @@ armor_class: "15 (armadura natural)"
 
 ### Acciones
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 25 (3dl2 +6) puntos de daño contundente. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 25 (3dl2 +6) puntos de daño contundente. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.

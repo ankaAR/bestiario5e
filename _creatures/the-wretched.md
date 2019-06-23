@@ -24,5 +24,5 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 
 ### Acciones
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d10 + 1) puntos de daño perforante, and the Wretched attaches to the target. While attached, the Wretched can't attack, and at the start of each of the Wretched's turns, the target takes 6 (1d10 + 1) necrotic damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d10 + 1) puntos de daño perforante, and the Wretched attaches to the target. While attached, the Wretched can't attack, and at the start of each of the Wretched's turns, the target takes 6 (1d10 + 1) necrotic damage.
 The attached Wretched moves with the target whenever the target moves, requiring none of the Wretched's movement. The Wretched can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach a Wretched.

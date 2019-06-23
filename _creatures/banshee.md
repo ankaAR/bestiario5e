@@ -28,7 +28,7 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ### Acciones
 
-***Corrupting Touch.*** Melee Spell Attack: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (3d6 + 2) necrotic damage.
+***Corrupting Touch.*** Melee Spell Attack: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (3d6 + 2) necrotic damage.
 
 ***Horrifying Visage.*** Each non-undead creature within 60 ft. of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
 

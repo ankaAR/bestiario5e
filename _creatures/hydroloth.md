@@ -41,9 +41,9 @@ damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from n
 
 ***Multiattack*** The hydroloth makes two melee attacks. In place of one of these attacks, it can cast one spell that takes 1 action to cast.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.
+***Claws*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante.
+***Bite*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante.
 
 ***Steal Memory (1/Day)*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 4d6 psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.
 

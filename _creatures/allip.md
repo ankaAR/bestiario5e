@@ -28,7 +28,7 @@ damage_resistances: "acid, fire, lightning, thunder; bludgeoning, piercing, and 
 
 ### Acciones
 
-***Maddening Touch*** Melee Spell Attack: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) psychic damage.
+***Maddening Touch*** Melee Spell Attack: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 17 (4d6 + 3) psychic damage.
 
 ***Whispers of Madness*** The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 7 (1d8 + 3) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and undead are immune to this effect.
 

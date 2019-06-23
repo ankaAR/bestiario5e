@@ -24,4 +24,4 @@ condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
 
 ***Multiataque.*** The spore servant makes two pincer attacks.
 
-***Pincer.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente. The target is grappled (Escape DC 14) if it is a Large or smaller creature and the spore servant doesn't have two other creatures grappled.
+***Pincer.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente. The target is grappled (Escape DC 14) if it is a Large or smaller creature and the spore servant doesn't have two other creatures grappled.

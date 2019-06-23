@@ -34,8 +34,8 @@ damage_resistances: "cold, lightning, necrotic, thunder"
 
 ***Multiattack*** The steel predator makes three attacks: one with its bite and two with its claw.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño perforante.
+***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d6 + 7) puntos de daño perforante.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño cortante.
+***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño cortante.
 
 ***Stunning Roar (Recarga 5-6)*** The steel predator emits a roar in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a creature takes 27 (5d10) thunder damage, drops everything it's holding, and is stunned for 1 minute. On a successful save, a creature takes half as much damage. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

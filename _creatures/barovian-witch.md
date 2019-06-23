@@ -30,6 +30,6 @@ armor_class: "10"
 
 ### Acciones
 
-***Claws (Requires Alter Self).*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño cortante. This attack is magical.
+***Claws (Requires Alter Self).*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d6+1) puntos de daño cortante. This attack is magical.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante.

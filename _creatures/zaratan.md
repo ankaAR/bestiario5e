@@ -36,9 +36,9 @@ The shock wave deals 100 thunder damage to all structures in contact with the gr
 
 ***Multiattack*** The zaratan makes two attacks: one with its bite and one with its stomp.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 20 pies, un objetivo. Impacto: 28 (4d8 + 10) puntos de daño perforante.
+***Bite*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 28 (4d8 + 10) puntos de daño perforante.
 
-***Stomp*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 20 pies, un objetivo. Impacto: 26 (3d10 + 10) puntos de daño contundente.
+***Stomp*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 26 (3d10 + 10) puntos de daño contundente.
 
 ***Spit Rock*** Ranged Weapon Attack: +17 to hit, range 120 ft./240 pies, un objetivo. Impacto: 31 (6d8 + 10) puntos de daño contundente.
 

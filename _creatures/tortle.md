@@ -24,9 +24,9 @@ armor_class: "17 (natural)"
 
 ### Acciones
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.
+***Claws*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.
 
-***Quarterstaff*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
+***Quarterstaff*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
 
 ***Light Crossbow*** Ranged Weapon Attack: +2 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.
 

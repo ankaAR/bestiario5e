@@ -23,4 +23,4 @@ armor_class: "14 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño perforante. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño perforante. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.

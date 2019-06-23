@@ -30,6 +30,6 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 ***Multiataque.*** The umber hulk makes three attacks: two with its claws and one with its mandibles.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8 + 5) puntos de daño cortante.
 
-***Mandibles.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.
+***Mandibles.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d8 + 5) puntos de daño cortante.

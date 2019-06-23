@@ -33,4 +33,4 @@ At will: feather fall, mage hand (the hand is invisible)
 
 ***Multiataque.*** The quaggoth makes two claw attacks.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.

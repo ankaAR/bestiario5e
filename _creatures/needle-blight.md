@@ -21,6 +21,6 @@ condition_immunities: "blinded, deafened"
 
 ### Acciones
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño perforante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (2d4 + 1) puntos de daño perforante.
 
 ***Needles.*** Ranged Weapon Attack: +3 to hit, range 30/60 pies, un objetivo. Impacto: 8 (2d6 + 1) puntos de daño perforante.

@@ -39,4 +39,4 @@ armor_class: "17 (splint)"
 
 ***Multiataque.*** Blagothkus attacks twice with his morningstar.
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8 + 8) puntos de daño perforante.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) puntos de daño perforante.

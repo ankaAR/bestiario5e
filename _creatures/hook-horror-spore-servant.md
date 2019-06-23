@@ -24,4 +24,4 @@ damage_resistances: "poison"
 
 ***Multiataque.*** The spore servant makes two hyook attacks.
 
-***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.
+***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.

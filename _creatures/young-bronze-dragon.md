@@ -27,9 +27,9 @@ armor_class: "18 (armadura natural)"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante.
 
 ***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 

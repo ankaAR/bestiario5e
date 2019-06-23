@@ -28,7 +28,7 @@ condition_immunities: "blinded, deafened"
 
 ***Multiataque.*** The blight makes four attacks: two with its branches and two with its grasping roots, If it has a target grappled, the blight can also make a bite attack against the target as a bonus action.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 19 (3d8+6) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 19 (3d8+6) puntos de daño perforante.
 
 ***Branch.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 ft., one target. Hit (3d6+6) puntos de daño contundente.
 

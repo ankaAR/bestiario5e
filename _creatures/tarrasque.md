@@ -32,13 +32,13 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Multiataque.*** The tarrasque can use its Resistencia Pavorosa. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tai l. It can use its Swallow instead of its bite.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 36 (4d12 + 10) puntos de daño perforante. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 36 (4d12 + 10) puntos de daño perforante. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 28 (4d8 + 10) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 28 (4d8 + 10) puntos de daño cortante.
 
-***Horns.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies, un objetivo. Impacto: 32 (4d10 + 10) puntos de daño perforante.
+***Horns.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 32 (4d10 + 10) puntos de daño perforante.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 24 (4d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 24 (4d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 
 ***Resistencia Pavorosa.*** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Resistencia Pavorosa for the next 24 hours.
 

@@ -19,4 +19,4 @@ armor_class: "11 (armadura natural)"
 
 ### Acciones
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d10+2) puntos de daño contundente.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d10+2) puntos de daño contundente.

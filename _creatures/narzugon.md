@@ -34,7 +34,7 @@ damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmag
 
 ***Multiattack*** The narzugon uses its Infernal Command or Terrifying Command. It also makes three hellfire lance attacks.
 
-***Hellfire Lance*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (1d12 + 5) puntos de daño perforante plus 16 (3d10) fire damage. If this damage kills a creature, the creature's soul rises from the River Styx as a lemure in Avernus in 1d4 hours.
+***Hellfire Lance*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (1d12 + 5) puntos de daño perforante plus 16 (3d10) fire damage. If this damage kills a creature, the creature's soul rises from the River Styx as a lemure in Avernus in 1d4 hours.
 If the creature isn't revived before then, only a wish spell or killing the lemure and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.
 
 ***Infernal Command*** Each ally of the narzugon within 60 feet of it can't be charmed or frightened until the end of the narzugon's next turn.

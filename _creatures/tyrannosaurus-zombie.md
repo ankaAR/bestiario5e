@@ -27,6 +27,6 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The tyrannosaurus zombie makes two attacks: one with its bite and one with it s tail. It can't make both attacks against the same target.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 33 (4d12 +7) puntos de daño perforante. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained and the tyrannosaurus zombie can't bite another target or disgorg e zombies.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 33 (4d12 +7) puntos de daño perforante. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained and the tyrannosaurus zombie can't bite another target or disgorg e zombies.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 +7) puntos de daño contundente.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (3d8 +7) puntos de daño contundente.

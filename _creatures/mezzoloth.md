@@ -36,7 +36,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Multiataque.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d4 + 4) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d4 + 4) puntos de daño cortante.
 
 ***Trident.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante when held with two claws and used to make a melee attack.
 

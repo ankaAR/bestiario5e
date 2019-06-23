@@ -38,11 +38,11 @@ armor_class: "17 (studded leather armor +1)"
 
 ***Multiataque.*** Ezmerelda makes three attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword.
 
-***Rapier +1.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8+5) puntos de daño perforante.
+***Rapier +1.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8+5) puntos de daño perforante.
 
 ***Handaxe +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 6 (1d6+3) puntos de daño cortante.
 
-***Silvered Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.
+***Silvered Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.
 
 ***Curse (Recharges after a Long Rest).*** Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Ezmerelda takes 3d6 psychic damage.
 

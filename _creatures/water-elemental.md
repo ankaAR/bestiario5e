@@ -29,7 +29,7 @@ damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical w
 
 ***Multiataque.*** The elemental makes two slam attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.
 
 ***Whelm (Recarga 4-6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) puntos de daño contundente. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
 

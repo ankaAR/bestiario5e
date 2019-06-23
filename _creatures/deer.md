@@ -18,4 +18,4 @@ armor_class: "13"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d4) puntos de daño perforante.

@@ -32,9 +32,9 @@ armor_class: "16 (breastplate)"
 
 ***Multiataque.*** Thurl makes two melee attacks.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
 
-***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante.
+***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante.
 
 ### Reactions
 

@@ -43,14 +43,14 @@ At will: alter self (can become Medium-sized when changing his appearance), dete
 
 ***Multiataque.*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 23 (4d6 + 9) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 23 (4d6 + 9) puntos de daño perforante.
 
-***Fist.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 27 (4d8 + 9) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 27 (4d8 + 9) puntos de daño contundente.
 
 ### Acciones Legendarias
 
 Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creautre's turn. Fraz-Urb'luu regains spent legendary actions at the start of his turn.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 31 (4d10 + 9) puntos de daño contundente. If the target is a Large or smaller creature, it is also grappled (escape DC 24). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 31 (4d10 + 9) puntos de daño contundente. If the target is a Large or smaller creature, it is also grappled (escape DC 24). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.
 
 ***Phantasmal Killer (cuesta 2 acciones).*** Fraz-Urb'luu casts phantasmal killer, no concentration required.

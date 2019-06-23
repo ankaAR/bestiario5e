@@ -31,4 +31,4 @@ At will: mage hand (the hand is invisible)
 
 ***Multiataque.*** The githzerai makes two unarmed strikes.
 
-***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente plus 13 (3d8) psychic damage. This is a magic weapon attack.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente plus 13 (3d8) psychic damage. This is a magic weapon attack.

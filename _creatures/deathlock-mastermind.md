@@ -35,6 +35,6 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ### Acciones
 
-***Deathly Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (3d6 + 3 necrotic damage).
+***Deathly Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (3d6 + 3 necrotic damage).
 
 ***Grave Bolts*** Ranged Spell Attack: +6 to hit, range 120 ft., one or two targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success.

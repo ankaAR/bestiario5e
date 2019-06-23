@@ -25,8 +25,8 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d10 + 3) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d10 + 3) puntos de daño cortante.
 
-***Dagger.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.
 
 ***Intoxicating Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.

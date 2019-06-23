@@ -29,10 +29,10 @@ armor_class: "15 (armadura natural)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d6 + 1) puntos de daño perforante, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (2d4 + 1) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (2d4 + 1) puntos de daño cortante.
 
 ***Variant: Weapons Multiattack.*** The thri-kreen makes two gythka attacks or two chatkcha attacks.
 
-***Variant: Gythka.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante.
+***Variant: Gythka.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante.
 
 ***Variant: Chatkcha.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño cortante.

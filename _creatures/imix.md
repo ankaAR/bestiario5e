@@ -44,7 +44,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** Imix makes two slam attacks or two flame blast attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) puntos de daño contundente plus 18 (5d6) fire damage.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 18 (2d10 + 7) puntos de daño contundente plus 18 (5d6) fire damage.
 
 ***Flame Blast.*** Ranged Spell Attack: +12 to hit, range 250 pies, un objetivo. Impacto: 35 (10d6) fire damage.
 

@@ -33,4 +33,4 @@ Cantrips (at-will): guidance, mending, resistance, thaumaturgy
 
 ### Acciones
 
-***Touch of the White Hand.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d8) necrotic damage.
+***Touch of the White Hand.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d8) necrotic damage.

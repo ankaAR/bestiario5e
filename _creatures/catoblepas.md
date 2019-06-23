@@ -23,6 +23,6 @@ armor_class: "14 (armadura natural)"
 
 ### Acciones
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (5d6+4) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be stunned until the start of the catoblepas's next turn.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (5d6+4) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be stunned until the start of the catoblepas's next turn.
 
 ***Death Ray (Recarga 5-6).*** The catoblepas targets a creature that it can see within 30 feet of it. The target must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the target instead takes 64 necrotic damage. The target dies if reduced to 0 hit points by this ray.

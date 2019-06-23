@@ -21,6 +21,6 @@ armor_class: "12"
 
 ***Multiataque.*** The ape makes two fist attacks.
 
-***Fist.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
 ***Rock.*** Ranged Weapon Attack: +5 to hit, range 25/50 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.

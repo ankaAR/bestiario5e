@@ -28,6 +28,6 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Multiataque.*** The shoosuva makes two attacks: one with its bite and one with its tail stinger.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 26 (4d10+4) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 26 (4d10+4) puntos de daño perforante.
 
 ***Tail Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 15 ft, one creature. Hit: 13 (2d8+4) puntos de daño perforante, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

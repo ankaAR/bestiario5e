@@ -23,13 +23,13 @@ armor_class: "22 (armadura natural)"
 
 ### Acciones
 
-***Multiataque.*** The dragon can use its Resistencia Pavorosa. It then makes three attacks: one with its bite and two with its claws.
+***Multiataque.*** El dragón puede usar su Resistencia Pavorosa. Luego realiza tres ataques: uno con su mordisco y dos con sus garras.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 20 (2d10 + 9) puntos de daño perforante plus 11 (2d10) puntos de daño por relámpago.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 20 (2d10 + 9) puntos de daño perforante plus 11 (2d10) puntos de daño por relámpago.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d6 + 9) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 16 (2d6 + 9) puntos de daño cortante.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies, un objetivo. Impacto: 18 (2d8 + 9) puntos de daño contundente.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 18 (2d8 + 9) puntos de daño contundente.
 
 ***Resistencia Pavorosa.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Resistencia Pavorosa for the next 24 hours.
 

@@ -34,7 +34,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ### Acciones
 
-***Slam*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, and the target must succeed on a DC 19 Constitution saving throw or be poisoned until the end of its next turn.
+***Slam*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, and the target must succeed on a DC 19 Constitution saving throw or be poisoned until the end of its next turn.
 
 ***Plague of Worms (Recarga 6)*** Each creature other than a star spawn within 10 feet of the larva mage must make a DC 19 Dexterity saving throw. On a failure the target takes 22 (5d8) necrotic damage and is blinded and restrained by masses of swarming worms. The affected creature takes 22 (5d8) necrotic damage at the start of each of the larva mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

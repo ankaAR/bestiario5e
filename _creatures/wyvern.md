@@ -24,6 +24,6 @@ armor_class: "13 (armadura natural)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 11 (2d6 + 4) puntos de daño perforante.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
 ***Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 11 (2d6 + 4) puntos de daño perforante. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.

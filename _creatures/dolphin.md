@@ -24,4 +24,4 @@ armor_class: "12 (armadura natural)"
 
 ### Acciones
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6+2) puntos de daño contundente.

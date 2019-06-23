@@ -43,7 +43,7 @@ condition_immunities: "exhaustion, frightened, poisoned"
 
 ***Multiataque.*** The death knight makes three longsword attacks.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.
 
 ***Hellfire Orb (1/día).*** The death knight hurls a magical ball of fire that explodes at a point it can see within 120 feet of it. Each creature in a 20-foot-radius sphere centered on that point must make a DC 18 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one.
 

@@ -27,7 +27,7 @@ Cantrips (at will): blade ward, fire bolt, mending, prestidigitation
 
 ### Acciones
 
-**Rapier.** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.
+**Rapier.** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d8) puntos de daño perforante.
 
 ### Reactions
 

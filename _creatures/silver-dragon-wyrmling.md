@@ -23,7 +23,7 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante.
 
 ***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 

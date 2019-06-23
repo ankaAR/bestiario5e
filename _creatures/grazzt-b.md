@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Graz'zt attacks twice with Wave of Sorrow.
 
-***Wave of Sorrow (Greatsword)*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (4d6 + 6) slashing damage plus 10 (3d6) puntos de daño por ácido.
+***Wave of Sorrow (Greatsword)*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (4d6 + 6) slashing damage plus 10 (3d6) puntos de daño por ácido.
 
 ***Teleport*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

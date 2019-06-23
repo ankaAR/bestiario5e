@@ -25,4 +25,4 @@ condition_immunities: "blinded, deafened"
 
 ### Acciones
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.

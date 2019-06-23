@@ -45,6 +45,6 @@ damage_resistances: "cold"
 
 ***Multiataque.*** Gar makes two melee attacks, one with his claw and one with Drown.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
 
 ***Drown.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante más 4 (1d8) cold damage.

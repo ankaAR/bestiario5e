@@ -30,6 +30,6 @@ armor_class: "12 (armadura natural)"
 
 ***Multiataque.*** The yeti can use its Chilling Gaze and makes two claw attacks.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
 
 ***Chilling Gaze.*** The yeti targets one creature it can see within 30 ft. of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.

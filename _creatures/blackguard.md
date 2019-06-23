@@ -31,7 +31,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The blackguard makes three attacks with its glaive or its shortbow.
 
-***Glaive.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10+4) puntos de daño cortante.
+***Glaive.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 9 (1d10+4) puntos de daño cortante.
 
 ***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante.
 

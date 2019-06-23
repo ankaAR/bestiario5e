@@ -35,8 +35,8 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Multiataque.*** The goristro makes three attacks: two with its fists and one with its hoof.
 
-***Fist.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 + 7) puntos de daño contundente.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (3d8 + 7) puntos de daño contundente.
 
-***Hoof.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 23 (3d10 + 7) puntos de daño contundente. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
+***Hoof.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 23 (3d10 + 7) puntos de daño contundente. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone.
 
-***Gore.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies, un objetivo. Impacto: 45 (7d10 + 7) puntos de daño perforante.
+***Gore.*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 45 (7d10 + 7) puntos de daño perforante.

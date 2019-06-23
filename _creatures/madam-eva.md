@@ -42,7 +42,7 @@ armor_class: "10"
 
 ### Acciones
 
-***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante.
+***Dagger.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d4) puntos de daño perforante.
 
 ***Curse (Recharges after a Long Rest).*** Madam Eva targets one creature that she can see within 30 feet of her. The target must succeed on a DC 17 Wisdom saving throw or be cursed. While cursed, the target is blinded and deafened. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage.
 

@@ -32,7 +32,7 @@ Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (
 
 ### Acciones
 
-***Pummel.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente.
+***Pummel.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente.
 
 ***Oil Puddle.*** The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is difficult terrain For all creatures except boggles and lasts for 1 hour.
 

@@ -24,4 +24,4 @@ armor_class: "13 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Weapon Attack: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (3d10 + 6) puntos de daño perforante.
+***Mordisco.*** Weapon Attack: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (3d10 + 6) puntos de daño perforante.

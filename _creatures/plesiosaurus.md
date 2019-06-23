@@ -21,4 +21,4 @@ armor_class: "13 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6 + 4) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 14 (3d6 + 4) puntos de daño perforante.

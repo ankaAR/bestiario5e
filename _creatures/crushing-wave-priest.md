@@ -30,4 +30,4 @@ armor_class: "13 (chain shirt)"
 
 ### Acciones
 
-***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño contundente.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8 + 2) puntos de daño contundente.

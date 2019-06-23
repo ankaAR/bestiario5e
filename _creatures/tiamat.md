@@ -40,9 +40,9 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Multiataque.*** Tiamat can use her Resistencia Pavorosa. She then makes three attacks: two with her claws and one with her tail.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies, un objetivo. Impacto: 24 (4d6 + 10) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 24 (4d6 + 10) puntos de daño cortante.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 25 pies, un objetivo. Impacto: 28 (4d8 + 10) puntos de daño perforante.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 25 pies (7.5 mts), un objetivo. Impacto: 28 (4d8 + 10) puntos de daño perforante.
 
 ***Resistencia Pavorosa.*** Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of her must succeed on a DC 26 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Tiamat's Resistencia Pavorosa for the next 24 hours.
 
@@ -54,7 +54,7 @@ The tiamat can take 3 legendary actions, choosing from the options below. Only o
 
 Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.
 
-Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies, un objetivo. Impacto: 32 (4d10 + 10) slashing damage plus 14 (4d6) puntos de daño por ácido (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
+Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 32 (4d10 + 10) slashing damage plus 14 (4d6) puntos de daño por ácido (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
 
 ***Black Dragon Head: Acid Breath (cuesta 2 acciones).*** Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 

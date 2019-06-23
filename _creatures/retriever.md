@@ -32,7 +32,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Multiattack*** The retriever makes two foreleg attacks and uses its force or paralyzing beam once, if available.
 
-***Foreleg*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (2d8 + 6) puntos de daño cortante.
+***Foreleg*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 15 (2d8 + 6) puntos de daño cortante.
 
 ***Force Beam*** The retriever targets one creature it can see within 60 feet of it. The target must make a DC 16 Dexterity saving throw, taking 27 (5d10) force damage on a failed save, or half as much damage on a successful one.
 

@@ -33,6 +33,6 @@ Whenever the eladrin deals damage to the charmed creature, it can repeat the sav
 
 ### Acciones
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.

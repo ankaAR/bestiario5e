@@ -45,6 +45,6 @@ At will: dancing lights
 
 ### Acciones
 
-***Staff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands, plus 3 (1d6) poison damage.
+***Staff.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente, or 3 (1d8-1) puntos de daño contundente if used with two hands, plus 3 (1d6) poison damage.
 
 ***Summon Demon (1/Día).*** The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.

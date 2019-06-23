@@ -38,4 +38,4 @@ armor_class: "19 (armadura natural)"
 
 ### Acciones
 
-***Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente.
+***Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente.

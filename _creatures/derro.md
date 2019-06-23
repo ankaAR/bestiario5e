@@ -26,6 +26,6 @@ armor_class: "13 (armadura de cuero)"
 
 ### Acciones
 
-***Hooked Spear*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño perforante. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
+***Hooked Spear*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d6) puntos de daño perforante. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
 
 ***Light Crossbow*** Ranged Weapon Attack: +4 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.

@@ -95,8 +95,8 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiataque.*** The annis makes three attacks: one with her bite and two with her claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 15 (3d6+5) puntos de daño perforante.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (3d6+5) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 15 (3d6+5) puntos de daño cortante.
 
-***Crushing Hug.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 36 (9d6+5) puntos de daño contundente, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6+5) puntos de daño contundente at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+***Crushing Hug.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 36 (9d6+5) puntos de daño contundente, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6+5) puntos de daño contundente at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.

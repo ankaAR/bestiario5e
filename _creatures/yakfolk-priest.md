@@ -38,6 +38,6 @@ The possession lats until either the body drops to 0 hit points, the yakfolk end
 
 ***Multiataque.*** The yakfolk makes two attacks, either with it's greatsword or its longbow
 
-***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6+3) puntos de daño contundente, or 12 (2d8+3) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6+3) puntos de daño contundente, or 12 (2d8+3) puntos de daño contundente if used with two hands.
 
 ***Summon Earth Elemental (1/día).*** The yakfolk summons an earth elemental. The elemental appears in an unoccupied space within 60 feet of its summoner and acts as an ally of the summoner. It remains for 10 minutes, until it dies, or until its summoner dismisses it as an action.

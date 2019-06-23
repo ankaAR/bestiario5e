@@ -20,7 +20,7 @@ armor_class: "15 (breastplate)"
 
 ### Acciones
 
-***Rapier.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante.
+***Rapier.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante.
 
 ### Reactions
 

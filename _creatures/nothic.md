@@ -25,7 +25,7 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The nothic makes two claw attacks.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
 ***Rotting Gaze.*** The nothic targets one creature it can see within 30 ft. of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
 

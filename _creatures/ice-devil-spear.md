@@ -30,13 +30,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The devil makes two attacks: one with its spear and one with its tail.
 
-***Ice Spear.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (2d8 + 5) puntos de daño perforante plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Ice Spear.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 14 (2d8 + 5) puntos de daño perforante plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw, or for 1 minute, its speed is reduced by 10 feet; it can take either an action or a bonus action on each of its turns, not both; and it can't take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño perforante plus 10 (3d6) cold damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6 + 5) puntos de daño perforante plus 10 (3d6) cold damage.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente plus 10 (3d6) cold damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente plus 10 (3d6) cold damage.
 
 ***Wall of Ice.*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
 

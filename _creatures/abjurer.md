@@ -43,4 +43,4 @@ Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
 
 ### Acciones
 
-***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6-l) puntos de daño contundente, or 3 (1d8-l) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d6-l) puntos de daño contundente, or 3 (1d8-l) puntos de daño contundente if used with two hands.

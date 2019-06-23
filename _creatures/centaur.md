@@ -24,8 +24,8 @@ armor_class: "12"
 
 ***Multiataque.*** The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
-***Pike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante.
+***Pike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante.
 
-***Hooves.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
+***Hooves.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.

@@ -23,4 +23,4 @@ damage_resistances: "piercing"
 
 ### Acciones
 
-***Rake.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 1 (1d4 - 1) puntos de daño cortante.
+***Rake.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 1 (1d4 - 1) puntos de daño cortante.

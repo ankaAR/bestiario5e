@@ -26,9 +26,9 @@ condition_immunities: "charmed, frightened"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (5d6+5) puntos de daño perforante, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (5d6+5) puntos de daño perforante, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.
 
-***Tongue.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (3d6) necrotic damage, and the target must make a DC 15 Strength savng throw. On a failed save, the target is pulled to a space within 5 feet of the banderhobb, which can use a bonus action to make a bite attack against the target.
+***Tongue.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 10 (3d6) necrotic damage, and the target must make a DC 15 Strength savng throw. On a failed save, the target is pulled to a space within 5 feet of the banderhobb, which can use a bonus action to make a bite attack against the target.
 
 ***Swallow.*** The banderhobb makes a bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb and it takes 10 (3d6) necrotic damage at the start of each of the banderhobb's turns. A creature reduced to 0 hit points in this way stops taking necrotic damage and becomes stable.
 

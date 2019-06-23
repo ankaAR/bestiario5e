@@ -28,9 +28,9 @@ damage_resistances: "fire, lightning"
 
 ***Multiataque.*** The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite.
 
-***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 20 pies, un objetivo. Impacto: 19 (3d8+6) puntos de daño contundente, and the target is grappled (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles.
+***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 19 (3d8+6) puntos de daño contundente, and the target is grappled (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (3d10+6) puntos de daño perforante, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) puntos de daño por ácido at the start of each of the froghemoth's turns.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (3d10+6) puntos de daño perforante, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) puntos de daño por ácido at the start of each of the froghemoth's turns.
 
 >The froghemoth's gullet can hold up to two creatures at a time. If the Froghemoth takes 20 damage or more on a single turn from a creature inside it, the Froghemoth must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls prone in a space within 10 feet of the froghemoth. If the froghemoth dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
 

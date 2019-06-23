@@ -22,4 +22,4 @@ armor_class: "11 (armadura natural)"
 
 ### Acciones
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies, un objetivo. Impacto: 1 bludgeoning damage.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +0 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 1 bludgeoning damage.

@@ -24,7 +24,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The knight makes two melee attacks.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 pies, un objetivo. Impacto: 5 (1d10) puntos de daño perforante.
 

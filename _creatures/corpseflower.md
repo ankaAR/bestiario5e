@@ -33,6 +33,6 @@ While it has at least one humanoid corpse in its body, the corpse flower can use
 
 ***Multiattack*** The corpse flower makes three tentacle attacks.
 
-***Tentacle*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target must succeed on a DC 14 Constitution saving throw or take 14 (4d6) poison damage.
+***Tentacle*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target must succeed on a DC 14 Constitution saving throw or take 14 (4d6) poison damage.
 
 ***Harvest the Dead*** The corpse flower grabs one unsecured dead humanoid within 10 feet of it and stuffs the corpse into itself, along with any equipment the corpse is wearing or carrying. The remains can be used with the Corpses trait.

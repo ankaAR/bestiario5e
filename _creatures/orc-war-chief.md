@@ -28,7 +28,7 @@ armor_class: "16 (chain mail)"
 
 ***Multiataque.*** The orc makes two attacks with its greataxe or its spear.
 
-***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (1d12 + 4 plus 1d8) puntos de daño cortante.
+***Greataxe.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 15 (1d12 + 4 plus 1d8) puntos de daño cortante.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 12 (1d6 + 4 plus 1d8) puntos de daño perforante, or 13 (2d8 + 4) puntos de daño perforante if used with two hands to make a melee attack.
 

@@ -22,4 +22,4 @@ armor_class: "11 (armadura natural)"
 
 ### Acciones
 
-***Ram.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (2d4 + 3) puntos de daño contundente.
+***Ram.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (2d4 + 3) puntos de daño contundente.

@@ -32,8 +32,8 @@ damage_resistances: "necrotic"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño perforante plus 3 (1d6) necrotic damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 17 (2d10 + 6) puntos de daño perforante plus 3 (1d6) necrotic damage.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante.
 
 ***Shadow Breath (Recarga 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (16d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead shadow rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.

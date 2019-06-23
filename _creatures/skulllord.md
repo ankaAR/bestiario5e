@@ -43,7 +43,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
-***Bone Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
+***Bone Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
 
 ### Acciones Legendarias
 

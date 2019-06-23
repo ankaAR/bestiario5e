@@ -32,4 +32,4 @@ armor_class: "13 (chain shirt)"
 
 ### Acciones
 
-***Mace.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño contundente.
+***Mace.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d6) puntos de daño contundente.

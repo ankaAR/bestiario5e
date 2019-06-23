@@ -39,4 +39,4 @@ Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
 ### Acciones
 
-***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with two hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with two hands.

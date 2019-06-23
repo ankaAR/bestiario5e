@@ -35,8 +35,8 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** The abishai makes two attacks: one with its longsword and one with its claw.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
+***Claw*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) cold damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) cold damage.

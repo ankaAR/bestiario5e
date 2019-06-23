@@ -32,9 +32,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiataque.*** The kraken makes three tentacle attacks. One of them can be replaced with a bite attack, and any of them can be replaced with Fling.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante.
 
-***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 20 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño contundente, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
+***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 14 (2d6 + 7) puntos de daño contundente, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
 
 ***Fling.*** One Medium or smaller object held or creature grappled by the kraken's tentacles is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) puntos de daño contundente for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 16 Dexterity saving throw or take the same damage and be knocked prone.
 

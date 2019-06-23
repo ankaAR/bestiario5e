@@ -36,4 +36,4 @@ At will: darkness
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 16 (2d10+5) puntos de daño perforante.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 16 (2d10+5) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 16 (2d10+5) puntos de daño cortante.

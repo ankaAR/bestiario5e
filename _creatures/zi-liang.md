@@ -25,7 +25,7 @@ senses: "passive Perception 15"
 
 ***Multiataque.*** Zi makes two melee attacks.
 
-***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with both hands.
+***Quarterstaff.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d6+1) puntos de daño contundente, or 5 (1d8+1) puntos de daño contundente if used with both hands.
 
 ***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente. Zi carries twenty sling stones.
 

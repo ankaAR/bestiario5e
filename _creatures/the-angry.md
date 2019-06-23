@@ -30,4 +30,4 @@ On its turn, the Angry has disadvantage on attack rolls if no other creature has
 
 ***Multiattack*** The Angry makes two hook attacks.
 
-***Hook*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d12 + 3) puntos de daño perforante.
+***Hook*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 16 (2d12 + 3) puntos de daño perforante.

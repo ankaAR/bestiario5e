@@ -31,4 +31,4 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante, or 13 (2d8 + 4) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.

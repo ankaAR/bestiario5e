@@ -33,6 +33,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiataque.*** The phantom warrior makes two attacks with its spectral longsword.
 
-***Spectral Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8+3) force damage.
+***Spectral Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8+3) force damage.
 
 ***Etherealness.*** The phantom warrior enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.

@@ -37,6 +37,6 @@ armor_class: "13"
 
 ***Bite (Bat or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (1d6 + 3) puntos de daño perforante, and the werebat gains temporary hit points equal to the damage dealt. If the target is a humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with werebat lycanthropy.
 
-***Scimitar (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
+***Scimitar (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
 ***Shortbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.

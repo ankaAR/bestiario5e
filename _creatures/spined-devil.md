@@ -33,8 +33,8 @@ damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical w
 
 ***Multiataque.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (2d4) puntos de daño cortante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (2d4) puntos de daño cortante.
 
-***Fork.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 3 (1d6) puntos de daño perforante.
+***Fork.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d6) puntos de daño perforante.
 
 ***Tail Spine.*** Ranged Weapon Attack: +4 to hit, range 20/80 ft ., one target. Hit: 4 (1d4 + 2) puntos de daño perforante plus 3 (1d6) fire damage.

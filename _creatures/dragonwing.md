@@ -32,4 +32,4 @@ damage_resistances: "one of the following: acid, cold, fire, lightning, or poiso
 
 ***Multiataque.*** The dragonwing attacks twice with its scimitar.
 
-***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has resistance.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has resistance.

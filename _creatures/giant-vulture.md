@@ -26,6 +26,6 @@ armor_class: "10"
 
 ***Multiataque.*** The vulture makes two attacks: one with its beak and one with its talons.
 
-***Beak.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (2d4 + 2) puntos de daño perforante.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (2d4 + 2) puntos de daño perforante.
 
-***Talons.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño cortante.
+***Talons.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño cortante.

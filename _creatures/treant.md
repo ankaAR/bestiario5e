@@ -27,7 +27,7 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Multiataque.*** The treant makes two slam attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (3d6 + 6) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 16 (3d6 + 6) puntos de daño contundente.
 
 ***Rock.*** Ranged Weapon Attack: +10 to hit, range 60/180 pies, un objetivo. Impacto: 28 (4d10 + 6) puntos de daño contundente.
 

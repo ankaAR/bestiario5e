@@ -28,6 +28,6 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ### Acciones
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) puntos de daño por relámpago.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 3 (1d6) puntos de daño por relámpago.
 
 ***Lightning Flare (Recharges after a Short or Long Rest)*** Each creature in contact with the ground within 15 feet of the bronze scout must make a DC 13 Dexterity saving throw, taking 14 (4d6) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

@@ -32,7 +32,7 @@ armor_class: "17 (armadura natural)"
 
 ***Tentáculos.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 12 (2d6 + 5) puntos de daño contundente. Si el objetivo es una criatura, debe superar una tirada de salvación de Constitución CD 14 para no quedar enferma. La enfermedad empieza a tener efecto después de 1 minuto, tiempo durante el cual se puede eliminar mediante cualquier magia que cure una enfermedad. Después de 1 minuto, la piel de la criatura enferma se vuelve translúcida y viscosa, la criatura no puede recuperar puntos de golpe a menos que se encuentre bajo el agua y la enfermedad solo se puede eliminar con Sanar u otro conjuro de nivel 6 o superior que cure enfermedades. Cuando la criatura está fuera del agua, recibe 6 (1d12) puntos de daño por ácido cada 10 minutos a menos que se le aplique algo húmedo sobre la piel en ese tiempo.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies, un objetivo. Impacto: 15 (3d6 + 5) puntos de daño contundente.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 15 (3d6 + 5) puntos de daño contundente.
 
 ***Esclavizar (3/día).*** El abolez elige a una criatura que pueda ver a 30 pies (9 mts) o menos de él. El objetivo debe superar una tirada de salvación de Sabiduría CD 14 para no quedar hechizado mágicamente por el abolez hasta que este muera o se encuentre en un plano de existencia diferente al plano en el que se encuentre el objetivo. El objetivo hechizado está bajo el control del abolez y no puede realizar reacciones, y ambos se pueden comunicar telepáticamente entre sí a cualquier distancia.
 

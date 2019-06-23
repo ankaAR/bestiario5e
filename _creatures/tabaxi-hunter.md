@@ -25,8 +25,8 @@ armor_class: "14 (armadura de cuero)"
 
 ***Multiataque.*** The tabaxi makes two attacks with its claws, its shortsword, or its shortbow.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (ld4) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +2 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (ld4) puntos de daño cortante.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (l d6 +3) puntos de daño cortante.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (l d6 +3) puntos de daño cortante.
 
 ***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (ld6 +3) puntos de daño perforante.

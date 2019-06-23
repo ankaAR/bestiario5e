@@ -20,6 +20,6 @@ armor_class: "10"
 
 ### Acciones
 
-***Ram.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
+***Ram.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente.
 
 ***Hooves.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one prone creature. Hit: 8 (2d4 + 3) puntos de daño contundente.

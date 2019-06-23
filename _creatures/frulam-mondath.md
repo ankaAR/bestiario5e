@@ -33,4 +33,4 @@ armor_class: "16 (chain mail)"
 
 ***Multiataque.*** Frulam attacks twice with her halberd.
 
-***Halberd.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 7 (1d10 + 2) puntos de daño contundente.
+***Halberd.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 7 (1d10 + 2) puntos de daño contundente.

@@ -26,7 +26,7 @@ damage_resistances: "blugdeoning, piercing"
 
 ***Multiataque.*** Lifferlas makes two slam attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (3d6+4) puntos de daño contundente.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 14 (3d6+4) puntos de daño contundente.
 
 ### Roleplaying Information
 

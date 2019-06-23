@@ -27,4 +27,4 @@ armor_class: "13"
 
 ***Multiataque.*** The eblis attacks twice with its beak.
 
-***Beak.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 +3) puntos de daño perforante.
+***Beak.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 +3) puntos de daño perforante.

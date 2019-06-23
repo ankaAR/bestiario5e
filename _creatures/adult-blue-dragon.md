@@ -27,11 +27,11 @@ armor_class: "19"
 
 ***Multiataque.*** El dragón puede usar su Resistencia Pavorosa. Luego realiza tres ataques: uno con su mordisco y dos con sus garras.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (2d10 + 7) puntos de daño perforante más 5 (1d10) puntos de daño por relámpago.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 18 (2d10 + 7) puntos de daño perforante más 5 (1d10) puntos de daño por relámpago.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d6 + 7) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d6 + 7) puntos de daño cortante.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño contundente.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño contundente.
 
 ***Resistencia Pavorosa.*** Toda criatura que elija el dragón, que se encuentre a 120 pies (36 mts) o menos de él y que sea consciente de su presencia debe superar una tirada de salvación de Sabiduría CD 17 para no quedar asustada durante 1 minuto. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos; si tiene éxito, el efecto termina. Cuando el efecto termine de la manera que sea, la criatura se vuelve inmune a la presencia pavorosa del dragón durante las siguientes 24 horas.
 

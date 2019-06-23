@@ -23,7 +23,7 @@ armor_class: "14 (armadura natural)"
 
 ***Multiataque.*** The lizard makes two attacks: one with its bite and one with its tail. One attack can be replaced by Swallow.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the lizard can't bite another target.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 16 (2d10 + 5) puntos de daño perforante, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the lizard can't bite another target.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 ft., one target not grappled by the lizard. Hit: 12 (2d6 + 5) puntos de daño contundente. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 

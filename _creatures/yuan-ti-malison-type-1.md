@@ -45,6 +45,6 @@ Type 3: Human head and upper body with a serpentine lower body instead of legs
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 7 (2d6) poison damage.
 
-***Scimitar (Yuan_ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
+***Scimitar (Yuan_ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
 ***Longbow (Yuan_ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante plus 7 (2d6) poison damage.

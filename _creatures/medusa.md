@@ -31,6 +31,6 @@ If the medusa sees itself reflected on a polished surface within 30 ft. of it an
 
 ***Snake Hair.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d4 + 2) puntos de daño perforante plus 14 (4d6) poison damage.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
 
 ***Longbow.*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante plus 7 (2d6) poison damage.

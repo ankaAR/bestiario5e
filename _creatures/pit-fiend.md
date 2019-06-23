@@ -38,7 +38,7 @@ At will: detect magic, fireball
 
 ***Multiataque.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 5 pies, un objetivo. Impacto: 22 (4d6 + 8) puntos de daño perforante. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (4d6 + 8) puntos de daño perforante. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) puntos de daño cortante.
 

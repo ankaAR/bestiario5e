@@ -27,7 +27,7 @@ armor_class: "14"
 
 ***Multiataque.*** The monk makes two melee attacks.
 
-***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente.
 
 ### Reactions
 

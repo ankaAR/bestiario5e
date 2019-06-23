@@ -27,7 +27,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The warlord makes two weapon attacks.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 12 (2d6+5) puntos de daño cortante.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6+5) puntos de daño cortante.
 
 ***Shortbow.*** Ranged Weapon Attack: +7 to hit, range 80/320 it, one target. Hit: 6 (1d6+3) puntos de daño perforante.
 

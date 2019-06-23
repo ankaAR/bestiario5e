@@ -26,6 +26,6 @@ armor_class: "11"
 
 ### Acciones
 
-***Tentacles.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
+***Tentacles.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 
 ***Ink Cloud (Recharges after a Short or Long Rest).*** A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.

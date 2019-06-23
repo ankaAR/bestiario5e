@@ -39,6 +39,6 @@ condition_immunities: "charmed, exhaustion, frightened"
 
 ***Multiattack*** The soul monger makes two phantasmal dagger attacks.
 
-***Phantasmal Dagger*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (4d4 + 3) puntos de daño perforante plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.
+***Phantasmal Dagger*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (4d4 + 3) puntos de daño perforante plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.
 
 ***Wave of Weariness (Recarga 4-6)*** The soul monger emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes 22 (5d8) psychic damage.

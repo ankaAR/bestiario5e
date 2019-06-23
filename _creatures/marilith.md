@@ -32,7 +32,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Multiataque.*** The marilith can make seven attacks: six with its longswords and one with its tail.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 15 (2d10 + 4) puntos de daño contundente. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
 

@@ -51,7 +51,7 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) puntos de daño por ácido.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) puntos de daño por ácido.
 
 ### Reactions
 

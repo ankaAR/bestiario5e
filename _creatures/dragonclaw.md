@@ -29,4 +29,4 @@ armor_class: "14 (armadura de cuero)"
 
 ***Multiataque.*** The dragonclaw attacks twice with its scimitar.
 
-***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.

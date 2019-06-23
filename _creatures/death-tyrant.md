@@ -28,7 +28,7 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (4d6) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (4d6) puntos de daño perforante.
 
 ***Eye Rays.*** The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 ft. of it:
 

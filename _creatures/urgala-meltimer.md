@@ -25,7 +25,7 @@ senses: "passive Perception 12"
 
 **Multiattack.** Urgala makes two attacks with her morningstar or her shortbow.
 
-**Morningstar.** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante.
+**Morningstar.** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante.
 
 **Shortbow.** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 5 (1d6 + 1) puntos de daño perforante. Urgala carries a quiver of twenty arrows
 

@@ -27,6 +27,6 @@ armor_class: "11 (armadura natural)"
 
 ***Multiataque.*** The zombie makes five attacks: one with its bite and four with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (ld6 +4) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (ld6 +4) puntos de daño perforante.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld4 +4) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (ld4 +4) puntos de daño cortante.

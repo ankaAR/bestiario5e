@@ -27,4 +27,4 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The hook horror makes two hook attacks.
 
-***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.
+***Hook.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.

@@ -27,6 +27,6 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Multiattack*** The screamer makes one drill attack and uses its Sonic Scream.
 
-***Drill*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) puntos de daño perforante.
+***Drill*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d12 + 4) puntos de daño perforante.
 
 ***Sonic Scream*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (2d6) thunder damage and be knocked prone.

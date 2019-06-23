@@ -25,6 +25,6 @@ armor_class: "16 (hide armor, shield)"
 
 ### Acciones
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d8 + 2) puntos de daño perforante.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d8 + 2) puntos de daño perforante.
 
 ***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 9 (2d6 + 2) puntos de daño perforante in melee or 5 (1d6 + 2) puntos de daño perforante at range.

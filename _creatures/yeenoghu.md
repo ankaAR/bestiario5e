@@ -44,9 +44,9 @@ damage_resistances: "cold, fire, lightning"
 2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu's next turn.
 3. The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu's next turn.
 
-***Flail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (1d12 + 9) puntos de daño contundente.
+***Flail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 15 (1d12 + 9) puntos de daño contundente.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies, un objetivo. Impacto: 14 (1d10 + 9) puntos de daño perforante.
+***Bite*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 14 (1d10 + 9) puntos de daño perforante.
 
 ### Acciones Legendarias
 

@@ -33,7 +33,7 @@ damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lig
 
 ### Acciones
 
-***Burning Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 18 (4d8) fire damage.
+***Burning Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 18 (4d8) fire damage.
 
 ***Flaming Orb.*** Ranged Spell Attack: +5 to hit, range 90 pies, un objetivo. Impacto: 40 (9d8) fire damage.
 

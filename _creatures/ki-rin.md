@@ -59,9 +59,9 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 ***Multiataque.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
 
-***Hoof.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies, un objetivo. Impacto: 10 (2d4+5) puntos de daño contundente.
+***Hoof.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 10 (2d4+5) puntos de daño contundente.
 
-***Horn.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 14 (2d8+5) puntos de daño perforante.
+***Horn.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d8+5) puntos de daño perforante.
 
 ### Acciones Legendarias
 

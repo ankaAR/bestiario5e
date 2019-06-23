@@ -48,8 +48,8 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 
 ***Multiataque.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 
-***Bite (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
+***Bite (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
-***Claws (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
+***Claws (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante.

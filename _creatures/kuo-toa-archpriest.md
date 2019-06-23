@@ -45,6 +45,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The kuo-toa makes two melee attacks.
 
-***Scepter.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente plus 14 (4d6) puntos de daño por relámpago.
+***Scepter.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente plus 14 (4d6) puntos de daño por relámpago.
 
-***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente.

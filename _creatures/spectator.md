@@ -22,7 +22,7 @@ condition_immunities: "prone"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies, un objetivo. Impacto: 2 (1d6 - 1) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d6 - 1) puntos de daño perforante.
 
 ***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 ft. of it. It can use each ray only once on a turn.
 

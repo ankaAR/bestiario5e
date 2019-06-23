@@ -27,8 +27,8 @@ armor_class: "10 (in humanoid form, 11 in bear and hybrid forms )"
 
 ***Multiataque.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
-***Bite (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.
+***Bite (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.
 
-***Claw (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
+***Claw (Bear or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante.
 
-***Greataxe (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d12 + 4) puntos de daño cortante.
+***Greataxe (Humanoid or Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d12 + 4) puntos de daño cortante.

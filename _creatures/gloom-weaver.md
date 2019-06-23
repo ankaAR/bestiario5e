@@ -39,4 +39,4 @@ condition_immunities: "charmed, exhaustion"
 
 ***Multiattack*** The gloom weaver makes two spear attacks and casts one spell that takes 1 action to cast.
 
-***Shadow Spear*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) puntos de daño perforante plus 26 (4d12) necrotic damage if used with two hands.
+***Shadow Spear*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) puntos de daño perforante plus 26 (4d12) necrotic damage if used with two hands.

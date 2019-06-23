@@ -28,7 +28,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiataque.*** The giant makes two Lightning Sword attacks or uses Wind Javelin twice.
 
-***Lightning Sword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 15 pies, un objetivo. Impacto: 40 (9d6+9) puntos de daño por relámpago.
+***Lightning Sword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 40 (9d6+9) puntos de daño por relámpago.
 
 ***Windjavelin.*** The giant coalesces wind into a javeIin-like form and hurls it at a creature it can see within 600 feet of it. The javelin is considered a magic weapon and deals 19 (3d6+9) puntos de daño perforante to the target, striking unerringly. The javelin disappears after it hits.
 

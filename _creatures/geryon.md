@@ -40,7 +40,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Multiattack*** Geryon makes two attacks: one with his claws and one with his stinger.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies, un objetivo. Impacto: 23 (4d6 + 9) puntos de daño cortante. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) puntos de daño cortante.
+***Claws*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 23 (4d6 + 9) puntos de daño cortante. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) puntos de daño cortante.
 
 ***Stinger*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies (6 mts), una criatura. Impacto: 14 (2d4 + 9) puntos de daño perforante, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.
 

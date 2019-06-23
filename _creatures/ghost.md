@@ -27,7 +27,7 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ### Acciones
 
-***Withering Touch.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (4d6 + 3) necrotic damage.
+***Withering Touch.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 17 (4d6 + 3) necrotic damage.
 
 ***Etherealness.*** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 

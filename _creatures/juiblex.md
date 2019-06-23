@@ -44,7 +44,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Juiblex makes three acid lash attacks.
 
-***Acid Lash*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (4d6 + 7) puntos de daño por ácido. Any creature killed by this attack is drawn into Juiblex's body, and the corpse is obliterated after 1 minute.
+***Acid Lash*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (4d6 + 7) puntos de daño por ácido. Any creature killed by this attack is drawn into Juiblex's body, and the corpse is obliterated after 1 minute.
 
 ***Eject Slime (Recarga 5-6)*** Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must make a DC 21 Dexterity saving throw. On a failure, the target takes 55 (10d10) puntos de daño por ácido. Unless the target avoids taking any of this damage, any metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any metal weapon it is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed.
 

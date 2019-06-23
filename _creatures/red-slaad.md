@@ -40,7 +40,7 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 
 Hit: 8 (2d4 + 3) puntos de daño perforante.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease - a minuscule slaad egg.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease - a minuscule slaad egg.
 
 A humanoid host can carry only one slaad egg to term at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a slaad tadpole. In the 24-hour period before giving birth, the host starts to feel unwell, its speed is halved, and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
 

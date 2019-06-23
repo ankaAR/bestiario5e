@@ -37,9 +37,9 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** The amnizu uses Poison Mind. It also makes two attacks: one with its whip and one with its Disruptive Touch.
 
-***Taskmaster Whip*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.
+***Taskmaster Whip*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.
 
-***Disruptive Touch*** Melee Spell Attack: +11 al ataque, alcance 5 pies, un objetivo. Impacto: 44 (8d10) necrotic damage.
+***Disruptive Touch*** Melee Spell Attack: +11 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 44 (8d10) necrotic damage.
 
 ***Poison Mind*** The amnizu targets one or two creatures that it can see within 60 feet of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26 (4d12) necrotic damage and is blinded until the start of the amnizu's next turn.
 

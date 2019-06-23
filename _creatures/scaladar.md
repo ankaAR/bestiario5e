@@ -30,6 +30,6 @@ damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiataque.*** The scaladar makes three attacks: two with its claws and one with its sting.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 10 (1d12 + 4) puntos de daño contundente, and the target is grappled (escape DC 15). The scaladar has two claws, each of which can grapple one target.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 10 (1d12 + 4) puntos de daño contundente, and the target is grappled (escape DC 15). The scaladar has two claws, each of which can grapple one target.
 
-***Sting.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante plus 11 (2d10) puntos de daño por relámpago.
+***Sting.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante plus 11 (2d10) puntos de daño por relámpago.

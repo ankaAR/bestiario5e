@@ -18,4 +18,4 @@ armor_class: "13 (armadura natural)"
 
 ### Acciones
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies, un objetivo. Impacto: 26 (6d6+5) puntos de daño perforante.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 26 (6d6+5) puntos de daño perforante.

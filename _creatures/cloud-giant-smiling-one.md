@@ -43,7 +43,7 @@ Cantrips (at will): minor illusion, prestidigitation, vicious mockery
 
 ***Multiataque.*** The giant makes two attacks with its morningstar.
 
-***Morningstar.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies, un objetivo. Impacto: 21 (3d8+8) puntos de daño contundente. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
+***Morningstar.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8+8) puntos de daño contundente. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
 
 ***Rock.*** Ranged Weapon Attack: +12 to hit, range 60/240 pies, un objetivo. Impacto: 30 (4d10+8) puntos de daño contundente. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll.
 

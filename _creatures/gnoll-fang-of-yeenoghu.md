@@ -27,4 +27,4 @@ armor_class: "14 (hide armor)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (1d6 + 3) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) poison damage.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante.

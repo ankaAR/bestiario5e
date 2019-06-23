@@ -24,6 +24,6 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The giant makes two greatclub attacks.
 
-***Greatclub.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies, un objetivo. Impacto: 18 (3d8 + 5) puntos de daño contundente.
+***Greatclub.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 18 (3d8 + 5) puntos de daño contundente.
 
 ***Rock.*** Ranged Weapon Attack: +8 to hit, range 60/240 pies, un objetivo. Impacto: 21 (3d10 + 5) puntos de daño contundente.

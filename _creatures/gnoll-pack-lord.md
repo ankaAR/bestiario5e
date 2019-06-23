@@ -26,7 +26,7 @@ armor_class: "15 (chain shirt)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño perforante.
 
-***Glaive.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
+***Glaive.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 8 (1d10 + 3) puntos de daño cortante.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.
 

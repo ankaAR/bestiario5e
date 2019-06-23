@@ -26,7 +26,7 @@ armor_class: "13"
 
 ***Multiataque.*** The kamadan makes two attacks: one with its bite or claw and one with its snakes.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (ld6 +3) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (ld6 +3) puntos de daño perforante.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 ft., one target.Hit: 6 (ld6 +3) puntos de daño cortante.
 

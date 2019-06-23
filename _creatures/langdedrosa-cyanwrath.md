@@ -29,7 +29,7 @@ damage_resistances: "Relámpago"
 
 ***Multiataque.*** Langdedrosa attacks twice, either with his greatsword or spear.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft.,/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
 

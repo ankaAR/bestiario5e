@@ -40,7 +40,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Multiataque.*** Yan-C-Bin makes two slam attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies, un objetivo. Impacto: 20 (3d8 + 7) force damage plus 10 (3d6) puntos de daño por relámpago.
+***Slam.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (3d8 + 7) force damage plus 10 (3d6) puntos de daño por relámpago.
 
 ***Thundercrack (Recharges after a Short or Long Rest).*** Yan-C-Bin unleashes a terrible thundercrack in a 100-foot- radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be deafened for 1 minute. On a successful save, a creature takes half as much damage and is deafened until the start of Yan-C-Bin's next turn.
 

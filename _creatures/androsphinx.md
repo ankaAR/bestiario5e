@@ -46,7 +46,7 @@ condition_immunities: "charmed, frightened"
 
 ***Multiataque.*** The sphinx makes two claw attacks.
 
-***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies, un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
+***Garras.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
 ***Roar (3/Día).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 

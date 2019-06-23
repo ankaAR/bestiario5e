@@ -26,9 +26,9 @@ armor_class: "13"
 
 ***Multiataque.*** The knight makes two shortsword attacks.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
-***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante.
+***Lance.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante.
 
 ### Reactions
 

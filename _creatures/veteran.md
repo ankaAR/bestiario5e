@@ -22,8 +22,8 @@ armor_class: "17 (splint)"
 
 ***Multiataque.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +3 to hit, range 100/400 pies, un objetivo. Impacto: 6 (1d10 + 1) puntos de daño perforante.

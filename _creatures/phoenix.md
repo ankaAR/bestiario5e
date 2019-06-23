@@ -40,9 +40,9 @@ The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder
 
 ***Multiattack*** The phoenix makes two attacks: one with its beak and one with its fiery talons.
 
-***Beak*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 15 (2d6 + 8) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+***Beak*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 15 (2d6 + 8) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
-***Fiery Talons*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies, un objetivo. Impacto: 17 (2d8 + 8) fire damage.
+***Fiery Talons*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 17 (2d8 + 8) fire damage.
 
 ### Acciones Legendarias
 

@@ -41,6 +41,6 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Multiataque.*** Pharblex attacks twice. Once with his bite and once with his spear.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +5 to hit. reach 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

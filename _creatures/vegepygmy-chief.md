@@ -24,7 +24,7 @@ damage_resistances: "lightning, piercing"
 
 ***Multiataque.*** The vegepygmy makes two attacks with its claws or two melee attacks with its spear.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6+2) puntos de daño cortante.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante, or 6 (id8+2) puntos de daño perforante if used with two hands to make a melee attack.
 

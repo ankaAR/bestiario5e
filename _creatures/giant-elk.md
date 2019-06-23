@@ -22,6 +22,6 @@ armor_class: "15 (armadura natural)"
 
 ### Acciones
 
-***Ram.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
+***Ram.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente.
 
 ***Hooves.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft., one prone creature. Hit: 22 (4d8 + 4) puntos de daño contundente.

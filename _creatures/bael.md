@@ -43,7 +43,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Bael makes two melee attacks.
 
-***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies, un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante plus 13 (3d8) necrotic damage.
+***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante plus 13 (3d8) necrotic damage.
 
 ***Infernal Command*** Each ally of Bael's within 60 feet of him can't be charmed or frightened until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 

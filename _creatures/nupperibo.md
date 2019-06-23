@@ -29,4 +29,4 @@ damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmag
 
 ### Acciones
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
+***Bite*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
