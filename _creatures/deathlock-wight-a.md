@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deathlock Wight (A)"
-tags: [medium, undead, cr3, tales-from-the-yawning-portal]
+tags: [medium, no-muerto, cr3, tales-from-the-yawning-portal]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 12 (+1)

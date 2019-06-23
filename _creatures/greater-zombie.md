@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Greater Zombie"
-tags: [medium, undead, cr5, tales-from-the-yawning-portal]
+tags: [medium, no-muerto, cr5, tales-from-the-yawning-portal]
 cha: 6 (-2)
 wis: 6 (-2)
 int: 4 (-3)

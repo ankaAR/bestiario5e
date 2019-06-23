@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Atropal"
-tags: [huge, undead, cr13, tomb-of-annihilation]
+tags: [huge, no-muerto, cr13, tomb-of-annihilation]
 cha: 24 (+7)
 wis: 19 (+4)
 int: 25 (+7)

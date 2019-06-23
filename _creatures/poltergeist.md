@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Poltergeist"
-tags: [medium, undead, cr2, monster-manual]
+tags: [medium, no-muerto, cr2, monster-manual]
 cha: 11 (0)
 wis: 10 (0)
 int: 10 (0)

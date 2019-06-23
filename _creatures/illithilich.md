@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Illithilich"
-tags: [medium, undead, cr22, volos-guide]
+tags: [medium, no-muerto, cr22, volos-guide]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 20 (+5)

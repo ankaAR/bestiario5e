@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wraith"
-tags: [medium, undead, cr5, monster-manual]
+tags: [medium, no-muerto, cr5, monster-manual]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 12 (+1)

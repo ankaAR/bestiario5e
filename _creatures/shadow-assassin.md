@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shadow Assassin"
-tags: [medium, undead, cr9, dungeon-of-the-mad-mage]
+tags: [medium, no-muerto, cr9, dungeon-of-the-mad-mage]
 page_number: 316
 cha: 14 (+2)
 wis: 12 (+1)

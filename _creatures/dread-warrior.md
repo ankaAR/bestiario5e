@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dread Warrior"
-tags: [medium, undead, crl, tales-from-the-yawning-portal]
+tags: [medium, no-muerto, crl, tales-from-the-yawning-portal]
 cha: 10 (0)
 wis: 12 (+1)
 int: 10 (0)

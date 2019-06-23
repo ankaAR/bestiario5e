@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tarul Var"
-tags: [medium, undead, cr13, tales-from-the-yawning-portal]
+tags: [medium, no-muerto, cr13, tales-from-the-yawning-portal]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 19 (+4)

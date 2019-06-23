@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deathlock"
-tags: [medium, undead, cr4, mordenkainens-tome-of-foes]
+tags: [medium, no-muerto, cr4, mordenkainens-tome-of-foes]
 page_number: 128
 cha: 16 (+3)
 wis: 12 (+1)

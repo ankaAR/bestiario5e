@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gnoll Witherling"
-tags: [medium, undead, cr1/4, volos-guide]
+tags: [medium, no-muerto, cr1/4, volos-guide]
 cha: 5 (-3)
 wis: 5 (-3)
 int: 5 (-3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Alhoon"
-tags: [medium, undead, cr10, volos-guide]
+tags: [medium, no-muerto, cr10, volos-guide]
 cha: 17 (+3)
 wis: 17 (+3)
 int: 19 (+4)

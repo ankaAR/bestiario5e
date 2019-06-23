@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ghoul"
-tags: [medium, undead, cr1, monster-manual]
+tags: [medium, no-muerto, cr1, monster-manual]
 cha: 6 (-2)
 wis: 10 (0)
 int: 7 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Allip"
-tags: [medium, undead, cr5, mordenkainens-tome-of-foes]
+tags: [medium, no-muerto, cr5, mordenkainens-tome-of-foes]
 page_number: 116
 cha: 16 (+3)
 wis: 15 (+2)

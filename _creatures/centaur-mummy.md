@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Centaur Mummy"
-tags: [large, undead, cr6, tales-from-the-yawning-portal]
+tags: [large, no-muerto, cr6, tales-from-the-yawning-portal]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 5 (-3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Strahd Zombie"
-tags: [medium, undead, cr1, curse-of-strahd]
+tags: [medium, no-muerto, cr1, curse-of-strahd]
 page_number: 241
 cha: 5 (-3)
 wis: 6 (-2)

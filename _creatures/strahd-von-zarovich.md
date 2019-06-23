@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Strahd von Zarovich"
-tags: [medium, undead, cr15, curse-of-strahd]
+tags: [medium, no-muerto, cr15, curse-of-strahd]
 page_number: 239
 cha: 18 (+4)
 wis: 15 (+2)

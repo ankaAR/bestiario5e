@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sword Wraith Warrior"
-tags: [medium, undead, cr3, mordenkainens-tome-of-foes]
+tags: [medium, no-muerto, cr3, mordenkainens-tome-of-foes]
 page_number: 241
 cha: 10 (0)
 wis: 9 (0)

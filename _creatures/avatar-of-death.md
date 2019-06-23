@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Avatar of Death"
-tags: [medium, undead, cr--, monster-manual]
+tags: [medium, no-muerto, cr--, monster-manual]
 cha: 16 (+3)
 wis: 16 (+3)
 int: 16 (+3)

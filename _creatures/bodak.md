@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bodak"
-tags: [medium, undead, cr6, volos-guide]
+tags: [medium, no-muerto, cr6, volos-guide]
 cha: 12 (+1)
 wis: 12 (+1)
 int: 7 (-2)

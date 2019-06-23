@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Death Knight"
-tags: [medium, undead, cr17, monster-manual]
+tags: [medium, no-muerto, cr17, monster-manual]
 cha: 18 (+4)
 wis: 16 (+3)
 int: 12 (+1)
