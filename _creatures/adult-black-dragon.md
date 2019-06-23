@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragón Negro Adulto"
-tags: [huge, dragon, cr14, monster-manual]
+tags: [enorme, dragon, cr14, monster-manual]
 cha: 17 (+3)
 wis: 13 (+1)
 int: 14 (+2)

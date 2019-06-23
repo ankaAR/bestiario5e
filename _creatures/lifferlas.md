@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lifferlas"
-tags: [huge, planta, cr0, storm-kings-thunder]
+tags: [enorme, planta, cr0, storm-kings-thunder]
 cha: 7 (-2)
 wis: 10 (0)
 int: 10 (0)

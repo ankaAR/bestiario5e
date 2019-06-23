@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Storm Giant"
-tags: [huge, gigante, cr13, monster-manual]
+tags: [enorme, gigante, cr13, monster-manual]
 cha: 18 (+4)
 wis: 18 (+4)
 int: 16 (+3)

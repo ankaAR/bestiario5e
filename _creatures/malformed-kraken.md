@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Malformed Kraken"
-tags: [huge, monstruosidad, cr10, tales-from-the-yawning-portal]
+tags: [enorme, monstruosidad, cr10, tales-from-the-yawning-portal]
 cha: 15 (+2)
 wis: 15 (+2)
 int: 11 (0)

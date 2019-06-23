@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Imix"
-tags: [huge, elemental, cr19, elemental-evil]
+tags: [enorme, elemental, cr19, elemental-evil]
 cha: 23 (+6)
 wis: 16 (+3)
 int: 15 (+2)

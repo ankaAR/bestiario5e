@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nightwalker"
-tags: [huge, no-muerto, cr20, mordenkainens-tome-of-foes]
+tags: [enorme, no-muerto, cr20, mordenkainens-tome-of-foes]
 page_number: 216
 cha: 8 (-1)
 wis: 9 (0)

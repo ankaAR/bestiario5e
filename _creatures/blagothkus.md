@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blagothkus"
-tags: [huge, gigante, cr9, tyranny-of-dragons]
+tags: [enorme, gigante, cr9, tyranny-of-dragons]
 cha: 15 (+2)
 wis: 15 (+2)
 int: 16 (+3)

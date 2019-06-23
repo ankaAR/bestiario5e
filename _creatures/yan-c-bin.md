@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yan-C-Bin"
-tags: [huge, elemental, cr18, elemental-evil]
+tags: [enorme, elemental, cr18, elemental-evil]
 cha: 23 (+6)
 wis: 21 (+5)
 int: 16 (+3)

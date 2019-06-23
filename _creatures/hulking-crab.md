@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hulking Crab"
-tags: [huge, bestia, cr5, storm-kings-thunder]
+tags: [enorme, bestia, cr5, storm-kings-thunder]
 cha: 3 (-4)
 wis: 11 (0)
 int: 3 (-4)

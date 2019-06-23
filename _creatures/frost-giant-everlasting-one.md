@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Frost Giant Everlasting One"
-tags: [huge, gigante, cr12, volos-guide]
+tags: [enorme, gigante, cr12, volos-guide]
 cha: 12 (+1)
 wis: 10 (0)
 int: 9 (-1)

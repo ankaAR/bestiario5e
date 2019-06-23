@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Crocodile"
-tags: [huge, bestia, cr5, monster-manual]
+tags: [enorme, bestia, cr5, monster-manual]
 cha: 7 (-2)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Abominable Yeti"
-tags: [huge, monstruosidad, cr9, monster-manual]
+tags: [enorme, monstruosidad, cr9, monster-manual]
 cha: 9 (-1)
 wis: 13 (+1)
 int: 9 (-1)

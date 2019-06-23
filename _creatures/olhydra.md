@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Olhydra"
-tags: [huge, elemental, cr18, elemental-evil]
+tags: [enorme, elemental, cr18, elemental-evil]
 cha: 23 (+6)
 wis: 18 (+4)
 int: 17 (+3)

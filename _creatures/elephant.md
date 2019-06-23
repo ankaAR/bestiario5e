@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Elephant"
-tags: [huge, bestia, cr4, monster-manual]
+tags: [enorme, bestia, cr4, monster-manual]
 cha: 6 (-2)
 wis: 11 (0)
 int: 3 (-4)

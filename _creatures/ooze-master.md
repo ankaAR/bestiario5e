@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ooze Master"
-tags: [huge, no-muerto, cr10, tales-from-the-yawning-portal]
+tags: [enorme, no-muerto, cr10, tales-from-the-yawning-portal]
 cha: 16 (+3)
 wis: 10 (0)
 int: 17 (+3)

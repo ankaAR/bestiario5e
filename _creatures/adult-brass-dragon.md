@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Brass Dragon"
-tags: [huge, dragon, cr13, monster-manual]
+tags: [enorme, dragon, cr13, monster-manual]
 cha: 17 (+3)
 wis: 13 (+1)
 int: 14 (+2)

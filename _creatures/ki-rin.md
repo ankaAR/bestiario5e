@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ki-rin"
-tags: [huge, celestial, cr12, volos-guide]
+tags: [enorme, celestial, cr12, volos-guide]
 cha: 20 (+5)
 wis: 20 (+5)
 int: 19 (+4)

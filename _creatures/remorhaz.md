@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Remorhaz"
-tags: [huge, monstruosidad, cr11, monster-manual]
+tags: [enorme, monstruosidad, cr11, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 4 (-3)

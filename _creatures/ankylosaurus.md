@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ankylosaurus"
-tags: [huge, bestia, cr3, monster-manual]
+tags: [enorme, bestia, cr3, monster-manual]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

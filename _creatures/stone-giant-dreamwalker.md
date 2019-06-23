@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stone Giant Dreamwalker"
-tags: [huge, gigante, cr10, volos-guide]
+tags: [enorme, gigante, cr10, volos-guide]
 cha: 12 (+1)
 wis: 8 (-1)
 int: 10 (0)

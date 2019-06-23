@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Shark"
-tags: [huge, bestia, cr5, monster-manual]
+tags: [enorme, bestia, cr5, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 1 (-5)

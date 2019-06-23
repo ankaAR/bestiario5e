@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quetzalcoatlus"
-tags: [huge, bestia, cr2, volos-guide]
+tags: [enorme, bestia, cr2, volos-guide]
 cha: 5 (-3)
 wis: 10 (0)
 int: 2 (-4)

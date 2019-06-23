@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Gold Dragon"
-tags: [huge, dragon, cr17, monster-manual]
+tags: [enorme, dragon, cr17, monster-manual]
 cha: 24 (+7)
 wis: 15 (+2)
 int: 16 (+3)

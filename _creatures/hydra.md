@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hydra"
-tags: [huge, monstruosidad, cr8, monster-manual]
+tags: [enorme, monstruosidad, cr8, monster-manual]
 cha: 7 (-2)
 wis: 10 (0)
 int: 2 (-4)

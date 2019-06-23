@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Bronze Dragon"
-tags: [huge, dragon, cr15, monster-manual]
+tags: [enorme, dragon, cr15, monster-manual]
 cha: 19 (+4)
 wis: 15 (+2)
 int: 16 (+3)

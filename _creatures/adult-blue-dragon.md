@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragón Azul Adulto"
-tags: [huge, dragon, cr16, monster-manual]
+tags: [enorme, dragon, cr16, monster-manual]
 cha: 19 (+4)
 wis: 15 (+2)
 int: 16 (+3)

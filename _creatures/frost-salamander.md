@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Frost Salamander"
-tags: [huge, elemental, cr9, mordenkainens-tome-of-foes]
+tags: [enorme, elemental, cr9, mordenkainens-tome-of-foes]
 page_number: 223
 cha: 7 (-1)
 wis: 11 (0)
