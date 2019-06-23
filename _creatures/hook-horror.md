@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hook Horror"
-tags: [grande, monstruosidad, cr3, monster-manual]
+tags: [grande, monstruosidad, cr3, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 6 (-2)

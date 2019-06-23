@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gold Dragon Wyrmling"
-tags: [mediana, dragon, cr3, monster-manual]
+tags: [mediana, dragon, cr3, manual-de-monstruos]
 cha: 16 (+3)
 wis: 11 (0)
 int: 14 (+2)

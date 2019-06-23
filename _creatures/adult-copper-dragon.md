@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Copper Dragon"
-tags: [enorme, dragon, cr14, monster-manual]
+tags: [enorme, dragon, cr14, manual-de-monstruos]
 cha: 17 (+3)
 wis: 15 (+2)
 int: 18 (+4)

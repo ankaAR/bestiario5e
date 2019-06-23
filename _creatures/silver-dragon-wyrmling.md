@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Silver Dragon Wyrmling"
-tags: [mediana, dragon, cr2, monster-manual]
+tags: [mediana, dragon, cr2, manual-de-monstruos]
 cha: 15 (+2)
 wis: 11 (0)
 int: 12 (+1)

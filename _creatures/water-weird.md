@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Water Weird"
-tags: [grande, elemental, cr3, monster-manual]
+tags: [grande, elemental, cr3, manual-de-monstruos]
 cha: 10 (0)
 wis: 10 (0)
 int: 11 (0)

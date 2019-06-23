@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Toad"
-tags: [grande, bestia, cr1, monster-manual]
+tags: [grande, bestia, cr1, manual-de-monstruos]
 cha: 3 (-4)
 wis: 10 (0)
 int: 2 (-4)

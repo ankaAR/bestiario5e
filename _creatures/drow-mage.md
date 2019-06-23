@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Mage"
-tags: [mediana, humanoide, cr7, monster-manual]
+tags: [mediana, humanoide, cr7, manual-de-monstruos]
 cha: 12 (+1)
 wis: 13 (+1)
 int: 17 (+3)

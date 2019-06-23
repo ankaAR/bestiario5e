@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mastiff"
-tags: [mediana, bestia, cr1/8, monster-manual]
+tags: [mediana, bestia, cr1/8, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 3 (-4)

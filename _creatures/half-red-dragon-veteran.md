@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Half-Red Dragon Veteran"
-tags: [mediana, humanoide, cr5, monster-manual]
+tags: [mediana, humanoide, cr5, manual-de-monstruos]
 cha: 10 (0)
 wis: 11 (0)
 int: 10 (0)

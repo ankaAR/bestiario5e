@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Hyena"
-tags: [grande, bestia, cr1, monster-manual]
+tags: [grande, bestia, cr1, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 2 (-4)

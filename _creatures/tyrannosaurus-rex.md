@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tyrannosaurus Rex"
-tags: [enorme, bestia, cr8, monster-manual]
+tags: [enorme, bestia, cr8, manual-de-monstruos]
 cha: 9 (-1)
 wis: 12 (+1)
 int: 2 (-4)

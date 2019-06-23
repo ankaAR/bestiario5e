@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hill Giant"
-tags: [enorme, gigante, cr5, monster-manual]
+tags: [enorme, gigante, cr5, manual-de-monstruos]
 cha: 6 (-2)
 wis: 9 (-1)
 int: 5 (-3)

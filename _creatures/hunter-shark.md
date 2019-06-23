@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hunter Shark"
-tags: [grande, bestia, cr2, monster-manual]
+tags: [grande, bestia, cr2, manual-de-monstruos]
 cha: 4 (-3)
 wis: 10 (0)
 int: 1 (-5)

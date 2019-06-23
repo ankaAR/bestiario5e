@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Scout"
-tags: [mediana, humanoide, cr1/2, monster-manual]
+tags: [mediana, humanoide, cr1/2, manual-de-monstruos]
 cha: 11 (0)
 wis: 13 (+1)
 int: 11 (0)

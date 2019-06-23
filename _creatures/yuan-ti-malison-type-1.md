@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Malison Type 1"
-tags: [mediana, monstruosidad, cr3, monster-manual]
+tags: [mediana, monstruosidad, cr3, manual-de-monstruos]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 14 (+2)

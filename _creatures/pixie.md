@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pixie"
-tags: [diminuta, fata, cr1/4, monster-manual]
+tags: [diminuta, fata, cr1/4, manual-de-monstruos]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 10 (0)

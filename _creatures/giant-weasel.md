@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Weasel"
-tags: [mediana, bestia, cr1/8, monster-manual]
+tags: [mediana, bestia, cr1/8, manual-de-monstruos]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 4 (-3)

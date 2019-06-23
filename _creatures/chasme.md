@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chasme"
-tags: [grande, infernal, cr6, monster-manual]
+tags: [grande, infernal, cr6, manual-de-monstruos]
 cha: 10 (0)
 wis: 14 (+2)
 int: 11 (0)

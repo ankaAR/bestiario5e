@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Copper Dragon"
-tags: [gargantuesca, dragon, cr21, monster-manual]
+tags: [gargantuesca, dragon, cr21, manual-de-monstruos]
 cha: 19 (+4)
 wis: 17 (+3)
 int: 20 (+5)

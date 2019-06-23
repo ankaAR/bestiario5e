@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Empyrean"
-tags: [enorme, celestial, cr23, monster-manual]
+tags: [enorme, celestial, cr23, manual-de-monstruos]
 cha: 27 (+8)
 wis: 22 (+6)
 int: 21 (+5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Black Bear"
-tags: [mediana, bestia, cr1/2, monster-manual]
+tags: [mediana, bestia, cr1/2, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 2 (-4)

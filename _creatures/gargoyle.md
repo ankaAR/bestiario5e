@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gargoyle"
-tags: [mediana, elemental, cr2, monster-manual]
+tags: [mediana, elemental, cr2, manual-de-monstruos]
 cha: 7 (-2)
 wis: 11 (0)
 int: 6 (-2)

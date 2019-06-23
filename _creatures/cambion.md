@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cambion"
-tags: [mediana, infernal, cr5, monster-manual]
+tags: [mediana, infernal, cr5, manual-de-monstruos]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 14 (+2)

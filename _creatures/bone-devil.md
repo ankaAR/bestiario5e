@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bone Devil"
-tags: [grande, infernal, cr12, monster-manual]
+tags: [grande, infernal, cr12, manual-de-monstruos]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 13 (+1)

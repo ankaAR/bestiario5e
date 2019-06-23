@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pit Fiend"
-tags: [grande, infernal, cr20, monster-manual]
+tags: [grande, infernal, cr20, manual-de-monstruos]
 cha: 24 (+7)
 wis: 18 (+4)
 int: 22 (+6)

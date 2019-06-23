@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quaggoth"
-tags: [mediana, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 6 (-2)

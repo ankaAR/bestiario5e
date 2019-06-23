@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rhinoceros"
-tags: [grande, bestia, cr2, monster-manual]
+tags: [grande, bestia, cr2, manual-de-monstruos]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 2 (-4)

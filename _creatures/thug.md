@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Thug"
-tags: [mediana, humanoide, cr1/2, monster-manual]
+tags: [mediana, humanoide, cr1/2, manual-de-monstruos]
 cha: 11 (0)
 wis: 10 (0)
 int: 10 (0)

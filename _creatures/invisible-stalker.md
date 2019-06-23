@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Invisible Stalker"
-tags: [mediana, elemental, cr6, monster-manual]
+tags: [mediana, elemental, cr6, manual-de-monstruos]
 cha: 11 (0)
 wis: 15 (+2)
 int: 10 (0)

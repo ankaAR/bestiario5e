@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Demilich"
-tags: [diminuta, no-muerto, cr18, monster-manual]
+tags: [diminuta, no-muerto, cr18, manual-de-monstruos]
 cha: 20 (+5)
 wis: 17 (+3)
 int: 20 (+5)

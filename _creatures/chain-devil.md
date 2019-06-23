@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chain Devil"
-tags: [mediana, infernal, cr11, monster-manual]
+tags: [mediana, infernal, cr11, manual-de-monstruos]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 11 (0)

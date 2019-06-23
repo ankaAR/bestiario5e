@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kenku"
-tags: [mediana, humanoide, cr1/4, monster-manual]
+tags: [mediana, humanoide, cr1/4, manual-de-monstruos]
 cha: 10 (0)
 wis: 10 (0)
 int: 11 (0)

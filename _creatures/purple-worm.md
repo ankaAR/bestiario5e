@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Purple Worm"
-tags: [gargantuesca, monstruosidad, cr15, monster-manual]
+tags: [gargantuesca, monstruosidad, cr15, manual-de-monstruos]
 cha: 4 (-3)
 wis: 8 (-1)
 int: 1 (-5)

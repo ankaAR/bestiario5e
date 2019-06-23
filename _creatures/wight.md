@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wight"
-tags: [mediana, no-muerto, cr3, monster-manual]
+tags: [mediana, no-muerto, cr3, manual-de-monstruos]
 cha: 15 (+2)
 wis: 13 (+1)
 int: 10 (0)

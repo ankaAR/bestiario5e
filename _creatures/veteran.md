@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Veteran"
-tags: [mediana, humanoide, cr3, monster-manual]
+tags: [mediana, humanoide, cr3, manual-de-monstruos]
 cha: 10 (0)
 wis: 11 (0)
 int: 10 (0)

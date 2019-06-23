@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Scorpion"
-tags: [grande, bestia, cr3, monster-manual]
+tags: [grande, bestia, cr3, manual-de-monstruos]
 cha: 3 (-4)
 wis: 9 (-1)
 int: 1 (-5)

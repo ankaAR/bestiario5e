@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Carrion Crawler"
-tags: [grande, monstruosidad, cr2, monster-manual]
+tags: [grande, monstruosidad, cr2, manual-de-monstruos]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 1 (-5)

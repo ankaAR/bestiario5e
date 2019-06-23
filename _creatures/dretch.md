@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dretch"
-tags: [pequena, infernal, cr1/4, monster-manual]
+tags: [pequena, infernal, cr1/4, manual-de-monstruos]
 cha: 3 (-4)
 wis: 8 (-1)
 int: 5 (-3)

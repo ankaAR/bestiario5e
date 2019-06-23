@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Saber-Toothed Tiger"
-tags: [grande, bestia, cr2, monster-manual]
+tags: [grande, bestia, cr2, manual-de-monstruos]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 3 (-4)

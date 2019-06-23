@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ogre"
-tags: [grande, gigante, cr2, monster-manual]
+tags: [grande, gigante, cr2, manual-de-monstruos]
 cha: 7 (-2)
 wis: 7 (-2)
 int: 5 (-3)

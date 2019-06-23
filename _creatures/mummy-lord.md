@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mummy Lord"
-tags: [mediana, no-muerto, cr15, monster-manual]
+tags: [mediana, no-muerto, cr15, manual-de-monstruos]
 cha: 16 (+3)
 wis: 18 (+4)
 int: 11 (0)

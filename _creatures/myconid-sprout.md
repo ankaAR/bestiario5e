@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Myconid Sprout"
-tags: [pequena, planta, cr0, monster-manual]
+tags: [pequena, planta, cr0, manual-de-monstruos]
 cha: 5 (-3)
 wis: 11 (0)
 int: 8 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Smoke Mephit"
-tags: [pequena, elemental, cr1/4, monster-manual]
+tags: [pequena, elemental, cr1/4, manual-de-monstruos]
 cha: 11 (0)
 wis: 10 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quaggoth Thonot"
-tags: [mediana, humanoide, cr3, monster-manual]
+tags: [mediana, humanoide, cr3, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 6 (-2)

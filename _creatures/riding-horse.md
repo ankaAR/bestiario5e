@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Riding Horse"
-tags: [grande, bestia, cr1/4, monster-manual]
+tags: [grande, bestia, cr1/4, manual-de-monstruos]
 cha: 7 (-2)
 wis: 11 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mammoth"
-tags: [enorme, bestia, cr6, monster-manual]
+tags: [enorme, bestia, cr6, manual-de-monstruos]
 cha: 6 (-2)
 wis: 11 (0)
 int: 3 (-4)

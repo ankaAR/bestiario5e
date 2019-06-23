@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Knight"
-tags: [mediana, humanoide, cr3, monster-manual]
+tags: [mediana, humanoide, cr3, manual-de-monstruos]
 cha: 15 (+2)
 wis: 11 (0)
 int: 11 (0)

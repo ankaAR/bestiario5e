@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Axe Beak"
-tags: [grande, bestia, cr1/4, monster-manual]
+tags: [grande, bestia, cr1/4, manual-de-monstruos]
 cha: 5 (-3)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Githzerai Zerth"
-tags: [mediana, humanoide, cr6, monster-manual]
+tags: [mediana, humanoide, cr6, manual-de-monstruos]
 cha: 12 (+1)
 wis: 17 (+3)
 int: 16 (+3)

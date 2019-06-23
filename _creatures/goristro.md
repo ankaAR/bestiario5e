@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Goristro"
-tags: [enorme, infernal, cr17, monster-manual]
+tags: [enorme, infernal, cr17, manual-de-monstruos]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 6 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blue Dragon Wyrmling"
-tags: [mediana, dragon, cr3, monster-manual]
+tags: [mediana, dragon, cr3, manual-de-monstruos]
 cha: 15 (+2)
 wis: 11 (0)
 int: 12 (+1)

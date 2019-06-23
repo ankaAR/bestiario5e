@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Fly"
-tags: [grande, bestia, cr0, monster-manual]
+tags: [grande, bestia, cr0, manual-de-monstruos]
 cha: 3 (-4)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spectator"
-tags: [mediana, aberracion, cr3, monster-manual]
+tags: [mediana, aberracion, cr3, manual-de-monstruos]
 cha: 11 (0)
 wis: 14 (+2)
 int: 13 (+1)

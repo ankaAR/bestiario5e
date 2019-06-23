@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Weasel"
-tags: [diminuta, bestia, cr0, monster-manual]
+tags: [diminuta, bestia, cr0, manual-de-monstruos]
 cha: 3 (-4)
 wis: 12 (+1)
 int: 2 (-4)

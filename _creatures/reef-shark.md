@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Reef Shark"
-tags: [mediana, bestia, cr1/2, monster-manual]
+tags: [mediana, bestia, cr1/2, manual-de-monstruos]
 cha: 4 (-3)
 wis: 10 (0)
 int: 1 (-5)

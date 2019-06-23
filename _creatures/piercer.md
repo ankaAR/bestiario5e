@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Piercer"
-tags: [grande, monstruosidad, cr1/2, monster-manual]
+tags: [grande, monstruosidad, cr1/2, manual-de-monstruos]
 cha: 3 (-4)
 wis: 7 (-2)
 int: 1 (-5)

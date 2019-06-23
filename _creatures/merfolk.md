@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Merfolk"
-tags: [mediana, humanoide, cr1/8, monster-manual]
+tags: [mediana, humanoide, cr1/8, manual-de-monstruos]
 cha: 12 (+1)
 wis: 11 (0)
 int: 11 (0)

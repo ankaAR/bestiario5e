@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Wolf Spider"
-tags: [mediana, bestia, cr1/4, monster-manual]
+tags: [mediana, bestia, cr1/4, manual-de-monstruos]
 cha: 4 (-3)
 wis: 12 (+1)
 int: 3 (-4)

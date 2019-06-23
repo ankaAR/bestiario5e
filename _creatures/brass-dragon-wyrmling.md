@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Brass Dragon Wyrmling"
-tags: [mediana, dragon, cr1, monster-manual]
+tags: [mediana, dragon, cr1, manual-de-monstruos]
 cha: 13 (+1)
 wis: 11 (0)
 int: 10 (0)

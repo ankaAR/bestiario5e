@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Green Slaad"
-tags: [grande, aberracion, cr8, monster-manual]
+tags: [grande, aberracion, cr8, manual-de-monstruos]
 cha: 12 (+1)
 wis: 8 (-1)
 int: 11 (0)

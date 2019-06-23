@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Pureblood"
-tags: [mediana, humanoide, cr1, monster-manual]
+tags: [mediana, humanoide, cr1, manual-de-monstruos]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 13 (+1)

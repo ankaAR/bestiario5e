@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Warhorse Skeleton"
-tags: [grande, no-muerto, cr1/2, monster-manual]
+tags: [grande, no-muerto, cr1/2, manual-de-monstruos]
 cha: 5 (-3)
 wis: 8 (-1)
 int: 2 (-4)

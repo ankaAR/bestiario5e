@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quaggoth Spore Servant"
-tags: [mediana, planta, cr1, monster-manual]
+tags: [mediana, planta, cr1, manual-de-monstruos]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 2 (-4)

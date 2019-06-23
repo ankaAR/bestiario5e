@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flameskull"
-tags: [diminuta, no-muerto, cr4, monster-manual]
+tags: [diminuta, no-muerto, cr4, manual-de-monstruos]
 cha: 11 (0)
 wis: 10 (0)
 int: 16 (+3)

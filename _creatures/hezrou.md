@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hezrou"
-tags: [grande, infernal, cr8, monster-manual]
+tags: [grande, infernal, cr8, manual-de-monstruos]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 5 (-3)

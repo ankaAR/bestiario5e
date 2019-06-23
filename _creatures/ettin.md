@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ettin"
-tags: [grande, gigante, cr4, monster-manual]
+tags: [grande, gigante, cr4, manual-de-monstruos]
 cha: 8 (-1)
 wis: 10 (0)
 int: 6 (-2)

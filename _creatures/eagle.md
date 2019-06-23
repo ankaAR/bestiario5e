@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Eagle"
-tags: [pequena, bestia, cr0, monster-manual]
+tags: [pequena, bestia, cr0, manual-de-monstruos]
 cha: 7 (-2)
 wis: 14 (+2)
 int: 2 (-4)

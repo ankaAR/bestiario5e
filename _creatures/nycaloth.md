@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nycaloth"
-tags: [grande, infernal, cr9, monster-manual]
+tags: [grande, infernal, cr9, manual-de-monstruos]
 cha: 15 (+2)
 wis: 10 (0)
 int: 12 (+1)

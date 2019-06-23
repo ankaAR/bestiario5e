@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Will-o'-Wisp"
-tags: [diminuta, no-muerto, cr2, monster-manual]
+tags: [diminuta, no-muerto, cr2, manual-de-monstruos]
 cha: 11 (0)
 wis: 14 (+2)
 int: 13 (+1)

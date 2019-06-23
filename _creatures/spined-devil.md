@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spined Devil"
-tags: [pequena, infernal, cr2, monster-manual]
+tags: [pequena, infernal, cr2, manual-de-monstruos]
 cha: 8 (-1)
 wis: 14 (+2)
 int: 11 (0)

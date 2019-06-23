@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Animated Armor"
-tags: [mediana, constructo, cr1, monster-manual]
+tags: [mediana, constructo, cr1, manual-de-monstruos]
 cha: 1 (-5)
 wis: 3 (-4)
 int: 1 (-5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vampire Warrior"
-tags: [mediana, no-muerto, cr15, monster-manual]
+tags: [mediana, no-muerto, cr15, manual-de-monstruos]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 17 (+3)

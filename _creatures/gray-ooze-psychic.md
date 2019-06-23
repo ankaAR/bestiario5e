@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gray Ooze (Psychic)"
-tags: [mediana, cieno, cr1/2, monster-manual]
+tags: [mediana, cieno, cr1/2, manual-de-monstruos]
 cha: 2 (-4)
 wis: 6 (-2)
 int: 6 (-2)

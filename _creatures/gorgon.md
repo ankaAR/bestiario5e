@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gorgon"
-tags: [grande, monstruosidad, cr5, monster-manual]
+tags: [grande, monstruosidad, cr5, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 2 (-4)

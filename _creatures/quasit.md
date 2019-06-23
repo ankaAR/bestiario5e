@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quasit"
-tags: [diminuta, infernal, cr1, monster-manual]
+tags: [diminuta, infernal, cr1, manual-de-monstruos]
 cha: 10 (0)
 wis: 10 (0)
 int: 7 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cockatrice"
-tags: [pequena, monstruosidad, cr1/2, monster-manual]
+tags: [pequena, monstruosidad, cr1/2, manual-de-monstruos]
 cha: 5 (-3)
 wis: 13 (+1)
 int: 2 (-4)

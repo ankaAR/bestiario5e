@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ultroloth"
-tags: [mediana, infernal, cr13, monster-manual]
+tags: [mediana, infernal, cr13, manual-de-monstruos]
 cha: 19 (+4)
 wis: 15 (+2)
 int: 18 (+4)

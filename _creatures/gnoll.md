@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gnoll"
-tags: [mediana, humanoide, cr1/2, monster-manual]
+tags: [mediana, humanoide, cr1/2, manual-de-monstruos]
 cha: 7 (-2)
 wis: 10 (0)
 int: 6 (-2)

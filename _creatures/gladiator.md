@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gladiator"
-tags: [mediana, humanoide, cr5, monster-manual]
+tags: [mediana, humanoide, cr5, manual-de-monstruos]
 cha: 15 (+2)
 wis: 12 (+1)
 int: 10 (0)

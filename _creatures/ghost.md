@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ghost"
-tags: [mediana, no-muerto, cr4, monster-manual]
+tags: [mediana, no-muerto, cr4, manual-de-monstruos]
 cha: 17 (+3)
 wis: 12 (+1)
 int: 10 (0)

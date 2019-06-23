@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Gold Dragon"
-tags: [gargantuesca, dragon, cr24, monster-manual]
+tags: [gargantuesca, dragon, cr24, manual-de-monstruos]
 cha: 28 (+9)
 wis: 17 (+3)
 int: 18 (+4)

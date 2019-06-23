@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grick Alpha"
-tags: [grande, monstruosidad, cr7, monster-manual]
+tags: [grande, monstruosidad, cr7, manual-de-monstruos]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 4 (-3)

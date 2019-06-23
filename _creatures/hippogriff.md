@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hippogriff"
-tags: [grande, monstruosidad, cr1, monster-manual]
+tags: [grande, monstruosidad, cr1, manual-de-monstruos]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 2 (-4)

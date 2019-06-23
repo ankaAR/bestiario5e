@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nalfeshnee"
-tags: [grande, infernal, cr13, monster-manual]
+tags: [grande, infernal, cr13, manual-de-monstruos]
 cha: 15 (+2)
 wis: 12 (+1)
 int: 19 (+4)

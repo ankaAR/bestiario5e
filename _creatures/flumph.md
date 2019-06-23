@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flumph"
-tags: [pequena, aberracion, cr1/8, monster-manual]
+tags: [pequena, aberracion, cr1/8, manual-de-monstruos]
 cha: 11 (0)
 wis: 14 (+2)
 int: 14 (+2)

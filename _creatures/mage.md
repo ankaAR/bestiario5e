@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mage"
-tags: [mediana, humanoide, cr6, monster-manual]
+tags: [mediana, humanoide, cr6, manual-de-monstruos]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

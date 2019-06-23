@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vrock"
-tags: [grande, infernal, cr6, monster-manual]
+tags: [grande, infernal, cr6, manual-de-monstruos]
 cha: 8 (-1)
 wis: 13 (+1)
 int: 8 (-1)

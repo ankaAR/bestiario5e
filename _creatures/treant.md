@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Treant"
-tags: [enorme, planta, cr9, monster-manual]
+tags: [enorme, planta, cr9, manual-de-monstruos]
 cha: 12 (+1)
 wis: 16 (+3)
 int: 12 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Weretiger"
-tags: [mediana, humanoide, cr4, monster-manual]
+tags: [mediana, humanoide, cr4, manual-de-monstruos]
 cha: 11 (0)
 wis: 13 (+1)
 int: 10 (0)

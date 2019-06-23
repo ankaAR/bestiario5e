@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Banshee"
-tags: [mediana, no-muerto, cr4, monster-manual]
+tags: [mediana, no-muerto, cr4, manual-de-monstruos]
 cha: 17 (+3)
 wis: 11 (0)
 int: 12 (+1)

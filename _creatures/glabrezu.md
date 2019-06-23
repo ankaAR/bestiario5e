@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Glabrezu"
-tags: [grande, infernal, cr9, monster-manual]
+tags: [grande, infernal, cr9, manual-de-monstruos]
 cha: 16 (+3)
 wis: 17 (+3)
 int: 19 (+4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Killer Whale"
-tags: [enorme, bestia, cr3, monster-manual]
+tags: [enorme, bestia, cr3, manual-de-monstruos]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 3 (-4)

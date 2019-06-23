@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Zombie"
-tags: [mediana, no-muerto, cr1/4, monster-manual]
+tags: [mediana, no-muerto, cr1/4, manual-de-monstruos]
 cha: 5 (-3)
 wis: 6 (-2)
 int: 3 (-4)

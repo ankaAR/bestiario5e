@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Green Hag"
-tags: [mediana, fata, cr3, monster-manual]
+tags: [mediana, fata, cr3, manual-de-monstruos]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 13 (+1)

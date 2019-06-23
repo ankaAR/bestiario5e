@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stone Golem"
-tags: [grande, constructo, cr10, monster-manual]
+tags: [grande, constructo, cr10, manual-de-monstruos]
 cha: 1 (-5)
 wis: 11 (0)
 int: 3 (-4)

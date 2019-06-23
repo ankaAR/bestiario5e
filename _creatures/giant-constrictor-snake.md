@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Constrictor Snake"
-tags: [enorme, bestia, cr2, monster-manual]
+tags: [enorme, bestia, cr2, manual-de-monstruos]
 cha: 3 (-4)
 wis: 10 (0)
 int: 1 (-5)

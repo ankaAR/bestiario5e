@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Awakened Shrub"
-tags: [pequena, planta, cr0, monster-manual]
+tags: [pequena, planta, cr0, manual-de-monstruos]
 cha: 6 (-2)
 wis: 10 (0)
 int: 10 (0)

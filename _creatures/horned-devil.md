@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Horned Devil"
-tags: [grande, infernal, cr11, monster-manual]
+tags: [grande, infernal, cr11, manual-de-monstruos]
 cha: 17 (+3)
 wis: 16 (+3)
 int: 12 (+1)

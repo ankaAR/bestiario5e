@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pseudodragon"
-tags: [diminuta, dragon, cr1/4, monster-manual]
+tags: [diminuta, dragon, cr1/4, manual-de-monstruos]
 cha: 10 (0)
 wis: 12 (+1)
 int: 10 (0)

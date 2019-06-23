@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Silver Dragon"
-tags: [enorme, dragon, cr16, monster-manual]
+tags: [enorme, dragon, cr16, manual-de-monstruos]
 cha: 21 (+5)
 wis: 13 (+1)
 int: 16 (+3)

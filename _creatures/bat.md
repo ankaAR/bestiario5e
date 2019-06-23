@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bat"
-tags: [diminuta, bestia, cr0, monster-manual]
+tags: [diminuta, bestia, cr0, manual-de-monstruos]
 cha: 4 (-3)
 wis: 12 (+1)
 int: 2 (-4)

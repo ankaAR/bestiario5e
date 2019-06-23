@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Night Hag"
-tags: [mediana, infernal, cr5, monster-manual]
+tags: [mediana, infernal, cr5, manual-de-monstruos]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 16 (+3)

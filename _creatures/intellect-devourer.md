@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Intellect Devourer"
-tags: [diminuta, aberracion, cr2, monster-manual]
+tags: [diminuta, aberracion, cr2, manual-de-monstruos]
 cha: 10 (0)
 wis: 11 (0)
 int: 12 (+1)

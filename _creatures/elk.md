@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Elk"
-tags: [grande, bestia, cr1/4, monster-manual]
+tags: [grande, bestia, cr1/4, manual-de-monstruos]
 cha: 6 (-2)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drider"
-tags: [grande, monstruosidad, cr6, monster-manual]
+tags: [grande, monstruosidad, cr6, manual-de-monstruos]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 13 (+1)

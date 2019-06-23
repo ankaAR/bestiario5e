@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Berserker"
-tags: [mediana, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, manual-de-monstruos]
 cha: 9 (-1)
 wis: 11 (0)
 int: 9 (-1)

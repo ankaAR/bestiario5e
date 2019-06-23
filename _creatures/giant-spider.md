@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Spider"
-tags: [grande, bestia, cr1, monster-manual]
+tags: [grande, bestia, cr1, manual-de-monstruos]
 cha: 4 (-3)
 wis: 11 (0)
 int: 2 (-4)

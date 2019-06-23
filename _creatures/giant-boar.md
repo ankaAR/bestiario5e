@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Boar"
-tags: [grande, bestia, cr2, monster-manual]
+tags: [grande, bestia, cr2, manual-de-monstruos]
 cha: 5 (-3)
 wis: 7 (-2)
 int: 2 (-4)

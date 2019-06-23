@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Abolez"
-tags: [grande, aberracion, cr10, monster-manual]
+tags: [grande, aberracion, cr10, manual-de-monstruos]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 18 (+4)

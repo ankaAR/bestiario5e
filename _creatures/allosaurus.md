@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Allosaurus"
-tags: [grande, bestia, cr2, monster-manual]
+tags: [grande, bestia, cr2, manual-de-monstruos]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Azer"
-tags: [mediana, elemental, cr2, monster-manual]
+tags: [mediana, elemental, cr2, manual-de-monstruos]
 cha: 10 (0)
 wis: 13 (+1)
 int: 12 (+1)

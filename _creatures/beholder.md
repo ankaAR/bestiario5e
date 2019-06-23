@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Beholder"
-tags: [grande, aberracion, cr13, monster-manual]
+tags: [grande, aberracion, cr13, manual-de-monstruos]
 cha: 17 (+3)
 wis: 15 (+2)
 int: 17 (+3)

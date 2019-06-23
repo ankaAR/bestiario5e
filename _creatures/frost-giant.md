@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Frost Giant"
-tags: [enorme, gigante, cr8, monster-manual]
+tags: [enorme, gigante, cr8, manual-de-monstruos]
 cha: 12 (+1)
 wis: 10 (0)
 int: 9 (-1)

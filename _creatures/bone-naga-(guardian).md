@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bone Naga (Guardian)"
-tags: [grande, no-muerto, cr4, monster-manual]
+tags: [grande, no-muerto, cr4, manual-de-monstruos]
 cha: 16 (+3)
 wis: 15 (+2)
 int: 15 (+2)

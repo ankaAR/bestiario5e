@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fire Elemental"
-tags: [grande, elemental, cr5, monster-manual]
+tags: [grande, elemental, cr5, manual-de-monstruos]
 cha: 7 (-2)
 wis: 10 (0)
 int: 6 (-2)

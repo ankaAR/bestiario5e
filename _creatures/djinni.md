@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Djinni"
-tags: [grande, elemental, cr11, monster-manual]
+tags: [grande, elemental, cr11, manual-de-monstruos]
 cha: 20 (+5)
 wis: 16 (+3)
 int: 15 (+2)

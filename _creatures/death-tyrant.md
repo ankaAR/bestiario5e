@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Death Tyrant"
-tags: [grande, no-muerto, cr14, monster-manual]
+tags: [grande, no-muerto, cr14, manual-de-monstruos]
 cha: 19 (+4)
 wis: 15 (+2)
 int: 19 (+4)

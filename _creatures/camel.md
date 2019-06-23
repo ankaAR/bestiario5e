@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Camel"
-tags: [grande, bestia, cr1/8, monster-manual]
+tags: [grande, bestia, cr1/8, manual-de-monstruos]
 cha: 5 (-3)
 wis: 8 (-1)
 int: 2 (-4)

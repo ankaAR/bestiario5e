@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Galeb Duhr"
-tags: [mediana, elemental, cr6, monster-manual]
+tags: [mediana, elemental, cr6, manual-de-monstruos]
 cha: 11 (0)
 wis: 12 (+1)
 int: 11 (0)

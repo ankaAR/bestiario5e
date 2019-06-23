@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Peryton"
-tags: [mediana, monstruosidad, cr2, monster-manual]
+tags: [mediana, monstruosidad, cr2, manual-de-monstruos]
 cha: 10 (0)
 wis: 12 (+1)
 int: 9 (-1)

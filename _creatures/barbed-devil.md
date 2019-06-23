@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Barbed Devil"
-tags: [mediana, infernal, cr5, monster-manual]
+tags: [mediana, infernal, cr5, manual-de-monstruos]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 12 (+1)

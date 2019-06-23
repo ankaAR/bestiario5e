@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grell"
-tags: [mediana, aberracion, cr3, monster-manual]
+tags: [mediana, aberracion, cr3, manual-de-monstruos]
 cha: 9 (-1)
 wis: 11 (0)
 int: 12 (+1)

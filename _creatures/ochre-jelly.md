@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ochre Jelly"
-tags: [grande, cieno, cr2, monster-manual]
+tags: [grande, cieno, cr2, manual-de-monstruos]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 2 (-4)

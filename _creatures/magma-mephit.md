@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Magma Mephit"
-tags: [pequena, elemental, cr1/2, monster-manual]
+tags: [pequena, elemental, cr1/2, manual-de-monstruos]
 cha: 10 (0)
 wis: 10 (0)
 int: 7 (-2)

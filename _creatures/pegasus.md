@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pegasus"
-tags: [grande, celestial, cr2, monster-manual]
+tags: [grande, celestial, cr2, manual-de-monstruos]
 cha: 13 (+1)
 wis: 15 (+2)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Green Dragon"
-tags: [gargantuesca, dragon, cr22, monster-manual]
+tags: [gargantuesca, dragon, cr22, manual-de-monstruos]
 cha: 19 (+4)
 wis: 17 (+3)
 int: 20 (+5)

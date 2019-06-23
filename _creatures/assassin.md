@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Assassin"
-tags: [mediana, humanoide, cr8, monster-manual]
+tags: [mediana, humanoide, cr8, manual-de-monstruos]
 cha: 10 (0)
 wis: 11 (0)
 int: 13 (+1)

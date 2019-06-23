@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Steam Mephit"
-tags: [pequena, elemental, cr1/4, monster-manual]
+tags: [pequena, elemental, cr1/4, manual-de-monstruos]
 cha: 12 (+1)
 wis: 10 (0)
 int: 11 (0)

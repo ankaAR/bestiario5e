@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Brown Bear"
-tags: [grande, bestia, cr1, monster-manual]
+tags: [grande, bestia, cr1, manual-de-monstruos]
 cha: 7 (-2)
 wis: 13 (+1)
 int: 2 (-4)

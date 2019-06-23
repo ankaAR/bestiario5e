@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dao"
-tags: [grande, elemental, cr11, monster-manual]
+tags: [grande, elemental, cr11, manual-de-monstruos]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 12 (+1)

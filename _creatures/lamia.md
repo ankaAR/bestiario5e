@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lamia"
-tags: [grande, monstruosidad, cr4, monster-manual]
+tags: [grande, monstruosidad, cr4, manual-de-monstruos]
 cha: 16 (+3)
 wis: 15 (+2)
 int: 14 (+2)

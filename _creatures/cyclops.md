@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cyclops"
-tags: [enorme, gigante, cr6, monster-manual]
+tags: [enorme, gigante, cr6, manual-de-monstruos]
 cha: 10 (0)
 wis: 6 (-2)
 int: 8 (-1)

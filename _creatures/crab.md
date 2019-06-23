@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Crab"
-tags: [diminuta, bestia, cr0, monster-manual]
+tags: [diminuta, bestia, cr0, manual-de-monstruos]
 cha: 2 (-4)
 wis: 8 (-1)
 int: 1 (-5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ice Mephit"
-tags: [pequena, elemental, cr1/2, monster-manual]
+tags: [pequena, elemental, cr1/2, manual-de-monstruos]
 cha: 12 (+1)
 wis: 11 (0)
 int: 9 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Needle Blight"
-tags: [mediana, planta, cr1/4, monster-manual]
+tags: [mediana, planta, cr1/4, manual-de-monstruos]
 cha: 3 (-4)
 wis: 8 (-1)
 int: 4 (-3)

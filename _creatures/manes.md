@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Manes"
-tags: [pequena, infernal, cr1/8, monster-manual]
+tags: [pequena, infernal, cr1/8, manual-de-monstruos]
 cha: 4 (-3)
 wis: 8 (-1)
 int: 3 (-4)

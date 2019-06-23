@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Earth Elemental"
-tags: [grande, elemental, cr5, monster-manual]
+tags: [grande, elemental, cr5, manual-de-monstruos]
 cha: 5 (-3)
 wis: 10 (0)
 int: 5 (-3)

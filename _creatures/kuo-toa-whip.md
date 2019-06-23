@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kuo-Toa Whip"
-tags: [mediana, humanoide, cr1, monster-manual]
+tags: [mediana, humanoide, cr1, manual-de-monstruos]
 cha: 11 (0)
 wis: 14 (+2)
 int: 12 (+1)

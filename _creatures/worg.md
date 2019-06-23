@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Worg"
-tags: [grande, monstruosidad, cr1/2, monster-manual]
+tags: [grande, monstruosidad, cr1/2, manual-de-monstruos]
 cha: 8 (-1)
 wis: 11 (0)
 int: 7 (-2)

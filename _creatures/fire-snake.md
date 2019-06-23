@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fire Snake"
-tags: [mediana, elemental, cr1, monster-manual]
+tags: [mediana, elemental, cr1, manual-de-monstruos]
 cha: 8 (-1)
 wis: 10 (0)
 int: 7 (-2)

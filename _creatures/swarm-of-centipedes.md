@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Centipedes"
-tags: [mediana, enjambre, cr1/2, monster-manual]
+tags: [mediana, enjambre, cr1/2, manual-de-monstruos]
 cha: 1 (-5)
 wis: 7 (-2)
 int: 1 (-5)

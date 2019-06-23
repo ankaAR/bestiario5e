@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Young White Dragon"
-tags: [grande, dragon, cr6, monster-manual]
+tags: [grande, dragon, cr6, manual-de-monstruos]
 cha: 12 (+1)
 wis: 11 (0)
 int: 6 (-2)

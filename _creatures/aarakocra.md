@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Aarakocra"
-tags: [mediana, humanoide, cr1/4, monster-manual]
+tags: [mediana, humanoide, cr1/4, manual-de-monstruos]
 cha: 11 (0)
 wis: 12 (+1)
 int: 11 (0)

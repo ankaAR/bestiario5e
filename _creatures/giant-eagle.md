@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Eagle"
-tags: [grande, bestia, cr1, monster-manual]
+tags: [grande, bestia, cr1, manual-de-monstruos]
 cha: 10 (0)
 wis: 14 (+2)
 int: 8 (-1)

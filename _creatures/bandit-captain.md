@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bandit Captain"
-tags: [mediana, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, manual-de-monstruos]
 cha: 14 (+2)
 wis: 11 (0)
 int: 14 (+2)

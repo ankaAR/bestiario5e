@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Erinyes"
-tags: [mediana, infernal, cr12, monster-manual]
+tags: [mediana, infernal, cr12, manual-de-monstruos]
 cha: 18 (+4)
 wis: 14 (+2)
 int: 14 (+2)

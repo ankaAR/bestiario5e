@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Noble"
-tags: [mediana, humanoide, cr1/8, monster-manual]
+tags: [mediana, humanoide, cr1/8, manual-de-monstruos]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 12 (+1)

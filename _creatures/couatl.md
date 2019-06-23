@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Couatl"
-tags: [mediana, celestial, cr4, monster-manual]
+tags: [mediana, celestial, cr4, manual-de-monstruos]
 cha: 18 (+4)
 wis: 20 (+5)
 int: 18 (+4)

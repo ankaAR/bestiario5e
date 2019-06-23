@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Barlgura"
-tags: [grande, infernal, cr5, monster-manual]
+tags: [grande, infernal, cr5, manual-de-monstruos]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 7 (-2)

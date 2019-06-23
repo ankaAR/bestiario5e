@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Frog"
-tags: [mediana, bestia, cr1/4, monster-manual]
+tags: [mediana, bestia, cr1/4, manual-de-monstruos]
 cha: 3 (-4)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc"
-tags: [mediana, humanoide, cr1/2, monster-manual]
+tags: [mediana, humanoide, cr1/2, manual-de-monstruos]
 cha: 10 (0)
 wis: 11 (0)
 int: 7 (-2)

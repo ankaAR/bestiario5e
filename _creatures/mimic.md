@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mimic"
-tags: [mediana, monstruosidad, cr2, monster-manual]
+tags: [mediana, monstruosidad, cr2, manual-de-monstruos]
 cha: 8 (-1)
 wis: 13 (+1)
 int: 5 (-3)

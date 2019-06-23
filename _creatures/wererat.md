@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wererat"
-tags: [mediana, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, manual-de-monstruos]
 cha: 8 (-1)
 wis: 10 (0)
 int: 11 (0)

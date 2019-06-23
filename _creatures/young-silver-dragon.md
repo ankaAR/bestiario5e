@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Young Silver Dragon"
-tags: [grande, dragon, cr9, monster-manual]
+tags: [grande, dragon, cr9, manual-de-monstruos]
 cha: 19 (+4)
 wis: 11 (0)
 int: 14 (+2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quadrone"
-tags: [mediana, constructo, cr1, monster-manual]
+tags: [mediana, constructo, cr1, manual-de-monstruos]
 cha: 11 (0)
 wis: 10 (0)
 int: 10 (0)

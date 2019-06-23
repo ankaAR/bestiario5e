@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sprite"
-tags: [diminuta, fata, cr1/4, monster-manual]
+tags: [diminuta, fata, cr1/4, manual-de-monstruos]
 cha: 11 (0)
 wis: 13 (+1)
 int: 14 (+2)

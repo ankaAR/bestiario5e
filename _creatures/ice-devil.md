@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ice Devil"
-tags: [grande, infernal, cr14, monster-manual]
+tags: [grande, infernal, cr14, manual-de-monstruos]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 18 (+4)

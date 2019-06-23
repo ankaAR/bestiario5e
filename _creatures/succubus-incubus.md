@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Succubus/Incubus"
-tags: [mediana, infernal, cr4, monster-manual]
+tags: [mediana, infernal, cr4, manual-de-monstruos]
 cha: 20 (+5)
 wis: 12 (+1)
 int: 15 (+2)

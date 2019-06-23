@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Planetar"
-tags: [grande, celestial, cr16, monster-manual]
+tags: [grande, celestial, cr16, manual-de-monstruos]
 cha: 25 (+7)
 wis: 22 (+6)
 int: 19 (+4)

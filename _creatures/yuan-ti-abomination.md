@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Abomination"
-tags: [grande, monstruosidad, cr7, monster-manual]
+tags: [grande, monstruosidad, cr7, manual-de-monstruos]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 17 (+3)

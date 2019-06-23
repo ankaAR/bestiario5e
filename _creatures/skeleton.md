@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Skeleton"
-tags: [mediana, no-muerto, cr1/4, monster-manual]
+tags: [mediana, no-muerto, cr1/4, manual-de-monstruos]
 cha: 5 (-3)
 wis: 8 (-1)
 int: 6 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tarrasque"
-tags: [gargantuesca, monstruosidad, cr30, monster-manual]
+tags: [gargantuesca, monstruosidad, cr30, manual-de-monstruos]
 cha: 11 (0)
 wis: 11 (0)
 int: 3 (-4)

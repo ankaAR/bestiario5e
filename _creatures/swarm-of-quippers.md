@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Quippers"
-tags: [mediana, enjambre, cr1, monster-manual]
+tags: [mediana, enjambre, cr1, manual-de-monstruos]
 cha: 2 (-4)
 wis: 7 (-2)
 int: 1 (-5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lich"
-tags: [mediana, no-muerto, cr21, monster-manual]
+tags: [mediana, no-muerto, cr21, manual-de-monstruos]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 20 (+5)

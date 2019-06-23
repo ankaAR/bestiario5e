@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Blue Dracolich"
-tags: [enorme, no-muerto, cr17, monster-manual]
+tags: [enorme, no-muerto, cr17, manual-de-monstruos]
 cha: 19 (+4)
 wis: 15 (+2)
 int: 16 (+3)

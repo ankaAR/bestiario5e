@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gas Spore"
-tags: [grande, planta, cr1/2, monster-manual]
+tags: [grande, planta, cr1/2, manual-de-monstruos]
 cha: 1 (-5)
 wis: 1 (-5)
 int: 1 (-5)

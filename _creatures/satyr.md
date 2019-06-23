@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Satyr"
-tags: [mediana, fata, cr1/2, monster-manual]
+tags: [mediana, fata, cr1/2, manual-de-monstruos]
 cha: 14 (+2)
 wis: 10 (0)
 int: 12 (+1)
