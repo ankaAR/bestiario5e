@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Behir"
-tags: [huge, monstrosity, cr11, monster-manual]
+tags: [huge, monstruosidad, cr11, monster-manual]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 7 (-2)

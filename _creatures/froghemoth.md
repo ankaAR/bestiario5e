@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Froghemoth"
-tags: [huge, monstrosity, cr10, volos-guide]
+tags: [huge, monstruosidad, cr10, volos-guide]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

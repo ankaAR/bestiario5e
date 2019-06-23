@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yeti"
-tags: [large, monstrosity, cr3, monster-manual]
+tags: [large, monstruosidad, cr3, monster-manual]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 8 (-1)

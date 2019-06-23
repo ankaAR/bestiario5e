@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Young Kruthik"
-tags: [small, monstrosity, cr1/8, mordenkainens-tome-of-foes]
+tags: [small, monstruosidad, cr1/8, mordenkainens-tome-of-foes]
 page_number: 211
 cha: 6 (-2)
 wis: 10 (0)

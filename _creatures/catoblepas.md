@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Catoblepas"
-tags: [large, monstrosity, cr5, volos-guide]
+tags: [large, monstruosidad, cr5, volos-guide]
 cha: 8 (-1)
 wis: 14 (+2)
 int: 3 (-4)

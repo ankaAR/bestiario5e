@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Roc"
-tags: [gargantuan, monstrosity, cr11, monster-manual]
+tags: [gargantuan, monstruosidad, cr11, monster-manual]
 cha: 9 (-1)
 wis: 10 (0)
 int: 3 (-4)

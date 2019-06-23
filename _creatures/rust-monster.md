@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rust Monster"
-tags: [medium, monstrosity, cr1/2, monster-manual]
+tags: [medium, monstruosidad, cr1/2, monster-manual]
 cha: 6 (-2)
 wis: 13 (+1)
 int: 2 (-4)

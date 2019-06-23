@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cave Fisher"
-tags: [medium, monstrosity, cr3, volos-guide]
+tags: [medium, monstruosidad, cr3, volos-guide]
 cha: 3 (-4)
 wis: 10 (0)
 int: 3 (-4)

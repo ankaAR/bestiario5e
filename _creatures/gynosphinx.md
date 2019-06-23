@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gynosphinx"
-tags: [large, monstrosity, cr11, monster-manual]
+tags: [large, monstruosidad, cr11, monster-manual]
 cha: 18 (+4)
 wis: 18 (+4)
 int: 18 (+4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Young Remorhaz"
-tags: [large, monstrosity, cr5, monster-manual]
+tags: [large, monstruosidad, cr5, monster-manual]
 cha: 4 (-3)
 wis: 10 (0)
 int: 3 (-4)

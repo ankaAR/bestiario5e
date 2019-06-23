@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spirit Naga"
-tags: [large, monstrosity, cr8, monster-manual]
+tags: [large, monstruosidad, cr8, monster-manual]
 cha: 16 (+3)
 wis: 15 (+2)
 int: 16 (+3)

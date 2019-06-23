@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ankheg"
-tags: [large, monstrosity, cr2, monster-manual]
+tags: [large, monstruosidad, cr2, monster-manual]
 cha: 6 (-2)
 wis: 13 (+1)
 int: 1 (-5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Guardian Naga"
-tags: [large, monstrosity, cr10, monster-manual]
+tags: [large, monstruosidad, cr10, monster-manual]
 cha: 18 (+4)
 wis: 19 (+4)
 int: 16 (+3)

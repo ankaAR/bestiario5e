@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "The Lonely"
-tags: [medium, monstrosity, cr9, mordenkainens-tome-of-foes]
+tags: [medium, monstruosidad, cr9, mordenkainens-tome-of-foes]
 page_number: 232
 cha: 6 (-2)
 wis: 11 (0)

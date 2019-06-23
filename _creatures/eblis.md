@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Eblis"
-tags: [Large, monstrosity, cr1, tomb-of-annihilation]
+tags: [Large, monstruosidad, cr1, tomb-of-annihilation]
 cha: 11 (0)
 wis: 14 (+2)
 int: 12 (+1)

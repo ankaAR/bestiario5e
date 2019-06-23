@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Umber Hulk"
-tags: [large, monstrosity, cr5, monster-manual]
+tags: [large, monstruosidad, cr5, monster-manual]
 cha: 10 (0)
 wis: 10 (0)
 int: 9 (-1)

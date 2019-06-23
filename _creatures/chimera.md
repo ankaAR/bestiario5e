@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chimera"
-tags: [large, monstrosity, cr6, monster-manual]
+tags: [large, monstruosidad, cr6, monster-manual]
 cha: 10 (0)
 wis: 14 (+2)
 int: 3 (-4)

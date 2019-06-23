@@ -18,8 +18,8 @@
   tag: gigante
 - name: Humanoides
   tag: humanoide
-- name: Monstrosities
-  tag: monstrosity
+- name: Monstruosidades
+  tag: monstruosidad
 - name: Oozes
   tag: ooze
 - name: Plants

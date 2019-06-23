@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Basilisk"
-tags: [medium, monstrosity, cr3, monster-manual]
+tags: [medium, monstruosidad, cr3, monster-manual]
 cha: 7 (-2)
 wis: 8 (-1)
 int: 2 (-4)

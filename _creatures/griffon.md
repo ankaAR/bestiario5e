@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Griffon"
-tags: [large, monstrosity, cr2, monster-manual]
+tags: [large, monstruosidad, cr2, monster-manual]
 cha: 8 (-1)
 wis: 13 (+1)
 int: 2 (-4)

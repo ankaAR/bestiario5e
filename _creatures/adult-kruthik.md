@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Kruthik"
-tags: [medium, monstrosity, cr2, mordenkainens-tome-of-foes]
+tags: [medium, monstruosidad, cr2, mordenkainens-tome-of-foes]
 page_number: 212
 cha: 8 (-1)
 wis: 12 (+1)

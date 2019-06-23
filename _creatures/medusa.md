@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Medusa"
-tags: [medium, monstrosity, cr6, monster-manual]
+tags: [medium, monstruosidad, cr6, monster-manual]
 cha: 15 (+2)
 wis: 13 (+1)
 int: 12 (+1)

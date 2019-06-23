@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Anathema"
-tags: [huge, monstrosity, cr12, volos-guide]
+tags: [huge, monstruosidad, cr12, volos-guide]
 cha: 20 (+5)
 wis: 17 (+3)
 int: 19 (+4)

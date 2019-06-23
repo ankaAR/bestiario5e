@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kamadan"
-tags: [Large, monstrosity, cr4, tomb-of-annihilation]
+tags: [Large, monstruosidad, cr4, tomb-of-annihilation]
 cha: 10 (0)
 wis: 14 (+2)
 int: 3 (-4)

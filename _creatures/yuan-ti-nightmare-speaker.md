@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Nightmare Speaker"
-tags: [medium, monstrosity, cr4, volos-guide]
+tags: [medium, monstruosidad, cr4, volos-guide]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 14 (+2)

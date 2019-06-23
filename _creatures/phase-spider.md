@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Phase Spider"
-tags: [large, monstrosity, cr3, monster-manual]
+tags: [large, monstruosidad, cr3, monster-manual]
 cha: 6 (-2)
 wis: 10 (0)
 int: 6 (-2)

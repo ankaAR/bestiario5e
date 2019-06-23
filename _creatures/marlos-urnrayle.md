@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Marlos Urnrayle"
-tags: [medium, monstrosity, cr8, elemental-evil]
+tags: [medium, monstruosidad, cr8, elemental-evil]
 cha: 17 (+3)
 wis: 13 (+1)
 int: 12 (+1)

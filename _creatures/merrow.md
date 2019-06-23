@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Merrow"
-tags: [large, monstrosity, cr2, monster-manual]
+tags: [large, monstruosidad, cr2, monster-manual]
 cha: 9 (-1)
 wis: 10 (0)
 int: 8 (-1)

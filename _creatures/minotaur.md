@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Minotaur"
-tags: [large, monstrosity, cr3, monster-manual]
+tags: [large, monstruosidad, cr3, monster-manual]
 cha: 9 (-1)
 wis: 16 (+3)
 int: 6 (-2)

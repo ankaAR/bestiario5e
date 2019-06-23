@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sea Lion"
-tags: [large, monstrosity, cr5, tales-from-the-yawning-portal]
+tags: [large, monstruosidad, cr5, tales-from-the-yawning-portal]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 3 (-4)

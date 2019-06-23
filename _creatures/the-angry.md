@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "The Angry"
-tags: [medium, monstrosity, cr13, mordenkainens-tome-of-foes]
+tags: [medium, monstruosidad, cr13, mordenkainens-tome-of-foes]
 page_number: 231
 cha: 6 (-2)
 wis: 13 (+1)

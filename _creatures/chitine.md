@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chitine"
-tags: [small, monstrosity, cr1/2, volos-guide]
+tags: [small, monstruosidad, cr1/2, volos-guide]
 cha: 7 (-2)
 wis: 10 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Doppelganger"
-tags: [medium, monstrosity, cr3, monster-manual]
+tags: [medium, monstruosidad, cr3, monster-manual]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 11 (0)

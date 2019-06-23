@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Winter Wolf"
-tags: [large, monstrosity, cr3, monster-manual]
+tags: [large, monstruosidad, cr3, monster-manual]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 7 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Choldrith"
-tags: [medium, monstrosity, cr3, volos-guide]
+tags: [medium, monstruosidad, cr3, volos-guide]
 cha: 10 (0)
 wis: 14 (+2)
 int: 11 (0)

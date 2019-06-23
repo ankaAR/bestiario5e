@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Pit Master"
-tags: [medium, monstrosity, cr5, volos-guide]
+tags: [medium, monstruosidad, cr5, volos-guide]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 14 (+2)

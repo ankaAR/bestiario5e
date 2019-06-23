@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "The Wretched"
-tags: [small, monstrosity, cr1/4, mordenkainens-tome-of-foes]
+tags: [small, monstruosidad, cr1/4, mordenkainens-tome-of-foes]
 page_number: 233
 cha: 5 (-2)
 wis: 6 (-2)

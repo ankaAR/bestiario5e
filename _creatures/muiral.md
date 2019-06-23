@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Muiral"
-tags: [large, monstrosity, cr13, dungeon-of-the-mad-mage]
+tags: [large, monstruosidad, cr13, dungeon-of-the-mad-mage]
 page_number: 314
 cha: 18 (+4)
 wis: 13 (+1)
