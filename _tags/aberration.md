@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: Aberrations
-tag: aberration
+name: Aberraciones
+tag: aberración
 ---
