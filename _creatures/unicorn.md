@@ -8,7 +8,7 @@ int: 11 (0)
 con: 15 (+2)
 dex: 14 (+2)
 str: 18 (+4)
-size: Large celestial
+size: Celestial Grande
 alignment: lawful good
 challenge: "5 (1,800 XP)"
 languages: "Celestial, Elvish, Sylvan, telepathy 60 ft."

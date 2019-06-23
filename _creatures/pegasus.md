@@ -8,7 +8,7 @@ int: 10 (0)
 con: 16 (+3)
 dex: 15 (+2)
 str: 18 (+4)
-size: Large celestial
+size: Celestial Grande
 alignment: chaotic good
 challenge: "2 (450 XP)"
 languages: "understands Celestial, Common, Elvish, and Sylvan but can't speak"

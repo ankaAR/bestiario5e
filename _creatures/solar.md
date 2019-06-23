@@ -8,7 +8,7 @@ int: 25 (+7)
 con: 26 (+8)
 dex: 22 (+6)
 str: 26 (+8)
-size: Large celestial
+size: Celestial Grande
 alignment: lawful good
 challenge: "21 (33,000 XP)"
 languages: "all, telepathy 120 ft."
