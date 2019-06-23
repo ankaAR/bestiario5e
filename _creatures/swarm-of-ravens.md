@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Ravens"
-tags: [mediana, swarm, cr1/4, monster-manual]
+tags: [mediana, enjambre, cr1/4, monster-manual]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 3 (-4)
