@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Korred"
-tags: [small, fey, cr7, volos-guide]
+tags: [small, fata, cr7, volos-guide]
 cha: 9 (-1)
 wis: 15 (+2)
 int: 10 (0)

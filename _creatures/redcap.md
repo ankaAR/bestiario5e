@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Redcap"
-tags: [small, fey, cr3, volos-guide]
+tags: [small, fata, cr3, volos-guide]
 cha: 9 (-1)
 wis: 12 (+1)
 int: 10 (0)

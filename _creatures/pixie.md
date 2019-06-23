@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pixie"
-tags: [tiny, fey, cr1/4, monster-manual]
+tags: [tiny, fata, cr1/4, monster-manual]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 10 (0)

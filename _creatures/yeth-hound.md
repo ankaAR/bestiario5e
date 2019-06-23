@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yeth Hound"
-tags: [large, fey, cr4, volos-guide]
+tags: [large, fata, cr4, volos-guide]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 5 (-3)

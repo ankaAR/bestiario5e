@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Meenlock"
-tags: [small, fey, cr2, volos-guide]
+tags: [small, fata, cr2, volos-guide]
 cha: 8 (-1)
 wis: 10 (0)
 int: 11 (0)

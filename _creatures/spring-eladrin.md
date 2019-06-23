@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spring Eladrin"
-tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
+tags: [medium, fata, cr10, mordenkainens-tome-of-foes]
 page_number: 196
 cha: 18 (+4)
 wis: 11 (0)

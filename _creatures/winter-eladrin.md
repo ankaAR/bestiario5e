@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Winter Eladrin"
-tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
+tags: [medium, fata, cr10, mordenkainens-tome-of-foes]
 page_number: 197
 cha: 13 (+1)
 wis: 17 (+3)

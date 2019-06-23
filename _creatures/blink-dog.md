@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blink Dog"
-tags: [medium, fey, cr1/4, monster-manual]
+tags: [medium, fata, cr1/4, monster-manual]
 cha: 11 (0)
 wis: 13 (+1)
 int: 10 (0)
