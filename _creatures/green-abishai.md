@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Green Abishai"
-tags: [medium, fiend, cr15, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr15, mordenkainens-tome-of-foes]
 page_number: 162
 cha: 19 (+4)
 wis: 12 (+1)

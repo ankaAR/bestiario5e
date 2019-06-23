@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dhergoloth"
-tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr7, mordenkainens-tome-of-foes]
 page_number: 248
 cha: 9 (0)
 wis: 10 (0)

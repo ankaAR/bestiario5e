@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Maw Demon"
-tags: [medium, fiend, cr1, volos-guide]
+tags: [medium, infernal, cr1, volos-guide]
 cha: 5 (-3)
 wis: 8 (-1)
 int: 5 (-3)

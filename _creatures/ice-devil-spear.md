@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ice Devil Spear"
-tags: [large, fiend, cr14, monster-manual]
+tags: [large, infernal, cr14, monster-manual]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 18 (+4)

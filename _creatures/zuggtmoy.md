@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Zuggtmoy"
-tags: [large, fiend, cr23, mordenkainens-tome-of-foes]
+tags: [large, infernal, cr23, mordenkainens-tome-of-foes]
 page_number: 157
 cha: 24 (+7)
 wis: 19 (+4)

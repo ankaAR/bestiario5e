@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blue Abishai"
-tags: [medium, fiend, cr17, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr17, mordenkainens-tome-of-foes]
 page_number: 161
 cha: 18 (+4)
 wis: 23 (+6)

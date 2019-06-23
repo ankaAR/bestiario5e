@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Juiblex"
-tags: [huge, fiend, cr23, mordenkainens-tome-of-foes]
+tags: [huge, infernal, cr23, mordenkainens-tome-of-foes]
 page_number: 151
 cha: 16 (+3)
 wis: 20 (+5)

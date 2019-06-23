@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orthon"
-tags: [large, fiend, cr10, mordenkainens-tome-of-foes]
+tags: [large, infernal, cr10, mordenkainens-tome-of-foes]
 page_number: 169
 cha: 16 (+3)
 wis: 15 (+2)

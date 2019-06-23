@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Graz'zt (B)"
-tags: [large, fiend, cr24, mordenkainens-tome-of-foes]
+tags: [large, infernal, cr24, mordenkainens-tome-of-foes]
 page_number: 149
 cha: 26 (+8)
 wis: 21 (+5)

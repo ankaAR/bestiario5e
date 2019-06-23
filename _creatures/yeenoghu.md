@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yeenoghu"
-tags: [huge, fiend, cr24, mordenkainens-tome-of-foes]
+tags: [huge, infernal, cr24, mordenkainens-tome-of-foes]
 page_number: 155
 cha: 15 (+2)
 wis: 24 (+7)

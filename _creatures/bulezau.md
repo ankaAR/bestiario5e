@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bulezau"
-tags: [medium, fiend, cr3, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr3, mordenkainens-tome-of-foes]
 page_number: 131
 cha: 6 (-2)
 wis: 9 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Alkilith"
-tags: [medium, fiend, cr11, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr11, mordenkainens-tome-of-foes]
 page_number: 130
 cha: 7 (-1)
 wis: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tanarukk"
-tags: [medium, fiend, cr5, volos-guide]
+tags: [medium, infernal, cr5, volos-guide]
 cha: 9 (-1)
 wis: 9 (-1)
 int: 9 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Titivilus"
-tags: [medium, fiend, cr16, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr16, mordenkainens-tome-of-foes]
 page_number: 179
 cha: 26 (+8)
 wis: 22 (+6)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Draegloth"
-tags: [large, fiend, cr7, volos-guide]
+tags: [large, infernal, cr7, volos-guide]
 cha: 11 (0)
 wis: 11 (0)
 int: 13 (+1)

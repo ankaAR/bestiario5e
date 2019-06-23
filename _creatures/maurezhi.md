@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Maurezhi"
-tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr7, mordenkainens-tome-of-foes]
 page_number: 133
 cha: 15 (+2)
 wis: 12 (+1)

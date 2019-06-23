@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Marilith"
-tags: [large, fiend, cr16, monster-manual]
+tags: [large, infernal, cr16, monster-manual]
 cha: 20 (+5)
 wis: 16 (+3)
 int: 18 (+4)

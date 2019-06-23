@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fraz-Urb'luu (B)"
-tags: [large, fiend, cr23, mordenkainens-tome-of-foes]
+tags: [large, infernal, cr23, mordenkainens-tome-of-foes]
 page_number: 146
 cha: 26 (+8)
 wis: 24 (+7)

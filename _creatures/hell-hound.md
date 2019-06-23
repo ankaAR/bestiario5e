@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hell Hound"
-tags: [medium, fiend, cr3, monster-manual]
+tags: [medium, infernal, cr3, monster-manual]
 cha: 6 (-2)
 wis: 13 (+1)
 int: 6 (-2)

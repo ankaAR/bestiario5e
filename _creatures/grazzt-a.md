@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Graz'zt (A)"
-tags: [large, fiend, cr24, out-of-the-abyss]
+tags: [large, infernal, cr24, out-of-the-abyss]
 cha: 26 (+8)
 wis: 21 (+5)
 int: 23 (+6)

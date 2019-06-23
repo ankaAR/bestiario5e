@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Devourer"
-tags: [large, fiend, cr13, volos-guide]
+tags: [large, infernal, cr13, volos-guide]
 cha: 16 (+3)
 wis: 10 (0)
 int: 13 (+1)

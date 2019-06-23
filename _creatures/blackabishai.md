@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Black Abishai"
-tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr7, mordenkainens-tome-of-foes]
 page_number: 160
 cha: 11 (0)
 wis: 16 (+3)

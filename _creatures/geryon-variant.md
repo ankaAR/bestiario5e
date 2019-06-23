@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Geryon (variant)"
-tags: [huge, fiend, cr22, mordenkainens-tome-of-foes]
+tags: [huge, infernal, cr22, mordenkainens-tome-of-foes]
 page_number: 173
 cha: 23 (+6)
 wis: 16 (+3)

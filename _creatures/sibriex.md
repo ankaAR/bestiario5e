@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sibriex"
-tags: [huge, fiend, cr18, mordenkainens-tome-of-foes]
+tags: [huge, infernal, cr18, mordenkainens-tome-of-foes]
 page_number: 137
 cha: 25 (+7)
 wis: 24 (+7)

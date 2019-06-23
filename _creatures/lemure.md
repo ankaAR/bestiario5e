@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lemure"
-tags: [medium, fiend, cr0, monster-manual]
+tags: [medium, infernal, cr0, monster-manual]
 cha: 3 (-4)
 wis: 11 (0)
 int: 1 (-5)

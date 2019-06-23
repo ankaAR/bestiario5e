@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fraz-Urb'luu (A)"
-tags: [large, fiend, cr23, out-of-the-abyss]
+tags: [large, infernal, cr23, out-of-the-abyss]
 cha: 26 (+8)
 wis: 24 (+7)
 int: 26 (+8)

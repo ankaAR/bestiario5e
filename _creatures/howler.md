@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Howler"
-tags: [large, fiend, cr8, mordenkainens-tome-of-foes]
+tags: [large, infernal, cr8, mordenkainens-tome-of-foes]
 page_number: 210
 cha: 6 (-2)
 wis: 20 (+5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Balor"
-tags: [huge, fiend, cr19, monster-manual]
+tags: [huge, infernal, cr19, monster-manual]
 cha: 22 (+6)
 wis: 16 (+3)
 int: 20 (+5)

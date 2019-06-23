@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Baphomet"
-tags: [huge, fiend, cr23, mordenkainens-tome-of-foes]
+tags: [huge, infernal, cr23, mordenkainens-tome-of-foes]
 page_number: 143
 cha: 16 (+3)
 wis: 24 (+7)

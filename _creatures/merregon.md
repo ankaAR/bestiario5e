@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Merregon"
-tags: [medium, fiend, cr4, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr4, mordenkainens-tome-of-foes]
 page_number: 166
 cha: 8 (-1)
 wis: 12 (+1)

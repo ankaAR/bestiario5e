@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bearded Devil"
-tags: [medium, fiend, cr3, monster-manual]
+tags: [medium, infernal, cr3, monster-manual]
 cha: 11 (0)
 wis: 11 (0)
 int: 9 (-1)

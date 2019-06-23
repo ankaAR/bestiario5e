@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Canoloth"
-tags: [medium, fiend, cr8, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr8, mordenkainens-tome-of-foes]
 page_number: 247
 cha: 12 (+1)
 wis: 17 (+3)

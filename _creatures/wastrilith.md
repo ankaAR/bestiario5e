@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wastrilith"
-tags: [large, fiend, cr13, mordenkainens-tome-of-foes]
+tags: [large, infernal, cr13, mordenkainens-tome-of-foes]
 page_number: 139
 cha: 14 (+2)
 wis: 12 (+1)

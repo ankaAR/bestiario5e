@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Babau"
-tags: [medium, fiend, cr4, volos-guide]
+tags: [medium, infernal, cr4, volos-guide]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 11 (0)

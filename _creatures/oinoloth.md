@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Oinoloth"
-tags: [medium, fiend, cr12, mordenkainens-tome-of-foes]
+tags: [medium, infernal, cr12, mordenkainens-tome-of-foes]
 page_number: 251
 cha: 19 (+4)
 wis: 16 (+3)

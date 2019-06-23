@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shoosuva"
-tags: [large, fiend, cr8, volos-guide]
+tags: [large, infernal, cr8, volos-guide]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 7 (-2)

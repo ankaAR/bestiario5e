@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Demogorgon"
-tags: [huge, fiend, cr26, mordenkainens-tome-of-foes]
+tags: [huge, infernal, cr26, mordenkainens-tome-of-foes]
 page_number: 144
 cha: 25 (+7)
 wis: 17 (+3)
