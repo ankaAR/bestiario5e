@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: Fata
+name: Fatas
 tag: fata
 ---
