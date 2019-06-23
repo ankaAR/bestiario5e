@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Darkling"
-tags: [small, fata, cr1/2, volos-guide]
+tags: [pequena, fata, cr1/2, volos-guide]
 cha: 10 (0)
 wis: 12 (+1)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Boggle"
-tags: [small, fata, cr1/8, volos-guide]
+tags: [pequena, fata, cr1/8, volos-guide]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 6 (-2)

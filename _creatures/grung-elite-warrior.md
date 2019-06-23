@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grung Elite Warrior"
-tags: [small, humanoide, cr2, volos-guide]
+tags: [pequena, humanoide, cr2, volos-guide]
 cha: 12 (+1)
 wis: 11 (0)
 int: 10 (0)

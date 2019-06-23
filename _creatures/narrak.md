@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Narrak"
-tags: [small, humanoide, cr2, out-of-the-abyss]
+tags: [pequena, humanoide, cr2, out-of-the-abyss]
 cha: 16 (+3)
 wis: 5 (-3)
 int: 14 (+2)

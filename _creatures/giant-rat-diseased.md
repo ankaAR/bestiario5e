@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Rat (Diseased)"
-tags: [small, bestia, cr1/8, monster-manual]
+tags: [pequena, bestia, cr1/8, monster-manual]
 cha: 4 (-3)
 wis: 10 (0)
 int: 2 (-4)

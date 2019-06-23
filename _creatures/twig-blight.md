@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Twig Blight"
-tags: [small, planta, cr1/8, monster-manual]
+tags: [pequena, planta, cr1/8, monster-manual]
 cha: 3 (-4)
 wis: 8 (-1)
 int: 4 (-3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wiggan Nettlebee"
-tags: [small, humanoide, cr2, elemental-evil]
+tags: [pequena, humanoide, cr2, elemental-evil]
 cha: 13 (+1)
 wis: 15 (+2)
 int: 14 (+2)

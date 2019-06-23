@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Octopus"
-tags: [small, bestia, cr0, monster-manual]
+tags: [pequena, bestia, cr0, monster-manual]
 cha: 4 (-3)
 wis: 10 (0)
 int: 3 (-4)

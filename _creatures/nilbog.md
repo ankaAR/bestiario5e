@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nilbog"
-tags: [small, humanoide, cr1, volos-guide]
+tags: [pequena, humanoide, cr1, volos-guide]
 cha: 15 (+2)
 wis: 8 (-1)
 int: 10 (0)

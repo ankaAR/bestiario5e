@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kobold Inventor"
-tags: [small, humanoide, cr1/4, volos-guide]
+tags: [pequena, humanoide, cr1/4, volos-guide]
 cha: 8 (-1)
 wis: 7 (-2)
 int: 8 (-1)

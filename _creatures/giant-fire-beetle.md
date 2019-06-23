@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Fire Beetle"
-tags: [small, bestia, cr0, monster-manual]
+tags: [pequena, bestia, cr0, monster-manual]
 cha: 3 (-4)
 wis: 7 (-2)
 int: 1 (-5)

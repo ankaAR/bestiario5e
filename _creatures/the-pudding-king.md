@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "The Pudding King"
-tags: [small, humanoide, cr4, out-of-the-abyss]
+tags: [pequena, humanoide, cr4, out-of-the-abyss]
 cha: 17 (+3)
 wis: 8 (-1)
 int: 12 (+1)

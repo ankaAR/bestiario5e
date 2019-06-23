@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Derro Savant (A)"
-tags: [small, humanoide, cr3, out-of-the-abyss]
+tags: [pequena, humanoide, cr3, out-of-the-abyss]
 cha: 14 (+2)
 wis: 5 (-3)
 int: 11 (0)

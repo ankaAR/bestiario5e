@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Neogi"
-tags: [small, aberracion, cr3, volos-guide]
+tags: [pequena, aberracion, cr3, volos-guide]
 cha: 15 (+2)
 wis: 12 (+1)
 int: 13 (+1)

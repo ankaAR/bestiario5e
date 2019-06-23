@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Werebat"
-tags: [small, humanoide, cr2, dungeon-of-the-mad-mage]
+tags: [pequena, humanoide, cr2, dungeon-of-the-mad-mage]
 page_number: 317
 cha: 8 (-1)
 wis: 12 (+1)

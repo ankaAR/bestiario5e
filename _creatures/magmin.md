@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Magmin"
-tags: [small, elemental, cr1/2, monster-manual]
+tags: [pequena, elemental, cr1/2, monster-manual]
 cha: 10 (0)
 wis: 11 (0)
 int: 8 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Jackal"
-tags: [small, bestia, cr0, monster-manual]
+tags: [pequena, bestia, cr0, monster-manual]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 3 (-4)

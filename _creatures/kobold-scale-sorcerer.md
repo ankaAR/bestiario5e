@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kobold Scale Sorcerer"
-tags: [small, humanoide, cr1, volos-guide]
+tags: [pequena, humanoide, cr1, volos-guide]
 cha: 14 (+2)
 wis: 9 (-1)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grung Wildling"
-tags: [small, humanoide, cr1, volos-guide]
+tags: [pequena, humanoide, cr1, volos-guide]
 cha: 11 (0)
 wis: 15 (+2)
 int: 10 (0)

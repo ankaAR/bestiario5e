@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Winged Kobold"
-tags: [small, humanoide, cr1/4, monster-manual]
+tags: [pequena, humanoide, cr1/4, monster-manual]
 cha: 8 (-1)
 wis: 7 (-2)
 int: 8 (-1)
