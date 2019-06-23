@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Crawling Claw"
-tags: [tiny, no-muerto, cr0, monster-manual]
+tags: [diminuta, no-muerto, cr0, monster-manual]
 cha: 4 (-3)
 wis: 10 (0)
 int: 5 (-3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quickling"
-tags: [tiny, fata, cr1, volos-guide]
+tags: [diminuta, fata, cr1, volos-guide]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 10 (0)

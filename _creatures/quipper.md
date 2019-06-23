@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Quipper"
-tags: [tiny, bestia, cr0, monster-manual]
+tags: [diminuta, bestia, cr0, monster-manual]
 cha: 2 (-4)
 wis: 7 (-2)
 int: 1 (-5)

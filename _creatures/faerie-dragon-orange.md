@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Faerie Dragon (Orange)"
-tags: [tiny, dragon, cr1, monster-manual]
+tags: [diminuta, dragon, cr1, monster-manual]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 14 (+2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Oblex Spawn"
-tags: [tiny, cieno, cr1/4, mordenkainens-tome-of-foes]
+tags: [diminuta, cieno, cr1/4, mordenkainens-tome-of-foes]
 page_number: 217
 cha: 10 (0)
 wis: 11 (0)

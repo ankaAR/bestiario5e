@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vargouille"
-tags: [tiny, infernal, cr1, volos-guide]
+tags: [diminuta, infernal, cr1, volos-guide]
 cha: 2 (-4)
 wis: 7 (-2)
 int: 4 (-3)

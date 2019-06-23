@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Frog"
-tags: [tiny, bestia, cr0, monster-manual]
+tags: [diminuta, bestia, cr0, monster-manual]
 cha: 3 (-4)
 wis: 8 (-1)
 int: 1 (-5)

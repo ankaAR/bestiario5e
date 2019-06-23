@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Velociraptor"
-tags: [tiny, bestia, cr1/4, volos-guide]
+tags: [diminuta, bestia, cr1/4, volos-guide]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 4 (-3)

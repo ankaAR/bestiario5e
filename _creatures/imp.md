@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Imp"
-tags: [tiny, infernal, cr1, monster-manual]
+tags: [diminuta, infernal, cr1, monster-manual]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 11 (0)

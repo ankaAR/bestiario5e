@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Homunculus"
-tags: [tiny, constructo, cr0, monster-manual]
+tags: [diminuta, constructo, cr0, monster-manual]
 cha: 7 (-2)
 wis: 10 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gazer"
-tags: [tiny, aberracion, cr1/2, volos-guide]
+tags: [diminuta, aberracion, cr1/2, volos-guide]
 cha: 7 (-2)
 wis: 10 (0)
 int: 3 (-4)
