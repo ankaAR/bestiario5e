@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shadow Dancer"
-tags: [medium, humanoide, cr7, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr7, mordenkainens-tome-of-foes]
 page_number: 225
 cha: 12 (+1)
 wis: 12 (+1)

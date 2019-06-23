@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Halaster Blackcloak"
-tags: [medium, humanoide, cr23, dungeon-of-the-mad-mage]
+tags: [mediana, humanoide, cr23, dungeon-of-the-mad-mage]
 page_number: 310
 cha: 18 (+4)
 wis: 18 (+4)

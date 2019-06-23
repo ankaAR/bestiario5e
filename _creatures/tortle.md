@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tortle"
-tags: [medium, humanoide, cr1/4, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr1/4, mordenkainens-tome-of-foes]
 page_number: 242
 cha: 12 (+1)
 wis: 13 (+1)

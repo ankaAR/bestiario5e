@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Diviner"
-tags: [medium, humanoide, cr8, volos-guide]
+tags: [mediana, humanoide, cr8, volos-guide]
 cha: 11 (0)
 wis: 12 (+1)
 int: 18 (+4)

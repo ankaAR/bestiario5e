@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "War Priest"
-tags: [medium, humanoide, cr9, volos-guide]
+tags: [mediana, humanoide, cr9, volos-guide]
 cha: 13 (+1)
 wis: 17 (+3)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Redbrand Ruffian"
-tags: [medium, humanoide, cr1/2, lost-mine-of-phandelver]
+tags: [mediana, humanoide, cr1/2, lost-mine-of-phandelver]
 cha: 11 (0)
 wis: 9 (-1)
 int: 9 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mummy"
-tags: [medium, no-muerto, cr3, monster-manual]
+tags: [mediana, no-muerto, cr3, monster-manual]
 cha: 12 (+1)
 wis: 10 (0)
 int: 6 (-2)

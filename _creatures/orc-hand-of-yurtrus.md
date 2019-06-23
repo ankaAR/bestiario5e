@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc Hand of Yurtrus"
-tags: [medium, humanoide, cr2, volos-guide]
+tags: [mediana, humanoide, cr2, volos-guide]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 11 (0)

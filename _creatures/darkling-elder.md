@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Darkling Elder"
-tags: [medium, fata, cr2, volos-guide]
+tags: [mediana, fata, cr2, volos-guide]
 cha: 13 (+1)
 wis: 14 (+2)
 int: 10 (0)

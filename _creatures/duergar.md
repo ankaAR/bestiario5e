@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar"
-tags: [medium, humanoide, cr1, monster-manual]
+tags: [mediana, humanoide, cr1, monster-manual]
 cha: 9 (-1)
 wis: 10 (0)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Xorn"
-tags: [medium, elemental, cr5, monster-manual]
+tags: [mediana, elemental, cr5, monster-manual]
 cha: 11 (0)
 wis: 10 (0)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sacred Stone Monk"
-tags: [medium, humanoide, cr1/2, elemental-evil]
+tags: [mediana, humanoide, cr1/2, elemental-evil]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 10 (0)

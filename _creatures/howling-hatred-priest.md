@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Howling Hatred Priest"
-tags: [medium, humanoide, cr2, elemental-evil]
+tags: [mediana, humanoide, cr2, elemental-evil]
 cha: 14 (+2)
 wis: 10 (0)
 int: 14 (+2)

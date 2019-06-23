@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Acolyte"
-tags: [medium, humanoide, cr1/4, unofficial]
+tags: [mediana, humanoide, cr1/4, unofficial]
 page_number: 999
 cha: 11 (0)
 wis: 14 (+2)

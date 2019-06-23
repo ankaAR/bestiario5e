@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ambush Drake"
-tags: [medium, dragon, cr1/2, tyranny-of-dragons]
+tags: [mediana, dragon, cr1/2, tyranny-of-dragons]
 cha: 6 (-2)
 wis: 11 (0)
 int: 4 (-3)

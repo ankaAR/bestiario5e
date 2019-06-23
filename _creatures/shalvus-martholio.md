@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shalvus Martholio"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 12 (+1)

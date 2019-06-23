@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Langdedrosa Cyanwrath"
-tags: [medium, humanoide, cr4, tyranny-of-dragons]
+tags: [mediana, humanoide, cr4, tyranny-of-dragons]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 10 (0)

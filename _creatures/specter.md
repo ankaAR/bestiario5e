@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Specter"
-tags: [medium, no-muerto, cr1, monster-manual]
+tags: [mediana, no-muerto, cr1, monster-manual]
 cha: 11 (0)
 wis: 10 (0)
 int: 10 (0)

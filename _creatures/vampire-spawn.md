@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vampire Spawn"
-tags: [medium, no-muerto, cr5, monster-manual]
+tags: [mediana, no-muerto, cr5, monster-manual]
 cha: 12 (+1)
 wis: 10 (0)
 int: 11 (0)

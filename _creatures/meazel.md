@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Meazel"
-tags: [medium, humanoide, cr1, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr1, mordenkainens-tome-of-foes]
 page_number: 214
 cha: 10 (0)
 wis: 13 (+1)

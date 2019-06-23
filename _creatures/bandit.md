@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bandit"
-tags: [medium, humanoide, cr1/8, monster-manual]
+tags: [mediana, humanoide, cr1/8, monster-manual]
 cha: 10 (0)
 wis: 10 (0)
 int: 10 (0)

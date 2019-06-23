@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tortle Druid"
-tags: [medium, humanoide, cr2, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr2, mordenkainens-tome-of-foes]
 page_number: 242
 cha: 12 (+1)
 wis: 15 (+2)

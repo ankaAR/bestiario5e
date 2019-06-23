@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Githyanki Kith'rak"
-tags: [medium, humanoide, cr12, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr12, mordenkainens-tome-of-foes]
 page_number: 205
 cha: 17 (+3)
 wis: 15 (+2)

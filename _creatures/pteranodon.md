@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pteranodon"
-tags: [medium, bestia, cr1/4, monster-manual]
+tags: [mediana, bestia, cr1/4, monster-manual]
 cha: 5 (-3)
 wis: 9 (-1)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Cult Fanatic"
-tags: [medium, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, monster-manual]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 10 (0)

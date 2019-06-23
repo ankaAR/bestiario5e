@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rakshasa"
-tags: [medium, infernal, cr13, monster-manual]
+tags: [mediana, infernal, cr13, monster-manual]
 cha: 20 (+5)
 wis: 16 (+3)
 int: 13 (+1)

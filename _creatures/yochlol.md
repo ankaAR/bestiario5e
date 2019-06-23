@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yochlol"
-tags: [medium, infernal, cr10, monster-manual]
+tags: [mediana, infernal, cr10, monster-manual]
 cha: 15 (+2)
 wis: 15 (+2)
 int: 13 (+1)

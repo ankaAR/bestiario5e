@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gar Shatterkeel"
-tags: [medium, humanoide, cr9, elemental-evil]
+tags: [mediana, humanoide, cr9, elemental-evil]
 cha: 13 (+1)
 wis: 18 (+4)
 int: 12 (+1)

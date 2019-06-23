@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bridesmaid of Zuggtmoy"
-tags: [medium, planta, cr1/8, out-of-the-abyss]
+tags: [mediana, planta, cr1/8, out-of-the-abyss]
 cha: 18 (+4)
 wis: 8 (-1)
 int: 14 (+2)

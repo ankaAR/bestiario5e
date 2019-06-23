@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Amnizu (variant)"
-tags: [medium, infernal, cr18, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr18, mordenkainens-tome-of-foes]
 page_number: 164
 cha: 18 (+4)
 wis: 12 (+1)

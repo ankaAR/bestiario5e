@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hurricane"
-tags: [medium, humanoide, cr2, elemental-evil]
+tags: [mediana, humanoide, cr2, elemental-evil]
 cha: 10 (0)
 wis: 12 (+1)
 int: 10 (0)

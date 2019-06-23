@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duvessa Shane"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 16 (+3)

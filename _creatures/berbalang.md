@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Berbalang"
-tags: [medium, aberracion, cr2, mordenkainens-tome-of-foes]
+tags: [mediana, aberracion, cr2, mordenkainens-tome-of-foes]
 page_number: 120
 cha: 10 (0)
 wis: 11 (0)

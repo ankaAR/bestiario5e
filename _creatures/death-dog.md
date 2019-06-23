@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Death Dog"
-tags: [medium, monstruosidad, cr1, monster-manual]
+tags: [mediana, monstruosidad, cr1, monster-manual]
 cha: 6 (-2)
 wis: 13 (+1)
 int: 3 (-4)

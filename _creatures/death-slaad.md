@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Death Slaad"
-tags: [medium, aberracion, cr10, monster-manual]
+tags: [mediana, aberracion, cr10, monster-manual]
 cha: 16 (+3)
 wis: 10 (0)
 int: 15 (+2)

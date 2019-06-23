@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Rot Grubs"
-tags: [medium, swarm, cr1/2, volos-guide]
+tags: [mediana, swarm, cr1/2, volos-guide]
 cha: 1 (-5)
 wis: 2 (-4)
 int: 1 (-5)

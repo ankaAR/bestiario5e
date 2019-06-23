@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Troglodyte"
-tags: [medium, humanoide, cr1/4, monster-manual]
+tags: [mediana, humanoide, cr1/4, monster-manual]
 cha: 6 (-2)
 wis: 10 (0)
 int: 6 (-2)

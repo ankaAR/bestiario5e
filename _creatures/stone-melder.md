@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stonemelder"
-tags: [medium, humanoide, cr4, elemental-evil]
+tags: [mediana, humanoide, cr4, elemental-evil]
 cha: 17 (+3)
 wis: 11 (0)
 int: 12 (+1)

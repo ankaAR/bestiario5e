@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Neogi Master"
-tags: [medium, aberracion, cr4, volos-guide]
+tags: [mediana, aberracion, cr4, volos-guide]
 cha: 18 (+4)
 wis: 12 (+1)
 int: 16 (+3)

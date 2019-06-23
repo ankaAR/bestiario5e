@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flesh Golem"
-tags: [medium, constructo, cr5, monster-manual]
+tags: [mediana, constructo, cr5, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 6 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shadow Mastiff"
-tags: [medium, monstruosidad, cr2, volos-guide]
+tags: [mediana, monstruosidad, cr2, volos-guide]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 5 (-3)

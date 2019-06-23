@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shoalar Quanderil"
-tags: [medium, humanoide, cr4, elemental-evil]
+tags: [mediana, humanoide, cr4, elemental-evil]
 cha: 17 (+3)
 wis: 10 (0)
 int: 14 (+2)

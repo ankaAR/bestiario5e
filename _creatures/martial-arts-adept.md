@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Martial Arts Adept"
-tags: [medium, humanoide, cr3, volos-guide]
+tags: [mediana, humanoide, cr3, volos-guide]
 cha: 10 (0)
 wis: 16 (+3)
 int: 11 (0)

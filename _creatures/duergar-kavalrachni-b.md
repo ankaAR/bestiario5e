@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Kavalrachni (B)"
-tags: [medium, humanoide, cr2, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr2, mordenkainens-tome-of-foes]
 page_number: 189
 cha: 9 (0)
 wis: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Favored Consort"
-tags: [medium, humanoide, cr18, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr18, mordenkainens-tome-of-foes]
 page_number: 183
 cha: 18 (+4)
 wis: 15 (+2)

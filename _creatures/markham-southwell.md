@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Markham Southwell"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 14 (+2)
 wis: 16 (+3)
 int: 11 (0)

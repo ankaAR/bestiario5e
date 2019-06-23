@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Demonic Boon Template"
-tags: [medium, humanoide, cr0, mordenkainens-tome-of-foes, template]
+tags: [mediana, humanoide, cr0, mordenkainens-tome-of-foes, template]
 page_number: 30
 ---
 

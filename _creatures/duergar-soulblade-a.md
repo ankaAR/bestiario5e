@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Soulblade (A)"
-tags: [medium, humanoide, cr1, out-of-the-abyss]
+tags: [mediana, humanoide, cr1, out-of-the-abyss]
 cha: 12 (+1)
 wis: 10 (0)
 int: 11 (0)

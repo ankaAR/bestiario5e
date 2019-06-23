@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Naergoth Bladelord"
-tags: [medium, no-muerto, cr11, tyranny-of-dragons]
+tags: [mediana, no-muerto, cr11, tyranny-of-dragons]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 12 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Arcanaloth"
-tags: [medium, infernal, cr12, monster-manual]
+tags: [mediana, infernal, cr12, monster-manual]
 cha: 17 (+3)
 wis: 16 (+3)
 int: 20 (+5)

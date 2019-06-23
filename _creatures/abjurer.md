@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Abjurer"
-tags: [medium, humanoide, cr9, volos-guide]
+tags: [mediana, humanoide, cr9, volos-guide]
 cha: 11 (0)
 wis: 12 (+1)
 int: 18 (+4)

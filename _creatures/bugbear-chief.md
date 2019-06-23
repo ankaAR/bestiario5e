@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bugbear Chief"
-tags: [medium, humanoide, cr3, monster-manual]
+tags: [mediana, humanoide, cr3, monster-manual]
 cha: 11 (0)
 wis: 12 (+1)
 int: 11 (0)

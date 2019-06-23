@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gray Slaad"
-tags: [medium, aberracion, cr9, monster-manual]
+tags: [mediana, aberracion, cr9, monster-manual]
 cha: 14 (+2)
 wis: 8 (-1)
 int: 13 (+1)

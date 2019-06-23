@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bastian Thermandar"
-tags: [medium, humanoide, cr8, elemental-evil]
+tags: [mediana, humanoide, cr8, elemental-evil]
 cha: 18 (+4)
 wis: 9 (-1)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gauth"
-tags: [medium, aberracion, cr6, volos-guide]
+tags: [mediana, aberracion, cr6, volos-guide]
 cha: 13 (+1)
 wis: 15 (+2)
 int: 15 (+2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Druid"
-tags: [medium, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, monster-manual]
 cha: 11 (0)
 wis: 15 (+2)
 int: 12 (+1)

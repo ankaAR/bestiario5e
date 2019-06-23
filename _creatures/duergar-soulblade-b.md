@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Soulblade (B)"
-tags: [medium, humanoide, cr1, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr1, mordenkainens-tome-of-foes]
 page_number: 190
 cha: 12 (+1)
 wis: 10 (0)

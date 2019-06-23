@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Transmuter"
-tags: [medium, humanoide, cr5, volos-guide]
+tags: [mediana, humanoide, cr5, volos-guide]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

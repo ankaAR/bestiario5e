@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wereboar"
-tags: [medium, humanoide, cr4, monster-manual]
+tags: [mediana, humanoide, cr4, monster-manual]
 cha: 8 (-1)
 wis: 11 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Phantom Warrior"
-tags: [medium, no-muerto, cr1, curse-of-strahd]
+tags: [mediana, no-muerto, cr1, curse-of-strahd]
 page_number: 235
 cha: 15 (+2)
 wis: 10 (0)

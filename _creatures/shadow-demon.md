@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shadow Demon"
-tags: [medium, infernal, cr4, monster-manual]
+tags: [mediana, infernal, cr4, monster-manual]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 14 (+2)

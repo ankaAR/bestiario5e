@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Skull Lord"
-tags: [medium, no-muerto, cr15, mordenkainens-tome-of-foes]
+tags: [mediana, no-muerto, cr15, mordenkainens-tome-of-foes]
 page_number: 230
 cha: 21 (+5)
 wis: 15 (+2)

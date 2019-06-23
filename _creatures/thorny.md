@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Thorny"
-tags: [medium, planta, cr1, volos-guide]
+tags: [mediana, planta, cr1, volos-guide]
 cha: 6 (-2)
 wis: 10 (0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Mind Master"
-tags: [medium, humanoide, cr2, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr2, mordenkainens-tome-of-foes]
 page_number: 189
 cha: 12 (+1)
 wis: 10 (0)

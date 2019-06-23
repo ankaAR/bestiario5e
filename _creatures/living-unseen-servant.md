@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Living Unseen Servant"
-tags: [medium, constructo, cr0, dungeon-of-the-mad-mage]
+tags: [mediana, constructo, cr0, dungeon-of-the-mad-mage]
 page_number: 313
 cha: 1 (-5)
 wis: 10 (0)

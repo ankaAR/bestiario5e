@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Uthgardt Shaman"
-tags: [medium, humanoide, cr2, storm-kings-thunder]
+tags: [mediana, humanoide, cr2, storm-kings-thunder]
 cha: 12 (+1)
 wis: 15 (+2)
 int: 10 (0)

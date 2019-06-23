@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dryad"
-tags: [medium, fata, cr1, monster-manual]
+tags: [mediana, fata, cr1, monster-manual]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 14 (+2)

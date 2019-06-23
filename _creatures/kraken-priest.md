@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kraken Priest"
-tags: [medium, humanoide, cr5, volos-guide]
+tags: [mediana, humanoide, cr5, volos-guide]
 cha: 14 (+2)
 wis: 15 (+2)
 int: 10 (0)

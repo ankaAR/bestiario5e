@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Spore Servant"
-tags: [medium, planta, cr1/8, out-of-the-abyss]
+tags: [mediana, planta, cr1/8, out-of-the-abyss]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 2 (-4)

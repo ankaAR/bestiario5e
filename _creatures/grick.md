@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grick"
-tags: [medium, monstruosidad, cr2, monster-manual]
+tags: [mediana, monstruosidad, cr2, monster-manual]
 cha: 5 (-3)
 wis: 14 (+2)
 int: 3 (-4)

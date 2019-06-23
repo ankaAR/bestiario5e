@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Guardian Portrait"
-tags: [medium, constructo, cr1, curse-of-strahd]
+tags: [mediana, constructo, cr1, curse-of-strahd]
 page_number: 227
 cha: 10 (0)
 wis: 10 (0)

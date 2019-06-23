@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shadow"
-tags: [medium, no-muerto, cr1/2, monster-manual]
+tags: [mediana, no-muerto, cr1/2, monster-manual]
 cha: 8 (-1)
 wis: 10 (0)
 int: 6 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Abyssal Wretch (B)"
-tags: [medium, infernal, cr1/4, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr1/4, mordenkainens-tome-of-foes]
 page_number: 136
 cha: 5 (-2)
 wis: 8 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Cranium Rats"
-tags: [medium, swarm, cr5, volos-guide]
+tags: [mediana, swarm, cr5, volos-guide]
 cha: 14 (+2)
 wis: 11 (0)
 int: 15 (+2)

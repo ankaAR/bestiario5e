@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Apprentice Wizard"
-tags: [medium, humanoide, cr1/4, volos-guide]
+tags: [mediana, humanoide, cr1/4, volos-guide]
 cha: 11 (0)
 wis: 10 (0)
 int: 14 (+2)

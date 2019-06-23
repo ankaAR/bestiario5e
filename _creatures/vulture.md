@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vulture"
-tags: [medium, bestia, cr0, monster-manual]
+tags: [mediana, bestia, cr0, monster-manual]
 cha: 4 (-3)
 wis: 12 (+1)
 int: 2 (-4)

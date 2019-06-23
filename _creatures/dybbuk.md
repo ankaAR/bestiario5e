@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dybbuk"
-tags: [medium, infernal, cr4, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr4, mordenkainens-tome-of-foes]
 page_number: 132
 cha: 14 (+2)
 wis: 15 (+2)

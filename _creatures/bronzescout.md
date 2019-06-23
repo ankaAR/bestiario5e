@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bronze Scout"
-tags: [medium, constructo, cr1, mordenkainens-tome-of-foes]
+tags: [mediana, constructo, cr1, mordenkainens-tome-of-foes]
 page_number: 125
 cha: 1 (-4)
 wis: 14 (+2)

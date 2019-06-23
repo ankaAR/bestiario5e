@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kuo-Toa"
-tags: [medium, humanoide, cr1/4, monster-manual]
+tags: [mediana, humanoide, cr1/4, monster-manual]
 cha: 8 (-1)
 wis: 10 (0)
 int: 11 (0)

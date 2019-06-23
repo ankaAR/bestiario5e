@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gnoll Hunter"
-tags: [medium, humanoide, cr1/2, volos-guide]
+tags: [mediana, humanoide, cr1/2, volos-guide]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 8 (-1)

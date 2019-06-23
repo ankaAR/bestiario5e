@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sword Wraith Commander"
-tags: [medium, no-muerto, cr8, mordenkainens-tome-of-foes]
+tags: [mediana, no-muerto, cr8, mordenkainens-tome-of-foes]
 page_number: 241
 cha: 14 (+2)
 wis: 12 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Priest"
-tags: [medium, humanoide, cr2, unofficial]
+tags: [mediana, humanoide, cr2, unofficial]
 page_number: 999
 cha: 13 (+1)
 wis: 16 (+3)

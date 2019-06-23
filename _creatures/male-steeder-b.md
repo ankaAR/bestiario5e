@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Male Steeder (B)"
-tags: [medium, monstruosidad, cr1/4, mordenkainens-tome-of-foes]
+tags: [mediana, monstruosidad, cr1/4, mordenkainens-tome-of-foes]
 page_number: 238
 cha: 3 (-3)
 wis: 10 (0)

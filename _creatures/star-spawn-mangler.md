@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Star Spawn Mangler"
-tags: [medium, aberracion, cr5, mordenkainens-tome-of-foes]
+tags: [mediana, aberracion, cr5, mordenkainens-tome-of-foes]
 page_number: 236
 cha: 7 (-1)
 wis: 12 (+1)

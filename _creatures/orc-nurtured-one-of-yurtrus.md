@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc Nurtured One of Yurtrus"
-tags: [medium, humanoide, cr1/2, volos-guide]
+tags: [mediana, humanoide, cr1/2, volos-guide]
 cha: 7 (-2)
 wis: 11 (0)
 int: 7 (-2)

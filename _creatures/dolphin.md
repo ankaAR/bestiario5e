@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dolphin"
-tags: [medium, bestia, cr1/8, volos-guide]
+tags: [mediana, bestia, cr1/8, volos-guide]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 6 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wood Woad"
-tags: [medium, planta, cr5, volos-guide]
+tags: [mediana, planta, cr5, volos-guide]
 cha: 8 (-1)
 wis: 13 (+1)
 int: 10 (0)

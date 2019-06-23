@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc Red Fang of Shargaas"
-tags: [medium, humanoide, cr3, volos-guide]
+tags: [mediana, humanoide, cr3, volos-guide]
 cha: 9 (-1)
 wis: 11 (0)
 int: 9 (-1)

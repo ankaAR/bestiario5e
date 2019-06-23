@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giff"
-tags: [medium, humanoide, cr3, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr3, mordenkainens-tome-of-foes]
 page_number: 204
 cha: 12 (+1)
 wis: 12 (+1)

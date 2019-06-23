@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Adult Oblex"
-tags: [medium, cieno, cr5, mordenkainens-tome-of-foes]
+tags: [mediana, cieno, cr5, mordenkainens-tome-of-foes]
 page_number: 218
 cha: 15 (+2)
 wis: 12 (+1)

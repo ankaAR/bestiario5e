@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Thri-kreen"
-tags: [medium, humanoide, cr1, monster-manual]
+tags: [mediana, humanoide, cr1, monster-manual]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 8 (-1)

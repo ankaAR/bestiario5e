@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Earth Elemental Myrmidon (B)"
-tags: [medium, elemental, cr7, mordenkainens-tome-of-foes]
+tags: [mediana, elemental, cr7, mordenkainens-tome-of-foes]
 page_number: 202
 cha: 10 (0)
 wis: 10 (0)

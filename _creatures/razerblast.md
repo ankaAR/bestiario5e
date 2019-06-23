@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Razerblast"
-tags: [medium, humanoide, cr5, elemental-evil]
+tags: [mediana, humanoide, cr5, elemental-evil]
 cha: 13 (+1)
 wis: 10 (0)
 int: 9 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Eidolon"
-tags: [medium, no-muerto, cr12, mordenkainens-tome-of-foes]
+tags: [mediana, no-muerto, cr12, mordenkainens-tome-of-foes]
 page_number: 194
 cha: 16 (+3)
 wis: 19 (+4)

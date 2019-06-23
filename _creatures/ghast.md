@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ghast"
-tags: [medium, no-muerto, cr2, monster-manual]
+tags: [mediana, no-muerto, cr2, monster-manual]
 cha: 8 (-1)
 wis: 10 (0)
 int: 11 (0)

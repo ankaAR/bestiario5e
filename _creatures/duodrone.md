@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duodrone"
-tags: [medium, constructo, cr1/4, monster-manual]
+tags: [mediana, constructo, cr1/4, monster-manual]
 cha: 7 (-2)
 wis: 10 (0)
 int: 6 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Wasps"
-tags: [medium, swarm, cr1/2, monster-manual]
+tags: [mediana, swarm, cr1/2, monster-manual]
 cha: 1 (-5)
 wis: 7 (-2)
 int: 1 (-5)

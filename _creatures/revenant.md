@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Revenant"
-tags: [medium, no-muerto, cr5, monster-manual]
+tags: [mediana, no-muerto, cr5, monster-manual]
 cha: 18 (+4)
 wis: 16 (+3)
 int: 13 (+1)

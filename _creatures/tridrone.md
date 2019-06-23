@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tridrone"
-tags: [medium, constructo, cr1/2, monster-manual]
+tags: [mediana, constructo, cr1/2, monster-manual]
 cha: 9 (-1)
 wis: 10 (0)
 int: 9 (-1)

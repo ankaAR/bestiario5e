@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Priest"
-tags: [medium, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, monster-manual]
 cha: 13 (+1)
 wis: 16 (+3)
 int: 13 (+1)

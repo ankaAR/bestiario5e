@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Narzugon"
-tags: [medium, infernal, cr13, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr13, mordenkainens-tome-of-foes]
 page_number: 167
 cha: 19 (+4)
 wis: 14 (+2)

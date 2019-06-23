@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Warlord"
-tags: [medium, humanoide, cr6, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr6, mordenkainens-tome-of-foes]
 page_number: 192
 cha: 14 (+2)
 wis: 12 (+1)

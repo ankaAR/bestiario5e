@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Merrenoloth"
-tags: [medium, infernal, cr3, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr3, mordenkainens-tome-of-foes]
 page_number: 250
 cha: 11 (0)
 wis: 14 (+2)

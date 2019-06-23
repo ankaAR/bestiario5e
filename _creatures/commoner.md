@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Commoner"
-tags: [medium, humanoide, cr0, monster-manual]
+tags: [mediana, humanoide, cr0, monster-manual]
 cha: 10 (0)
 wis: 10 (0)
 int: 10 (0)

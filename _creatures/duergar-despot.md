@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Despot"
-tags: [medium, humanoide, cr12, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr12, mordenkainens-tome-of-foes]
 page_number: 188
 cha: 13 (+1)
 wis: 14 (+2)

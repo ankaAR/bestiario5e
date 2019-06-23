@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ice Toad"
-tags: [medium, monstruosidad, cr1, tyranny-of-dragons]
+tags: [mediana, monstruosidad, cr1, tyranny-of-dragons]
 cha: 6 (-2)
 wis: 10 (0)
 int: 8 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "The Lost"
-tags: [medium, monstruosidad, cr7, mordenkainens-tome-of-foes]
+tags: [mediana, monstruosidad, cr7, mordenkainens-tome-of-foes]
 page_number: 233
 cha: 5 (-2)
 wis: 7 (-1)

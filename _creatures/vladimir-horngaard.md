@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vladimir Horngaard"
-tags: [medium, no-muerto, cr7, curse-of-strahd]
+tags: [mediana, no-muerto, cr7, curse-of-strahd]
 page_number: 241
 cha: 18 (+4)
 wis: 16 (+3)

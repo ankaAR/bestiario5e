@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flamewrath"
-tags: [medium, humanoide, cr6, elemental-evil]
+tags: [mediana, humanoide, cr6, elemental-evil]
 cha: 16 (+3)
 wis: 10 (0)
 int: 11 (0)

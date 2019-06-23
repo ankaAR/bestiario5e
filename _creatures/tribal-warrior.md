@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tribal Warrior"
-tags: [medium, humanoide, cr1/8, monster-manual]
+tags: [mediana, humanoide, cr1/8, monster-manual]
 cha: 8 (-1)
 wis: 11 (0)
 int: 8 (-1)

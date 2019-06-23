@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragonclaw"
-tags: [medium, humanoide, cr1, tyranny-of-dragons]
+tags: [mediana, humanoide, cr1, tyranny-of-dragons]
 cha: 12 (+1)
 wis: 10 (0)
 int: 11 (0)

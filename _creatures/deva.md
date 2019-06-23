@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deva"
-tags: [medium, celestial, cr10, monster-manual]
+tags: [mediana, celestial, cr10, monster-manual]
 cha: 20 (+5)
 wis: 20 (+5)
 int: 17 (+3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Veteran"
-tags: [medium, humanoide, cr3, unofficial]
+tags: [mediana, humanoide, cr3, unofficial]
 page_number: 999
 cha: 10 (0)
 wis: 11 (0)

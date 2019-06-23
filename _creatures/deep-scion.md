@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deep Scion"
-tags: [medium, humanoide, cr3, volos-guide]
+tags: [mediana, humanoide, cr3, volos-guide]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 10 (0)

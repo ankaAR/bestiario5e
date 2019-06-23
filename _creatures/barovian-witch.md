@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Barovian Witch"
-tags: [medium, humanoide, cr1/2, curse-of-strahd]
+tags: [mediana, humanoide, cr1/2, curse-of-strahd]
 page_number: 229
 cha: 12 (+1)
 wis: 11 (0)

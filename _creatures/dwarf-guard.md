@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Guard"
-tags: [medium, humanoide, cr1/8, unofficial]
+tags: [mediana, humanoide, cr1/8, unofficial]
 page_number: 999
 cha: 10 (0)
 wis: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Githzerai Monk"
-tags: [medium, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, monster-manual]
 cha: 10 (0)
 wis: 14 (+2)
 int: 13 (+1)

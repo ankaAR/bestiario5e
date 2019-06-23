@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sir Baric Nylef"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 15 (+2)
 wis: 15 (+2)
 int: 11 (0)

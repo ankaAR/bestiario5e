@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sirac of Suzail"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 16 (+3)
 wis: 13 (+1)
 int: 12 (+1)

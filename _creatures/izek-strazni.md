@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Izek Strazni"
-tags: [medium, humanoide, cr5, curse-of-strahd]
+tags: [mediana, humanoide, cr5, curse-of-strahd]
 page_number: 231
 cha: 15 (+2)
 wis: 9 (-1)

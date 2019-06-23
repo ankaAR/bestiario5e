@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Darathra Shendrel"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 15 (+2)
 wis: 11 (0)
 int: 11 (0)

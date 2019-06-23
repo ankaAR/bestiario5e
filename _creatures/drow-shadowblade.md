@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Shadowblade"
-tags: [medium, humanoide, cr11, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr11, mordenkainens-tome-of-foes]
 page_number: 187
 cha: 13 (+1)
 wis: 14 (+2)

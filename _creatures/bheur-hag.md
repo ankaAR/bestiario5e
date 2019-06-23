@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bheur Hag"
-tags: [medium, fata, cr7, volos-guide]
+tags: [mediana, fata, cr7, volos-guide]
 cha: 16 (+3)
 wis: 13 (+1)
 int: 12 (+1)

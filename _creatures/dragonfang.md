@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragonfang"
-tags: [medium, humanoide, cr5, tyranny-of-dragons]
+tags: [mediana, humanoide, cr5, tyranny-of-dragons]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 12 (+1)

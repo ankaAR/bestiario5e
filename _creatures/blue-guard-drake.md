@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blue Guard Drake"
-tags: [medium, dragon, cr2, volos-guide]
+tags: [mediana, dragon, cr2, volos-guide]
 cha: 7 (-2)
 wis: 10 (0)
 int: 4 (-3)

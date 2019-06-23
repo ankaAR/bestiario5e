@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nabassu"
-tags: [medium, infernal, cr15, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr15, mordenkainens-tome-of-foes]
 page_number: 135
 cha: 17 (+3)
 wis: 15 (+2)

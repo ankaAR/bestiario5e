@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wereraven"
-tags: [medium, humanoide, cr2, curse-of-strahd]
+tags: [mediana, humanoide, cr2, curse-of-strahd]
 page_number: 242
 cha: 14 (+2)
 wis: 15 (+2)

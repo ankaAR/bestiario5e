@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Archdruid"
-tags: [medium, humanoide, cr12, volos-guide]
+tags: [mediana, humanoide, cr12, volos-guide]
 cha: 11 (0)
 wis: 20 (+5)
 int: 12 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Violet Fungus"
-tags: [medium, planta, cr1/4, monster-manual]
+tags: [mediana, planta, cr1/4, monster-manual]
 cha: 1 (-5)
 wis: 3 (-4)
 int: 1 (-5)

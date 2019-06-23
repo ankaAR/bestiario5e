@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Darz Helgar"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 11 (0)
 wis: 11 (0)
 int: 10 (0)

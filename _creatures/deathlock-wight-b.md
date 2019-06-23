@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deathlock Wight (B)"
-tags: [medium, no-muerto, cr3, mordenkainens-tome-of-foes]
+tags: [mediana, no-muerto, cr3, mordenkainens-tome-of-foes]
 page_number: 129
 cha: 16 (+3)
 wis: 14 (+2)

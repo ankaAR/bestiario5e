@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grisha"
-tags: [medium, humanoide, cr2, out-of-the-abyss]
+tags: [mediana, humanoide, cr2, out-of-the-abyss]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Poisonous Snakes"
-tags: [medium, swarm, cr2, monster-manual]
+tags: [mediana, swarm, cr2, monster-manual]
 cha: 3 (-4)
 wis: 10 (0)
 int: 1 (-5)

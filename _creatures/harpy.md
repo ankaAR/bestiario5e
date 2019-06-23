@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Harpy"
-tags: [medium, monstruosidad, cr1, monster-manual]
+tags: [mediana, monstruosidad, cr1, monster-manual]
 cha: 13 (+1)
 wis: 10 (0)
 int: 7 (-2)

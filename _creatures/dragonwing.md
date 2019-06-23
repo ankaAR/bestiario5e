@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragonwing"
-tags: [medium, humanoide, cr2, tyranny-of-dragons]
+tags: [mediana, humanoide, cr2, tyranny-of-dragons]
 cha: 13 (+1)
 wis: 11 (0)
 int: 11 (0)

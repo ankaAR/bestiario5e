@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Miros Xelbrin"
-tags: [medium, humanoide, cr0, storm-kings-thunder]
+tags: [mediana, humanoide, cr0, storm-kings-thunder]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 11 (0)

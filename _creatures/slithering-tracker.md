@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Slithering Tracker"
-tags: [medium, cieno, cr3, volos-guide]
+tags: [mediana, cieno, cr3, volos-guide]
 cha: 11 (0)
 wis: 14 (+2)
 int: 10 (0)

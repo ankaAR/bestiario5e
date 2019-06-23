@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swarm of Bats"
-tags: [medium, swarm, cr1/4, monster-manual]
+tags: [mediana, swarm, cr1/4, monster-manual]
 cha: 4 (-3)
 wis: 12 (+1)
 int: 2 (-4)

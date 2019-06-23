@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Skulk"
-tags: [medium, humanoide, cr1/2, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr1/2, mordenkainens-tome-of-foes]
 page_number: 227
 cha: 1 (-4)
 wis: 7 (-1)

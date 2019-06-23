@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blackguard"
-tags: [medium, humanoide, cr8, volos-guide]
+tags: [mediana, humanoide, cr8, volos-guide]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 11 (0)

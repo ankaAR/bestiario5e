@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragonsoul"
-tags: [medium, humanoide, cr7, tyranny-of-dragons]
+tags: [mediana, humanoide, cr7, tyranny-of-dragons]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 13 (+1)

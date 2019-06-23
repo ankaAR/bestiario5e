@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yuan-ti Broodguard"
-tags: [medium, humanoide, cr2, volos-guide]
+tags: [mediana, humanoide, cr2, volos-guide]
 cha: 4 (-3)
 wis: 11 (0)
 int: 6 (-2)

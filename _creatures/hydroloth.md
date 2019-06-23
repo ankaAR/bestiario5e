@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hydroloth"
-tags: [medium, infernal, cr9, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr9, mordenkainens-tome-of-foes]
 page_number: 249
 cha: 14 (+2)
 wis: 10 (0)

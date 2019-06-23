@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rahadin"
-tags: [medium, humanoide, cr10, curse-of-strahd]
+tags: [mediana, humanoide, cr10, curse-of-strahd]
 page_number: 236
 cha: 18 (+4)
 wis: 16 (+3)

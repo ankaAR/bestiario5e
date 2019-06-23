@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Swashbuckler"
-tags: [medium, humanoide, cr3, volos-guide]
+tags: [mediana, humanoide, cr3, volos-guide]
 cha: 15 (+2)
 wis: 11 (0)
 int: 14 (+2)

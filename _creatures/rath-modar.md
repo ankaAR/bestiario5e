@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rath Modar"
-tags: [medium, humanoide, cr6, tyranny-of-dragons]
+tags: [mediana, humanoide, cr6, tyranny-of-dragons]
 cha: 10 (0)
 wis: 14 (+2)
 int: 18 (+4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sea Hag"
-tags: [medium, fata, cr2, monster-manual]
+tags: [mediana, fata, cr2, monster-manual]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 12 (+1)

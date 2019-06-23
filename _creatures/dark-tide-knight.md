@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dark Tide Knight"
-tags: [medium, humanoide, cr3, elemental-evil]
+tags: [mediana, humanoide, cr3, elemental-evil]
 cha: 11 (0)
 wis: 11 (0)
 int: 10 (0)

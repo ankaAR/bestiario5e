@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vampire Spellcaster"
-tags: [medium, no-muerto, cr15, monster-manual]
+tags: [mediana, no-muerto, cr15, monster-manual]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 17 (+3)

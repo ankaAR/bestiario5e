@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Autumn Eladrin"
-tags: [medium, fata, cr10, mordenkainens-tome-of-foes]
+tags: [mediana, fata, cr10, mordenkainens-tome-of-foes]
 page_number: 195
 cha: 18 (+4)
 wis: 17 (+3)

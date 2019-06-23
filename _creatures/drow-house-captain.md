@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow House Captain"
-tags: [medium, humanoide, cr9, mordenkainens-tome-of-foes]
+tags: [mediana, humanoide, cr9, mordenkainens-tome-of-foes]
 page_number: 184
 cha: 13 (+1)
 wis: 14 (+2)

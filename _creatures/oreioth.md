@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Oreioth"
-tags: [medium, humanoide, cr2, elemental-evil]
+tags: [mediana, humanoide, cr2, elemental-evil]
 cha: 11 (0)
 wis: 9 (-1)
 int: 16 (+3)

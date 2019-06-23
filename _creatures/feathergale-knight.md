@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Feathergale Knight"
-tags: [medium, humanoide, cr1, elemental-evil]
+tags: [mediana, humanoide, cr1, elemental-evil]
 cha: 14 (+2)
 wis: 10 (0)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Myconid Adult"
-tags: [medium, planta, cr1/2, monster-manual]
+tags: [mediana, planta, cr1/2, monster-manual]
 cha: 7 (-2)
 wis: 13 (+1)
 int: 10 (0)

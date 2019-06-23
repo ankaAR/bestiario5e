@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Baba Lysaga"
-tags: [medium, humanoide, cr11, curse-of-strahd]
+tags: [mediana, humanoide, cr11, curse-of-strahd]
 page_number: 228
 cha: 13 (+1)
 wis: 17 (+3)

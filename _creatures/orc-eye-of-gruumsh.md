@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc Eye of Gruumsh"
-tags: [medium, humanoide, cr2, monster-manual]
+tags: [mediana, humanoide, cr2, monster-manual]
 cha: 12 (+1)
 wis: 13 (+1)
 int: 9 (-1)

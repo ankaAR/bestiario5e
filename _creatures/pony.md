@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pony"
-tags: [medium, bestia, cr1/8, monster-manual]
+tags: [mediana, bestia, cr1/8, monster-manual]
 cha: 7 (-2)
 wis: 11 (0)
 int: 2 (-4)

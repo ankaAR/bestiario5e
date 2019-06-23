@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Scarecrow"
-tags: [medium, constructo, cr1, monster-manual]
+tags: [mediana, constructo, cr1, monster-manual]
 cha: 13 (+1)
 wis: 10 (0)
 int: 10 (0)

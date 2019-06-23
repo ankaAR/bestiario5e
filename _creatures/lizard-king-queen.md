@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lizard King/Queen"
-tags: [medium, humanoide, cr4, monster-manual]
+tags: [mediana, humanoide, cr4, monster-manual]
 cha: 15 (+2)
 wis: 11 (0)
 int: 11 (0)

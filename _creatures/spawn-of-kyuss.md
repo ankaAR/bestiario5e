@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spawn of Kyuss"
-tags: [medium, no-muerto, cr5, volos-guide]
+tags: [mediana, no-muerto, cr5, volos-guide]
 cha: 3 (-4)
 wis: 7 (-2)
 int: 5 (-3)

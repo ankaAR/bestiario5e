@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Burrowshark"
-tags: [medium, humanoide, cr4, elemental-evil]
+tags: [mediana, humanoide, cr4, elemental-evil]
 cha: 13 (+1)
 wis: 11 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mormesk the Wraith"
-tags: [medium, no-muerto, cr3, lost-mine-of-phandelver]
+tags: [mediana, no-muerto, cr3, lost-mine-of-phandelver]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 12 (+1)

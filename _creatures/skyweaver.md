@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Skyweaver"
-tags: [medium, humanoide, cr3, elemental-evil]
+tags: [mediana, humanoide, cr3, elemental-evil]
 cha: 16 (+3)
 wis: 10 (0)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nereid"
-tags: [medium, fata, cr2, tales-from-the-yawning-portal]
+tags: [mediana, fata, cr2, tales-from-the-yawning-portal]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 13 (+1)

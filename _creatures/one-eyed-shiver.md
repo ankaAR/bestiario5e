@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "One-Eyed Shiver"
-tags: [medium, humanoide, cr3, elemental-evil]
+tags: [mediana, humanoide, cr3, elemental-evil]
 cha: 17 (+3)
 wis: 13 (+1)
 int: 13 (+1)

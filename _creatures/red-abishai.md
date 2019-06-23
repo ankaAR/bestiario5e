@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Red Abishai"
-tags: [medium, infernal, cr19, mordenkainens-tome-of-foes]
+tags: [mediana, infernal, cr19, mordenkainens-tome-of-foes]
 page_number: 160
 cha: 19 (+4)
 wis: 15 (+2)

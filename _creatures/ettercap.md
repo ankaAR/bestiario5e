@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ettercap"
-tags: [medium, monstruosidad, cr2, monster-manual]
+tags: [mediana, monstruosidad, cr2, monster-manual]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 7 (-2)

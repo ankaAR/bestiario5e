@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mezzoloth"
-tags: [medium, infernal, cr5, monster-manual]
+tags: [mediana, infernal, cr5, monster-manual]
 cha: 11 (0)
 wis: 10 (0)
 int: 7 (-2)

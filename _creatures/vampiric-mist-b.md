@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vampiric Mist (B)"
-tags: [medium, no-muerto, cr3, mordenkainens-tome-of-foes]
+tags: [mediana, no-muerto, cr3, mordenkainens-tome-of-foes]
 page_number: 246
 cha: 7 (-1)
 wis: 12 (+1)

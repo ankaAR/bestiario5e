@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kuo-Toa Archpriest"
-tags: [medium, humanoide, cr6, monster-manual]
+tags: [mediana, humanoide, cr6, monster-manual]
 cha: 14 (+2)
 wis: 16 (+3)
 int: 13 (+1)
