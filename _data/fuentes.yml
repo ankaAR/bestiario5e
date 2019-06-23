@@ -1,22 +1,22 @@
-- name: Curse of Strahd
+- name: "Curse of Strahd"
   tag: curse-of-strahd
-- name: Waterdeep: Dungeon of the Mad Mage
+- name: "Waterdeep: Dungeon of the Mad Mage"
   tag: dungeon-of-the-mad-mage
-- name: Elemental Evil Player's Companion
+- name: "Elemental Evil Player's Companion"
   tag: elemental-evil
-- name: La Mina perdida de Phandelver
+- name: "La Mina perdida de Phandelver"
   tag: la-mina-perdida-de-phandelver
-- name: Manual de Monstruos
+- name: "Manual de Monstruos"
   tag: manual-de-monstruos
-- name: Mordenkainen's Tome of Foes
+- name: "Mordenkainen's Tome of Foes"
   tag: mordenkainens-tome-of-foes
-- name: Out of the Abyss
+- name: "Out of the Abyss"
   tag: out-of-the-abyss
-- name: Storm King's Thunder
+- name: "Storm King's Thunder"
   tag: storm-kings-thunder
-- name: Tales From the Yawning Portal
+- name: "Tales From the Yawning Portal"
   tag: tales-from-the-yawning-portal
-- name: Tyranny of Dragons Hoard of the Dragon Queen
+- name: "Tyranny of Dragons Hoard of the Dragon Queen"
   tag: tyranny-of-dragons
-- name: Volo's Guide to Monsters
+- name: "Volo's Guide to Monsters"
   tag: volos-guide
