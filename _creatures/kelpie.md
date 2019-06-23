@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kelpie"
-tags: [medium, plant, cr4, tales-from-the-yawning-portal]
+tags: [medium, planta, cr4, tales-from-the-yawning-portal]
 cha: 10 (0)
 wis: 12 (+1)
 int: 7 (-2)

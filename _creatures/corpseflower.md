@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Corpse Flower"
-tags: [large, plant, cr8, mordenkainens-tome-of-foes]
+tags: [large, planta, cr8, mordenkainens-tome-of-foes]
 page_number: 127
 cha: 3 (-3)
 wis: 15 (+2)

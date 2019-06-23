@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hook Horror Spore Servant"
-tags: [medium, plant, cr3, out-of-the-abyss]
+tags: [medium, planta, cr3, out-of-the-abyss]
 cha: 1 (-5)
 wis: 6 (-2)
 int: 2 (-4)

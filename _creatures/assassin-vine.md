@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Assassin Vine"
-tags: [large, plant, cr3, tomb-of-annihilation]
+tags: [large, planta, cr3, tomb-of-annihilation]
 cha: 1 (-5)
 wis: 10 (+0)
 int: 1 (-5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Thorn Slinger"
-tags: [large, plant, cr1/2, tales-from-the-yawning-portal]
+tags: [large, planta, cr1/2, tales-from-the-yawning-portal]
 cha: 1 (-5)
 wis: 10 (0)
 int: 1 (-5)

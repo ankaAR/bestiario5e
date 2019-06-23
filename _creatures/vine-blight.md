@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vine Blight"
-tags: [medium, plant, cr1/2, monster-manual]
+tags: [medium, planta, cr1/2, monster-manual]
 cha: 3 (-4)
 wis: 10 (0)
 int: 5 (-3)

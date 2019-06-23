@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Awakened Tree"
-tags: [huge, plant, cr2, monster-manual]
+tags: [huge, planta, cr2, monster-manual]
 cha: 7 (-2)
 wis: 10 (0)
 int: 10 (0)

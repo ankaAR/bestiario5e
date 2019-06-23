@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shambling Mound"
-tags: [large, plant, cr5, monster-manual]
+tags: [large, planta, cr5, monster-manual]
 cha: 5 (-3)
 wis: 10 (0)
 int: 5 (-3)

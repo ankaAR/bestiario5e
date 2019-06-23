@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tree Blight"
-tags: [huge, plant, cr7, curse-of-strahd]
+tags: [huge, planta, cr7, curse-of-strahd]
 page_number: 230
 cha: 3 (-4)
 wis: 10 (0)

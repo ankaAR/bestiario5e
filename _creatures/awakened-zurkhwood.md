@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Awakened Zurkhwood"
-tags: [huge, plant, cr2, out-of-the-abyss]
+tags: [huge, planta, cr2, out-of-the-abyss]
 cha: 7 (-2)
 wis: 10 (0)
 int: 10 (0)

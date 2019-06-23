@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vegepygmy"
-tags: [small, plant, cr1/4, volos-guide]
+tags: [small, planta, cr1/4, volos-guide]
 cha: 7 (-2)
 wis: 11 (0)
 int: 6 (-2)

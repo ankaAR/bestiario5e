@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chamberlain of Zuggtmoy"
-tags: [large, plant, cr2, out-of-the-abyss]
+tags: [large, planta, cr2, out-of-the-abyss]
 cha: 12 (+1)
 wis: 8 (-1)
 int: 11 (0)

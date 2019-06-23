@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Shrieker"
-tags: [medium, plant, cr0, monster-manual]
+tags: [medium, planta, cr0, monster-manual]
 cha: 1 (-5)
 wis: 3 (-4)
 int: 1 (-5)
