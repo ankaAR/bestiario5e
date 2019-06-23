@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nothic"
-tags: [medium, aberration, cr2, monster-manual]
+tags: [medium, aberracion, cr2, monster-manual]
 cha: 8 (-1)
 wis: 10 (0)
 int: 13 (+1)

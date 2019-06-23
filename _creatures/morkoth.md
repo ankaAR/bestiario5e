@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Morkoth"
-tags: [medium, aberration, cr11, volos-guide]
+tags: [medium, aberracion, cr11, volos-guide]
 cha: 13 (+1)
 wis: 15 (+2)
 int: 20 (+5)

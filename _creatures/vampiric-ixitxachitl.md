@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vampiric Ixitxachitl"
-tags: [medium, aberration, cr2, out-of-the-abyss]
+tags: [medium, aberracion, cr2, out-of-the-abyss]
 cha: 7 (-2)
 wis: 13 (+1)
 int: 12 (+1)

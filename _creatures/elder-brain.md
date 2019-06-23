@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Elder Brain"
-tags: [large, aberration, cr14, volos-guide]
+tags: [large, aberracion, cr14, volos-guide]
 cha: 24 (+7)
 wis: 19 (+4)
 int: 21 (+5)

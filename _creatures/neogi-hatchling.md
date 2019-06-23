@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Neogi Hatchling"
-tags: [tiny, aberration, cr1/8, volos-guide]
+tags: [tiny, aberracion, cr1/8, volos-guide]
 cha: 9 (-1)
 wis: 10 (0)
 int: 6 (-2)

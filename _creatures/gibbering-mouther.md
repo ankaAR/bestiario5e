@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gibbering Mouther"
-tags: [medium, aberration, cr2, monster-manual]
+tags: [medium, aberracion, cr2, monster-manual]
 cha: 6 (-2)
 wis: 10 (0)
 int: 3 (-4)

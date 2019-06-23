@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ixitxachitl"
-tags: [small, aberration, cr1/4, out-of-the-abyss]
+tags: [small, aberracion, cr1/4, out-of-the-abyss]
 cha: 7 (-2)
 wis: 13 (+1)
 int: 12 (+1)

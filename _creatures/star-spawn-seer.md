@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Star Spawn Seer"
-tags: [medium, aberration, cr13, mordenkainens-tome-of-foes]
+tags: [medium, aberracion, cr13, mordenkainens-tome-of-foes]
 page_number: 236
 cha: 16 (+3)
 wis: 19 (+4)

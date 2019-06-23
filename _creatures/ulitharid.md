@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ulitharid"
-tags: [large, aberration, cr9, volos-guide]
+tags: [large, aberracion, cr9, volos-guide]
 cha: 21 (+5)
 wis: 19 (+4)
 int: 21 (+5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chuul"
-tags: [large, aberration, cr4, monster-manual]
+tags: [large, aberracion, cr4, monster-manual]
 cha: 5 (-3)
 wis: 11 (0)
 int: 5 (-3)

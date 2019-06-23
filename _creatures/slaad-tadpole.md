@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Slaad Tadpole"
-tags: [tiny, aberration, cr1/8, monster-manual]
+tags: [tiny, aberracion, cr1/8, monster-manual]
 cha: 3 (-4)
 wis: 5 (-3)
 int: 3 (-4)

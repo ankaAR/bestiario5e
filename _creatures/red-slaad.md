@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Red Slaad"
-tags: [large, aberration, cr5, monster-manual]
+tags: [large, aberracion, cr5, monster-manual]
 cha: 7 (-2)
 wis: 6 (-2)
 int: 6 (-2)
