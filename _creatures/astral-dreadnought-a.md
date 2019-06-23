@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Astral Dreadnought (A)"
-tags: [gargantuesco, titan, cr21, mordenkainens-tome-of-foes]
+tags: [gargantuesca, titan, cr21, mordenkainens-tome-of-foes]
 page_number: 117
 cha: 18 (+4)
 wis: 14 (+2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Zaratan"
-tags: [gargantuesco, elemental, cr22, mordenkainens-tome-of-foes]
+tags: [gargantuesca, elemental, cr22, mordenkainens-tome-of-foes]
 page_number: 201
 cha: 18 (+4)
 wis: 21 (+5)

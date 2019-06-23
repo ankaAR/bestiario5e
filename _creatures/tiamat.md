@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tiamat"
-tags: [gargantuesco, infernal, cr30, tyranny-of-dragons]
+tags: [gargantuesca, infernal, cr30, tyranny-of-dragons]
 cha: 28 (+9)
 wis: 26 (+8)
 int: 26 (+8)

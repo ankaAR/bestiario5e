@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Red Dragon"
-tags: [gargantuesco, dragon, cr24, monster-manual]
+tags: [gargantuesca, dragon, cr24, monster-manual]
 cha: 23 (+6)
 wis: 15 (+2)
 int: 18 (+4)

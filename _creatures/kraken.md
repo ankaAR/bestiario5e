@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kraken"
-tags: [gargantuesco, monstruosidad, cr23, monster-manual]
+tags: [gargantuesca, monstruosidad, cr23, monster-manual]
 cha: 20 (+5)
 wis: 18 (+4)
 int: 22 (+6)

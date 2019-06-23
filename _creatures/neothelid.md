@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Neothelid"
-tags: [gargantuesco, aberracion, cr13, volos-guide]
+tags: [gargantuesca, aberracion, cr13, volos-guide]
 cha: 12 (+1)
 wis: 16 (+3)
 int: 3 (-4)

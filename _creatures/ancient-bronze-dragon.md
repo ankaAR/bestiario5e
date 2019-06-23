@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ancient Bronze Dragon"
-tags: [gargantuesco, dragon, cr22, monster-manual]
+tags: [gargantuesca, dragon, cr22, monster-manual]
 cha: 21 (+5)
 wis: 17 (+3)
 int: 18 (+4)
