@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bugbear"
-tags: [medium, humanoid, cr1, monster-manual]
+tags: [medium, humanoide, cr1, monster-manual]
 cha: 9 (-1)
 wis: 11 (0)
 int: 8 (-1)

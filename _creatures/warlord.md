@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Warlord"
-tags: [medium, humanoid, cr12, volos-guide]
+tags: [medium, humanoide, cr12, volos-guide]
 cha: 18 (+4)
 wis: 12 (+1)
 int: 12 (+1)

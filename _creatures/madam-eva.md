@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Madam Eva"
-tags: [medium, humanoid, cr10, curse-of-strahd]
+tags: [medium, humanoide, cr10, curse-of-strahd]
 page_number: 233
 cha: 18 (+4)
 wis: 20 (+5)

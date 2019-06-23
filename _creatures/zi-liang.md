@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Zi Liang"
-tags: [medium, humanoid, cr0, storm-kings-thunder]
+tags: [medium, humanoide, cr0, storm-kings-thunder]
 cha: 11 (0)
 wis: 16 (+3)
 int: 14 (+2)

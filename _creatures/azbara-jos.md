@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Azbara Jos"
-tags: [medium, humanoid, cr4, tyranny-of-dragons]
+tags: [medium, humanoide, cr4, tyranny-of-dragons]
 cha: 11 (0)
 wis: 13 (+1)
 int: 16 (+3)

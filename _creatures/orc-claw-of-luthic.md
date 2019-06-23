@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc Claw of Luthic"
-tags: [medium, humanoid, cr2, volos-guide]
+tags: [medium, humanoide, cr2, volos-guide]
 cha: 11 (0)
 wis: 15 (+2)
 int: 10 (0)

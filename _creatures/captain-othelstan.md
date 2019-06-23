@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Captain Othelstan"
-tags: [medium, humanoid, cr5, tyranny-of-dragons]
+tags: [medium, humanoide, cr5, tyranny-of-dragons]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 13 (+1)

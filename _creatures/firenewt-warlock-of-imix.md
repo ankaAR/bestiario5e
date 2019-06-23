@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Firenewt Warlock of Imix"
-tags: [medium, humanoid, cr1, volos-guide]
+tags: [medium, humanoide, cr1, volos-guide]
 cha: 14 (+2)
 wis: 11 (0)
 int: 9 (-1)

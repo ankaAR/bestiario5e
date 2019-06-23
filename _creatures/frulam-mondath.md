@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Frulam Mondath"
-tags: [medium, humanoid, cr2, tyranny-of-dragons]
+tags: [medium, humanoide, cr2, tyranny-of-dragons]
 cha: 15 (+2)
 wis: 18 (+4)
 int: 11 (0)

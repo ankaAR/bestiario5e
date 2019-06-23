@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Eternal Flame Guardian"
-tags: [medium, humanoid, cr2, elemental-evil]
+tags: [medium, humanoide, cr2, elemental-evil]
 cha: 13 (+1)
 wis: 11 (0)
 int: 8 (-1)

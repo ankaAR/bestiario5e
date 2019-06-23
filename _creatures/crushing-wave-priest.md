@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Crushing Wave Priest"
-tags: [medium, humanoid, cr2, elemental-evil]
+tags: [medium, humanoide, cr2, elemental-evil]
 cha: 16 (+3)
 wis: 11 (0)
 int: 10 (0)

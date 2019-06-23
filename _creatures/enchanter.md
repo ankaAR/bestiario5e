@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Enchanter"
-tags: [medium, humanoid, cr5, volos-guide]
+tags: [medium, humanoide, cr5, volos-guide]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

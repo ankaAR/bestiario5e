@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sildar Hallwinter"
-tags: [medium, humanoid, cr1, lost-mine-of-phandelver]
+tags: [medium, humanoide, cr1, lost-mine-of-phandelver]
 cha: 10 (0)
 wis: 11 (0)
 int: 10 (0)

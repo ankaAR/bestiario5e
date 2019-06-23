@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Oren Yogilvy"
-tags: [small, humanoid, cr0, storm-kings-thunder]
+tags: [small, humanoide, cr0, storm-kings-thunder]
 cha: 16 (+3)
 wis: 10 (0)
 int: 11 (0)

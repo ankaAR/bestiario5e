@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hobgoblin Devastator"
-tags: [medium, humanoid, cr4, volos-guide]
+tags: [medium, humanoide, cr4, volos-guide]
 cha: 11 (0)
 wis: 13 (+1)
 int: 16 (+3)

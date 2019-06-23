@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Evoker"
-tags: [medium, humanoid, cr9, volos-guide]
+tags: [medium, humanoide, cr9, volos-guide]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

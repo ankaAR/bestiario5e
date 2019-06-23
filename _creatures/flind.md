@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flind"
-tags: [medium, humanoid, cr9, volos-guide]
+tags: [medium, humanoide, cr9, volos-guide]
 cha: 12 (+1)
 wis: 13 (+1)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Urgala Meltimer"
-tags: [medium, humanoid, cr0, storm-kings-thunder]
+tags: [medium, humanoide, cr0, storm-kings-thunder]
 cha: 13 (+1)
 wis: 14 (+2)
 int: 12 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Xvart Warlock of Raxivort"
-tags: [small, humanoid, cr1, volos-guide]
+tags: [small, humanoide, cr1, volos-guide]
 cha: 12 (+1)
 wis: 11 (0)
 int: 8 (-1)

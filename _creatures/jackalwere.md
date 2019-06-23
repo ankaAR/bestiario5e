@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Jackalwere"
-tags: [medium, humanoid, cr1/2, monster-manual]
+tags: [medium, humanoide, cr1/2, monster-manual]
 cha: 10 (0)
 wis: 11 (0)
 int: 13 (+1)

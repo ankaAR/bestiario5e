@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Warlock of the Archfey"
-tags: [medium, humanoid, cr4, volos-guide]
+tags: [medium, humanoide, cr4, volos-guide]
 cha: 18 (+4)
 wis: 12 (+1)
 int: 11 (0)

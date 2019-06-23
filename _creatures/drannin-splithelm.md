@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drannin Splithelm"
-tags: [medium, humanoid, cr7, elemental-evil]
+tags: [medium, humanoide, cr7, elemental-evil]
 cha: 12 (+1)
 wis: 8 (-1)
 int: 11 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Fathomer"
-tags: [medium, humanoid, cr2, elemental-evil]
+tags: [medium, humanoide, cr2, elemental-evil]
 cha: 15 (+2)
 wis: 11 (0)
 int: 11 (0)

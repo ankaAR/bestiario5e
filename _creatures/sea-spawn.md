@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sea Spawn"
-tags: [medium, humanoid, cr1, volos-guide]
+tags: [medium, humanoide, cr1, volos-guide]
 cha: 8 (-1)
 wis: 10 (0)
 int: 6 (-2)

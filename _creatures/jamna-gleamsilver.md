@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Jamna Gleamsilver"
-tags: [small, humanoid, cr1, tyranny-of-dragons]
+tags: [small, humanoide, cr1, tyranny-of-dragons]
 cha: 12 (+1)
 wis: 10 (0)
 int: 15 (+2)

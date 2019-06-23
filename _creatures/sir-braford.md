@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sir Braford"
-tags: [medium, humanoid, cr1/2, tales-from-the-yawning-portal]
+tags: [medium, humanoide, cr1/2, tales-from-the-yawning-portal]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 10 (0)

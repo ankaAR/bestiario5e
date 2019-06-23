@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rictavio"
-tags: [medium, humanoid, cr5, curse-of-strahd]
+tags: [medium, humanoide, cr5, curse-of-strahd]
 page_number: 238
 cha: 16 (+3)
 wis: 18 (+4)

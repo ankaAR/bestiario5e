@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Black Earth Guard"
-tags: [medium, humanoid, cr2, elemental-evil]
+tags: [medium, humanoide, cr2, elemental-evil]
 cha: 9 (-1)
 wis: 10 (0)
 int: 10 (0)

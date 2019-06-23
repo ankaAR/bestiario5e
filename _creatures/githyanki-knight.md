@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Githyanki Knight"
-tags: [medium, humanoid, cr8, monster-manual]
+tags: [medium, humanoide, cr8, monster-manual]
 page_number: 160
 cha: 15 (+2)
 wis: 14 (+2)

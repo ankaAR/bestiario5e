@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Illusionist"
-tags: [medium, humanoid, cr3, volos-guide]
+tags: [medium, humanoide, cr3, volos-guide]
 cha: 12 (+1)
 wis: 11 (0)
 int: 16 (+3)

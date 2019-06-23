@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Neronvain"
-tags: [medium, humanoid, cr9, tyranny-of-dragons]
+tags: [medium, humanoide, cr9, tyranny-of-dragons]
 cha: 18 (+4)
 wis: 13 (+1)
 int: 16 (+3)

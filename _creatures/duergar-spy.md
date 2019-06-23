@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Duergar Spy"
-tags: [medium, humanoid, cr2, tales-from-the-yawning-portal]
+tags: [medium, humanoide, cr2, tales-from-the-yawning-portal]
 cha: 13 (+1)
 wis: 10 (0)
 int: 12 (+1)

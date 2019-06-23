@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Thayan Warrior"
-tags: [medium, humanoid, cr2, tales-from-the-yawning-portal]
+tags: [medium, humanoide, cr2, tales-from-the-yawning-portal]
 cha: 11 (0)
 wis: 11 (0)
 int: 10 (0)

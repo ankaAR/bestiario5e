@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lava Child"
-tags: [medium, humanoid, cr3, dungeon-of-the-mad-mage]
+tags: [medium, humanoide, cr3, dungeon-of-the-mad-mage]
 page_number: 313
 cha: 10 (0)
 wis: 10 (0)

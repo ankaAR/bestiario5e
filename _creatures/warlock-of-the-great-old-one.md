@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Warlock of the Great Old One"
-tags: [medium, humanoid, cr6, volos-guide]
+tags: [medium, humanoide, cr6, volos-guide]
 cha: 18 (+4)
 wis: 12 (+1)
 int: 12 (+1)

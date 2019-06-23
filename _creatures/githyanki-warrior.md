@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Githyanki Warrior"
-tags: [medium, humanoid, cr3, monster-manual]
+tags: [medium, humanoide, cr3, monster-manual]
 page_number: 160
 cha: 10 (0)
 wis: 13 (+1)

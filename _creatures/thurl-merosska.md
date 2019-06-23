@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Thurl Merosska"
-tags: [medium, humanoid, cr3, tyranny-of-dragons]
+tags: [medium, humanoide, cr3, tyranny-of-dragons]
 cha: 15 (+2)
 wis: 10 (0)
 int: 11 (0)

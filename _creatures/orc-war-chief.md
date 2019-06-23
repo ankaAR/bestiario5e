@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc War Chief"
-tags: [medium, humanoid, cr4, monster-manual]
+tags: [medium, humanoide, cr4, monster-manual]
 cha: 16 (+3)
 wis: 11 (0)
 int: 11 (0)

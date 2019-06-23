@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Champion"
-tags: [medium, humanoid, cr9, volos-guide]
+tags: [medium, humanoide, cr9, volos-guide]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 10 (0)

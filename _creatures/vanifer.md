@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Vanifer"
-tags: [medium, humanoid, cr9, elemental-evil]
+tags: [medium, humanoide, cr9, elemental-evil]
 cha: 19 (+4)
 wis: 13 (+1)
 int: 12 (+1)

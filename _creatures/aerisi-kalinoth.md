@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Aerisi Kalinoth"
-tags: [medium, humanoid, cr7, elemental-evil]
+tags: [medium, humanoide, cr7, elemental-evil]
 cha: 16 (+3)
 wis: 10 (0)
 int: 17 (+3)

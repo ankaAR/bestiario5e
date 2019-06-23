@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Deep Gnome (Svirfneblin)"
-tags: [small, humanoid, cr1/2, monster-manual]
+tags: [small, humanoide, cr1/2, monster-manual]
 cha: 9 (-1)
 wis: 10 (0)
 int: 12 (+1)

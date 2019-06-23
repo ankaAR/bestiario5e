@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Githyanki Supreme Commander"
-tags: [medium, humanoid, cr14, mordenkainens-tome-of-foes]
+tags: [medium, humanoide, cr14, mordenkainens-tome-of-foes]
 page_number: 206
 cha: 18 (+4)
 wis: 16 (+3)

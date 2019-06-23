@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hobgoblin Warlord"
-tags: [medium, humanoid, cr6, monster-manual]
+tags: [medium, humanoide, cr6, monster-manual]
 cha: 15 (+2)
 wis: 11 (0)
 int: 14 (+2)

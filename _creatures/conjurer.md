@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Conjurer"
-tags: [medium, humanoid, cr6, volos-guide]
+tags: [medium, humanoide, cr6, volos-guide]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

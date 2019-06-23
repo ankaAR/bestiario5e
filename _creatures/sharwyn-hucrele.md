@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sharwyn Hucrele"
-tags: [medium, humanoid, cr1/2, tales-from-the-yawning-portal]
+tags: [medium, humanoide, cr1/2, tales-from-the-yawning-portal]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 16 (+3)

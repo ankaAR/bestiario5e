@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sahuagin Baron"
-tags: [medium, humanoid, cr5, monster-manual]
+tags: [medium, humanoide, cr5, monster-manual]
 cha: 17 (+3)
 wis: 13 (+1)
 int: 14 (+2)

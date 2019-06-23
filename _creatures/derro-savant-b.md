@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Derro Savant (B)"
-tags: [small, humanoid, cr3, mordenkainens-tome-of-foes]
+tags: [small, humanoide, cr3, mordenkainens-tome-of-foes]
 page_number: 159
 cha: 14 (+2)
 wis: 5 (-2)

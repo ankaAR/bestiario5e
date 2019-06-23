@@ -16,8 +16,8 @@
   tag: infernal
 - name: Gigantes
   tag: gigante
-- name: Humanoids
-  tag: humanoid
+- name: Humanoides
+  tag: humanoide
 - name: Monstrosities
   tag: monstrosity
 - name: Oozes

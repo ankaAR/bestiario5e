@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Howling Hatred Initiate"
-tags: [medium, humanoid, cr1/8, elemental-evil]
+tags: [medium, humanoide, cr1/8, elemental-evil]
 cha: 11 (0)
 wis: 9 (-1)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Naxene Drathkala"
-tags: [medium, humanoid, cr0, storm-kings-thunder]
+tags: [medium, humanoide, cr0, storm-kings-thunder]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Master Thief"
-tags: [medium, humanoid, cr5, volos-guide]
+tags: [medium, humanoide, cr5, volos-guide]
 cha: 12 (+1)
 wis: 11 (0)
 int: 11 (0)

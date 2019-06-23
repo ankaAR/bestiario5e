@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Spy"
-tags: [medium, humanoid, cr1, monster-manual]
+tags: [medium, humanoide, cr1, monster-manual]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 12 (+1)

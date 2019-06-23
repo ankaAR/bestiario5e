@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Nezznar the Black Spider"
-tags: [medium, humanoid, cr2, lost-mine-of-phandelver]
+tags: [medium, humanoide, cr2, lost-mine-of-phandelver]
 cha: 13 (+1)
 wis: 14 (+2)
 int: 16 (+3)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Eternal Flame Priest"
-tags: [medium, humanoid, cr3, elemental-evil]
+tags: [medium, humanoide, cr3, elemental-evil]
 cha: 16 (+3)
 wis: 11 (0)
 int: 10 (0)

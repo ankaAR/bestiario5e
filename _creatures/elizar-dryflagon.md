@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Elizar Dryflagon"
-tags: [medium, humanoid, cr5, elemental-evil]
+tags: [medium, humanoide, cr5, elemental-evil]
 cha: 10 (0)
 wis: 18 (+4)
 int: 11 (0)

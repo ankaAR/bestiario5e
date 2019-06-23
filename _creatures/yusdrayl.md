@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yusdrayl"
-tags: [small, humanoid, cr1, tales-from-the-yawning-portal]
+tags: [small, humanoide, cr1, tales-from-the-yawning-portal]
 cha: 16 (+3)
 wis: 10 (0)
 int: 10 (0)

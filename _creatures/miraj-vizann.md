@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Miraj Vizann"
-tags: [medium, humanoid, cr6, elemental-evil]
+tags: [medium, humanoide, cr6, elemental-evil]
 cha: 18 (+4)
 wis: 11 (0)
 int: 13 (+1)

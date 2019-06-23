@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Rezmir"
-tags: [medium, humanoid, cr7, tyranny-of-dragons]
+tags: [medium, humanoide, cr7, tyranny-of-dragons]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 15 (+2)

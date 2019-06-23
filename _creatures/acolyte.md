@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Acólito"
-tags: [medium, humanoid, cr1/4, monster-manual]
+tags: [medium, humanoide, cr1/4, monster-manual]
 cha: 11 (0)
 wis: 14 (+2)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pharblex Spattergoo"
-tags: [medium, humanoid, cr3, tyranny-of-dragons]
+tags: [medium, humanoide, cr3, tyranny-of-dragons]
 cha: 7 (-2)
 wis: 16 (+3)
 int: 11 (0)

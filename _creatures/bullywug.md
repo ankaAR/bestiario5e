@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bullywug"
-tags: [medium, humanoid, cr1/4, monster-manual]
+tags: [medium, humanoide, cr1/4, monster-manual]
 cha: 7 (-2)
 wis: 10 (0)
 int: 7 (-2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Xvart"
-tags: [small, humanoid, cr1/8, volos-guide]
+tags: [small, humanoide, cr1/8, volos-guide]
 cha: 7 (-2)
 wis: 7 (-2)
 int: 8 (-1)

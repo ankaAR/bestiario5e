@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Arachnomancer"
-tags: [medium, humanoid, cr13, mordenkainens-tome-of-foes]
+tags: [medium, humanoide, cr13, mordenkainens-tome-of-foes]
 page_number: 182
 cha: 16 (+3)
 wis: 14 (+2)

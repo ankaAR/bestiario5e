@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gnoll Fang of Yeenoghu"
-tags: [medium, humanoid, cr4, monster-manual]
+tags: [medium, humanoide, cr4, monster-manual]
 cha: 13 (+1)
 wis: 11 (0)
 int: 10 (0)

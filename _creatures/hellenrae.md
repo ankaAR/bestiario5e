@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hellenrae"
-tags: [medium, humanoid, cr5, elemental-evil]
+tags: [medium, humanoide, cr5, elemental-evil]
 cha: 13 (+1)
 wis: 15 (+2)
 int: 10 (0)

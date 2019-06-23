@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sahuagin Priestess"
-tags: [medium, humanoid, cr2, monster-manual]
+tags: [medium, humanoide, cr2, monster-manual]
 cha: 13 (+1)
 wis: 14 (+2)
 int: 12 (+1)

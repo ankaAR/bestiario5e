@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Elite Warrior"
-tags: [medium, humanoid, cr5, monster-manual]
+tags: [medium, humanoide, cr5, monster-manual]
 cha: 12 (+1)
 wis: 13 (+1)
 int: 11 (0)

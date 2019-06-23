@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Hobgoblin Captain"
-tags: [medium, humanoid, cr3, monster-manual]
+tags: [medium, humanoide, cr3, monster-manual]
 cha: 13 (+1)
 wis: 10 (0)
 int: 12 (+1)

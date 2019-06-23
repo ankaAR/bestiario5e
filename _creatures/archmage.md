@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Archmage"
-tags: [medium, humanoid, cr12, monster-manual]
+tags: [medium, humanoide, cr12, monster-manual]
 cha: 16 (+3)
 wis: 15 (+2)
 int: 20 (+5)

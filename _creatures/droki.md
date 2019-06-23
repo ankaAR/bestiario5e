@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Droki"
-tags: [small, humanoid, cr2, out-of-the-abyss]
+tags: [small, humanoide, cr2, out-of-the-abyss]
 cha: 16 (+3)
 wis: 5 (-3)
 int: 10 (0)

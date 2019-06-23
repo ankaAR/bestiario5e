@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Priestess of Lolth"
-tags: [medium, humanoid, cr8, monster-manual]
+tags: [medium, humanoide, cr8, monster-manual]
 cha: 18 (+4)
 wis: 17 (+3)
 int: 13 (+1)

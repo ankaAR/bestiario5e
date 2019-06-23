@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Soul Monger"
-tags: [medium, humanoid, cr11, mordenkainens-tome-of-foes]
+tags: [medium, humanoide, cr11, mordenkainens-tome-of-foes]
 page_number: 226
 cha: 13 (+1)
 wis: 15 (+2)

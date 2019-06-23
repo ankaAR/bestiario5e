@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dralmorrer Borngray"
-tags: [medium, humanoid, cr3, tyranny-of-dragons]
+tags: [medium, humanoide, cr3, tyranny-of-dragons]
 cha: 8 (-1)
 wis: 10 (0)
 int: 16 (+3)

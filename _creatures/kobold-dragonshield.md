@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Kobold Dragonshield"
-tags: [small, humanoid, cr1, volos-guide]
+tags: [small, humanoide, cr1, volos-guide]
 cha: 10 (0)
 wis: 9 (-1)
 int: 8 (-1)

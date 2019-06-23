@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Goblin"
-tags: [small, humanoid, cr1/4, monster-manual]
+tags: [small, humanoide, cr1/4, monster-manual]
 cha: 8 (-1)
 wis: 8 (-1)
 int: 10 (0)

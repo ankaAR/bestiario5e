@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Grung"
-tags: [small, humanoid, cr1/4, volos-guide]
+tags: [small, humanoide, cr1/4, volos-guide]
 cha: 10 (0)
 wis: 11 (0)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orog"
-tags: [medium, humanoid, cr2, monster-manual]
+tags: [medium, humanoide, cr2, monster-manual]
 cha: 12 (+1)
 wis: 11 (0)
 int: 12 (+1)

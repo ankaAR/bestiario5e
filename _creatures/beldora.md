@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Beldora"
-tags: [medium, humanoid, cr0, storm-kings-thunder]
+tags: [medium, humanoide, cr0, storm-kings-thunder]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 16 (+3)

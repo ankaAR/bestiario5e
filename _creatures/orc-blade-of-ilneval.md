@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Orc Blade of Ilneval"
-tags: [medium, humanoid, cr4, volos-guide]
+tags: [medium, humanoide, cr4, volos-guide]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 10 (0)

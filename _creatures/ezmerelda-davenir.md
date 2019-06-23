@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ezmerelda d'Avenir"
-tags: [medium, humanoid, cr8, curse-of-strahd]
+tags: [medium, humanoide, cr8, curse-of-strahd]
 page_number: 230
 cha: 17 (+3)
 wis: 11 (0)

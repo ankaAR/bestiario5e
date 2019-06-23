@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Crushing Wave Reaver"
-tags: [medium, humanoid, cr1/2, elemental-evil]
+tags: [medium, humanoide, cr1/2, elemental-evil]
 cha: 8 (-1)
 wis: 11 (0)
 int: 10 (0)

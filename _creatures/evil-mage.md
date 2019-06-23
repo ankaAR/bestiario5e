@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Evil Mage"
-tags: [medium, humanoid, cr1, lost-mine-of-phandelver]
+tags: [medium, humanoide, cr1, lost-mine-of-phandelver]
 cha: 11 (0)
 wis: 12 (+1)
 int: 17 (+3)

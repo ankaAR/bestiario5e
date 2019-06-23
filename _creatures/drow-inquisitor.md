@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Drow Inquisitor"
-tags: [medium, humanoid, cr14, mordenkainens-tome-of-foes]
+tags: [medium, humanoide, cr14, mordenkainens-tome-of-foes]
 page_number: 184
 cha: 20 (+5)
 wis: 21 (+5)

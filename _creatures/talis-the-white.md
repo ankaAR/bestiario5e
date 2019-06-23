@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Talis the White"
-tags: [medium, humanoid, cr5, tyranny-of-dragons]
+tags: [medium, humanoide, cr5, tyranny-of-dragons]
 cha: 16 (+3)
 wis: 16 (+3)
 int: 10 (0)

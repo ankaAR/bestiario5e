@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bard"
-tags: [medium, humanoid, cr2, volos-guide]
+tags: [medium, humanoide, cr2, volos-guide]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 10 (0)

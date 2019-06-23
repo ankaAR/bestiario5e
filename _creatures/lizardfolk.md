@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Lizardfolk"
-tags: [medium, humanoid, cr1/2, monster-manual]
+tags: [medium, humanoide, cr1/2, monster-manual]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 7 (-2)

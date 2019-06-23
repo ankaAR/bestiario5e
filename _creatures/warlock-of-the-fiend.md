@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Warlock of the Fiend"
-tags: [medium, humanoid, cr7, volos-guide]
+tags: [medium, humanoide, cr7, volos-guide]
 cha: 18 (+4)
 wis: 12 (+1)
 int: 12 (+1)

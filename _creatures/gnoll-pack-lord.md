@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Gnoll Pack Lord"
-tags: [medium, humanoid, cr2, monster-manual]
+tags: [medium, humanoide, cr2, monster-manual]
 cha: 9 (-1)
 wis: 11 (0)
 int: 8 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Firenewt Warrior"
-tags: [medium, humanoid, cr1/2, volos-guide]
+tags: [medium, humanoide, cr1/2, volos-guide]
 cha: 8 (-1)
 wis: 11 (0)
 int: 7 (-2)

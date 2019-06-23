@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Severin"
-tags: [medium, humanoid, cr11, tyranny-of-dragons]
+tags: [medium, humanoide, cr11, tyranny-of-dragons]
 cha: 20 (+5)
 wis: 12 (+1)
 int: 17 (+3)

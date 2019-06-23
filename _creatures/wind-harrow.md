@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Windharrow"
-tags: [medium, humanoid, cr3, elemental-evil]
+tags: [medium, humanoide, cr3, elemental-evil]
 cha: 17 (+3)
 wis: 10 (0)
 int: 14 (+2)
