@@ -9,7 +9,7 @@ con: 26 (+8)
 dex: 22 (+6)
 str: 26 (+8)
 size: Celestial Grande
-alignment: lawful good
+alignment: legal bueno
 challenge: "21 (33,000 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."

@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 10 (0)
 str: 17 (+3)
 size: Medium dragon
-alignment: lawful good
+alignment: legal bueno
 challenge: "2 (450 XP)"
 languages: "Dragón"
 senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."

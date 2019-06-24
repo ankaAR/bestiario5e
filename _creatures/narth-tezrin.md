@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 15 (+2)
 str: 10 (0)
 size: Humanoide Mediano (tethyrian human)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "0 (10 XP)"
 languages: "Común, Dwarvish"
 skills: "Perspicacia +4, Investigation +3, Percepción +6, Persuasión +5"

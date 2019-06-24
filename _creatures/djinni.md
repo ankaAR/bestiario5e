@@ -9,7 +9,7 @@ con: 22 (+6)
 dex: 15 (+2)
 str: 21 (+5)
 size: Large elemental
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "11 (7,200 XP)"
 languages: "Auran"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"

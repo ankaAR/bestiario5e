@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ankylosaurus"
+name: "Anquilosaurio"
 tags: [enorme, bestia, cr3, manual-de-monstruos]
 cha: 5 (-3)
 wis: 12 (+1)

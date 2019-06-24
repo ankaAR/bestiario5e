@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 14 (+2)
 str: 10 (0)
 size: Humanoide Mediano (illuskan human)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "0 (10 XP)"
 languages: "Común, Draconic, Dwarvish, Halfling"
 skills: "Engaño +5, Perspicacia +3, Investigation +5, Percepción +5, Persuasión +5"

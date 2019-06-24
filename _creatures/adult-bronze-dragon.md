@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Adult Bronze Dragon"
+name: "Dragón de bronce adulto"
 tags: [enorme, dragon, cr15, manual-de-monstruos]
 cha: 19 (+4)
 wis: 15 (+2)
@@ -9,7 +9,7 @@ con: 23 (+6)
 dex: 10 (0)
 str: 25 (+7)
 size: Dragón Enorme
-alignment: lawful good
+alignment: legal bueno
 challenge: "15 (13,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 13 (+1)
 str: 8 (-1)
 size: Small humanoid (strongheart halfling)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "0 (10 XP)"
 languages: "Común, Halfling"
 skills: "Percepción +2, Performance +7, Persuasión +5"

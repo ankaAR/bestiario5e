@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 20 (+5)
 str: 3 (-4)
 size: Tiny dragon
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "1 (200 XP)"
 languages: "Draconic, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

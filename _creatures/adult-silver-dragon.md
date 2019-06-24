@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Adult Silver Dragon"
+name: "Dragón de plata adulto"
 tags: [enorme, dragon, cr16, manual-de-monstruos]
 cha: 21 (+5)
 wis: 13 (+1)
@@ -9,7 +9,7 @@ con: 25 (+7)
 dex: 10 (0)
 str: 27 (+8)
 size: Dragón Enorme
-alignment: lawful good
+alignment: legal bueno
 challenge: "16 (15,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

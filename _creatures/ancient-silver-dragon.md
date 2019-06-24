@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient Silver Dragon"
+name: "Dragón de plata anciano"
 tags: [gargantuesca, dragon, cr23, manual-de-monstruos]
 cha: 23 (+6)
 wis: 15 (+2)
@@ -9,7 +9,7 @@ con: 29 (+9)
 dex: 10 (0)
 str: 30 (+10)
 size: Gargantuan dragon
-alignment: lawful good
+alignment: legal bueno
 challenge: "23 (50,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

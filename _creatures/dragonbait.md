@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 13 (+1)
 str: 15 (+2)
 size: Humanoide Mediano (saurial)
-alignment: lawful good
+alignment: legal bueno
 challenge: "5 (1,800 XP)"
 Languages: "understands Common but can't speak"
 senses: "passive Perception 13"

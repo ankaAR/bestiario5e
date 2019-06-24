@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 11 (0)
 str: 16 (+3)
 size: Humanoide Mediano (illuskan humanoid)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Common"
 skills: "Historia +2, Intimidation +4, Investigation +2, Percepción +2, Presuasion +4"

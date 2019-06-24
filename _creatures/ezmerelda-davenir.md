@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 19 (+4)
 str: 14 (+2)
 size: Humanoide Mediano (human)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "8 (3,900 XP)"
 languages: "Común, Elvish"
 skills: "Acrobatics +7, Arcanos +6, Engaño +9, Perspicacia +3, Medicina +3, Percepción +6, Performance +6, Sleight of Hand +7, Sigilo +7, Survival +6"

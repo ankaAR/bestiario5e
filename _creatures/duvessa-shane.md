@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 11 (0)
 str: 10 (0)
 size: Humanoide Mediano (illuskan human)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Común, Dwarvish, Giant, Orc"
 skills: "Engaño +5, Perspicacia +3, Persuasión +3"

@@ -9,7 +9,7 @@ con: 18 (+4)
 dex: 18 (+4)
 str: 18 (+4)
 size: Medium celestial
-alignment: lawful good
+alignment: legal bueno
 challenge: "10 (5,900 XP)"
 languages: "all, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts)"

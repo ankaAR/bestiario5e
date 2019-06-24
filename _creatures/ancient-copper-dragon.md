@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient Copper Dragon"
+name: "Dragón de cobre anciano"
 tags: [gargantuesca, dragon, cr21, manual-de-monstruos]
 cha: 19 (+4)
 wis: 17 (+3)
@@ -9,7 +9,7 @@ con: 25 (+7)
 dex: 12 (+1)
 str: 27 (+8)
 size: Gargantuan dragon
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "21 (33,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

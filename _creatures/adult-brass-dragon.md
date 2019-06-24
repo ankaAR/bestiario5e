@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Adult Brass Dragon"
+name: "Dragón de oropel adulto"
 tags: [enorme, dragon, cr13, manual-de-monstruos]
 cha: 17 (+3)
 wis: 13 (+1)
@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 10 (0)
 str: 23 (+6)
 size: Dragón Enorme
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "13 (10,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

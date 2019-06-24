@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Androsphinx"
+name: "Androesfinge"
 tags: [grande, monstruosidad, cr17, manual-de-monstruos]
 cha: 23 (+6)
 wis: 18 (+4)

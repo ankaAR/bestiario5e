@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient Gold Dragon"
+name: "Dragón de oro anciano"
 tags: [gargantuesca, dragon, cr24, manual-de-monstruos]
 cha: 28 (+9)
 wis: 17 (+3)
@@ -9,7 +9,7 @@ con: 29 (+9)
 dex: 14 (+2)
 str: 30 (+10)
 size: Gargantuan dragon
-alignment: lawful good
+alignment: legal bueno
 challenge: "24 (62,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

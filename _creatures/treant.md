@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 8 (-1)
 str: 23 (+6)
 size: Huge plant
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "9 (5,000 XP)"
 languages: "Común, Druidic, Elvish, Sylvan"
 speed: "30 ft."

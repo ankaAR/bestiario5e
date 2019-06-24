@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 13 (+1)
 str: 16 (+3)
 size: Humanoide Mediano (turami human)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Común, Giant"
 skills: "Athletics +5, Intimidation +3"

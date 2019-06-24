@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Adult Red Dragon"
+name: "Dragón rojo adulto"
 tags: [enorme, dragon, cr17, manual-de-monstruos]
 cha: 21 (+5)
 wis: 13 (+1)

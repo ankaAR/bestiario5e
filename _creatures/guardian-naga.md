@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 18 (+4)
 str: 19 (+4)
 size: Large monstrosity
-alignment: lawful good
+alignment: legal bueno
 challenge: "10 (5,900 XP)"
 languages: "Celestial, Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

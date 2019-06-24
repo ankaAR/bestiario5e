@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 18 (+4)
 str: 10 (0)
 size: Medium fey
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "3 (700 XP)"
 languages: "Común, Elvish, Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

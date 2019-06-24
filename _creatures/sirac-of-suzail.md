@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 17 (+3)
 str: 14 (+2)
 size: Humanoide Mediano (chondathan human)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Común, Orc"
 skills: "Athletics +4, Perspicacia +3, Survival +3"

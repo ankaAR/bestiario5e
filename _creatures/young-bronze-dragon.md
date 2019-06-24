@@ -9,7 +9,7 @@ con: 19 (+4)
 dex: 10 (0)
 str: 21 (+5)
 size: Large dragon
-alignment: lawful good
+alignment: legal bueno
 challenge: "8 (3,900 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"

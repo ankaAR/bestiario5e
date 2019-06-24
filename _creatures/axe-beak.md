@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Axe Beak"
+name: "Pico de hacha"
 tags: [grande, bestia, cr1/4, manual-de-monstruos]
 cha: 5 (-3)
 wis: 10 (0)

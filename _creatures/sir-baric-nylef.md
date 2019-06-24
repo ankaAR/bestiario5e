@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 11 (0)
 str: 18 (+4)
 size: Humanoide Mediano (illuskan human)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Common"
 skills: "Perspicacia +4, Investigation +2, Medicina +4, Survival +4"

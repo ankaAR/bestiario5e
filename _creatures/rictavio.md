@@ -10,7 +10,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 9 (-1)
 size: Humanoide Mediano (human)
-alignment: lawful good
+alignment: legal bueno
 challenge: "5 (1,800 XP)"
 languages: "Abyssal, Common, Elvish, Infernal"
 skills: "Arcanos +9, Perspicacia +7, Medicina +7, Percepción +7, Religión +6, Sleight of Hand +4"

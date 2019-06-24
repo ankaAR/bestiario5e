@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient White Dragon"
+name: "Dragón blanco anciano"
 tags: [gargantuesca, dragon, cr20, manual-de-monstruos]
 cha: 14 (+2)
 wis: 13 (+1)

@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient Blue Dragon"
+name: "Dragón azul anciano"
 tags: [gargantuesca, dragon, cr23, manual-de-monstruos]
 cha: 21 (+5)
 wis: 17 (+3)

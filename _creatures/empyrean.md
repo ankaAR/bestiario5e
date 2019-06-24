@@ -9,7 +9,7 @@ con: 30 (+10)
 dex: 21 (+5)
 str: 30 (+10)
 size: Huge celestial (titan)
-alignment: chaotic good (75%) or neutral evil (25%)
+alignment: caótico bueno (75%) or neutral evil (25%)
 challenge: "23 (50,000 XP)"
 languages: "all"
 senses: "truesight 120 ft."

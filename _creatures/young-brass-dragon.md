@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 10 (0)
 str: 19 (+4)
 size: Large dragon
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "6 (2,300 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 30 pies (9 mts), Visión en la oscuridad 120 ft. (36 mts)"

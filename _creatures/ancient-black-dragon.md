@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient Black Dragon"
+name: "Dragón negro anciano"
 tags: [gargantuesca, dragon, cr21, manual-de-monstruos]
 cha: 19 (+4)
 wis: 15 (+2)

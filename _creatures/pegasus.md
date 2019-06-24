@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 15 (+2)
 str: 18 (+4)
 size: Celestial Grande
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "2 (450 XP)"
 languages: "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 skills: "Percepción +6"

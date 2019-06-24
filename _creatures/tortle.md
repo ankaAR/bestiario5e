@@ -10,7 +10,7 @@ con: 12 (+1)
 dex: 10 (0)
 str: 15 (+2)
 size: Humanoide Mediano (tortle)
-alignment: lawful good
+alignment: legal bueno
 challenge: "1/4 (50 XP)"
 languages: "Aquan, Common"
 senses: "passive Perception 11"

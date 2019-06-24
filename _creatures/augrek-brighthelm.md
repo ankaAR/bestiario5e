@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 11 (0)
 str: 14 (+2)
 size: Humanoide Mediano (shield dwarf)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Común, Dwarvish"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

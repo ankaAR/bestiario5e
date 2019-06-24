@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 15 (+2)
 str: 6 (-2)
 size: Small aberration
-alignment: lawful good
+alignment: legal bueno
 challenge: "1/8 (25 XP)"
 languages: "understands Undercommon but can't speak, telepathy 60 ft."
 senses: "Visión en la oscuridad 60 pies (18 mts)"

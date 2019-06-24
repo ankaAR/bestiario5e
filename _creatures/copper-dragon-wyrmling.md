@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 15 (+2)
 size: Medium dragon
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "1 (200 XP)"
 languages: "Dragón"
 senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."

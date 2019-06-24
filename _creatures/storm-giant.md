@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 14 (+2)
 str: 29 (+9)
 size: Huge giant
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "13 (10,000 XP)"
 languages: "Común, Giant"
 skills: "Arcanos +8, Athletics +14, Historia +8, Percepción +9"

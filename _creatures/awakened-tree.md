@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Awakened Tree"
+name: "Árbol despertado"
 tags: [enorme, planta, cr2, manual-de-monstruos]
 cha: 7 (-2)
 wis: 10 (0)

@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 14 (+2)
 str: 29 (+9)
 size: Huge giant (storm giant)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "16 (15,000 XP)"
 languages: "Común, Giant"
 senses: "truesight 60 ft."

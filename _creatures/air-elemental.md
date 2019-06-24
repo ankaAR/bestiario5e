@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Air Elemental"
+name: "Elemental de aire"
 tags: [grande, elemental, cr5, manual-de-monstruos]
 cha: 6 (-2)
 wis: 10 (0)

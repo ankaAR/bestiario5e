@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 17 (+3)
 str: 10 (0)
 size: Humanoide Mediano (tabaxi)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "1 (200 XP)"
 Languages: "Common plus any one language"
 senses: "darkvision 60 ft., passive Perception 14"

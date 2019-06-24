@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Ancient Bronze Dragon"
+name: "Dragón de bronce anciano"
 tags: [gargantuesca, dragon, cr22, manual-de-monstruos]
 cha: 21 (+5)
 wis: 17 (+3)
@@ -9,7 +9,7 @@ con: 27 (+8)
 dex: 10 (0)
 str: 29 (+9)
 size: Gargantuan dragon
-alignment: lawful good
+alignment: legal bueno
 challenge: "22 (41,000 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

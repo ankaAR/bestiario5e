@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 17 (+3)
 str: 12 (+1)
 size: Medium fey
-alignment: lawful good
+alignment: legal bueno
 challenge: "1/4 (50 XP)"
 languages: "Blink Dog, understands Sylvan but can't speak it"
 skills: "Percepción +3, Sigilo +5"

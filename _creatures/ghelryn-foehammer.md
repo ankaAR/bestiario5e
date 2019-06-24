@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 7 (-2)
 str: 18 (+4)
 size: Humanoide Mediano (shield dwarf)
-alignment: lawful good
+alignment: legal bueno
 challenge: "0 (10 XP)"
 languages: "Común, Dwarfish"
 skills: "Athletics +6, Intimidation +2, Percepción +2"

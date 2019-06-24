@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 15 (+2)
 str: 12 (+1)
 size: Humanoide Mediano (shou human)
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "0 (10 XP)"
 languages: "Común, Elvish, Goblin"
 skills: "Acrobatics +4, Athletics +3, Percepción +5, Sigilo +4"

@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Archmage"
+name: "Archimago"
 tags: [mediana, humanoide, cr12, manual-de-monstruos]
 cha: 16 (+3)
 wis: 15 (+2)

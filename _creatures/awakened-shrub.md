@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Awakened Shrub"
+name: "Arbusto despertado"
 tags: [pequena, planta, cr0, manual-de-monstruos]
 cha: 6 (-2)
 wis: 10 (0)

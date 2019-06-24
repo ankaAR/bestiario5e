@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Adult Copper Dragon"
+name: "Dragón de cobre adulto"
 tags: [enorme, dragon, cr14, manual-de-monstruos]
 cha: 17 (+3)
 wis: 15 (+2)
@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 12 (+1)
 str: 23 (+6)
 size: Dragón Enorme
-alignment: chaotic good
+alignment: caótico bueno
 challenge: "14 (11,500 XP)"
 languages: "Común, Dragón"
 senses: "Vista ciega 60 pies (18 mts), Visión en la oscuridad 120 ft. (36 mts)"

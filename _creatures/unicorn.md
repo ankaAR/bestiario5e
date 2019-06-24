@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 14 (+2)
 str: 18 (+4)
 size: Celestial Grande
-alignment: lawful good
+alignment: legal bueno
 challenge: "5 (1,800 XP)"
 languages: "Celestial, Elvish, Sylvan, telepathy 60 ft."
 senses: "Visión en la oscuridad 60 pies (18 mts)"

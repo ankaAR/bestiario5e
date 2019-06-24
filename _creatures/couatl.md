@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 20 (+5)
 str: 16 (+3)
 size: Medium celestial
-alignment: lawful good
+alignment: legal bueno
 challenge: "4 (1,100 XP)"
 languages: "all, telepathy 120 ft."
 senses: "truesight 120 ft."
