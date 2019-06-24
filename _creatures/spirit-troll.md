@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "97  (15d10 + 15)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "agotamiento, grappled, paralizado, petrificado, prone, restrained, unconscious"
-damage_resistances: "acid, cold, fire, lightning, thunder"
+damage_resistances: "acid, frío, fire, lightning, thunder"
 ---
 
 ***Incorporeal Movement.*** The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.

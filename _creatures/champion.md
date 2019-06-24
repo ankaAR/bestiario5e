@@ -27,6 +27,6 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The champion makes three attacks with its greatsword or its light crossbow.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6+5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6+5) puntos de daño cortante, más 7 (2d6) puntos de daño cortante if the champion has more than half of its total hit points remaining.
 
-***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño perforante, plus 7 (2d6) puntos de daño perforante if the champion has more than half of its total hit points remaining.
+***Light Crossbow.*** Ranged Weapon Attack: +6 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d8+2) puntos de daño perforante, más 7 (2d6) puntos de daño perforante if the champion has more than half of its total hit points remaining.

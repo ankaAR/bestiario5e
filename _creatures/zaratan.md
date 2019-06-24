@@ -20,7 +20,7 @@ speed: "40 pies (12 mts), nadando 40 pies (12 mts)"
 hit_points: "307  (15d20 + 150)"
 armor_class: "21 (armadura natural)"
 condition_immunities: "agotamiento, paralizado, petrificado, envenenado, stunned"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Earth-Shaking Movement.*** As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is concentrating must succeed on a DC 25 Constitution saving throw or the creature's concentration is broken.

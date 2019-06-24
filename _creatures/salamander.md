@@ -17,7 +17,7 @@ damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "90 (12d10+24)"
 armor_class: "15 (armadura natural)"
-damage_vulnerabilities: "cold"
+damage_vulnerabilities: "frío"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -29,6 +29,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The salamander makes two attacks: one with its spear and one with its tail.
 
-***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20 ft./60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante, or 13 (2d8 + 4) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20 ft./60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante, or 13 (2d8 + 4) puntos de daño perforante if used with two hands to make a melee attack, más 3 (1d6) fire damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente más 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.

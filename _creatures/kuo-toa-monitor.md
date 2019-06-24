@@ -25,7 +25,7 @@ armor_class: "13 (natural armor, unarmored defense)"
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.
 
@@ -35,4 +35,4 @@ armor_class: "13 (natural armor, unarmored defense)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
 
-***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente plus 3 (1d6) puntos de daño por relámpago, and the target can't take reactions until the end of the kuo-toa's next turn.
+***Unarmed Strike.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente más 3 (1d6) puntos de daño por relámpago, and the target can't take reactions until the end of the kuo-toa's next turn.

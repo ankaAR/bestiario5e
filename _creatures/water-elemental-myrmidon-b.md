@@ -30,4 +30,4 @@ damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Trident*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante if used with two hands to make a melee attack.
 
-***Freezing Strikes (Recarga 6)*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) cold damage. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the myrmidon's next turn.
+***Freezing Strikes (Recarga 6)*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) puntos de daño por frío. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the myrmidon's next turn.

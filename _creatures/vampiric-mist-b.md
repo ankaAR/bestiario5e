@@ -20,7 +20,7 @@ speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "30  (4d8 + 12)"
 armor_class: "13"
 condition_immunities: "hechizado, agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained"
-damage_resistances: "acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "acid, frío, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Life Sense.*** The mist can sense the location of any creature within 60 feet of it, unless that creature's type is construct or undead.

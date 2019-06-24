@@ -23,6 +23,6 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante plus 3 (1d6) puntos de daño por relámpago.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d10 + 3) puntos de daño perforante más 3 (1d6) puntos de daño por relámpago.
 
 ***Aliento de Relámpago (Recarga 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

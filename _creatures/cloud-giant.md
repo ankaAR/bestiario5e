@@ -19,7 +19,7 @@ hit_points: "200 (16d12+96)"
 armor_class: "14 (armadura natural)"
 ---
 
-***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The giant has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 

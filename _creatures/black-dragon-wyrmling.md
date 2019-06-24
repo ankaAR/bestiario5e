@@ -25,6 +25,6 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d10 + 2) puntos de daño perforante plus 2 (1d4) puntos de daño por ácido.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d10 + 2) puntos de daño perforante más 2 (1d4) puntos de daño por ácido.
 
 ***Aliento de ácido (Recarga 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (Sd8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.

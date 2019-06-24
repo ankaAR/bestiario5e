@@ -21,7 +21,7 @@ speed: "30 ft., volando 50 pies (15 mts)."
 hit_points: "195  (26d8 + 78)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
@@ -46,4 +46,4 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Quarterstaff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño contundente, or 6 (1d8 + 2) puntos de daño contundente if used with two hands.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d10 + 2) puntos de daño perforante plus 14 (4d6) puntos de daño por relámpago.
+***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d10 + 2) puntos de daño perforante más 14 (4d6) puntos de daño por relámpago.

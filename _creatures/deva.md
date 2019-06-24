@@ -36,7 +36,7 @@ At will: detect evil and good
 
 ***Multiataque.*** The deva makes two melee attacks.
 
-***Mace.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente plus 18 (4d8) radiant damage.
+***Mace.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente más 18 (4d8) radiant damage.
 
 ***Healing Touch (3/Día).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, veneno, blindness, or deafness.
 

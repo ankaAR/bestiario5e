@@ -19,7 +19,7 @@ hit_points: "16 (3d8+3)"
 armor_class: "12"
 damage_vulnerabilities: "radiant"
 condition_immunities: "agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
-damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "acid, frío, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing.

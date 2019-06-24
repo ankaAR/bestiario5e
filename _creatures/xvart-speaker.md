@@ -11,7 +11,7 @@ str: 8 (-1)
 size: Small humanoid (xvart)
 alignment: caótico maligno
 challenge: "1/8 (25 XP)"
-languages: "Abyssal plus one other language, usually Common or Goblin"
+languages: "Abyssal más one other language, usually Common or Goblin"
 senses: "darkvision 30 ft."
 skills: "Sigilo +4"
 speed: "30 ft."

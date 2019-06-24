@@ -21,7 +21,7 @@ speed: "40 ft."
 hit_points: "346  (33d10 + 165)"
 armor_class: "20 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Graz'zt attacks twice with Wave of Sorrow.
 
-***Wave of Sorrow (Greatsword)*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (4d6 + 6) slashing damage plus 10 (3d6) puntos de daño por ácido.
+***Wave of Sorrow (Greatsword)*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (4d6 + 6) puntos de daño cortante más 10 (3d6) puntos de daño por ácido.
 
 ***Teleport*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 

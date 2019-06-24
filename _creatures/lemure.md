@@ -18,7 +18,7 @@ speed: "15 ft."
 hit_points: "13 (3d8)"
 armor_class: "7"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold"
+damage_resistances: "frío"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.

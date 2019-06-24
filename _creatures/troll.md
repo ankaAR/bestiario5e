@@ -19,7 +19,7 @@ hit_points: "84 (8d10+40)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The troll has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 

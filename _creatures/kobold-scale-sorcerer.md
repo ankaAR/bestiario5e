@@ -35,7 +35,7 @@ Subtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cas
 
 ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature it at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

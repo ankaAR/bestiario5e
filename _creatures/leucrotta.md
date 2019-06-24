@@ -19,7 +19,7 @@ hit_points: "67 (9d10+18)"
 armor_class: "14 (armadura natural)"
 ---
 
-***Keen Smell.*** The leucrotta has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The leucrotta has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Kicking Retreat.*** If the leucrotta attacks with its hooves, it can take the Disengage action as a bonus action.
 

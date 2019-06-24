@@ -28,7 +28,7 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 * At will: detect magic, disguise self, mage armor
 * 1/day each: fear, hold person, misty step
 
-***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

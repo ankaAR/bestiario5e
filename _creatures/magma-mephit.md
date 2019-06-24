@@ -18,7 +18,7 @@ damage_immunities: "fire, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "22 (5d6+5)"
 armor_class: "11"
-damage_vulnerabilities: "cold"
+damage_vulnerabilities: "frío"
 condition_immunities: "Envenenado"
 ---
 
@@ -30,7 +30,7 @@ condition_immunities: "Envenenado"
 
 ### Acciones
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft ., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 ft ., one creature. Hit: 3 (1d4 + 1) puntos de daño cortante más 2 (1d4) fire damage.
 
 ***Fire Breath (Recarga 6).*** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 

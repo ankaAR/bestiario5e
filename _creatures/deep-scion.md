@@ -28,7 +28,7 @@ armor_class: "11"
 
 ***Multiataque.*** In humanoid form, the deep scion makes two melee attacks. In hybrid form, the deep scion makes three attacks: one with its bite and two with its claws.
 
-***Battleaxe (Humanoid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8+4) slashing damage, or 9 (1d10+4) slashing damage if used with two hands.
+***Battleaxe (Humanoid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8+4) puntos de daño cortante, or 9 (1d10+4) puntos de daño cortante if used with two hands.
 
 ***Bite (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft, one creature. Hit: 6 (1d4+4) puntos de daño perforante.
 

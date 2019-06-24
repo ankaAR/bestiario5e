@@ -17,7 +17,7 @@ hit_points: "1 (1d4-1)"
 armor_class: "13"
 ---
 
-***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
+***Keen Sight.*** The hawk has advantage en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

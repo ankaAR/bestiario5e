@@ -17,7 +17,7 @@ hit_points: "26 (4d10+4)"
 armor_class: "12"
 ---
 
-***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The lion has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Pack Tactics.*** The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 

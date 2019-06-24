@@ -18,12 +18,12 @@ speed: "0 ft., volando 50 pies (15 mts). (hover)"
 hit_points: "22 (5d8)"
 armor_class: "12"
 condition_immunities: "hechizado, agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, unconscious"
-damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "acid, frío, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

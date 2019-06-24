@@ -27,7 +27,7 @@ Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
 
 1st level (4 slots): burning hands, chromatic orb, mage armor
 
-***Sunlight Sensitivity.*** While in sunlight, Yusdrayl has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, Yusdrayl has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Pack Tactics.*** Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't incapacitated.
 

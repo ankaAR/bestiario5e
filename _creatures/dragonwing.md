@@ -17,7 +17,7 @@ saving_throws: "Sab +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "14 (armadura de cuero)"
-damage_resistances: "one of the following: acid, cold, fire, lightning, or poison"
+damage_resistances: "one of the following: acid, frío, fire, lightning, or poison"
 ---
 
 ***Dragon Fanatic.*** The dragonwing has advantage on saving throws against being hechizado or asustado. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonwing ignores the effects of being hechizado or asustado.
@@ -32,4 +32,4 @@ damage_resistances: "one of the following: acid, cold, fire, lightning, or poiso
 
 ***Multiataque.*** The dragonwing attacks twice with its scimitar.
 
-***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has resistance.
+***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante más 3 (1d6) damage of the type to which the cultist has resistance.

@@ -12,7 +12,7 @@ str: 1 (-5)
 size: Constructo mediano
 alignment: no alineado
 challenge: "1 (200 XP)"
-languages: "Común, plus up to two other languages"
+languages: "Común, más up to two other languages"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "0 ft."

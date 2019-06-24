@@ -19,7 +19,7 @@ hit_points: "33 (6d8+6)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Chameleon Carapace.*** The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.
+***Chameleon Carapace.*** The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage en tiradas de Destreza (Sigilo) made to hide.
 
 ***Standing Leap.*** The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 

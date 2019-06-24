@@ -13,7 +13,7 @@ alignment: cualquier alineamiento
 challenge: "4 (1,100 XP)"
 languages: "any languages it knew in life"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-damage_immunities: "cold, necrotic, poison"
+damage_immunities: "frío, necrotic, poison"
 speed: "0 ft., fly 40 ft. It can hover."
 hit_points: "45 (10d8)"
 armor_class: "11"

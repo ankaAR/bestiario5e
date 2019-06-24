@@ -20,7 +20,7 @@ speed: "20 pies (6 mts), fly 60 ft."
 hit_points: "84 (13d10+13)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours .
@@ -31,7 +31,7 @@ damage_resistances: "cold, fire, lightning"
 
 ### Acciones
 
-***Proboscis.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 16 (4d6 + 2) puntos de daño perforante plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration .
+***Proboscis.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 16 (4d6 + 2) puntos de daño perforante más 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration .
 
 ***Variant: Summon Demon (1/Día).*** The demon chooses what to summon and attempts a magical summoning.
 

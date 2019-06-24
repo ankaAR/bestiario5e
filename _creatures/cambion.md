@@ -18,7 +18,7 @@ saving_throws: "Str +7, Con +6, Int +5, Car +6"
 speed: "30 ft., fly 60 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "19 (scale mail)"
-damage_resistances: "cold, fire, lightning, veneno, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, veneno, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Fiendish Blessing.*** The AC of the cambion includes its Charisma bonus.
@@ -33,7 +33,7 @@ damage_resistances: "cold, fire, lightning, veneno, bludgeoning, piercing, and s
 
 ***Multiataque.*** The cambion makes two melee attacks or uses its Fire Ray twice.
 
-***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20/60 ft ., one target. Hit: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20/60 ft ., one target. Hit: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante if used with two hands to make a melee attack, más 3 (1d6) fire damage.
 
 ***Fire Ray.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 10 (3d6) fire damage.
 

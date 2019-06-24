@@ -21,7 +21,7 @@ speed: "50 ft., nadando 50 ft."
 hit_points: "406  (28d12 +224)"
 armor_class: "22 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma. Demogorgon can innately cast the following spells, requiring no material components:
@@ -53,6 +53,6 @@ If the target fails the save, the target suffers one of the following effects of
 
 Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of his turn.
 
-***Tail*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 20 (2d10 + 9) puntos de daño contundente plus 11 (2d10) necrotic damage.
+***Tail*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 20 (2d10 + 9) puntos de daño contundente más 11 (2d10) necrotic damage.
 
 ***Maddening Gaze*** Demogorgon uses his Gaze action, and must choose either the Beguiling Gaze or the Insanity Gaze effect.

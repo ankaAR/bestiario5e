@@ -19,7 +19,7 @@ hit_points: "85 (10d10+30)"
 armor_class: "12 (armadura natural)"
 ---
 
-***Two Heads.*** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being cegado, hechizado, ensordecido, asustado, stunned, and knocked unconscious.
+***Two Heads.*** The ettin has advantage en tiradas de Sabiduría (Percepción) and on saving throws against being cegado, hechizado, ensordecido, asustado, stunned, and knocked unconscious.
 
 ***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.
 

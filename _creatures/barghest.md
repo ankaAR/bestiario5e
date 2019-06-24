@@ -19,14 +19,14 @@ speed: "60 ft. (30 ft.in goblin form)"
 hit_points: "90 (12d10+24)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Shapechanger.*** The barghest can use its action to polymorph into a Small goblin or back into its true form. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. The barghest reverts to its true form if it dies.
 
 ***Fire Banishment.*** When the barghest starts its turn engulfed in flames that are at least 10 feet high or wide, it must succeed on a DC 15 Charisma saving throw or be instantly banished to Gehenna. Instantaneous bursts of flame (such as a red dragon's breath or a fireball spell) don't have this effect on the barghest.
 
-***Keen Smell.*** The barghest has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The barghest has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Innate Spellcasting.*** The barghest's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components::
 

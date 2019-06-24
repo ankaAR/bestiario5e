@@ -23,4 +23,4 @@ armor_class: "11"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4+1) puntos de daño perforante plus 7 (2d6) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become envenenado for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4+1) puntos de daño perforante más 7 (2d6) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become envenenado for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

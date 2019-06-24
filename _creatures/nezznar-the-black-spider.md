@@ -42,4 +42,4 @@ armor_class: "11 (14 with mage armor)"
 
 ### Acciones
 
-***Spider Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente plus 3 (1d6) poison damage.
+***Spider Staff.*** Ataque de arma cuerpo a cuerpo: +1 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 2 (1d6-1) puntos de daño contundente más 3 (1d6) poison damage.

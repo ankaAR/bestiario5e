@@ -21,7 +21,7 @@ armor_class: "11 (in humanoid form, 12 in wolf or hybrid form)"
 
 ***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The werewolf has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ### Acciones
 

@@ -14,7 +14,7 @@ challenge: "10 (5,900 XP)"
 languages: "Común, Primordial, Thayan"
 senses: "Vista ciega 120 ft."
 skills: "Arcanos +7, Perspicacia +4"
-damage_immunities: "acid, cold, poison"
+damage_immunities: "acid, frío, poison"
 saving_throws: "Int +7, Sab +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "138 (12d12+60)"
@@ -51,7 +51,7 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente plus 10 (3d6) puntos de daño por ácido.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 13 (3d6 + 3) puntos de daño contundente más 10 (3d6) puntos de daño por ácido.
 
 ### Reactions
 

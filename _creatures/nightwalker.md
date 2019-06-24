@@ -20,7 +20,7 @@ speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "297  (22d12 + 154)"
 armor_class: "14"
 condition_immunities: "agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
-damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "acid, frío, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Annihilating Aura.*** Any creature that starts its turn within 30 feet of the nightwalker must succeed on a DC 21 Constitution saving throw or take 14 (4d6) necrotic damage and grant the nightwalker advantage on attack rolls against it until the start of the creature's next turn. Undead are immune to this aura.

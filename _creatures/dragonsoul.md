@@ -17,7 +17,7 @@ saving_throws: "Sab +4"
 speed: "30 ft."
 hit_points: "110 (17d8+34)"
 armor_class: "16 (cuero endurecido)"
-damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
+damage_resistances: "one of the following: acid, frío, fire, lightning or poison"
 ---
 
 ***Dragon Fanatic.*** The dragonsoul has advantage on saving throws against being hechizado or asustado. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being hechizado or asustado.
@@ -32,6 +32,6 @@ damage_resistances: "one of the following: acid, cold, fire, lightning or poison
 
 ***Multiataque.*** The Dragonsoul attacks twice with its shortsword.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante plus 10 (3d6) damage of the type to which the dragonsoul has resistance.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante más 10 (3d6) damage of the type to which the dragonsoul has resistance.
 
 ***Orb of Dragon's Breath (3/Día).*** Ranged Spell Attack: +7 to hit, range 90 pies, un objetivo. Impacto: 27 (6d8) damage of the type to which the dragonsoul has damage resistance.

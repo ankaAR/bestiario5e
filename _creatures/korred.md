@@ -30,7 +30,7 @@ At will: commune with nature, meld into stone, stone shape
 
 1/day each: conjure elemental (as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only), Otto's irresistible dance
 
-***Stone Camouflage.*** The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The korred has advantage en tiradas de Destreza (Sigilo) made to hide in rocky terrain.
 
 ***Stone's Strength.*** While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks).
 

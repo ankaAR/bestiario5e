@@ -22,7 +22,7 @@ armor_class: "12 (armadura natural)"
 
 ***Hold Breath.*** The whale can hold its breath for 30 minutes
 
-***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+***Keen Hearing.*** The whale has advantage en tiradas de Sabiduría (Percepción) that rely on hearing.
 
 ### Acciones
 

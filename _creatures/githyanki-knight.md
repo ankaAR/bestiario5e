@@ -28,4 +28,4 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The githyanki makes two silver greatsword attacks.
 
-***Silver Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+***Silver Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante más 10 (3d6) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the astral projection spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.

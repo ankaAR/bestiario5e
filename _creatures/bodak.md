@@ -19,7 +19,7 @@ speed: "30 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Aura of Annihilation.*** The bodak can activate or deactivate this feature as a bonus action. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and fiends ignore this effect.
@@ -32,6 +32,6 @@ damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing f
 
 ### Acciones
 
-***Fist.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente plus 9 (2d8) necrotic damage.
+***Fist.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente más 9 (2d8) necrotic damage.
 
 ***Withering Gaze.*** One creature that the bodak can see within 60 feet of it must make a DC 13 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.

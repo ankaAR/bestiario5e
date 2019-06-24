@@ -17,7 +17,7 @@ senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (armadura natural)"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Fey Step (Recarga 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
@@ -33,6 +33,6 @@ Whenever the eladrin deals damage to the hechizado creature, it can repeat the s
 
 ### Acciones
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d8) puntos de daño cortante, or 5 (1d10) puntos de daño cortante if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.

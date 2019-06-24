@@ -21,7 +21,7 @@ speed: "30 ft., nadando 40 pies (12 mts)"
 hit_points: "40  (9d8)"
 armor_class: "13"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:

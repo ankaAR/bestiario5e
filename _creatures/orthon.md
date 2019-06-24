@@ -21,7 +21,7 @@ speed: "30 ft., climb 30 ft."
 hit_points: "105  (10d10 + 50)"
 armor_class: "17 (half plate)"
 condition_immunities: "hechizado, agotamiento, envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Invisibility Field.*** The orthon can use a bonus action to become invisible. Any equipment the orthon wears or carries is also invisible as long as the equipment is on its person. This invisibility ends immediately after the orthon makes an attack roll or is hit by an attack.
@@ -30,9 +30,9 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ### Acciones
 
-***Infernal Dagger*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d4 + 6) slashing damage, and the target must make a DC 17 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is envenenado for 1 minute. The envenenado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Infernal Dagger*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d4 + 6) puntos de daño cortante, and the target must make a DC 17 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is envenenado for 1 minute. The envenenado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Brass Crossbow*** Ranged Weapon Attack: +7 to hit, range 100/400 pies, un objetivo. Impacto: 14 (2d10 + 3) puntos de daño perforante, plus one of the following effects:
+***Brass Crossbow*** Ranged Weapon Attack: +7 to hit, range 100/400 pies, un objetivo. Impacto: 14 (2d10 + 3) puntos de daño perforante, más one of the following effects:
 
 ***1 Acid*** The target must make a DC 17 Constitution saving throw, taking an additional 17 (5d6) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 

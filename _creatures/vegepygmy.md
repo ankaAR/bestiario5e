@@ -20,7 +20,7 @@ armor_class: "13 (armadura natural)"
 damage_resistances: "lightning, piercing"
 ---
 
-***Plant Camouflage .*** The vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
+***Plant Camouflage .*** The vegepygmy has advantage en tiradas de Destreza (Sigilo) it makes in any terrain with ample obscuring plant life.
 
 ***Regeneration.*** The vegepygmy regains 5 hit points at the start of its turn. If it takes cold, fire, or necrotic damage, this trait doesn't function at the start of the vegepygmy's next turn. The vegepygmy dies only if it starts its turn with 0 hit points and doesn't regenerate.
 

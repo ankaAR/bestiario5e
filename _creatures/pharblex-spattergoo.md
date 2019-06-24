@@ -35,7 +35,7 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Standing Leap.*** As part of his movement and without a running start, Pharblex can long jump up to 20 feet and high jump up to 10 feet.
 
-***Swamp Camouflage.*** Pharblex has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+***Swamp Camouflage.*** Pharblex has advantage en tiradas de Destreza (Sigilo) made to hide in swampy terrain.
 
 ### Acciones
 

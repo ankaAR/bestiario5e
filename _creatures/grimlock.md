@@ -22,10 +22,10 @@ armor_class: "11"
 
 ***Blind Senses.*** The grimlock can't use its Vista ciega while ensordecido and unable to smell.
 
-***Keen Hearing and Smell.*** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The grimlock has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
-***Stone Camouflage.*** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The grimlock has advantage en tiradas de Destreza (Sigilo) made to hide in rocky terrain.
 
 ### Acciones
 
-***Spiked Bone Club.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente plus 2 (1d4) puntos de daño perforante.
+***Spiked Bone Club.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente más 2 (1d4) puntos de daño perforante.

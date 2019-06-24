@@ -14,7 +14,7 @@ challenge: "4 (1,100 XP)"
 languages: "Abyssal, telepathy 120 ft."
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Sigilo +7"
-damage_immunities: "cold, lightning, poison"
+damage_immunities: "frío, lightning, poison"
 saving_throws: "Des +5, Car +4"
 speed: "30 ft., fly 30 ft."
 hit_points: "66 (12d8+12)"
@@ -26,7 +26,7 @@ damage_resistances: "acid, fire, necrotic, thunder, bludgeoning, piercing, and s
 
 ***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Shadow Stealth.*** While in dim light or darkness, the demon can take the Hide action as a bonus action.
 

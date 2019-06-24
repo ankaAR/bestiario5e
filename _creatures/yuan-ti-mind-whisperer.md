@@ -42,7 +42,7 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Sseth's Blessing.*** When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.
 
-***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
+***Variant: Chameleon Skin.*** The yuan-ti has advantage en tiradas de Destreza (Sigilo) made to hide.
 
 ***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
@@ -50,6 +50,6 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one bite attack and one scimitar attack.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante plus 7 (2d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante más 7 (2d6) poison damage.
 
 ***Scimitar (Yuan-ti Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6+3) puntos de daño cortante.

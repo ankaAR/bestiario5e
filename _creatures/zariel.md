@@ -21,7 +21,7 @@ speed: "50 ft., fly 150 ft."
 hit_points: "580  (40d10 + 360)"
 armor_class: "21 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede Zariel's darkvision.
@@ -42,9 +42,9 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Multiattack*** Zariel attacks twice with her longsword or with her javelins. She can substitute Horrid Touch for one of these attacks.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 17 (2d8 + 8) slashing damage plus 36 (8d8) fire damage, or 19 (2d10 + 8) slashing damage plus 36 (8d8) fire damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 17 (2d8 + 8) puntos de daño cortante más 36 (8d8) fire damage, or 19 (2d10 + 8) puntos de daño cortante más 36 (8d8) fire damage if used with two hands.
 
-***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño perforante plus 36 (8d8) fire damage.
+***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño perforante más 36 (8d8) fire damage.
 
 ***Horrid Touch (Recarga 5-6)*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 44 (8d10) necrotic damage, and the target is envenenado for 1 minute. While envenenado in this way, the target is also blinded and ensordecido. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

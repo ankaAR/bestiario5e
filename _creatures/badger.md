@@ -17,7 +17,7 @@ hit_points: "3 (1d4+1)"
 armor_class: "10"
 ---
 
-***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The badger has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

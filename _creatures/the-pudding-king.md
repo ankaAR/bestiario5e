@@ -22,7 +22,7 @@ condition_immunities: "Envenenado"
 damage_resistances: "acid, poison"
 ---
 
-***Stone Camouflage.*** The Pudding King has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The Pudding King has advantage en tiradas de Destreza (Sigilo) made to hide in rocky terrain.
 
 ***Gnome Cunning.*** The Pudding King has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
 

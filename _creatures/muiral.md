@@ -45,7 +45,7 @@ armor_class: "16 (armadura natural)"
 
 ***Multiataque.*** Muiral makes three attacks: two with his longsword and one with his sting.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño cortante, or 15 (2d10 + 4) puntos de daño cortante if used with two hands.
 
 ***Sting.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 9 (1d10 + 4) puntos de daño perforante. The target must make a DC 16 Constitution saving throw, taking 27 (6d8) poison damage on a failed save, or half as much damage on a successful one.
 

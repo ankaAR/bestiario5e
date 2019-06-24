@@ -40,6 +40,6 @@ At will: detect evil and good, invisibility (self only)
 
 ***Multiataque.*** The planetar makes two melee attacks.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 21 (4d6 + 7) puntos de daño cortante más 22 (5d8) radiant damage.
 
 ***Healing Touch (4/Día).*** The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, veneno, blindness, or deafness.

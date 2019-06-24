@@ -20,12 +20,12 @@ hit_points: "45 (7d8+14)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The hound has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante plus 7 (2d6) fire damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 7 (2d6) fire damage.
 
 ***Fire Breath (Recarga 5-6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.

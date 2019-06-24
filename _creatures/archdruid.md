@@ -11,7 +11,7 @@ str: 10 (0)
 size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "12 (8,400 XP)"
-languages: "Druidic plus any two languages"
+languages: "Druidic más any two languages"
 skills: "Medicina +9, Nature +5, Percepción +9"
 saving_throws: "Int +5, Sab +9"
 speed: "30 ft."

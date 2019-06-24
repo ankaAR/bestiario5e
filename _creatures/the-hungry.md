@@ -26,6 +26,6 @@ damage_resistances: "bludgeoning, piercing, and slashing while in dim light or d
 
 ***Multiattack*** The Hungry makes two attacks: one with its bite and one with its claws.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) puntos de daño perforante plus 13 (3d8) necrotic damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) puntos de daño perforante más 13 (3d8) necrotic damage.
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 18 (4d6 + 4) puntos de daño cortante. If the target is Medium or smaller, it is grappled (escape DC 16) and is restrained until the grapple ends. While grappling a creature, the Hungry can't attack with its claws.

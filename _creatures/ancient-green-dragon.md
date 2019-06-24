@@ -30,7 +30,7 @@ condition_immunities: "Envenenado"
 
 ***Multiataque.*** El dragón puede usar su Resistencia Pavorosa. Luego realiza tres ataques: uno con su mordisco y dos con sus garras.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 19 (2d10 + 8) puntos de daño perforante plus 10 (3d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 19 (2d10 + 8) puntos de daño perforante más 10 (3d6) poison damage.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 22 (4d6 + 8) puntos de daño cortante.
 

@@ -18,7 +18,7 @@ hit_points: "67 (9d10 +18)"
 armor_class: "13"
 ---
 
-***Keen Smell.*** The kamadan has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The kamadan has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Pounce.*** If the kamadan moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is knocked prone, the kamadan can make two attacks -one with its bite and one with its snakes- against it as a bonus action.
 

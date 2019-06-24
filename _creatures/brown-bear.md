@@ -17,7 +17,7 @@ hit_points: "34 (4d10+12)"
 armor_class: "11 (armadura natural)"
 ---
 
-***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The bear has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

@@ -21,7 +21,7 @@ speed: "30 ft., fly 40 ft."
 hit_points: "187  (25d8 + 75)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
@@ -37,6 +37,6 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiataque.*** The abishai makes two attacks, one with its claws and one with its longsword, or it casts one spell from its Innate Spellcasting trait and makes one claw attack.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante, or 6 (1d10 + 1) puntos de daño cortante if used with two hands.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8 + 3) puntos de daño perforante. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 11 (2d10) poison damage and become envenenado for 1 minute. The envenenado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

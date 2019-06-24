@@ -19,7 +19,7 @@ speed: "40 ft."
 hit_points: "189 (18d10+90)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.

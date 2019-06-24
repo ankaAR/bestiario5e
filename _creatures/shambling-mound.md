@@ -18,7 +18,7 @@ speed: "20 pies (6 mts), nadando 20 ft."
 hit_points: "136 (16d10+48)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "cegado, ensordecido, agotamiento"
-damage_resistances: "cold, fire"
+damage_resistances: "frío, fire"
 ---
 
 ***Lightning Absorption.*** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.

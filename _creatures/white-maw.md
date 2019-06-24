@@ -18,7 +18,7 @@ speed: "10 ft."
 hit_points: "217 (14d20+70)"
 armor_class: "5"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, envenenado, prone"
-damage_resistances: "acid, cold, fire"
+damage_resistances: "acid, frío, fire"
 ---
 
 
@@ -38,4 +38,4 @@ damage_resistances: "acid, cold, fire"
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 22 (4d8 + 4) puntos de daño contundente plus 9 (2d8) puntos de daño por ácido. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 22 (4d8 + 4) puntos de daño contundente más 9 (2d8) puntos de daño por ácido. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.

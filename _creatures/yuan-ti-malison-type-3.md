@@ -43,7 +43,7 @@ Type 3: Human head and upper body with a serpentine lower body instead of legs
 
 ***Multiattack (Yuan_ti Form Only).*** The yuan_ti makes two ranged attacks or two melee attacks, but can constrict only once.
 
-***Bite (Snake Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño perforante plus 7 (2d6) poison damage.
+***Bite (Snake Form Only).*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 5 (1d4 + 3) puntos de daño perforante más 7 (2d6) poison damage.
 
 ***Constrict.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño contundente, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan_ti can't constrict another target.
 

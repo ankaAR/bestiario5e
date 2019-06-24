@@ -22,11 +22,11 @@ damage_resistances: "poison"
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against veneno, spells, and illusions, as well as to resist being hechizado or paralizado.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 
-***Fire Lance*** Ataque de arma cuerpo a cuerpo: +5 to hit (with disadvantage if the target is within 5 feet of the duergar), reach 10 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante plus 3 (1d6) fire damage, or 16 (2d12 + 3) puntos de daño perforante plus 3 (1d6) fire damage while enlarged.
+***Fire Lance*** Ataque de arma cuerpo a cuerpo: +5 to hit (with disadvantage if the target is within 5 feet of the duergar), reach 10 pies, un objetivo. Impacto: 9 (1d12 + 3) puntos de daño perforante más 3 (1d6) fire damage, or 16 (2d12 + 3) puntos de daño perforante más 3 (1d6) fire damage while enlarged.
 
 ***Fire Spray (Recarga 5-6)*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
 

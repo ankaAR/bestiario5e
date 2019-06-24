@@ -22,7 +22,7 @@ armor_class: "13 (armadura de cuero)"
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

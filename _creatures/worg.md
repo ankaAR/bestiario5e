@@ -19,7 +19,7 @@ hit_points: "26 (4d10+4)"
 armor_class: "13 (armadura natural)"
 ---
 
-***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The worg has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ### Acciones
 

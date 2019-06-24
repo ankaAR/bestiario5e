@@ -21,7 +21,7 @@ armor_class: "10 (in humanoid form, 11 in bear and hybrid forms )"
 
 ***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it. is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Smell.*** The werebear has advantage on WisGlom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The werebear has advantage on WisGlom (Perception) checks que dependan del olfato.
 
 ### Acciones
 

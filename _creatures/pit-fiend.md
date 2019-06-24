@@ -19,7 +19,7 @@ speed: "30 ft., fly 60 ft."
 hit_points: "300 (24d10+168)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+damage_resistances: "frío, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 
 ***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is asustado until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
@@ -42,6 +42,6 @@ At will: detect magic, fireball
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) puntos de daño cortante.
 
-***Mace.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente plus 21 (6d6) fire damage.
+***Mace.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño contundente más 21 (6d6) fire damage.
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10pies, un objetivo. Impacto: 24 (3d10 + 8) puntos de daño contundente.

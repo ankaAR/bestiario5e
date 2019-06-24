@@ -21,7 +21,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.
 
-***Keen Hearing and Smell.*** The shadow mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The shadow mastiff has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ***Shadow Blend.*** While in dim light or darkness, the shadow mastiff can use a bonus action to become invisible, along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
 

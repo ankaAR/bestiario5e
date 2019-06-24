@@ -37,6 +37,6 @@ Whenever the eladrin deals damage to the hechizado creature, it can repeat the s
 
 ***Multiattack*** The eladrin makes two weapon attacks. The eladrin can cast one spell in place of one of these attacks.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8 + 2) slashing damage más 4 (1d8) psychic damage, or 7 (1d10 + 2) slashing damage más 4 (1d8) psychic damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8 + 2) puntos de daño cortante más 4 (1d8) psychic damage, or 7 (1d10 + 2) puntos de daño cortante más 4 (1d8) psychic damage if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 4 (1d8) psychic damage.

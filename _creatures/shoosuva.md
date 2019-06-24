@@ -19,7 +19,7 @@ speed: "40 ft."
 hit_points: "110 (13d10+39)"
 armor_class: "14 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.

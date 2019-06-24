@@ -29,7 +29,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Resistencia Legendaria (3/Día).*** If the tempest fails a saving throw, it can choose to succeed instead.
 
-***Living Storm.*** The tempest is always at the center of a storm 1d6 + 4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing.
+***Living Storm.*** The tempest is always at the center of a storm 1d6 + 4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage en tiradas de Sabiduría (Percepción) that rely on hearing.
 In addition, strong winds swirl in the area covered by the storm. The winds impose disadvantage on ranged attack rolls. The winds extinguish open flames and disperse fog.
 
 ***Siege Monster.*** The tempest deals double damage to objects and structures.

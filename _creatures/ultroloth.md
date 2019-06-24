@@ -19,7 +19,7 @@ speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
@@ -38,7 +38,7 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 
 ***Multiataque.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante, or 8 (1d10 + 3) puntos de daño cortante if used with two hands.
 
 ***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be hechizado until the end of the ultroloth's next turn. The hechizado target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
 

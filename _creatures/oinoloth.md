@@ -21,7 +21,7 @@ speed: "40 ft."
 hit_points: "126  (12d10 + 60)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Bringer of Plagues (Recarga 5-6).*** As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.
@@ -40,7 +40,7 @@ The envenenado creature can't regain hit points. After every 24 hours that elaps
 
 ***Multiattack*** The oinoloth uses its Transfixing Gaze and makes two claw attacks.
 
-***Claw*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (3d6 + 4) slashing damage plus 22 (4d10) necrotic damage.
+***Claw*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (3d6 + 4) puntos de daño cortante más 22 (4d10) necrotic damage.
 
 ***Corrupted Healing (Recarga 6)*** The oinoloth touches one willing creature within 5 feet of it. The target regains all its hit points. In addition, the oinoloth can end one disease on the target or remove one of the following conditions from it: cegado, ensordecido, paralizado, or envenenado. The target then gains 1 level of agotamiento, and its hit point maximum is reduced by 7 (2d6). This reduction can be removed only by a wish spell or by casting greater restoration on the target three times within the same hour. The target dies if its hit point maximum is reduced to 0.
 

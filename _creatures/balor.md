@@ -19,7 +19,7 @@ speed: "40 pies (12 mts), volando 80 pies (24 mts)"
 hit_points: "262 (21d12+126)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
@@ -34,9 +34,9 @@ damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from n
 
 ***Multiataque.*** The balor makes two attacks: one with its longsword and one with its whip.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) slashing damage plus 13 (3d8) puntos de daño por relámpago. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) puntos de daño cortante más 13 (3d8) puntos de daño por relámpago. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
 
-***Whip.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 30 pies (9 mts), un objetivo. Impacto: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
+***Whip.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 30 pies (9 mts), un objetivo. Impacto: 15 (2d6 + 8) puntos de daño cortante más 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
 
 ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 

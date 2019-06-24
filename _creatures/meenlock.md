@@ -22,10 +22,10 @@ condition_immunities: "asustado"
 
 ***Fear Aura.*** Any beast or humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be asustado until the start of the creature's next turn.
 
-***Light Sensitivity.*** While in bright light, the meenlock has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the meenlock has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Shadow Teleport (Recarga 5-6).*** As a bonus action, the meenlock can teleport to an unoccupied space within 30 feet of it, provided that both the space it's teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.
 
 ### Acciones
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (2d4+2) slashing damage, and the target must succeed on a DC 11 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (2d4+2) puntos de daño cortante, and the target must succeed on a DC 11 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

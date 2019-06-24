@@ -36,7 +36,7 @@ armor_class: "15 (18 with mage armor)"
 * 5th level (2 slots): cone of cold
 * 6th level (1 slot): chain lightning
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***War Magic.*** When the drow uses its action to cast a spell, it can make one weapon attack as a bonus action.
 
@@ -44,6 +44,6 @@ armor_class: "15 (18 with mage armor)"
 
 ***Multiattack*** The drow makes three scimitar attacks.
 
-***Scimitar*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d6 + 5) slashing damage plus 18 (4d8) poison damage. In addition, the target has disadvantage on the next saving throw it makes against a spell the drow casts before the end of the drow's next turn.
+***Scimitar*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d6 + 5) puntos de daño cortante más 18 (4d8) poison damage. In addition, the target has disadvantage on the next saving throw it makes against a spell the drow casts before the end of the drow's next turn.
 
 ***Hand Crossbow*** Ranged Weapon Attack: +11 to hit, range 30/120 pies, un objetivo. Impacto: 8 (1d6 + 5) puntos de daño perforante, and the target must succeed on a DC 13 Constitution saving throw or be envenenado for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while envenenado in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.

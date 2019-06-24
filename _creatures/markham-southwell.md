@@ -23,7 +23,7 @@ senses: " passive Perception 15"
 
 ***Multiataque.*** Markham makes two melee attacks.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8+2) slashing damage, or 7 (1d10+2) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8+2) puntos de daño cortante, or 7 (1d10+2) puntos de daño cortante if used with two hands.
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +3 to hit, range 100/400 pies, un objetivo. Impacto: 6 (1d10+1) puntos de daño perforante. Markham carries twenty crossbow bolts.
 

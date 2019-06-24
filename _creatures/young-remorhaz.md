@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: no alineado
 challenge: "5 (1,800 XP)"
 senses: "darkvision 60 ft., tremorsense 60 ft."
-damage_immunities: "cold, fire"
+damage_immunities: "frío, fire"
 speed: "30 ft., burrow 20 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "14 (armadura natural)"
@@ -22,4 +22,4 @@ armor_class: "14 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 20 (3d10 + 4) puntos de daño perforante plus 7 (2d6) fire damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 20 (3d10 + 4) puntos de daño perforante más 7 (2d6) fire damage.

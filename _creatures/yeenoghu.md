@@ -21,7 +21,7 @@ speed: "50 ft."
 hit_points: "333  (23d12 + 184)"
 armor_class: "20 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Innate Spellcasting.*** Yeenoghu's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:

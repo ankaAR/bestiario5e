@@ -28,7 +28,7 @@ armor_class: "18 (chain mail, shield)"
 
 ***Multiataque.*** The orc makes two melee attacks with its longsword or two ranged attacks with its javelins. If Ilneval's Command is available to use, the orc can use it after these attacks.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8+3) slashing damage, or 14 (2d10+3) slashing damage when used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8+3) puntos de daño cortante, or 14 (2d10+3) puntos de daño cortante when used with two hands.
 
 ***Jabalina.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño perforante.
 

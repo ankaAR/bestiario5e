@@ -18,7 +18,7 @@ saving_throws: "Str +14, Con +10, Sab +9, Car +9"
 speed: "50 ft., nadando 50 ft."
 hit_points: "230 (20d12+100)"
 armor_class: "16 (scale mail)"
-damage_resistances: "cold"
+damage_resistances: "frío"
 ---
 
 ***Anfibio.*** The giant puede respirar aire y agua.

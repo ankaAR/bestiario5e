@@ -41,10 +41,10 @@ condition_immunities: "asustado"
 * 5th level (2 slots): contagion, dispel evil and good, insect plague
 * 6th level (1 slot): harm, true seeing
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 
 ***Multiattack*** The drow makes three death lance attacks.
 
-***Death Lance*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d6 + 5) puntos de daño perforante plus 18 (4d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage it takes. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
+***Death Lance*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d6 + 5) puntos de daño perforante más 18 (4d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage it takes. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.

@@ -18,7 +18,7 @@ hit_points: "59 (7d10+21)"
 armor_class: "12"
 ---
 
-***Keen Sight.*** The griffon has advantage on Wisdom (Perception) checks that rely on sight.
+***Keen Sight.*** The griffon has advantage en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

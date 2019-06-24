@@ -39,4 +39,4 @@ armor_class: "17 (half plate)"
 
 ***Multiattack*** The githyanki makes two longsword attacks.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage plus 18 (4d8) psychic damage, or 8 (1d10 + 3) slashing damage plus 18 (4d8) psychic damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante más 18 (4d8) psychic damage, or 8 (1d10 + 3) puntos de daño cortante más 18 (4d8) psychic damage if used with two hands.

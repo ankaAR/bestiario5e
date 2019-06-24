@@ -17,7 +17,7 @@ hit_points: "84 (8d10+40)"
 armor_class: "14 (armadura natural)"
 ---
 
-***Keen Smell.*** The catoblepas has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The catoblepas has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Stench.*** Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be envenenado until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any catoblepas for 1 hour.
 

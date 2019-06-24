@@ -21,7 +21,7 @@ speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "150  (12d12 + 72)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Contamination.*** The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is difficult terrain for other creatures. Any creature that starts its turn in the aura must succeed on a DC 20 Constitution saving throw or take 14 (4d6) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours.
@@ -40,7 +40,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Chain*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 20 (2d12 + 7) puntos de daño perforante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d8) puntos de daño perforante plus 9 (2d8) puntos de daño por ácido.
+***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d8) puntos de daño perforante más 9 (2d8) puntos de daño por ácido.
 
 ***Squirt Bile*** The sibriex targets one creature it can see within 120 feet of it. The target must succeed on a DC 20 Dexterity saving throw or take 35 (10d6) puntos de daño por ácido.
 

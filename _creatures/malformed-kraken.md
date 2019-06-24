@@ -8,7 +8,7 @@ int: 11 (0)
 con: 20 (+5)
 dex: 11 (0)
 str: 25 (+7)
-size: Huge monstrosity
+size: Monstruosidad enorme
 alignment: caótico maligno
 challenge: "10 (5,900 XP)"
 languages: "understands Common but can't speak; telepathy 60 ft."

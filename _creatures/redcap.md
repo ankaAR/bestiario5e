@@ -19,7 +19,7 @@ hit_points: "45 (6d6+24)"
 armor_class: "13 (armadura natural)"
 ---
 
-***Iron Boots.*** While moving, the redcap has disadvantage on Dexterity (Stealth) checks.
+***Iron Boots.*** While moving, the redcap has disadvantage en tiradas de Destreza (Sigilo).
 
 ***Outsize Strength.*** While grappling, the redcap is considered to be Medium. Also, wielding a heavy weapon doesn't impose disadvantage on its attack rolls.
 

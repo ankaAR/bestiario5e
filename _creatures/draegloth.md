@@ -19,7 +19,7 @@ speed: "30 ft."
 hit_points: "123 (13d10+52)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Fey Ancestry.*** The draegloth has advantage on saving throws against being hechizado, and magic can't put it to sleep.

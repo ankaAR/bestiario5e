@@ -30,7 +30,7 @@ condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 
 ***Psychic Engine.*** When the duergar despot suffers a critical hit or is reduced to 0 hit points, psíquico energy erupts from its frame to deal 14 (4d6) psychic damage to each creature within 5 feet of it.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar despot has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar despot has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

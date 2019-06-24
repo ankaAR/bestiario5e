@@ -25,7 +25,7 @@ armor_class: "13 (natural armor, shield)"
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

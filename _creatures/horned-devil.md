@@ -19,7 +19,7 @@ speed: "20 pies (6 mts), fly 60 ft."
 hit_points: "178 (17d10+85)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+damage_resistances: "frío, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.

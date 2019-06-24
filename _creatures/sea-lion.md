@@ -21,7 +21,7 @@ armor_class: "15 (armadura natural)"
 
 ***Anfibio.*** The sea lion puede respirar aire y agua.
 
-***Keen Smell.*** The sea lion has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The sea lion has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Pack Tactics.*** The sea lion has advantage on an attack roll against a creature if at least one of the sea lion's allies is within 5 feet of the creature and the ally isn't incapacitated.
 

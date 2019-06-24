@@ -44,13 +44,13 @@ condition_immunities: "hechizado, asustado, envenenado"
 * 8th level (1 slot): holy aura
 * 9th level (1 slot): gate
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 
 ***Multiattack*** The matron mother makes two demon staff attacks or three tentacle rod attacks.
 
-***Demon Staff*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente if used with two hands, plus 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become asustado of the drow for 1 minute. The asustado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Demon Staff*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente, or 8 (1d8 + 4) puntos de daño contundente if used with two hands, más 14 (4d6) psychic damage. In addition, the target must succeed on a DC19 Wisdom saving throw or become asustado of the drow for 1 minute. The asustado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Tentacle Rod*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 3 (1d6) puntos de daño contundente. If the target is hit three times by the rod on one turn, the target must succeed on a DC 15 Constitution saving throw or suffer the following effects for 1 minute: the target's speed is halved, it has disadvantage on Dexterity saving throws, and it can't use reactions. Moreover, on each of its turns, it can take either an action or a bonus action, but not both. At the end of each of its turns, it can repeat the saving throw, ending the effect on itself on a success.
 

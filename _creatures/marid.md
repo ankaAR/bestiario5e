@@ -17,7 +17,7 @@ saving_throws: "Des +5, Sab +7, Car +8"
 speed: "30 ft., fly 60 ft., nadando 90 ft."
 hit_points: "229 (17d10+136)"
 armor_class: "17 (armadura natural)"
-damage_resistances: "acid, cold, lightning"
+damage_resistances: "acid, frío, lightning"
 ---
 
 ***Anfibio.*** The marid puede respirar aire y agua.

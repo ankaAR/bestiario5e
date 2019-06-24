@@ -35,6 +35,6 @@ Whenever the eladrin deals damage to the hechizado creature, the creature can re
 
 ### Acciones
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 + 1) slashing damage plus 18 (4d8) psychic damage, or 6 (1d10 + 1) slashing damage plus 18 (4d8) psychic damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 + 1) puntos de daño cortante más 18 (4d8) psychic damage, or 6 (1d10 + 1) puntos de daño cortante más 18 (4d8) psychic damage if used with two hands.
 
-***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante plus 18 (4d8) psychic damage.
+***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 18 (4d8) psychic damage.

@@ -20,7 +20,7 @@ speed: "40 ft."
 hit_points: "207  (18d10 + 108)"
 armor_class: "20 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado, stunned"
-damage_resistances: "cold, lightning, necrotic, thunder"
+damage_resistances: "frío, lightning, necrotic, thunder"
 ---
 
 ***Innate Spellcasting.*** The steel predator's innate spellcasting ability is Wisdom. The steel predator can innately cast the following spells, requiring no components:

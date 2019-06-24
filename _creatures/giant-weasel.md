@@ -18,7 +18,7 @@ hit_points: "9 (2d8)"
 armor_class: "13"
 ---
 
-***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The weasel has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ### Acciones
 

@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "105 (14d8+42)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
-damage_resistances: "cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Source.*** tales from the yawning portal,  page 244
@@ -55,7 +55,7 @@ Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray 
 
 ### Acciones
 
-***Paralyzing Touch.*** Melee Spell Attack: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) cold damage. The target must succeed on a DC 17 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** Melee Spell Attack: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) puntos de daño por frío. The target must succeed on a DC 17 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Benign Transposition.*** Var teleports up to 30 feet to an unoccupied space he can see. Alternatively, he can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, both creatures teleport, swapping places. Var can use this feature again only after he finishes a long rest or casts a conjuration spell of 1st level or higher.
 

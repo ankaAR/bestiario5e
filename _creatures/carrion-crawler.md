@@ -18,7 +18,7 @@ hit_points: "51 (6d10+18)"
 armor_class: "13 (armadura natural)"
 ---
 
-***Keen Smell.*** The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The carrion crawler has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Spider Climb.*** The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 

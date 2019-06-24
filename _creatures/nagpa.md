@@ -12,7 +12,7 @@ str: 9 (0)
 size: Humanoide Mediano (nagpa)
 alignment: neutral evil
 challenge: "17 (18,000 XP)"
-languages: "Common plus up to five other languages"
+languages: "Common más up to five other languages"
 senses: "truesight 120 pies (6 mts), passive Perception 20"
 skills: "Arcanos +12, Engaño +11, Historia +12, Perspicacia +10, Percepción +10"
 saving_throws: "Int +12, Sab +10, Car +11"

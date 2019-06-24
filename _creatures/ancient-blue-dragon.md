@@ -25,7 +25,7 @@ armor_class: "22 (armadura natural)"
 
 ***Multiataque.*** El dragón puede usar su Resistencia Pavorosa. Luego realiza tres ataques: uno con su mordisco y dos con sus garras.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 20 (2d10 + 9) puntos de daño perforante plus 11 (2d10) puntos de daño por relámpago.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 20 (2d10 + 9) puntos de daño perforante más 11 (2d10) puntos de daño por relámpago.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 16 (2d6 + 9) puntos de daño cortante.
 

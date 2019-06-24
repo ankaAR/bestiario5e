@@ -38,7 +38,7 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 1st-3rd level (2 3rd-level slots): command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, vampiric touch
 
-***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
+***Variant: Chameleon Skin.*** The yuan-ti has advantage en tiradas de Destreza (Sigilo) made to hide.
 
 ***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
@@ -46,6 +46,6 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes two bite attacks using its snake arms.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante plus 7 (2d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante más 7 (2d6) poison damage.
 
 ***Merrshaulk's Slumber (1/Día).*** The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being hechizado.

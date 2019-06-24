@@ -20,7 +20,7 @@ speed: "30 ft., climb 30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Shapechanger.*** The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
@@ -41,7 +41,7 @@ At will: detect thoughts, web
 
 ***Multiataque.*** The yochlol makes two melee attacks.
 
-***Slam (Bite in Spider Form).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts)(10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
+***Slam (Bite in Spider Form).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts)(10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage más 21 (6d6) poison damage.
 
 ***Mist Form.*** The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
 

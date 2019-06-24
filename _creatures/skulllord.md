@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "105  (14d8 + 42)"
 armor_class: "18 (plate)"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, envenenado, stunned, unconscious"
-damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Resistencia Legendaria (3/Día).*** If the skull lord fails a saving throw, it can choose to succeed instead.
@@ -43,7 +43,7 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
-***Bone Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente plus 14 (4d6) necrotic damage.
+***Bone Staff*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente más 14 (4d6) necrotic damage.
 
 ### Acciones Legendarias
 

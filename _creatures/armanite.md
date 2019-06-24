@@ -19,7 +19,7 @@ speed: "60 ft."
 hit_points: "84  (8d10 + 40)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Magic Resistance.*** The armanite has advantage on saving throws against spells and other magical effects.

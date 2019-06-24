@@ -18,7 +18,7 @@ speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.

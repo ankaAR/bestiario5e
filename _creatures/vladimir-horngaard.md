@@ -37,6 +37,6 @@ damage_resistances: "necrotic, psíquico"
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6+4) puntos de daño contundente. If the target is a creature against which Vladimir has sworn vengeance, the target takes an extra 14 (4d6) puntos de daño contundente. Instead of dealing damage, Vladimir can grapple the target (escape DC 14) provided the target is Large or smaller.
 
-***Greatsword +2.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 20 (4d6+4) puntos de daño cortante. Against Strahd, Vladimir deals an extra 14 (4d6) slashing damage with this weapon.
+***Greatsword +2.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 20 (4d6+4) puntos de daño cortante. Against Strahd, Vladimir deals an extra 14 (4d6) puntos de daño cortante with this weapon.
 
 ***Vengeful Glare.*** Vladimir targets one creature he can see within 30 feet of him and against which he has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralizado until Vladimir deals damage to it, or until the end of Vladimir's next turn. When the paralysis ends, the target is asustado of Vladimir for 1 minute. The asustado target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see Vladimir, ending the asustado condition on itself on a success.

@@ -11,7 +11,7 @@ str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento
 challenge: "5 (1,800 XP)"
-languages: "any one language (usually Common) plus thieves' cant"
+languages: "any one language (usually Common) más thieves' cant"
 skills: "Acrobatics +7, Athletics +3, Percepción +3, Sleight of Hand +7, Sigilo +7"
 saving_throws: "Des +7, Int +3"
 speed: "30 ft."

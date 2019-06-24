@@ -19,7 +19,7 @@ hit_points: "16 (3d6+6)"
 armor_class: "15 (chain shirt)"
 ---
 
-***Stone Camouflage.*** The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The gnome has advantage en tiradas de Destreza (Sigilo) made to hide in rocky terrain.
 
 ***Gnome Cunning.*** The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
 

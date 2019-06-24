@@ -23,6 +23,6 @@ armor_class: "17 (armadura natural)"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante plus 3 (1d6) fire damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante más 3 (1d6) fire damage.
 
 ***Fire Breath (Recarga 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.

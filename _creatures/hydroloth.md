@@ -20,7 +20,7 @@ speed: "20 pies (6 mts), nadando 40 pies (12 mts)"
 hit_points: "135  (18d8 + 54)"
 armor_class: "15"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Anfibio.*** The hydroloth puede respirar aire y agua.

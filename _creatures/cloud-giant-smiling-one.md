@@ -37,7 +37,7 @@ Cantrips (at will): minor illusion, prestidigitation, vicious mockery
 
 3rd level (2 slots): major image, tongues
 
-***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The giant has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

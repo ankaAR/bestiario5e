@@ -28,7 +28,7 @@ condition_immunities: "Envenenado"
 
 ***Multiataque.*** The dragon makes three attacks: one with its bite and two with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante plus 7 (2d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante más 7 (2d6) poison damage.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 

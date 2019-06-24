@@ -30,8 +30,8 @@ condition_immunities: "hechizado, asustado, envenenado"
 
 ***Multiataque.*** Neronvain makes two attacks, either with his shortsword or Eldritch Arrow.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante plus 13 (3d8) poison damage.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante más 13 (3d8) poison damage.
 
-***Eldritch Arrow.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 11 (2d10) force damage plus 9 (2d8) poison damage.
+***Eldritch Arrow.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 11 (2d10) force damage más 9 (2d8) poison damage.
 
 ***Poisonous Cloud (2/Día).*** Poison gas fills a 20-foot-radius sphere centered on a point Neronvain can see within 50 feet of him. The gas spreads around corners and remains until the start of Neronvain's next turn. Each creature that starts its turn in the gas must succeed on a DC 16 Constitution saving throw or be envenenado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. >>>

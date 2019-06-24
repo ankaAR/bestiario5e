@@ -18,7 +18,7 @@ speed: "0 ft., volando 50 pies (15 mts). (hover)"
 hit_points: "22 (9d4)"
 armor_class: "19"
 condition_immunities: "agotamiento, grappled, paralizado, envenenado, prone, restrained, unconscious"
-damage_resistances: "acid, cold, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "acid, frío, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 pies (1.5 mts)of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.

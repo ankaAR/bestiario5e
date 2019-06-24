@@ -22,7 +22,7 @@ armor_class: "12"
 
 ***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The wererat has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

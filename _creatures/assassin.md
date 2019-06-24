@@ -11,7 +11,7 @@ str: 11 (0)
 size: Humanoide Mediano (cualquier raza)
 alignment: cualquier alineamiento no bueno
 challenge: "8 (3,900 XP)"
-languages: "Thieves' cant plus any two languages"
+languages: "Thieves' cant más any two languages"
 skills: "Acrobatics +6, Engaño +3, Percepción +3, Sigilo +9"
 saving_throws: "Des +6, Int +4"
 speed: "30 ft."

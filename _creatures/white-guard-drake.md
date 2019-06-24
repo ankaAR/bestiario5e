@@ -17,7 +17,7 @@ skills: "Percepción +2"
 speed: "30 ft., burrow 20 pies (6 mts), climb 30 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "14 (armadura natural)"
-damage_resistances: "cold"
+damage_resistances: "frío"
 ---
 
 ***Source.*** Volo's Guide to Monsters, p. 158

@@ -29,4 +29,4 @@ damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical w
 
 ***Trident.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
 
-***Freezing Strikes (Recarga 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) cold damage, and the target's speed is reduced by 10 feet until the end of the myrmidon's next turn.
+***Freezing Strikes (Recarga 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (1d10) puntos de daño por frío, and the target's speed is reduced by 10 feet until the end of the myrmidon's next turn.

@@ -21,7 +21,7 @@ speed: "30 ft."
 hit_points: "168  (16d8 + 96)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "hechizado, asustado, paralizado, petrificado, envenenado, restrained"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Innate Spellcasting.*** The larva mage's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:

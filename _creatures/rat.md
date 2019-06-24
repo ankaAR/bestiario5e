@@ -17,7 +17,7 @@ hit_points: "1 (1d4-1)"
 armor_class: "10"
 ---
 
-***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The rat has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

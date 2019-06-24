@@ -31,7 +31,7 @@ Cantrips (at will): eldritch blast, friends, poison spray
 
 2nd level: hold person, ray of enfeeblement, spider climb
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

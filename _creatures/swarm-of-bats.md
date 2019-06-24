@@ -21,7 +21,7 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ***Echolocation.*** The swarm can't use its Vista ciega while ensordecido.
 
-***Keen Hearing.*** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
+***Keen Hearing.*** The swarm has advantage en tiradas de Sabiduría (Percepción) that rely on hearing.
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 

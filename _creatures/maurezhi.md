@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "88  (16d8 + 16)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, envenenado"
-damage_resistances: "cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Assume Form.*** The maurezhi can assume the appearance of any Humanoide Mediano it has eaten. It remains in this form for 1d6 days, during which time the form gradually decays until, when the effect ends, the form sloughs from the demon's body.

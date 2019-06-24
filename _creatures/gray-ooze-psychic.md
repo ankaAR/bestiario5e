@@ -17,7 +17,7 @@ speed: "10 pies (3 mts), climb 10 ft."
 hit_points: "22 (3d8+9)"
 armor_class: "8"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, prone"
-damage_resistances: "acid, cold, fire"
+damage_resistances: "acid, frío, fire"
 ---
 
 ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
@@ -30,6 +30,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente plus 7 (2d6) puntos de daño por ácido, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d6 + 1) puntos de daño contundente más 7 (2d6) puntos de daño por ácido, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 ***Psychic Crush (Recarga 5-6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 10 Intelligence saving throw, taking 10 (3d6) psychic damage on a failed save, or half as much damage on a successful one.

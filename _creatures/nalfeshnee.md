@@ -19,7 +19,7 @@ speed: "20 pies (6 mts), fly 30 ft."
 hit_points: "184 (16d10+96)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.

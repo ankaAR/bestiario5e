@@ -36,7 +36,7 @@ condition_immunities: "hechizado, asustado"
 
 ### Acciones
 
-***Greatsword (Hazirawn).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
+***Greatsword (Hazirawn).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d6 + 6) puntos de daño cortante más 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 
 ***Caustic Bolt.*** Ranged Spell Attack: +8 to hit, range 90 pies, un objetivo. Impacto: 18 (4d8) puntos de daño por ácido.
 

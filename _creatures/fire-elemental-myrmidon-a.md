@@ -25,7 +25,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Magic Weapons.*** The myrmidon's weapon attacks are magical.
 
-***Water Susceptibility.*** For every 5 feet the myrmidon moves in water, it takes 2 (1d4) cold damage.
+***Water Susceptibility.*** For every 5 feet the myrmidon moves in water, it takes 2 (1d4) puntos de daño por frío.
 
 ### Acciones
 

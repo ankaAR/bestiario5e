@@ -19,10 +19,10 @@ speed: "40 ft."
 hit_points: "52  (7d8 + 21)"
 armor_class: "14 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
-***Rotting Presence.*** When any creature that isn't a demon starts its turn within 30 feet one or more bulezaus, that creature must succeed on a DC 13 Constitution saving throw or take 1d6 necrotic damage plus 1 necrotic damage for each bulezau within 30 feet of it.
+***Rotting Presence.*** When any creature that isn't a demon starts its turn within 30 feet one or more bulezaus, that creature must succeed on a DC 13 Constitution saving throw or take 1d6 necrotic damage más 1 necrotic damage for each bulezau within 30 feet of it.
 
 ***Standing Leap.*** The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 

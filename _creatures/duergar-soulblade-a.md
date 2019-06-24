@@ -21,7 +21,7 @@ damage_resistances: "poison"
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against veneno, spells, and illusions, as well as to resist being hechizado or paralizado.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Innate Spellcasting (Psionics).*** The duergar's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 

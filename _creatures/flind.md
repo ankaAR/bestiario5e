@@ -28,7 +28,7 @@ armor_class: "16 (chain mail)"
 
 ***Flail of Madness.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must make a melee attack against a random target within its reach on its next turn. If it has no targets within its reach even after moving, it loses its action on that turn.
 
-***Flail of Pain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 it, one target. Hit: 10 (1d10+5) puntos de daño contundente plus 22 (4d10) psychic damage.
+***Flail of Pain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 it, one target. Hit: 10 (1d10+5) puntos de daño contundente más 22 (4d10) psychic damage.
 
 ***Flail of Paralysis.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be paralizado until the end of its next turn.
 

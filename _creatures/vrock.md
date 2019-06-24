@@ -19,7 +19,7 @@ speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "104 (11d10+44)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.

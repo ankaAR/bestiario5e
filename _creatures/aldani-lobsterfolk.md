@@ -25,4 +25,4 @@ armor_class: "14 (armadura natural)"
 
 ***Multiataque.*** The aldani makes two attacks with its claws.
 
-***Garras.*** Mele Weapon Attack: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 +1) slashing damage, and the target is grappled (escape DC 11). The aldani has two claws, each of which can grapple only one target.
+***Garras.*** Mele Weapon Attack: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d8 +1) puntos de daño cortante, and the target is grappled (escape DC 11). The aldani has two claws, each of which can grapple only one target.

@@ -23,7 +23,7 @@ armor_class: "13 (armadura de cuero)"
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Lanzamiento de conjuros.*** The derro is a 5th-level spellcaster. It's spellcasting ability is Charisma (save DC 12, +4 to hit with spell attacks). The derro knows the following sorcerer spells:
 

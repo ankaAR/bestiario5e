@@ -29,6 +29,6 @@ Dragon bait creates an aura in a 10-foot radius around him. While this aura is a
 
 ***Multiataque.*** Dragonbait makes two melee weapon attacks.
 
-***Holy Avenger (+3 Longsword).*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (ld8 +5) slashing damage, or 10 (ldlO +5) slashing damage when used with two hands. If the target is a fiend or an undead, it takes an extra 11 (2d10) radiant damage.
+***Holy Avenger (+3 Longsword).*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (ld8 +5) puntos de daño cortante, or 10 (ldlO +5) puntos de daño cortante when used with two hands. If the target is a fiend or an undead, it takes an extra 11 (2d10) radiant damage.
 
 ***Sense Alignment.*** Dragonbait chooses one creature he can see within 60 feet of him and determines its alignment, as long as the creature isn't hidden from divination magic by a spell or ot her magical effect.

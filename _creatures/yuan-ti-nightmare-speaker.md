@@ -38,7 +38,7 @@ Cantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each 
 
 1st-3rd level (2 3rd-level slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt
 
-***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
+***Variant: Chameleon Skin.*** The yuan-ti has advantage en tiradas de Destreza (Sigilo) made to hide.
 
 ***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 

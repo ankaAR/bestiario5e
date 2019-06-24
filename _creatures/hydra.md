@@ -8,7 +8,7 @@ int: 2 (-4)
 con: 20 (+5)
 dex: 12 (+1)
 str: 20 (+5)
-size: Huge monstrosity
+size: Monstruosidad enorme
 alignment: no alineado
 challenge: "8 (3,900 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

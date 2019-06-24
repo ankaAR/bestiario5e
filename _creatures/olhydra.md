@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "18 (20,000 XP)"
 languages: "Aquan"
 senses: "Vista ciega 120 ft."
-damage_immunities: "acid, cold, poison"
+damage_immunities: "acid, frío, poison"
 saving_throws: "Str +11, Con +13, Sab +10"
 speed: "50 ft., nadando 100 ft."
 hit_points: "324 (24d12+168)"

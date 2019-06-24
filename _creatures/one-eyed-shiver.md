@@ -13,13 +13,13 @@ alignment: caótico maligno
 challenge: "3 (700 XP)"
 languages: "Common"
 skills: "Arcanos +3, Percepción +3, Intimidation +5"
-damage_immunities: "cold"
+damage_immunities: "frío"
 speed: "30 ft."
 hit_points: "49 (9d8+9)"
 armor_class: "12 (15 with mage armor)"
 ---
 
-***Chilling Mist.*** While it is alive, the one-eyed shiver projects an aura of cold mist within 10 feet of itself. If the one-eyed shiver deals damage to a creature in this area, the creature also takes 5 (1d10) cold damage.
+***Chilling Mist.*** While it is alive, the one-eyed shiver projects an aura of cold mist within 10 feet of itself. If the one-eyed shiver deals damage to a creature in this area, the creature also takes 5 (1d10) puntos de daño por frío.
 
 ***Lanzamiento de conjuros.*** The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 

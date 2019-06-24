@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Giant"
 skills: "Athletics +9, Percepción +3"
-damage_immunities: "cold"
+damage_immunities: "frío"
 saving_throws: "Con +8, Sab +3, Car +4"
 speed: "40 ft."
 hit_points: "138 (12d12+60)"

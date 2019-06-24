@@ -26,7 +26,7 @@ condition_immunities: "Envenenado"
 
 ***Reckless.*** At the start of its turn, the broodguard can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-***Variant: Chameleon Skin.*** The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.
+***Variant: Chameleon Skin.*** The yuan-ti has advantage en tiradas de Destreza (Sigilo) made to hide.
 
 ***Variant: Shed Skin (1/Día).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 

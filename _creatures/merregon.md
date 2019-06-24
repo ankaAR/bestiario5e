@@ -19,7 +19,7 @@ speed: "30 ft."
 hit_points: "45  (6d8 + 18)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "asustado, envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the merregon's darkvision.

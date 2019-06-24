@@ -21,7 +21,7 @@ speed: "30 ft."
 hit_points: "350  (28d12 + 168)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained, stunned, unconscious"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Foul.*** Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be envenenado until the start of the creature's next turn.

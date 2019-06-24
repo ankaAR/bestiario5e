@@ -17,7 +17,7 @@ skills: "Percepción +1"
 speed: "30 ft."
 hit_points: "123 (13d10+52)"
 armor_class: "15 (armadura natural)"
-damage_resistances: "acid, cold, fire, lightning, thunder"
+damage_resistances: "acid, frío, fire, lightning, thunder"
 ---
 
 ***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects

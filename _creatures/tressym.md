@@ -21,7 +21,7 @@ condition_immunities: "Envenenado"
 
 ***Detect Invisibility.*** Within 50 feet of the tressym, magical invisibility fails to conceal anything from the tressym's sight
 
-***Keen Smell.*** The tressym has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The tressym has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Poison Sense.*** The tressym can detect whether a substance is poisonous by taste, touch, or smell.
 

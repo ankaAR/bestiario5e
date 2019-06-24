@@ -37,7 +37,7 @@ At will: greater restoration, pass without trace, water breathing, water walk
 
 ***Maul.*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 31 (6d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be stunned until the end of the empyrean's next turn.
 
-***Bolt.*** Ranged Spell Attack: +15 to hit, range 600 pies, un objetivo. Impacto: 24 (7d6) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder.
+***Bolt.*** Ranged Spell Attack: +15 to hit, range 600 pies, un objetivo. Impacto: 24 (7d6) damage of one of the following types (empyrean's choice): acid, frío, fire, force, lightning, radiant, or thunder.
 
 ### Acciones Legendarias
 

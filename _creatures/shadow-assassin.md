@@ -22,7 +22,7 @@ hit_points: "78 (12d8 + 24)"
 armor_class: "14"
 damage_vulnerabilities: "radiant"
 condition_immunities: "agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
-damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "acid, frío, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Amorphous.*** The assassin can move through a space as narrow as 1 inch wide without squeezing.
@@ -35,6 +35,6 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Multiataque.*** The assassin makes two Shadow Blade attacks.
 
-**Shadow Blade.** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 10 (3d6) necrotic damage. Unless the target is immune to necrotic damage, the target’s Strength score is reduced by 1d4 each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest.
+**Shadow Blade.** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante más 10 (3d6) necrotic damage. Unless the target is immune to necrotic damage, the target’s Strength score is reduced by 1d4 each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest.
 
 If a non-evil humanoid dies from this attack, a shadow (see the *Monster Manual*) rises from the corpse 1d4 hours later.

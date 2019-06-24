@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "135 (18d8+54)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
-damage_resistances: "cold, lightning, necrotic"
+damage_resistances: "frío, lightning, necrotic"
 ---
 
 ***Resistencia Legendaria (3/Día).*** If the illithilich fails a saving throw, it can choose to succeed instead.
@@ -61,7 +61,7 @@ At will: detect thoughts, levitate
 
 ### Acciones
 
-***Paralyzing Touch.*** Melee Spell Attack: +12 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** Melee Spell Attack: +12 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) puntos de daño por frío. The target must succeed on a DC 18 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 
 

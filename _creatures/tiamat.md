@@ -14,7 +14,7 @@ challenge: "30 (155,000 XP)"
 languages: "Común, Draconic, Infernal"
 senses: "darkvision 240 pies (12 mts), truesight 120 ft."
 skills: "Arcanos +17, Percepción +26, Religión +17"
-damage_immunities: "acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
+damage_immunities: "acid, frío, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 saving_throws: "Str +19, Des +9, Sab +17"
 speed: "60 ft., fly 120 ft."
 hit_points: "615 (30d20+300)"
@@ -54,7 +54,7 @@ The tiamat can take 3 legendary actions, choosing from the options below. Only o
 
 Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.
 
-Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 32 (4d10 + 10) slashing damage plus 14 (4d6) puntos de daño por ácido (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
+Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 32 (4d10 + 10) puntos de daño cortante más 14 (4d6) puntos de daño por ácido (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
 
 ***Black Dragon Head: Acid Breath (cuesta 2 acciones).*** Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) puntos de daño por ácido on a failed save, or half as much damage on a successful one.
 
@@ -64,4 +64,4 @@ Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies (6 mts), un objet
 
 ***Red Dragon Head: Fire Breath (cuesta 2 acciones).*** Tiamat breathes fire in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
-***White Dragon Head: Cold Breath (cuesta 2 acciones).*** Tiamat breathes an icy blast in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+***White Dragon Head: Cold Breath (cuesta 2 acciones).*** Tiamat breathes an icy blast in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 72 (16d8) puntos de daño por frío on a failed save, or half as much damage on a successful one.

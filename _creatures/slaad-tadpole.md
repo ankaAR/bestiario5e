@@ -17,7 +17,7 @@ skills: "Sigilo +4"
 speed: "30 ft."
 hit_points: "10 (4d4)"
 armor_class: "12"
-damage_resistances: "acid, cold, fire, lightning, thunder"
+damage_resistances: "acid, frío, fire, lightning, thunder"
 ---
 
 ***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects

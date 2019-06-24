@@ -18,9 +18,9 @@ hit_points: "16 (3d10)"
 armor_class: "14 (armadura natural)"
 ---
 
-***Camouflage.*** The jaculi has advantage on Dexterity (Stealth) checks made to hide.
+***Camouflage.*** The jaculi has advantage en tiradas de Destreza (Sigilo) made to hide.
 
-***Keen Smell.*** The jaculi has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The jaculi has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

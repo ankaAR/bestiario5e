@@ -27,4 +27,4 @@ condition_immunities: "cegado, hechizado, ensordecido, agotamiento, prone"
 
 ### Acciones
 
-***Pseudopod*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente plus 2 (1d4) psychic damage.
+***Pseudopod*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente más 2 (1d4) psychic damage.

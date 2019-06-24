@@ -20,7 +20,7 @@ hit_points: "126 (11d12+55)"
 armor_class: "17 (armadura natural)"
 ---
 
-***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The giant has advantage en tiradas de Destreza (Sigilo) made to hide in rocky terrain.
 
 ### Acciones
 

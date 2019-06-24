@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Vista ciega 30 pies (9 mts), passive Perception 10"
 condition_immunities: "cegado, ensordecido, agotamiento, prone"
-damage_resistances: "cold, fire"
+damage_resistances: "frío, fire"
 speed: "5 ft., climb 5 ft."
 hit_points: "85 (10d10 +30)"
 armor_class: "13 (armadura natural)"

@@ -25,11 +25,11 @@ armor_class: "13"
 
 ***Echolocation (Bat or Hybrid Form Only).*** The werebat has Vista ciega out to a range of 60 feet as long as it’s not ensordecido.
 
-***Keen Hearing.*** The werebat has advantage on Wisdom (Perception) checks that rely on hearing.
+***Keen Hearing.*** The werebat has advantage en tiradas de Sabiduría (Percepción) that rely on hearing.
 
 ***Nimble Escape (Humanoid Form Only).*** The werebat can take the Disengage or Hide action as a bonus action on each of its turns.
 
-***Sunlight Sensitivity.*** While in sunlight, the werebat has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the werebat has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

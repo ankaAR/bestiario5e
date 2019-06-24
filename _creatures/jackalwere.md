@@ -21,7 +21,7 @@ armor_class: "12"
 
 ***Shapechanger.*** The jackalwere can use its action to polymorph into a specific Medium human or a jackal-humanoid hybrid, or back into its true form (that of a Small jackal). Other than its size, its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.
 
-***Keen Hearing and Smell.*** The jackalwere has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The jackalwere has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ***Pack Tactics.*** The jackalwere has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 

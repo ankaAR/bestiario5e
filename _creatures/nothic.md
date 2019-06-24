@@ -19,7 +19,7 @@ hit_points: "45 (6d8+18)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Keen Sight.*** The nothic has advantage on Wisdom (Perception) checks that rely on sight.
+***Keen Sight.*** The nothic has advantage en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

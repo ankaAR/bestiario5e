@@ -29,6 +29,6 @@ condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado
 
 ***Multiattack*** The cadaver collector makes two slam attacks.
 
-***Slam*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 18 (3d8 + 5) puntos de daño contundente plus 16 (3d10) necrotic damage.
+***Slam*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 18 (3d8 + 5) puntos de daño contundente más 16 (3d10) necrotic damage.
 
 ***Paralyzing Breath (Recarga 5-6)*** The cadaver collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be paralizado for 1 minute. A paralizado creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.

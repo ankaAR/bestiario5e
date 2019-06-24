@@ -18,7 +18,7 @@ armor_class: "14 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"
 ---
 
-***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The grick has advantage en tiradas de Destreza (Sigilo) made to hide in rocky terrain.
 
 ### Acciones
 

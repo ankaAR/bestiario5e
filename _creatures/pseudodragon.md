@@ -19,7 +19,7 @@ hit_points: "7 (2d4+2)"
 armor_class: "13"
 ---
 
-***Keen Senses.*** The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+***Keen Senses.*** The pseudodragon has advantage en tiradas de Sabiduría (Percepción) that rely on sight, hearing, or smell.
 
 ***Magic Resistance.*** The pseudodragon has advantage on saving throws against spells and other magical effects.
 

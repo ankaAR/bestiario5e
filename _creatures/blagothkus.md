@@ -19,7 +19,7 @@ hit_points: "138 (12d12+60)"
 armor_class: "17 (splint)"
 ---
 
-***Keen Smell.*** Blagothkus has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** Blagothkus has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Innate Spellcasting.*** Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:
 

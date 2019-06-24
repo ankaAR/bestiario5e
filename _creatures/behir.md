@@ -8,7 +8,7 @@ int: 7 (-2)
 con: 18 (+4)
 dex: 16 (+3)
 str: 23 (+6)
-size: Huge monstrosity
+size: Monstruosidad enorme
 alignment: neutral evil
 challenge: "11 (7,200 XP)"
 languages: "Dragón"
@@ -26,7 +26,7 @@ armor_class: "17 (armadura natural)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 22 (3d10 + 6) puntos de daño perforante.
 
-***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 ft., one Large or smaller creature. Hit: 17 (2d10 + 6) puntos de daño contundente plus 17 (2d10 + 6) puntos de daño cortante. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
+***Constrict.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 ft., one Large or smaller creature. Hit: 17 (2d10 + 6) puntos de daño contundente más 17 (2d10 + 6) puntos de daño cortante. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
 
 ***Aliento de Relámpago (Recarga 5-6).*** The behir exhales a line of lightning that is 20 ft. long and 5 pies (1.5 mts)wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.
 

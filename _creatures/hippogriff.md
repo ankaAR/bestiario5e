@@ -17,7 +17,7 @@ hit_points: "19 (3d10+3)"
 armor_class: "11"
 ---
 
-***Keen Sight.*** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
+***Keen Sight.*** The hippogriff has advantage en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

@@ -21,7 +21,7 @@ speed: "40 ft."
 hit_points: "157  (15d8 + 90)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "acid, frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.

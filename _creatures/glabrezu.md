@@ -19,7 +19,7 @@ speed: "40 ft."
 hit_points: "157 (15d10+75)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:

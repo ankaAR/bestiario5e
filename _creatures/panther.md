@@ -17,7 +17,7 @@ hit_points: "13 (3d8)"
 armor_class: "12"
 ---
 
-***Keen Smell.*** The panther has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The panther has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Pounce.*** If the panther moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 

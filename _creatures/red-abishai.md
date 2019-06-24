@@ -21,7 +21,7 @@ speed: "30 ft., volando 50 pies (15 mts)."
 hit_points: "255  (30d8 + 120)"
 armor_class: "22 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
@@ -38,7 +38,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Claw*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 17 (2d10 + 6) puntos de daño cortante.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (5d10 + 6) puntos de daño perforante plus 38 (7d10) fire damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (5d10 + 6) puntos de daño perforante más 38 (7d10) fire damage.
 
 ***Resistencia Pavorosa*** Each creature of the abishai's choice that is within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or become asustado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abishai's Resistencia Pavorosa for the next 24 hours.
 

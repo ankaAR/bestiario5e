@@ -26,6 +26,6 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ### Acciones
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante, or 9 (1d10 + 4) puntos de daño cortante if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +3 to hit, range 150/600 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante.

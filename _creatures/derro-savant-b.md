@@ -28,7 +28,7 @@ armor_class: "13 (armadura de cuero)"
 * 2nd level (3 slots): invisibility, spider climb
 * 3rd level (2 slots): lightning bolt
 
-***Sunlight Sensitivity.*** While in sunlight, the derro savant has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro savant has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

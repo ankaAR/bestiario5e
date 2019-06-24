@@ -17,7 +17,7 @@ skills: "Sigilo +8"
 speed: "30 ft., climb 30 ft., nadando 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "14"
-damage_vulnerabilities: "cold, fire"
+damage_vulnerabilities: "frío, fire"
 condition_immunities: "cegado, ensordecido, agotamiento, grappled, paralizado, petrificado, prone, restrained, unconscious"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
@@ -34,7 +34,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Spider Climb.*** The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Watery Stealth.*** Mientras está bajo el agua,the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.
+***Watery Stealth.*** Mientras está bajo el agua,the slithering tracker has advantage en tiradas de Destreza (Sigilo) made to hide, and it can take the Hide action as a bonus action.
 
 ### Acciones
 

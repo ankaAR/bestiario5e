@@ -43,7 +43,7 @@ Cantrips (at will): light, mending, prestidigitation, ray of frost
 
 * Proficiency with Constitution saving throws
 
-* Resistance to acid, cold, fire, lightning, or thunder damage (transmuter's choice whenever the transmuter chooses this benefit)
+* Resistance to acid, frío, fire, lightning, or thunder damage (transmuter's choice whenever the transmuter chooses this benefit)
 
 >If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.
 

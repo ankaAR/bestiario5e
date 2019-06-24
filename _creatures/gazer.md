@@ -34,7 +34,7 @@ condition_immunities: "prone"
 
 2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be asustado until the start of the gazer's next turn.
 
-3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
+3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) puntos de daño por frío.
 
 4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.
 

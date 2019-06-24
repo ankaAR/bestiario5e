@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "21 (armadura natural)"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado"
-damage_resistances: "cold, fire"
+damage_resistances: "frío, fire"
 ---
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
@@ -35,6 +35,6 @@ damage_resistances: "cold, fire"
 
 ***Multiataque.*** The armor makes two melee attacks or uses Shocking Bolt twice.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6+3) slashing damage plus 3 (1d6) puntos de daño por relámpago.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6+3) puntos de daño cortante más 3 (1d6) puntos de daño por relámpago.
 
 ***Shocking Bolt.*** Ranged Spell Attack: +4 to hit (with advantage on the attack roll if the target is wearing armor made of metal), range 60 pies, un objetivo. Impacto: 10 (3d6) puntos de daño por relámpago.

@@ -19,7 +19,7 @@ armor_class: "13"
 
 ***Echolocation.*** The bat can't use its Vista ciega while ensordecido.
 
-***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+***Keen Hearing.*** The bat has advantage en tiradas de Sabiduría (Percepción) that rely on hearing.
 
 ### Acciones
 

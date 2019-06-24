@@ -29,7 +29,7 @@ At will: dancing lights
 
 ***Spider Climb.*** The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Sunlight Sensitivity.*** While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drider has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
@@ -49,8 +49,8 @@ At will: dancing lights
 
 ***Multiataque.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 2 (1d4) puntos de daño perforante plus 9 (2d8) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 2 (1d4) puntos de daño perforante más 9 (2d8) poison damage.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante, or 8 (1d10 + 3) puntos de daño cortante if used with two hands.
 
 ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 pies, un objetivo. Impacto: 7 (1d8 + 3) puntos de daño perforante más 4 (1d8) poison damage.

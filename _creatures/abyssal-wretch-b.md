@@ -19,7 +19,7 @@ speed: "20 ft."
 hit_points: "18  (4d8)"
 armor_class: "11"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ### Acciones

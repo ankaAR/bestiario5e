@@ -23,7 +23,7 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** The scout has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or sight.
 
 ### Acciones
 

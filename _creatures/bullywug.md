@@ -22,7 +22,7 @@ armor_class: "15 (hide armor, shield)"
 
 ***Speak with Frogs and Toads.*** The bullywug can communicate simple concepts to frogs and toads when it speaks in Bullywug.
 
-***Swamp Camouflage.*** The bullywug has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+***Swamp Camouflage.*** The bullywug has advantage en tiradas de Destreza (Sigilo) made to hide in swampy terrain.
 
 ***Standing Leap.*** The bullywug's long jump is up to 20 ft. and its high jump is up to 10 ft., with or without a running start.
 

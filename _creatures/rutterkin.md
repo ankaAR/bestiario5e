@@ -19,7 +19,7 @@ speed: "20 ft."
 hit_points: "37  (5d8 + 15)"
 armor_class: "12"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Crippling Fear.*** When a creature that isn't a demon starts its turn within 30 feet of three or more rutterkins, it must make a DC 11 Wisdom saving throw. The creature has disadvantage on the save if it's within 30 feet of six or more rutterkins. On a successful save, the creature is immune to the Crippling Fear of all rutterkins for 24 hours. On a failed save, the creature becomes asustado for 1 minute. While asustado in this way, the creature is restrained. At the end of each of the asustado creature's turns, it can repeat the saving throw, ending the effect on itself on a success.

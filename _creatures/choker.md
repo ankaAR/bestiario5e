@@ -30,4 +30,4 @@ armor_class: "16 (armadura natural)"
 
 ***Multiattack*** The choker makes two tentacle attacks.
 
-***Tentacle*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente plus 3 (1d6) puntos de daño perforante. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
+***Tentacle*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño contundente más 3 (1d6) puntos de daño perforante. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.

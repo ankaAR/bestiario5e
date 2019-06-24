@@ -18,7 +18,7 @@ hit_points: "3 (1d6)"
 armor_class: "13"
 ---
 
-***Keen Senses.*** The almiraj has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+***Keen Senses.*** The almiraj has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or sight.
 
 ### Acciones
 

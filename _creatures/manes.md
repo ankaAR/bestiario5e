@@ -18,7 +18,7 @@ speed: "20 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "9 (armadura natural)"
 condition_immunities: "hechizado, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ### Acciones

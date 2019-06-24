@@ -17,7 +17,7 @@ skills: "Arcanos +6, Percepción +8"
 speed: "30 ft."
 hit_points: "170 (20d8+80)"
 armor_class: "18 (armadura natural)"
-damage_resistances: "acid, cold, fire, lightning, thunder"
+damage_resistances: "acid, frío, fire, lightning, thunder"
 ---
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
@@ -48,8 +48,8 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 
 ***Multiataque.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 
-***Bite (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8 + 5) puntos de daño perforante plus 7 (2d6) necrotic damage.
+***Bite (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8 + 5) puntos de daño perforante más 7 (2d6) necrotic damage.
 
-***Claws (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.
+***Claws (Slaad Form Only).*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d10 + 5) puntos de daño cortante más 7 (2d6) necrotic damage.
 
-***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage.
+***Greatsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d6 + 5) puntos de daño cortante más 7 (2d6) necrotic damage.

@@ -19,7 +19,7 @@ saving_throws: "Str +14, Con +10, Sab +10, Car +9"
 speed: "50 ft., volando 50 pies (15 mts). (hover), nadando 50 ft."
 hit_points: "230 (20d12+100)"
 armor_class: "12"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Anfibio.*** The giant puede respirar aire y agua.

@@ -28,6 +28,6 @@ armor_class: "16 (chain shirt, shield)"
 
 ***Multiataque.*** The warrior makes two melee attacks.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1dlO + 3) slashing damage if used with two hands.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante, or 8 (1dlO + 3) puntos de daño cortante if used with two hands.
 
 ***Jabalina.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.

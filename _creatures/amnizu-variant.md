@@ -21,7 +21,7 @@ speed: "30 ft., fly 40 ft."
 hit_points: "202  (27d8 + 81)"
 armor_class: "21 (armadura natural)"
 condition_immunities: "hechizado, envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.
@@ -37,7 +37,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** The amnizu uses Poison Mind. It also makes two attacks: one with its whip and one with its Disruptive Touch.
 
-***Taskmaster Whip*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.
+***Taskmaster Whip*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 10 (2d4 + 5) puntos de daño cortante más 33 (6d10) force damage.
 
 ***Disruptive Touch*** Melee Spell Attack: +11 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 44 (8d10) necrotic damage.
 

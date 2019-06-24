@@ -21,7 +21,7 @@ speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "337  (27d10 + 189)"
 armor_class: "18 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma. Fraz-Urb'luu can innately cast the following spells, requiring no material components:

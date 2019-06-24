@@ -18,12 +18,12 @@ speed: "0 ft., fly 60 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "13"
 condition_immunities: "hechizado, grappled, paralizado, petrificado, envenenado, prone, restrained"
-damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+damage_resistances: "acid, frío, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 
 ***Incorporeal Movement.*** The wraith can move through an object or another creature, but can't stop there.
 
-***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls and en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

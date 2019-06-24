@@ -23,7 +23,7 @@ armor_class: "14 (armadura natural)"
 
 ***False Appearance.*** While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
 
-***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

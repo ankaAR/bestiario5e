@@ -18,7 +18,7 @@ hit_points: "16 (3d8+3)"
 armor_class: "13 (armadura de cuero)"
 ---
 
-***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** The scout has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or sight.
 
 ### Acciones
 

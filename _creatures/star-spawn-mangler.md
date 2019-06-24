@@ -21,7 +21,7 @@ speed: "40 pies (12 mts), climb 40 ft."
 hit_points: "71  (13d8 + 13)"
 armor_class: "14"
 condition_immunities: "hechizado, asustado, prone"
-damage_resistances: "cold"
+damage_resistances: "frío"
 ---
 
 ***Ambush.*** On the first round of each combat, the mangler has advantage on attack rolls against a creature that hasn't taken a turn yet.

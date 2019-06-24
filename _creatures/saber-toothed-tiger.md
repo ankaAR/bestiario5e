@@ -17,7 +17,7 @@ hit_points: "52 (7d10+14)"
 armor_class: "12"
 ---
 
-***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The tiger has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Pounce.*** If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 

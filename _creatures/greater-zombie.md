@@ -19,7 +19,7 @@ speed: "30 ft."
 hit_points: "97 (13d8+39)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
-damage_resistances: "cold, necrotic"
+damage_resistances: "frío, necrotic"
 ---
 
 ***Source.*** tales from the yawning portal,  page 237

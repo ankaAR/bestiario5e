@@ -32,4 +32,4 @@ armor_class: "18 (plate)"
 
 ***Multiattack*** The githyanki makes three greatsword attacks.
 
-***Greatsword*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.
+***Greatsword*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante más 17 (5d6) psychic damage.

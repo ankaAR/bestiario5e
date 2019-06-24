@@ -24,7 +24,7 @@ damage_resistances: "bludgeoning, piercing"
 
 ***Magic Club.*** In the wood woad's hand, its club is magical and deals 7 (3d4) extra damage (included in its attacks).
 
-***Plant Camouflage.*** The wood woad has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
+***Plant Camouflage.*** The wood woad has advantage en tiradas de Destreza (Sigilo) it makes in any terrain with ample obscuring plant life.
 
 ***Regeneration.*** The wood woad regains 10 hit points at the start of its turn if it is in contact with the ground. If the wood woad takes fire damage, this trait doesn't function at the start of the wood woad's next turn. The wood woad dies only if it starts its turn with 0 hit points and doesn't regenerate.
 

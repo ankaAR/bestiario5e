@@ -25,7 +25,7 @@ damage_resistances: "Fuego"
 
 ***Multiataque.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
-***Longsword.*** Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+***Longsword.*** Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño cortante, or 8 (1d10 + 3) puntos de daño cortante if used with two hands.
 
 ***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante.
 

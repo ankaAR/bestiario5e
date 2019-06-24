@@ -23,7 +23,7 @@ condition_immunities: "agotamiento, envenenado"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 
-***Sunlight Sensitivity.*** While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, Naergoth has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 
@@ -31,6 +31,6 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 
 ***Life Drain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 20 (5d6 + 3) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) if used with two hands, plus 10 (3d6) necrotic damage.
+***Longsword.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8 + 5) puntos de daño cortante, or 10 (1d10 + 5) if used with two hands, más 10 (3d6) necrotic damage.
 
-***Longbow.*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante plus 10 (3d6) necrotic damage.
+***Longbow.*** Ranged Weapon Attack: +5 to hit, range 150/600 pies, un objetivo. Impacto: 5 (1d8 + 1) puntos de daño perforante más 10 (3d6) necrotic damage.

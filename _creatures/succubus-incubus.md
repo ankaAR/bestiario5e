@@ -17,7 +17,7 @@ skills: "Engaño +9, Perspicacia +5, Percepción +5, Persuasión +9, Sigilo +7"
 speed: "30 ft., fly 60 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "15 (armadura natural)"
-damage_resistances: "cold, fire, lightning, veneno, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, veneno, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has hechizado. The two don't even need to be on the same plane of existence.

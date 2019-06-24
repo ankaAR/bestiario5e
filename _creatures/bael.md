@@ -21,7 +21,7 @@ speed: "30 ft."
 hit_points: "189  (18d10 + 90)"
 armor_class: "18 (plate)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be asustado until the start of the creature's next turn.
@@ -43,7 +43,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Bael makes two melee attacks.
 
-***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante plus 13 (3d8) necrotic damage.
+***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante más 13 (3d8) necrotic damage.
 
 ***Infernal Command*** Each ally of Bael's within 60 feet of him can't be hechizado or asustado until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 

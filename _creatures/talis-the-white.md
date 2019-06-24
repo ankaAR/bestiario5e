@@ -38,7 +38,7 @@ armor_class: "18 (scale mail +1, shield)"
 
 * 5th level (1 slot): insect plague
 
-***Winter Strike (3/Día).*** Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.
+***Winter Strike (3/Día).*** Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) puntos de daño por frío.
 
 ### Acciones
 

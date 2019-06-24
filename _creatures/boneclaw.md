@@ -12,7 +12,7 @@ str: 19 (+4)
 size: Large undead
 alignment: caótico maligno
 challenge: "12 (8400 XP)"
-languages: "Common plus the main language of its master"
+languages: "Common más the main language of its master"
 senses: "darkvision 60 ft., passive Perception 16"
 skills: "Percepción +6, Sigilo +7"
 saving_throws: "Des +7, Con +6, Sab +6"
@@ -20,7 +20,7 @@ speed: "40 ft."
 hit_points: "127  (17d10 + 34)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
-damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Rejuvenation.*** While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.

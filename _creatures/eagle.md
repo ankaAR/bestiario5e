@@ -17,7 +17,7 @@ hit_points: "3 (1d6)"
 armor_class: "12"
 ---
 
-***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+***Keen Sight.*** The eagle has advantage en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 

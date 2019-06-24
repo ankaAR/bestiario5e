@@ -19,7 +19,7 @@ hit_points: "39  (6d8 + 12)"
 armor_class: "18 (armadura natural)"
 ---
 
-***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The kruthik has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.
 

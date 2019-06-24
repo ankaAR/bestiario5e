@@ -19,7 +19,7 @@ speed: "40 ft."
 hit_points: "90  (12d10 + 24)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "asustado"
-damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_resistances: "frío, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.

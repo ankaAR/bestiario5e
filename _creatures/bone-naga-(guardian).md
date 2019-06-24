@@ -11,7 +11,7 @@ str: 15 (+2)
 size: Large undead
 alignment: legal maligna
 challenge: "4 (1,100 XP)"
-languages: "Common plus one other language"
+languages: "Common más one other language"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "30 ft."
@@ -32,4 +32,4 @@ condition_immunities: "hechizado, agotamiento, paralizado, envenenado"
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 10 (2d6 + 3) puntos de daño perforante plus 10 (3d6) poison damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 10 (2d6 + 3) puntos de daño perforante más 10 (3d6) poison damage.

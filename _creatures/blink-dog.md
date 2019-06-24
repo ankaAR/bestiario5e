@@ -18,7 +18,7 @@ hit_points: "22 (4d8+4)"
 armor_class: "13"
 ---
 
-***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The dog has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ### Acciones
 

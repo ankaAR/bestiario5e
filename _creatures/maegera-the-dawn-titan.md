@@ -38,7 +38,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** Maegera makes three slam attacks.
 
-***Slam.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 15 (3d6 + 5) puntos de daño contundente plus 35 (10d6) fire damage
+***Slam.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 15 (3d6 + 5) puntos de daño contundente más 35 (10d6) fire damage
 
 ### Acciones Legendarias
 

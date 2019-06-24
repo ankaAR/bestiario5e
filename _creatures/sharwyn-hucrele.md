@@ -22,7 +22,7 @@ armor_class: "16 (Barkskin trait)"
 
 ***Barkskin.*** Sharwyn's AC can't be lower than 16.
 
-***Special Equipment.*** Sharwyn has a spell book that contains the spells listed in her Spellcasting trait, plus detect magic and silent image.
+***Special Equipment.*** Sharwyn has a spell book that contains the spells listed in her Spellcasting trait, más detect magic and silent image.
 
 ***Lanzamiento de conjuros.*** Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 

@@ -14,7 +14,7 @@ challenge: "13 (10,000 XP)"
 languages: "Understands Celestial but utters only obscene nonsense"
 senses: "Visión en la oscuridad 120 ft. (36 mts), truesight 120 pies (6 mts), passive Perception 14"
 Condition_immunities: "agotamiento, asustado, paralizado, envenenado, prone"
-Damage_immunities: "cold, necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks"
+Damage_immunities: "frío, necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks"
 Damage_vulnerabilities: "radiant"
 saving_throws: "Con +11, Sab +9"
 speed: "0 ft., volando 50 pies (15 mts). (hover)"
@@ -32,7 +32,7 @@ armor_class: "7"
 
 ***Touch.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (3d6) necrotic damage.
 
-***Ray of Cold.*** Ranged Spell Attack: +12 to hit , range 120 pies, un objetivo. Impacto: 21 (6d6) cold damage.
+***Ray of Cold.*** Ranged Spell Attack: +12 to hit , range 120 pies, un objetivo. Impacto: 21 (6d6) puntos de daño por frío.
 
 ***Life Drain.*** The atropal targets one creature it can see within 120 feet of it. The target must succeed on a DC 19 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one. The atropal regains a number of hit points equal to half the amount of damage dealt.
 

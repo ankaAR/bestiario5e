@@ -21,7 +21,7 @@ speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "405  (30d12 + 210)"
 armor_class: "17 (armadura natural), 20 with the Wand of Orcus"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold, fire, lightning"
+damage_resistances: "frío, fire, lightning"
 ---
 
 ***Wand of Orcus.*** The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast animate dead, blight, or speak with dead. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: circle of death (1 charge), finger of death (1 charge), or power word kill (2 charges). The wand regains 1d4 + 3 charges daily at dawn.
@@ -44,9 +44,9 @@ While holding the wand, Orcus can use an action to conjure undead creatures whos
 
 ***Multiattack*** Orcus makes two Wand of Orcus attacks.
 
-***Wand of Orcus*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) puntos de daño contundente plus 13 (2d12) necrotic damage.
+***Wand of Orcus*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) puntos de daño contundente más 13 (2d12) necrotic damage.
 
-***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) puntos de daño perforante plus 9 (2d8) poison damage.
+***Tail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 21 (3d8 + 8) puntos de daño perforante más 9 (2d8) poison damage.
 
 ### Acciones Legendarias
 

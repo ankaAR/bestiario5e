@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Flyby.*** The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 
-***Keen Sight and Smell.*** The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The peryton has advantage en tiradas de Sabiduría (Percepción) that rely on sight or smell.
 
 ### Acciones
 

@@ -17,7 +17,7 @@ hit_points: "5 (1d8+1)"
 armor_class: "12"
 ---
 
-***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The mastiff has advantage en tiradas de Sabiduría (Percepción) that rely on hearing or smell.
 
 ### Acciones
 

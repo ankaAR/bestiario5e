@@ -16,7 +16,7 @@ skills: "Nature +8, Survival +8"
 speed: "30 ft., nadando 30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "16 (armadura natural)"
-damage_resistances: "cold"
+damage_resistances: "frío"
 ---
 
 ***Anfibio.*** Gar puede respirar aire y agua.
@@ -47,4 +47,4 @@ damage_resistances: "cold"
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente, and the target is grappled (escape DC 13). Until the grapple ends, Gar can't attack other creatures with his claw.
 
-***Drown.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante más 4 (1d8) cold damage.
+***Drown.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante más 4 (1d8) puntos de daño por frío.

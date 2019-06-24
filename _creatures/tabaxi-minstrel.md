@@ -11,7 +11,7 @@ str: 10 (0)
 size: Humanoide Mediano (tabaxi)
 alignment: caótico bueno
 challenge: "1/4 (50 XP)"
-Languages: "Common plus any two languages"
+Languages: "Common más any two languages"
 senses: "darkvision 60 ft., passive Perception 13"
 skills: "Percepción +3, Performance +7, Persuasión +5, Sigilo +4"
 speed: "30 ft., climb 20 ft."

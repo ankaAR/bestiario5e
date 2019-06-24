@@ -14,7 +14,7 @@ challenge: "2 (450 XP)"
 languages: "Dragón"
 senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
 skills: "Percepción +4, Sigilo +2"
-damage_immunities: "cold"
+damage_immunities: "frío"
 saving_throws: "Des +2, Con +5, Sab +2, Car +4"
 speed: "30 ft., fly 60 ft."
 hit_points: "45 (6d8+18)"
@@ -27,6 +27,6 @@ armor_class: "17 (armadura natural)"
 
 ***Breath Weapons (Recarga 5-6).*** The dragon uses one of the following breath weapons.
 
-Cold Breath. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+Cold Breath. The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) puntos de daño por frío on a failed save, or half as much damage on a successful one.
 
 Paralyzing Breath. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralizado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

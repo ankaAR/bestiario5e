@@ -28,4 +28,4 @@ condition_immunities: "Envenenado"
 
 ### Acciones
 
-***Warhammer.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, or 8 (1d10 + 3) puntos de daño contundente if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Warhammer.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) puntos de daño contundente, or 8 (1d10 + 3) puntos de daño contundente if used with two hands to make a melee attack, más 3 (1d6) fire damage.

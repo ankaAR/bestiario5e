@@ -27,6 +27,6 @@ armor_class: "16 (armadura natural)"
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 16 (3d10) necrotic damage.
+***Bite*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante más 16 (3d10) necrotic damage.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) slashing damage más 5 (1d10) necrotic damage.
+***Claws*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante más 5 (1d10) necrotic damage.

@@ -17,7 +17,7 @@ hit_points: "2 (1d4)"
 armor_class: "12"
 ---
 
-***Keen Smell.*** The cat has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The cat has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ### Acciones
 

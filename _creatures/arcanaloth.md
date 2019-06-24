@@ -20,7 +20,7 @@ speed: "30 ft., fly 30 ft."
 hit_points: "104 (16d8+32)"
 armor_class: "17 (armadura natural)"
 condition_immunities: "hechizado, envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:

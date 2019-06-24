@@ -29,13 +29,13 @@ armor_class: "16 (chain mail)"
 * At will: dancing lights
 * 1/day each: darkness, faerie fire , levitate (self only)
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ### Acciones
 
 ***Multiattack*** The drow makes three attacks: two with his scimitar and one with his whip or his hand crossbow.
 
-***Scimitar*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) slashing damage plus 14 (4d6) poison damage.
+***Scimitar*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño cortante más 14 (4d6) poison damage.
 
 ***Whip*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 6 (1d4 + 4) puntos de daño cortante. If the target is an ally, it has advantage on attack rolls until the end of its next turn.
 

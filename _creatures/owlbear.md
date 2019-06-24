@@ -18,7 +18,7 @@ hit_points: "59 (7d10+21)"
 armor_class: "13 (armadura natural)"
 ---
 
-***Keen Sight and Smell.*** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The owlbear has advantage en tiradas de Sabiduría (Percepción) that rely on sight or smell.
 
 ### Acciones
 

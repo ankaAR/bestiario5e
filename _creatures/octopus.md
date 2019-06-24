@@ -20,7 +20,7 @@ armor_class: "12"
 
 ***Hold Breath.*** While out of water, the octopus can hold its breath for 30 minutes.
 
-***Underwater Camouflage.*** The octopus has advantage on Dexterity (Stealth) checks made while underwater.
+***Underwater Camouflage.*** The octopus has advantage en tiradas de Destreza (Sigilo) made while underwater.
 
 ***Water Breathing.*** The octopus can breathe only underwater.
 

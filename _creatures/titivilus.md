@@ -21,7 +21,7 @@ speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "20 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_resistances: "frío; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
@@ -40,7 +40,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Titivilus makes one sword attack and uses his Frightful Word once.
 
-***Silver Sword*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) slashing damage plus 16 (3d10) necrotic damage, or 9 (1d10 + 4) slashing damage plus 16 (3d10) necrotic damage if used with two hands. If the target is a creature, its hit point maximum is reduced by an amount equal to half the necrotic damage it takes.
+***Silver Sword*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante más 16 (3d10) necrotic damage, or 9 (1d10 + 4) puntos de daño cortante más 16 (3d10) necrotic damage if used with two hands. If the target is a creature, its hit point maximum is reduced by an amount equal to half the necrotic damage it takes.
 
 ***Frightful Word*** Titivilus targets one creature he can see within 10 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become asustado for 1 minute. While asustado in this way, the target must take the Dash action and move away from Titivilus by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the Dash action. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

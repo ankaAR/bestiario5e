@@ -18,7 +18,7 @@ hit_points: "39 (6d8+12)"
 armor_class: "12"
 ---
 
-***Two-Headed.*** The dog has advantage on Wisdom (Perception) checks and on saving throws against being cegado, hechizado, ensordecido, asustado, stunned, or knocked unconscious.
+***Two-Headed.*** The dog has advantage en tiradas de Sabiduría (Percepción) and on saving throws against being cegado, hechizado, ensordecido, asustado, stunned, or knocked unconscious.
 
 ### Acciones
 

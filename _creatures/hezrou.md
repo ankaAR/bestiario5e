@@ -19,7 +19,7 @@ speed: "30 ft."
 hit_points: "136 (13d10+65)"
 armor_class: "16 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "frío, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.

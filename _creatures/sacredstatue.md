@@ -14,7 +14,7 @@ alignment: as the eidolon's alignment
 challenge: "0 (0 XP)"
 languages: "the languages the eidolon knew in life"
 senses: "darkvision 60 ft., passive Perception 14"
-damage_immunities: "cold, necrotic, poison"
+damage_immunities: "frío, necrotic, poison"
 saving_throws: "Sab +8"
 speed: "25 ft."
 hit_points: "95  (10d10 + 40)"

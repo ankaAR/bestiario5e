@@ -24,4 +24,4 @@ armor_class: "13 (armadura natural)"
 
 ### Acciones
 
-***Smother.*** One Large or smaller creature within 5 feet of the trapper must succeed on a DC 14 Dexterity saving throw or be grappled (escape DC 14). Until the grapple ends, the target takes 17 (4d6+3) puntos de daño contundente plus 3 (1d6) puntos de daño por ácido at the start of each of its turns. While grappled in this way, the target is restrained, cegado, and at risk of suffocating. The trapper can smother only one creature at a time.
+***Smother.*** One Large or smaller creature within 5 feet of the trapper must succeed on a DC 14 Dexterity saving throw or be grappled (escape DC 14). Until the grapple ends, the target takes 17 (4d6+3) puntos de daño contundente más 3 (1d6) puntos de daño por ácido at the start of each of its turns. While grappled in this way, the target is restrained, cegado, and at risk of suffocating. The trapper can smother only one creature at a time.

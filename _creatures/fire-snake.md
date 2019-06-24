@@ -17,7 +17,7 @@ damage_immunities: "Fuego"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "14 (armadura natural)"
-damage_vulnerabilities: "cold"
+damage_vulnerabilities: "frío"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -27,6 +27,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Multiataque.*** The snake makes two attacks: one with its bite and one with its tail.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante plus 3 (1d6) fire damage.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante más 3 (1d6) fire damage.
 
-***Cola.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente plus 3 (1d6) fire damage.
+***Cola.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente más 3 (1d6) fire damage.

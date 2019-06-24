@@ -19,7 +19,7 @@ condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, p
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 
-***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
+***Olfato Agudo.*** The swarm has advantage en tiradas de Sabiduría (Percepción) que dependan del olfato.
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 

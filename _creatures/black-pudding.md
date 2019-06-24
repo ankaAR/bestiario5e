@@ -12,7 +12,7 @@ size: Large ooze
 alignment: no alineado
 challenge: "4 (1,100 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
-damage_immunities: "acid, cold, lightning, slashing"
+damage_immunities: "acid, frío, lightning, slashing"
 speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "7"
@@ -27,7 +27,7 @@ condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, pr
 
 ### Acciones
 
-***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente plus 18 (4d8) puntos de daño por ácido. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+***Pseudopod.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño contundente más 18 (4d8) puntos de daño por ácido. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 ### Reactions
 

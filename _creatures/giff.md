@@ -27,7 +27,7 @@ armor_class: "16 (breastplate)"
 
 ***Multiattack*** The giff makes two pistol attacks.
 
-***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.
+***Longsword*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8 + 4) puntos de daño cortante, or 9 (1d10 + 4) puntos de daño cortante if used with two hands.
 
 ***Musket*** Ranged Weapon Attack: +4 to hit, range 40/120 pies, un objetivo. Impacto: 7 (1d12 + 2) puntos de daño perforante.
 

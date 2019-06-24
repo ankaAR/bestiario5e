@@ -17,7 +17,7 @@ saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "15 (cuero endurecido)"
-damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
+damage_resistances: "one of the following: acid, frío, fire, lightning or poison"
 ---
 
 ***Dragon Fanatic.*** The dragonfang has advantage on saving throws against being hechizado or asustado. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being hechizado or asustado.
@@ -30,6 +30,6 @@ damage_resistances: "one of the following: acid, cold, fire, lightning or poison
 
 ***Multiataque.*** The Dragonfang attacks twice with its shortsword.
 
-***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante plus 7 (2d6) damage of the type to which the dragonfang has resistance.
+***Shortsword.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante más 7 (2d6) damage of the type to which the dragonfang has resistance.
 
 ***Orb of Dragon's Breath (2/Día).*** Ranged Spell Attack: +5 to hit, range 50 pies, un objetivo. Impacto: 22 (5d8) damage of the type to which the dragonfang has damage resistance.

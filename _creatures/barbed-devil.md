@@ -20,7 +20,7 @@ speed: "30 ft."
 hit_points: "110 (13d8+52)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "Envenenado"
-damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+damage_resistances: "frío, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 
 ***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) puntos de daño perforante to any creature grappling it.

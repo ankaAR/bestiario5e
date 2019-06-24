@@ -18,7 +18,7 @@ hit_points: "5 (2d6-2)"
 armor_class: "12"
 ---
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as en tiradas de Sabiduría (Percepción) that rely on sight.
 
 ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
