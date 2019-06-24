@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "58 (9d10+9)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, paralizado, envenenado"
 ---
 
 ***Lanzamiento de conjuros.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:

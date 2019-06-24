@@ -17,7 +17,7 @@ senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 speed: "30 ft."
 hit_points: "149 (13d12+65)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "blinded, deafened"
+condition_immunities: "cegado, ensordecido"
 ---
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead tree.

@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 12 (+1)
 str: 18 (+4)
 size: Medium plant
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "5 (1,800 XP)"
 languages: "Sylvan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
@@ -18,7 +18,7 @@ speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "18 (natural armor, shield)"
 damage_vulnerabilities: "Fuego"
-condition_immunities: "charmed, frightened"
+condition_immunities: "hechizado, asustado"
 damage_resistances: "bludgeoning, piercing"
 ---
 

@@ -13,7 +13,7 @@ alignment: caótico maligno
 challenge: "10 (5,900 XP)"
 Languages: "Terran"
 senses: "darkvision 60 ft., passive Perception 14"
-condition_immunities: "exhaustion, petrified, poisoned"
+condition_immunities: "agotamiento, petrificado, envenenado"
 damage_immunities: "poison"
 damage_resistances: "bludgeoning, piercing and slashing damage from nonmagical attacks not made with adamantine weapons"
 skills: "Percepción +4"

@@ -20,7 +20,7 @@ saving_throws: "Des +7, Con +9, Sab +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "105  (10d10 + 50)"
 armor_class: "17 (half plate)"
-condition_immunities: "charmed, exhaustion, poisoned"
+condition_immunities: "hechizado, agotamiento, envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
@@ -30,7 +30,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ### Acciones
 
-***Infernal Dagger*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d4 + 6) slashing damage, and the target must make a DC 17 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Infernal Dagger*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d4 + 6) slashing damage, and the target must make a DC 17 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is envenenado for 1 minute. The envenenado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Brass Crossbow*** Ranged Weapon Attack: +7 to hit, range 100/400 pies, un objetivo. Impacto: 14 (2d10 + 3) puntos de daño perforante, plus one of the following effects:
 
@@ -42,6 +42,6 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***4 Entanglement*** The target must make a successful DC 17 Dexterity saving throw or be restrained for 1 hour by strands of sticky webbing. A restrained creature can escape by using an action to make a successful DC 17 Dexterity or Strength check. Any creature other than an orthon that touches the restrained creature must make a successful DC 17 Dexterity saving throw or become similarly restrained.
 
-***5 Paralysis (1/Day)*** The target takes 22 (4d10) puntos de daño por relámpago and must make a successful DC 17 Constitution saving throw or be paralyzed for 1 minute. The paralyzed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***5 Paralysis (1/Day)*** The target takes 22 (4d10) puntos de daño por relámpago and must make a successful DC 17 Constitution saving throw or be paralizado for 1 minute. The paralizado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***6 Tracking*** For the next 24 hours, the orthon knows the direction and distance to the target, as long as it's on the same plane of existence. If the target is on a different plane, the orthon knows which one, but not the exact location there.

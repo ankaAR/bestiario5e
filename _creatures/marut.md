@@ -10,7 +10,7 @@ con: 26 (+8)
 dex: 12 (+1)
 str: 28 (+9)
 size: Large construct (inevitable)
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "25 (75,000 XP)"
 languages: "all but rarely speaks"
 senses: "darkvision 60 ft., passive Perception 20"
@@ -20,7 +20,7 @@ saving_throws: "Int +12, Sab +10, Car +12"
 speed: "40 pies (12 mts), fly 30 ft. (hover)"
 hit_points: "432  (32d10 + 256)"
 armor_class: "22 (armadura natural)"
-condition_immunities: "charmed, frightened, paralyzed, poisoned, unconscious"
+condition_immunities: "hechizado, asustado, paralizado, envenenado, unconscious"
 damage_resistances: "thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

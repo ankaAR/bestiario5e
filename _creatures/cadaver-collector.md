@@ -14,11 +14,11 @@ alignment: legal maligna
 challenge: "14 (11500 XP)"
 languages: "understands all languages but can't speak"
 senses: "darkvision 60 ft., passive Perception 10"
-damage_immunities: "necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+damage_immunities: "necrotic, veneno, psíquico; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
 speed: "30 ft."
 hit_points: "189  (18d10 + 90)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Magic Resistance.*** The cadaver collector has advantage on saving throws against spells and other magical effects.
@@ -31,4 +31,4 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, po
 
 ***Slam*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 18 (3d8 + 5) puntos de daño contundente plus 16 (3d10) necrotic damage.
 
-***Paralyzing Breath (Recarga 5-6)*** The cadaver collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be paralyzed for 1 minute. A paralyzed creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.
+***Paralyzing Breath (Recarga 5-6)*** The cadaver collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be paralizado for 1 minute. A paralizado creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.

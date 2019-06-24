@@ -19,7 +19,7 @@ saving_throws: "Des +5, Sab +5"
 speed: "30 ft."
 hit_points: "150 (20d8+60)"
 armor_class: "16"
-condition_immunities: "While wearing the mask of the Dragon Queen: charmed, frightened, poisoned"
+condition_immunities: "While wearing the mask of the Dragon Queen: hechizado, asustado, envenenado"
 damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 ---
 

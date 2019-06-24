@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 8 (-1)
 str: 19 (+4)
 size: Huge beast
-alignment: unaligned
+alignment: no alineado
 challenge: "5 (1,800 XP)"
 languages: "--"
 senses: "Vista ciega 30 pies (9 mts)"

@@ -21,7 +21,7 @@ armor_class: "15 (cuero endurecido)"
 
 ***Special Equipment.*** Droki wears boots of speed
 
-***Insanity.*** Droki has advantage on saving throws against being charmed or frightened.
+***Insanity.*** Droki has advantage on saving throws against being hechizado or asustado.
 
 ***Innate Spellcasting.*** Droki's innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:
 

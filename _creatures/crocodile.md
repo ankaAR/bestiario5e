@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 10 (0)
 str: 15 (+2)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 skills: "Sigilo +2"
 speed: "20 ft., nadando 20 ft."

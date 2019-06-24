@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 10 (0)
 str: 12 (+1)
 size: Large plant
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "2 (450 XP)"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "30 ft."
@@ -29,7 +29,7 @@ armor_class: "13 (armadura natural)"
 
 ***Animating Spores.*** The myconid targets one corpse of a humanoid or a Large or smaller beast within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse rises as a spore servant. The corpse stays animated for 1d4 + 1 weeks or until destroyed, and it can't be animated again in this way.
 
-***Hallucination Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The poisoned target is incapacitated while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Hallucination Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be envenenado for 1 minute. The envenenado target is incapacitated while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Pacifying Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

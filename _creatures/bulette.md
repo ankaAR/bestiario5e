@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 11 (0)
 str: 19 (+4)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "5 (1,800 XP)"
 senses: "darkvision 60 ft., tremorsense 60 ft."
 skills: "Percepción +6"

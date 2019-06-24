@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 8 (-1)
 size: Small beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "passive Perception 11"
 speed: "20 ft., climb 20 ft., fly 30 ft."

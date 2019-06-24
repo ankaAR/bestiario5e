@@ -9,13 +9,13 @@ con: 11 (0)
 dex: 18 (+4)
 str: 8 (-1)
 size: Medium swarm
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "Vista ciega 10 pies (3 mts)"
 speed: "30 ft., nadando 30 ft."
 hit_points: "36 (8d8)"
 armor_class: "14"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 

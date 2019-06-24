@@ -19,7 +19,7 @@ saving_throws: "Sab +10, Car +9"
 speed: "40 pies (12 mts), nadando 120 ft."
 hit_points: "328  (16d20 + 160)"
 armor_class: "17"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

@@ -20,7 +20,7 @@ saving_throws: "Des +9, Con +15, Sab +14"
 speed: "40 ft."
 hit_points: "275  (19d12 + 152)"
 armor_class: "22 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 
@@ -51,7 +51,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Gore*** Ataque de arma cuerpo a cuerpo: +17 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 17 (2d6 + 10) puntos de daño perforante.
 
-***Resistencia Pavorosa*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
+***Resistencia Pavorosa*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become asustado for 1 minute. A asustado creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
 If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Resistencia Pavorosa for the next 24 hours.
 
 ### Acciones Legendarias

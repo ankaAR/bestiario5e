@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 6 (-2)
 str: 19 (+4)
 size: Huge plant
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 languages: "one language known by its creator"
 speed: "20 ft."

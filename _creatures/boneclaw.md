@@ -19,7 +19,7 @@ saving_throws: "Des +7, Con +6, Sab +6"
 speed: "40 ft."
 hit_points: "127  (17d10 + 34)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

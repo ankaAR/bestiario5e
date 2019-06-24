@@ -9,8 +9,8 @@ int: 3 (-3)
 con: 17 (+3)
 dex: 10 (0)
 str: 19 (+4)
-size: Medium construct
-alignment: unaligned
+size: Constructo mediano
+alignment: no alineado
 challenge: "4 (1100 XP)"
 languages: "understands one language of its creator but can't speak"
 senses: "darkvision 60 ft., passive Perception 10"
@@ -18,7 +18,7 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft."
 hit_points: "52  (7d8 + 21)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***False Appearance.*** While the stone defender remains motionless against an uneven earthen or stone surface, it is indistinguishable from that surface.

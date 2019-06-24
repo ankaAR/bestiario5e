@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 16 (+3)
 str: 11 (0)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 speed: "50 ft."
 hit_points: "4 (1d8)"

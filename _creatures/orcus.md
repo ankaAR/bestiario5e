@@ -20,7 +20,7 @@ saving_throws: "Des +10, Con +15, Sab +13"
 speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "405  (30d12 + 210)"
 armor_class: "17 (armadura natural), 20 with the Wand of Orcus"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 

@@ -18,7 +18,7 @@ saving_throws: "Sab +2, Car +5"
 speed: "0 ft., fly 40 ft. (hover)"
 hit_points: "58 (13d8)"
 armor_class: "12"
-condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -30,6 +30,6 @@ damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and 
 
 ***Corrupting Touch.*** Melee Spell Attack: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (3d6 + 2) necrotic damage.
 
-***Horrifying Visage.*** Each non-undead creature within 60 ft. of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
+***Horrifying Visage.*** Each non-undead creature within 60 ft. of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be asustado for 1 minute. A asustado target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
 
 ***Wail (1/Día).*** The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 ft. of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage.The woeful banshee is a spiteful creature formed from the spirit of a female elf. Its face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.

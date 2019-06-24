@@ -17,7 +17,7 @@ damage_immunities: "lightning, poison"
 speed: "0 ft., fly 50 ft. (hover)"
 hit_points: "22 (9d4)"
 armor_class: "19"
-condition_immunities: "exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious"
+condition_immunities: "agotamiento, grappled, paralizado, envenenado, prone, restrained, unconscious"
 damage_resistances: "acid, cold, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

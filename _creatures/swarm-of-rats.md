@@ -9,13 +9,13 @@ con: 9 (-1)
 dex: 11 (0)
 str: 9 (-1)
 size: Medium swarm
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "darkvision 30 ft."
 speed: "30 ft."
 hit_points: "24 (7d8-7)"
 armor_class: "10"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 

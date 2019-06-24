@@ -19,11 +19,11 @@ saving_throws: "Des +6, Car +4"
 speed: "30 ft."
 hit_points: "71  (13d8 + 13)"
 armor_class: "15 (cuero endurecido)"
-condition_immunities: "charmed, exhaustion"
+condition_immunities: "hechizado, agotamiento"
 damage_resistances: "necrotic"
 ---
 
-***Fey Ancestry.*** The shadow dancer has advantage on saving throws against being charmed, and magic can't put it to sleep.
+***Fey Ancestry.*** The shadow dancer has advantage on saving throws against being hechizado, and magic can't put it to sleep.
 
 ***Shadow Jump.*** As a bonus action, the shadow dancer can teleport up to 30 feet to an unoccupied space it can see. Both the space it teleports from and the space it teleports to must be in dim light or darkness. The shadow dancer can use this ability between the weapon attacks of another action it takes.
 

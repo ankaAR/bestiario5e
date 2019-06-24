@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 16 (+3)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 skills: "Athletics +5, Percepción +3"
 speed: "30 ft., climb 30 ft."

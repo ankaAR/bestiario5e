@@ -23,7 +23,7 @@ armor_class: "13"
 
 ***Shapechanger.*** The werebat can use its action to polymorph into a Medium bat-humanoid hybrid, or into a Large giant bat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
-***Echolocation (Bat or Hybrid Form Only).*** The werebat has Vista ciega out to a range of 60 feet as long as it’s not deafened.
+***Echolocation (Bat or Hybrid Form Only).*** The werebat has Vista ciega out to a range of 60 feet as long as it’s not ensordecido.
 
 ***Keen Hearing.*** The werebat has advantage on Wisdom (Perception) checks that rely on hearing.
 

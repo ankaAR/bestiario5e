@@ -9,7 +9,7 @@ con: 8 (-1)
 dex: 14 (+2)
 str: 2 (-4)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "darkvision 30 ft."
 skills: "Sigilo +4"

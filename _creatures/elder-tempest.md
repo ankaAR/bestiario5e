@@ -14,12 +14,12 @@ alignment: neutral
 challenge: "23 (50,000 XP)"
 languages: "-"
 senses: "darkvision 60 ft., passive Perception 15"
-damage_immunities: "lightning, poison, thunder"
+damage_immunities: "lightning, veneno, thunder"
 saving_throws: "Sab +12, Car +11"
 speed: "0 ft., fly 120 ft. (hover)"
 hit_points: "264  (16d20 + 96)"
 armor_class: "19"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

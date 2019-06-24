@@ -9,7 +9,7 @@ con: 9 (-1)
 dex: 16 (+3)
 str: 2 (-4)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "swim 40 ft."

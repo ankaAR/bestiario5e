@@ -19,7 +19,7 @@ saving_throws: "Des +5, Con +11, Sab +7, Car +9"
 speed: "40 pies (12 mts), escavando 30 pies (9 mts), volando 80 pies (24 mts)"
 hit_points: "225 (18d12+108)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 damage_resistances: "necrotic"
 ---
 
@@ -37,7 +37,7 @@ damage_resistances: "necrotic"
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño contundente.
 
-***Resistencia Pavorosa.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Resistencia Pavorosa for the next 24 hours.
+***Resistencia Pavorosa.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become asustado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Resistencia Pavorosa for the next 24 hours.
 
 ***Aliento de Relámpago (Recarga 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.
 

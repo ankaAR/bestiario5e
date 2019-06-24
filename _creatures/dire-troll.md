@@ -19,7 +19,7 @@ saving_throws: "Sab +5, Car +2"
 speed: "40 ft."
 hit_points: "172  (15d12 + 75)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "frightened, poisoned"
+condition_immunities: "asustado, envenenado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 11 (0)
 str: 17 (+3)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "darkvision 60 ft., tremorsense 60 ft."
 speed: "30 ft., burrow 10 ft."

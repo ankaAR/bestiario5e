@@ -19,7 +19,7 @@ saving_throws: "Sab +3"
 speed: "30 ft."
 hit_points: "37 (5d8+15)"
 armor_class: "18 (chain mail, shield)"
-condition_immunities: "exhaustion, poisoned"
+condition_immunities: "agotamiento, envenenado"
 ---
 
 ***Source.*** tales from the yawning portal,  page 233

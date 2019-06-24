@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.
 
-***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be envenenado until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
 ### Acciones
 

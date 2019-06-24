@@ -26,7 +26,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 ***Anfibio.*** The wastrilith puede respirar aire y agua.
 
 ***Corrupt Water.*** At the start of each of the wastrilith's turns, exposed water within 30 feet of it is befouled. Underwater, this effect lightly obscures the area until a current clears it away. Water in containers remains corrupted until it evaporates.
-A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (4d6) poison damage and is poisoned for 1 minute. At the end of this time, the poisoned creature must repeat the saving throw. On a failure, the creature takes 18 (4d8) poison damage and is poisoned until it finishes a long rest.
+A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (4d6) poison damage and is envenenado for 1 minute. At the end of this time, the envenenado creature must repeat the saving throw. On a failure, the creature takes 18 (4d8) poison damage and is envenenado until it finishes a long rest.
 If another demon drinks the foul water as an action, it gains 11 (2d10) temporary hit points.
 
 ***Magic Resistance.*** The wastrilith has advantage on saving throws against spells and other magical effects.

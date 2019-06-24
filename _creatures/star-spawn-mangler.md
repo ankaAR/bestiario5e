@@ -20,7 +20,7 @@ saving_throws: "Des +7, Con +4"
 speed: "40 pies (12 mts), climb 40 ft."
 hit_points: "71  (13d8 + 13)"
 armor_class: "14"
-condition_immunities: "charmed, frightened, prone"
+condition_immunities: "hechizado, asustado, prone"
 damage_resistances: "cold"
 ---
 

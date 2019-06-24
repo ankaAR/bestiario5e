@@ -18,7 +18,7 @@ speed: "30 ft., climb 30 ft., nadando 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "14"
 damage_vulnerabilities: "cold, fire"
-condition_immunities: "blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious"
+condition_immunities: "cegado, ensordecido, agotamiento, grappled, paralizado, petrificado, prone, restrained, unconscious"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

@@ -30,6 +30,6 @@ armor_class: "16 (chain mail)"
 
 ***Flail of Pain.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 it, one target. Hit: 10 (1d10+5) puntos de daño contundente plus 22 (4d10) psychic damage.
 
-***Flail of Paralysis.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
+***Flail of Paralysis.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (1d10+5) puntos de daño contundente, and the target must succeed on a DC 16 Constitution saving throw or be paralizado until the end of its next turn.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 pies, un objetivo. Impacto: 4 (1d8) puntos de daño perforante.

@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 13 (+1)
 str: 16 (+3)
 size: Medium monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Vista ciega 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +5"

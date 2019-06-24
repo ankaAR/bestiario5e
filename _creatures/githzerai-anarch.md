@@ -10,7 +10,7 @@ con: 18 (+4)
 dex: 21 (+5)
 str: 16 (+3)
 size: Humanoide Mediano (gith)
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "16 (15,000 XP)"
 languages: "Gith"
 senses: "passive Perception 20"

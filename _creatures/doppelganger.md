@@ -9,12 +9,12 @@ con: 14 (+2)
 dex: 18 (+4)
 str: 11 (0)
 size: Medium monstrosity (shapechanger)
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 languages: "Common"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Engaño +6, Perspicacia +3"
-damage_immunities: "charmed"
+damage_immunities: "hechizado"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "14"

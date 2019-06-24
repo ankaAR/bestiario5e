@@ -19,7 +19,7 @@ hit_points: "123 (13d10+52)"
 armor_class: "19 (armadura natural)"
 ---
 
-***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
+***Fey Ancestry.*** The drider has advantage on saving throws against being hechizado, and magic can't put the drider to sleep.
 
 ***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 

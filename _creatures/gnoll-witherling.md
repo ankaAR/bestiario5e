@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"
 armor_class: "12 (armadura natural)"
-condition_immunities: "exhaustion, poisoned"
+condition_immunities: "agotamiento, envenenado"
 ---
 
 ***Rampage.*** When the witherling reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack.

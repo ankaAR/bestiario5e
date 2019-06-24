@@ -17,7 +17,7 @@ damage_immunities: "fire, poison"
 speed: "50 ft."
 hit_points: "102 (12d10+36)"
 armor_class: "13"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, unconscious"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

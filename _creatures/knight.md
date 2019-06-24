@@ -18,7 +18,7 @@ hit_points: "52 (8d8+16)"
 armor_class: "18 (plate)"
 ---
 
-***Brave.*** The knight has advantage on saving throws against being frightened.
+***Brave.*** The knight has advantage on saving throws against being asustado.
 
 ### Acciones
 

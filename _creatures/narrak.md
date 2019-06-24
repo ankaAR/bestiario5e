@@ -19,7 +19,7 @@ hit_points: "40 (9d6+9)"
 armor_class: "12 (15 to mage armor)"
 ---
 
-***Insanity.*** Droki has advantage on saving throws against being charmed or frightened.
+***Insanity.*** Droki has advantage on saving throws against being hechizado or asustado.
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 

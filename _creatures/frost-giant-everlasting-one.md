@@ -21,7 +21,7 @@ hit_points: "189 (14d12+98)"
 armor_class: "15 (patchwork armor)"
 ---
 
-***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being cegado, hechizado, ensordecido, asustado, stunned, or knocked unconscious.
 
 ***Regeneration.*** The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.
 

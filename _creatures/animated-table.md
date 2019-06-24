@@ -9,14 +9,14 @@ con: 13 (+1)
 dex: 8 (-1)
 str: 18 (+4)
 size: Large construct
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
-damage_immunities: "poison, psychic"
+damage_immunities: "veneno, psíquico"
 speed: "40 ft."
 hit_points: "39 (6d10+6)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Source.*** tales from the yawning portal,  page 230

@@ -20,11 +20,11 @@ saving_throws: "Des +9, Con +11, Int +11, Car +13"
 speed: "30 ft."
 hit_points: "189  (18d10 + 90)"
 armor_class: "18 (plate)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
-***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.
+***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be asustado until the start of the creature's next turn.
 
 ***Innate Spellcasting.*** Bael's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), animate dead, charm person, detect magic, inflict wounds (as an 8th-level spell), invisibility (self only), major image
@@ -45,7 +45,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Hellish Morningstar*** Ataque de arma cuerpo a cuerpo: +13 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 16 (2d8 + 7) puntos de daño perforante plus 13 (3d8) necrotic damage.
 
-***Infernal Command*** Each ally of Bael's within 60 feet of him can't be charmed or frightened until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
+***Infernal Command*** Each ally of Bael's within 60 feet of him can't be hechizado or asustado until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
 ### Acciones Legendarias
 

@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 13 (+1)
 str: 24 (+7)
 size: Huge monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "11 (7,200 XP)"
 senses: "darkvision 60 ft., tremorsense 60 ft."
 damage_immunities: "cold, fire"

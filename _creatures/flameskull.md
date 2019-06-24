@@ -18,7 +18,7 @@ damage_immunities: "cold, fire, poison"
 speed: "0 ft., fly 40 ft. It can hover."
 hit_points: "40 (9d4+18)"
 armor_class: "13"
-condition_immunities: "charmed, frightened, paralyzed, poisoned, prone"
+condition_immunities: "hechizado, asustado, paralizado, envenenado, prone"
 damage_resistances: "lightning, necrotic, piercing"
 ---
 

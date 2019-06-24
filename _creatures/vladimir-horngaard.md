@@ -19,8 +19,8 @@ saving_throws: "Str +7, Con +7, Sab +6, Car +7"
 speed: "30 ft."
 hit_points: "192 (16d8+64)"
 armor_class: "17 (half plate)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-damage_resistances: "necrotic, psychic"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado, stunned"
+damage_resistances: "necrotic, psíquico"
 ---
 
 ***Regeneration.*** Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.
@@ -39,4 +39,4 @@ damage_resistances: "necrotic, psychic"
 
 ***Greatsword +2.*** Ataque de arma cuerpo a cuerpo: +9 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 20 (4d6+4) puntos de daño cortante. Against Strahd, Vladimir deals an extra 14 (4d6) slashing damage with this weapon.
 
-***Vengeful Glare.*** Vladimir targets one creature he can see within 30 feet of him and against which he has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralyzed until Vladimir deals damage to it, or until the end of Vladimir's next turn. When the paralysis ends, the target is frightened of Vladimir for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see Vladimir, ending the frightened condition on itself on a success.
+***Vengeful Glare.*** Vladimir targets one creature he can see within 30 feet of him and against which he has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralizado until Vladimir deals damage to it, or until the end of Vladimir's next turn. When the paralysis ends, the target is asustado of Vladimir for 1 minute. The asustado target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see Vladimir, ending the asustado condition on itself on a success.

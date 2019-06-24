@@ -26,7 +26,7 @@ armor_class: "18 (plate)"
 * 3/day each: blur, jump, misty step, nondetection (self only)
 * 1/day each: plane shift, telekinesis
 
-***Rally the Troops.*** As a bonus action, the githyanki can magically end the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
+***Rally the Troops.*** As a bonus action, the githyanki can magically end the hechizado and asustado conditions on itself and each creature of its choice that it can see within 30 feet of it.
 
 ### Acciones
 

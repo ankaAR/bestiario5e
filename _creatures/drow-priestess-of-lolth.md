@@ -20,7 +20,7 @@ hit_points: "71 (13d8+13)"
 armor_class: "15 (scale mail)"
 ---
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being hechizado, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 15. She can innately cast the following spells, requiring no material components:
 
@@ -34,7 +34,7 @@ At will: dancing lights
 
 * 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness
 
-* 2nd level (3 slots): lesser restoration, protection from poison, web
+* 2nd level (3 slots): lesser restoration, protection from veneno, web
 
 * 3rd level (3 slots): conjure animals (2 giant spiders), dispel magic
 

@@ -19,7 +19,7 @@ saving_throws: "Int +7, Sab +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "138 (12d12+60)"
 armor_class: "9 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, envenenado, prone"
 damage_resistances: "lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -55,4 +55,4 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ### Reactions
 
-***Instinctive Charm.*** If a creature the Ooze Master can see makes an attack roll against it while within 30 feet of it, the Ooze Master can use a reaction to divert the attack if another creature is within the attack's range. The attacker must make a DC 15 Wisdom saving throw. On a failed save, the attacker targets the creature that is closest to it, not including itself or the Ooze Master. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, the attacker is immune to this Instinctive Charm for 24 hours. Creatures that can't be charmed are immune to this effect.
+***Instinctive Charm.*** If a creature the Ooze Master can see makes an attack roll against it while within 30 feet of it, the Ooze Master can use a reaction to divert the attack if another creature is within the attack's range. The attacker must make a DC 15 Wisdom saving throw. On a failed save, the attacker targets the creature that is closest to it, not including itself or the Ooze Master. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, the attacker is immune to this Instinctive Charm for 24 hours. Creatures that can't be hechizado are immune to this effect.

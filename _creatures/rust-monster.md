@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 13 (+1)
 size: Medium monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "40 ft."

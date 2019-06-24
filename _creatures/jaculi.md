@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 14 (+2)
 str: 15 (+2)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 30 pies (9 mts), passive Perception 11"
 skills: "Athleitcs +4, Percepción +1, Sigilo +4"

@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "45  (6d8 + 18)"
 armor_class: "16 (chain shirt, shield)"
-condition_immunities: "exhaustion, frightened, poisoned, unconscious"
+condition_immunities: "agotamiento, asustado, envenenado, unconscious"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

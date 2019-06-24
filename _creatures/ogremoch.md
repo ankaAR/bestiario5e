@@ -18,7 +18,7 @@ saving_throws: "Str +14, Con +15, Sab +8"
 speed: "50 ft., burrow 50 ft."
 hit_points: "526 (27d20+243)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone"
+condition_immunities: "hechizado, asustado, paralizado, petrificado, envenenado, prone"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

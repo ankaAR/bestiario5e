@@ -8,8 +8,8 @@ int: 10 (0)
 con: 16 (+3)
 dex: 13 (+1)
 str: 18 (+4)
-size: Medium construct
-alignment: unaligned
+size: Constructo mediano
+alignment: no alineado
 challenge: "4 (1,100 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
@@ -18,7 +18,7 @@ damage_immunities: "force, necrotic, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "60 (8d8+24)"
 armor_class: "20 (plate, shield)"
-condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned"
+condition_immunities: "cegado, hechizado, ensordecido, asustado, paralizado, petrificado, envenenado, stunned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 ---
 

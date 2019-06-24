@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "exhaustion, petrified, poisoned"
+condition_immunities: "agotamiento, petrificado, envenenado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 ---
 

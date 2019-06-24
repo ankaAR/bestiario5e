@@ -9,15 +9,15 @@ con: 30 (+10)
 dex: 11 (0)
 str: 30 (+10)
 size: Gargantuan monstrosity (titan)
-alignment: unaligned
+alignment: no alineado
 challenge: "30 (155,000 XP)"
 senses: "Vista ciega 120 ft."
-damage_immunities: "fire, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_immunities: "fire, veneno, bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Int +5, Sab +9, Car +9"
 speed: "40 ft."
 hit_points: "676 (33d20+330)"
 armor_class: "25 (armadura natural)"
-condition_immunities: "charmed, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, asustado, paralizado, envenenado"
 ---
 
 ***Resistencia Legendaria (3/Día).*** If the tarrasque fails a saving throw, it can choose to succeed instead.
@@ -40,7 +40,7 @@ condition_immunities: "charmed, frightened, paralyzed, poisoned"
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 20 pies (6 mts), un objetivo. Impacto: 24 (4d6 + 10) puntos de daño contundente. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 
-***Resistencia Pavorosa.*** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Resistencia Pavorosa for the next 24 hours.
+***Resistencia Pavorosa.*** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become asustado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Resistencia Pavorosa for the next 24 hours.
 
 ***Swallow.*** The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) puntos de daño por ácido at the start of each of the tarrasque's turns.
 

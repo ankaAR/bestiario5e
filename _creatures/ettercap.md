@@ -28,7 +28,7 @@ armor_class: "13 (armadura natural)"
 
 ***Multiataque.*** The ettercap makes two attacks: one with its bite and one with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (1d8 + 2) puntos de daño perforante más 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 6 (1d8 + 2) puntos de daño perforante más 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be envenenado for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (2d4 + 2) puntos de daño cortante.
 

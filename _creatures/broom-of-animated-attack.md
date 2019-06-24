@@ -10,14 +10,14 @@ con: 10 (0)
 dex: 17 (+3)
 str: 10 (0)
 size: Small construct
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
-damage_immunities: "poison, psychic"
+damage_immunities: "veneno, psíquico"
 speed: "0 ft., fly 50 ft. (hover)"
 hit_points: "17 (5d6)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado, prone"
 ---
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.

@@ -20,7 +20,7 @@ armor_class: "16 (chain shirt, shield)"
 
 ***Source.*** tales from the yawning portal,  page 246
 
-***Doomvault Devotion.*** Within the Doomvault, the warrior has advantage on saving throws against being charmed or frightened .
+***Doomvault Devotion.*** Within the Doomvault, the warrior has advantage on saving throws against being hechizado or asustado .
 
 ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 

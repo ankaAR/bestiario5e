@@ -20,7 +20,7 @@ hit_points: "52 (7d10+14)"
 armor_class: "16 (studded leather, shield)"
 ---
 
-***Fey Ancestry.*** Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.
+***Fey Ancestry.*** Dralmorrer has advantage on saving throws against being hechizado, and magic can't put him to sleep.
 
 ***Lanzamiento de conjuros.*** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:
 

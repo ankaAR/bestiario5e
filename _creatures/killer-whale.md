@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 10 (0)
 str: 19 (+4)
 size: Huge beast
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Vista ciega 120 ft."
 skills: "Percepción +3"
@@ -18,7 +18,7 @@ hit_points: "90 (12d12+12)"
 armor_class: "12 (armadura natural)"
 ---
 
-***Echolocation.*** The whale can't use its Vista ciega while deafened.
+***Echolocation.*** The whale can't use its Vista ciega while ensordecido.
 
 ***Hold Breath.*** The whale can hold its breath for 30 minutes
 

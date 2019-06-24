@@ -10,7 +10,7 @@ con: 14 (+2)
 dex: 12 (+1)
 str: 15 (+2)
 size: Medium monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 languages: "-"
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 14"

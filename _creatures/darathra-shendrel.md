@@ -19,7 +19,7 @@ armor_class: "14 (breastplate)"
 senses: " passive Perception 12"
 ---
 
-***Brave.*** Darathra has advantage on saving throws against being frightened
+***Brave.*** Darathra has advantage on saving throws against being asustado
 
 ### Acciones
 

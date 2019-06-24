@@ -17,7 +17,7 @@ skills: "Sigilo +1"
 speed: "10 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "12 (armadura natural)"
-condition_immunities: "blinded, deafened"
+condition_immunities: "cegado, ensordecido"
 ---
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a tangle of vines.

@@ -9,14 +9,14 @@ con: 14 (+2)
 dex: 6 (-2)
 str: 15 (+2)
 size: Large ooze
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "lightning, slashing"
 speed: "10 pies (3 mts), climb 10 ft."
 hit_points: "45 (6d10+12)"
 armor_class: "8"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, prone"
 damage_resistances: "ácido"
 ---
 

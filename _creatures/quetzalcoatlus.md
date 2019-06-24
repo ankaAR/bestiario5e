@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 13 (+1)
 str: 15 (+2)
 size: Huge beast
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 skills: "Percepción +2"
 speed: "10 pies (3 mts), volando 80 pies (24 mts)"

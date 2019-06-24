@@ -18,7 +18,7 @@ damage_immunities: "fire, poison"
 speed: "40 ft."
 hit_points: "123  (19d8 + 38)"
 armor_class: "18 (plate)"
-condition_immunities: "paralyzed, petrified, poisoned, prone"
+condition_immunities: "paralizado, petrificado, envenenado, prone"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

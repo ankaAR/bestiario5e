@@ -18,7 +18,7 @@ saving_throws: "Sab + 1"
 speed: "30 ft."
 hit_points: "97 (13d8+39)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 damage_resistances: "cold, necrotic"
 ---
 

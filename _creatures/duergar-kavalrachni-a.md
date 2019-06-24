@@ -23,7 +23,7 @@ damage_resistances: "poison"
 
 ***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make a melee attack agains the same target as a reaction.
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
+***Duergar Resilience.*** The duergar has advantage on saving throws against veneno, spells, and illusions, as well as to resist being hechizado or paralizado.
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

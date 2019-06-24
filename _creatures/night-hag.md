@@ -17,7 +17,7 @@ skills: "Engaño +7, Perspicacia +6, Percepción +6, Sigilo +6"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed"
+condition_immunities: "hechizado"
 damage_resistances: "cold, fire, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 

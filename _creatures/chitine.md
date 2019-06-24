@@ -19,7 +19,7 @@ hit_points: "18 (4d6+4)"
 armor_class: "14 (hide armor)"
 ---
 
-***Fey Ancestry.*** The chitine has advantage on saving throws against being charmed, and magic can't put the chitine to sleep.
+***Fey Ancestry.*** The chitine has advantage on saving throws against being hechizado, and magic can't put the chitine to sleep.
 
 ***Sunlight Sensitivity.*** While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

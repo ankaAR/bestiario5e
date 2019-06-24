@@ -9,13 +9,13 @@ con: 20 (+5)
 dex: 3 (-4)
 str: 14 (+2)
 size: Large ooze
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 speed: "15 ft."
 hit_points: "84 (8d10+40)"
 armor_class: "6"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, prone"
 ---
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.

@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 15 (+2)
 str: 12 (+1)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 speed: "0 ft., nadando 40 pies (12 mts)"
 hit_points: "16 (3d10)"

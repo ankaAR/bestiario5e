@@ -19,7 +19,7 @@ damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks"
 speed: "30 ft."
 hit_points: "97  (15d10 + 15)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, prone, restrained, unconscious"
 damage_resistances: "acid, cold, fire, lightning, thunder"
 ---
 

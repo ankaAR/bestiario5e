@@ -20,7 +20,7 @@ saving_throws: "Str +16, Con +14, Sab +14, Car +14"
 speed: "40 ft."
 hit_points: "216  (16d12 + 112)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned"
+condition_immunities: "cegado, hechizado, ensordecido, asustado, envenenado, stunned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

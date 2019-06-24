@@ -20,7 +20,7 @@ armor_class: "14 (armadura de cuero)"
 damage_resistances: "poison"
 ---
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
+***Duergar Resilience.*** The duergar has advantage on saving throws against veneno, spells, and illusions, as well as to resist being hechizado or paralizado.
 
 ***Create Soulblade.*** As a bonus action, the duergar can create a shortsword-sized, visible blade of psionic energy. The weapon appears in the duergar's hand and vanishes if it leaves the duergar's grip, or if the duergar dies or is incapacitated.
 

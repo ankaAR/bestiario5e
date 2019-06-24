@@ -9,14 +9,14 @@ con: 15 (+2)
 dex: 10 (0)
 str: 18 (+4)
 size: Medium plant
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 languages: "-"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "20 ft., climb 20 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "blinded, charmed, frightened, paralyzed"
+condition_immunities: "cegado, hechizado, asustado, paralizado"
 damage_resistances: "poison"
 ---
 

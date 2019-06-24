@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 8 (-1)
 str: 3 (-4)
 size: Small plant
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 languages: "one language known by its creator"
 speed: "20 ft."

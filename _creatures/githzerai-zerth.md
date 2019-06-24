@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 18 (+4)
 str: 13 (+1)
 size: Humanoide Mediano (gith)
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "6 (2,300 XP)"
 languages: "Gith"
 skills: "Arcanos +6, Perspicacia +6, Percepción +6"

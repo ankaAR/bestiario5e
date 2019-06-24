@@ -24,7 +24,7 @@ damage_resistances: "poison"
 
 ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
 
-***Duergar Resilience.*** The spy has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
+***Duergar Resilience.*** The spy has advantage on saving throws against veneno, spells, and illusions, as well as to resist being hechizado or paralizado.
 
 ***Sneak Attack.*** Once per turn, the spy can deal an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 

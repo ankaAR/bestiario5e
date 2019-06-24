@@ -18,7 +18,7 @@ saving_throws: "Des +14, Con +13, Car +13"
 speed: "50 ft., fly 50 ft."
 hit_points: "325 (26d12+156)"
 armor_class: "17"
-condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, asustado, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -54,7 +54,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 The imix can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The imix regains spent legendary actions at the start of its turn.
 
-***Heat Wave.*** Imix creates a blast of heat within 300 feet of himself. Each creature in the area in physical contact with metal objects (for example, carrying metal weapons or wearing metal armor) takes 9 (2d8) fire damage. Each creature in the area that isn't resistant or immune to fire damage must make a DC 21 Constitution saving throw or gain one level of exhaustion.
+***Heat Wave.*** Imix creates a blast of heat within 300 feet of himself. Each creature in the area in physical contact with metal objects (for example, carrying metal weapons or wearing metal armor) takes 9 (2d8) fire damage. Each creature in the area that isn't resistant or immune to fire damage must make a DC 21 Constitution saving throw or gain one level of agotamiento.
 
 ***Teleport (cuesta 2 acciones).*** Imix magically teleports up to 120 feet to an unoccupied space he can see. Anything Imix is wearing or carrying isn't teleported with him.
 

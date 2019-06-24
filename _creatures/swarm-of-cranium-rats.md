@@ -16,7 +16,7 @@ senses: "darkvision 30 ft."
 speed: "30 ft."
 hit_points: "36 (8d8)"
 armor_class: "12"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 

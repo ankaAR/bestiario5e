@@ -10,7 +10,7 @@ con: 17 (+3)
 dex: 14 (+2)
 str: 18 (+4)
 size: Medium humanoid
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "3 (700 XP)"
 languages: "Common"
 senses: "passive Perception 11"

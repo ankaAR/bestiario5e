@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 10 (0)
 str: 10 (0)
 size: Medium plant
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "1/2 (100 XP)"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "20 ft."

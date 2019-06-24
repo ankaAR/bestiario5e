@@ -20,7 +20,7 @@ armor_class: "16 (cuero endurecido)"
 damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
 ---
 
-***Dragon Fanatic.*** The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened.
+***Dragon Fanatic.*** The dragonsoul has advantage on saving throws against being hechizado or asustado. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being hechizado or asustado.
 
 ***Fanatic Advantage.*** Once per turn, if the dragonsoul makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.
 

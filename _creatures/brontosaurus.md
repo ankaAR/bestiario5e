@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 9 (-1)
 str: 21 (+5)
 size: Gargantuan beast
-alignment: unaligned
+alignment: no alineado
 challenge: "5 (1,800 XP)"
 saving_throws: "Con +6"
 speed: "30 ft."

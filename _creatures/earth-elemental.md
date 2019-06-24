@@ -18,7 +18,7 @@ speed: "30 ft., escavando 30 pies (9 mts)"
 hit_points: "126 (12d10+60)"
 armor_class: "17 (armadura natural)"
 damage_vulnerabilities: "thunder"
-condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
+condition_immunities: "agotamiento, paralizado, petrificado, envenenado, unconscious"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

@@ -18,7 +18,7 @@ saving_throws: "Con +4, Sab +2"
 speed: "30 ft., nadando 30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "frightened"
+condition_immunities: "asustado"
 ---
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.

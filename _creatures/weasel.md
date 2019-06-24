@@ -9,7 +9,7 @@ con: 8 (-1)
 dex: 16 (+3)
 str: 3 (-4)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 skills: "Percepción +3, Sigilo +5"
 speed: "30 ft."

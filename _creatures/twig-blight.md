@@ -18,7 +18,7 @@ speed: "20 ft."
 hit_points: "4 (1d6+1)"
 armor_class: "13 (armadura natural)"
 damage_vulnerabilities: "Fuego"
-condition_immunities: "blinded, deafened"
+condition_immunities: "cegado, ensordecido"
 ---
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.

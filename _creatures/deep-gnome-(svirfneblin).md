@@ -33,4 +33,4 @@ At will: nondetection (self only)
 
 ***War Pick.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d8 + 2) puntos de daño perforante.
 
-***Poisoned Dart.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies (XX mts), una criatura. Impacto: 4 (1d4 + 2) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success
+***Poisoned Dart.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies (XX mts), una criatura. Impacto: 4 (1d4 + 2) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or be envenenado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success

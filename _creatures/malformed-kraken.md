@@ -18,7 +18,7 @@ saving_throws: "Str +11, Con +9, Int +4, Sab +6, Car +6"
 speed: "20 ft., nadando 40 pies (12 mts)"
 hit_points: "172 (15d12+75)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "frightened, paralyzed"
+condition_immunities: "asustado, paralizado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

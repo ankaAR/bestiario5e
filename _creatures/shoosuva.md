@@ -18,7 +18,7 @@ saving_throws: "Des +4, Con +6, Sab +5"
 speed: "40 ft."
 hit_points: "110 (13d10+39)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "charmed, frightened, poisoned"
+condition_immunities: "hechizado, asustado, envenenado"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -30,4 +30,4 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 26 (4d10+4) puntos de daño perforante.
 
-***Tail Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 15 ft, one creature. Hit: 13 (2d8+4) puntos de daño perforante, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Tail Stinger.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 15 ft, one creature. Hit: 13 (2d8+4) puntos de daño perforante, and the target must succeed on a DC 14 Constitution saving throw or become envenenado. While envenenado, the target is also paralizado. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

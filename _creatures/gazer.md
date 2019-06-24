@@ -30,9 +30,9 @@ condition_immunities: "prone"
 
 ***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 
-7. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
+7. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be hechizado until the start of the gazer's next turn. While the target is hechizado in this way, its speed is halved, and it has disadvantage on attack rolls.
 
-2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
+2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be asustado until the start of the gazer's next turn.
 
 3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
 

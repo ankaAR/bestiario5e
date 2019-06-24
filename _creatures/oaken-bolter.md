@@ -9,8 +9,8 @@ int: 3 (-3)
 con: 15 (+2)
 dex: 18 (+4)
 str: 12 (+1)
-size: Medium construct
-alignment: unaligned
+size: Constructo mediano
+alignment: no alineado
 challenge: "5 (1800 XP)"
 languages: "understands one language of its creator but can't speak"
 senses: "darkvision 60 ft., passive Perception 10"
@@ -18,7 +18,7 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft."
 hit_points: "58  (9d8 + 18)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Magic Resistance.*** The oaken bolter has advantage on saving throws against spells and other magical effects.

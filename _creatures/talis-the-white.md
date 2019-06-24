@@ -22,7 +22,7 @@ armor_class: "18 (scale mail +1, shield)"
 
 ***Special Equipment.*** Talis has +1 scale mail and a wand of winter.
 
-***Fey Ancestry.*** Talis has advantage on saving throws against being charmed, and magic can't put her to sleep.
+***Fey Ancestry.*** Talis has advantage on saving throws against being hechizado, and magic can't put her to sleep.
 
 ***Lanzamiento de conjuros.*** Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:
 

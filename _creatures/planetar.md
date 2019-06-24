@@ -18,7 +18,7 @@ saving_throws: "Con +12, Sab +11, Car +12"
 speed: "40 pies (12 mts), fly 120 ft."
 hit_points: "200 (16d10+112)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened"
+condition_immunities: "hechizado, agotamiento, asustado"
 damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -42,4 +42,4 @@ At will: detect evil and good, invisibility (self only)
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +12 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
-***Healing Touch (4/Día).*** The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+***Healing Touch (4/Día).*** The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, veneno, blindness, or deafness.

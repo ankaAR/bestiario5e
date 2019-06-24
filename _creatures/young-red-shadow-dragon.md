@@ -22,7 +22,7 @@ armor_class: "18 (armadura natural)"
 damage_resistances: "necrotic"
 ---
 
-***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.
+***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psíquico, or radiant.
 
 ***Shadow Stealth.*** While in dim light or darkness, the dragon can take the Hide action as a bonus action.
 

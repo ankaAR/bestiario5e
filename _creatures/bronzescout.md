@@ -9,8 +9,8 @@ int: 3 (-3)
 con: 11 (0)
 dex: 16 (+3)
 str: 10 (0)
-size: Medium construct
-alignment: unaligned
+size: Constructo mediano
+alignment: no alineado
 challenge: "1 (200 XP)"
 languages: "understands one language of its creator but can't speak"
 senses: "darkvision 60 ft., passive Perception 16"
@@ -19,7 +19,7 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft., escavando 30 pies (9 mts)"
 hit_points: "18  (4d8)"
 armor_class: "13"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Earth Armor.*** The bronze scout doesn't provoke opportunity attacks when it burrows.

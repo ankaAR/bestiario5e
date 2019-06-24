@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "40 pies (12 mts), nadando 40 pies (12 mts)"
 hit_points: "127 (17d8+51)"
 armor_class: "18 (plate)"
-condition_immunities: "paralyzed, petrified, poisoned, prone"
+condition_immunities: "paralizado, petrificado, envenenado, prone"
 damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

@@ -22,7 +22,7 @@ armor_class: "11 (14 with mage armor)"
 
 ***Special Equipment.*** Nezznar has a spider staff.
 
-***Fey Ancestry.*** Nezznar has advantage on saving throws against being charmed, and magic can't put him to sleep.
+***Fey Ancestry.*** Nezznar has advantage on saving throws against being hechizado, and magic can't put him to sleep.
 
 ***Sunlight Sensitivity.*** Nezznar has disadvantage on attack rolls when he or his target is in sunlight.
 

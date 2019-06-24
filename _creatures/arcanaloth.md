@@ -19,7 +19,7 @@ saving_throws: "Des +5, Int +9, Sab +7, Car +7"
 speed: "30 ft., fly 30 ft."
 hit_points: "104 (16d8+32)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, poisoned"
+condition_immunities: "hechizado, envenenado"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

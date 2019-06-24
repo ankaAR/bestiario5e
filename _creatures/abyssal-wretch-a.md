@@ -18,7 +18,7 @@ damage_immunities: "Poison"
 speed: "20 ft."
 hit_points: "18 (4d8)"
 armor_class: "11"
-condition_immunities: "Charmed, frightened, poisoned"
+condition_immunities: "Charmed, asustado, envenenado"
 ---
 
 **Damage Resistance** Cold, fire, lightning

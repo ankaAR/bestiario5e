@@ -20,7 +20,7 @@ armor_class: "13"
 condition_immunities: "Envenenado"
 ---
 
-***Stench.*** Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
+***Stench.*** Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be envenenado until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 
 ***Turn Defiance.*** The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.
 
@@ -28,4 +28,4 @@ condition_immunities: "Envenenado"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 12 (2d8 + 3) puntos de daño perforante.
 
-***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 10 (2d6 + 3) puntos de daño cortante. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

@@ -18,7 +18,7 @@ damage_immunities: "acid, poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, frightened, poisoned"
+condition_immunities: "hechizado, asustado, envenenado"
 damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -40,7 +40,7 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 
 ***Longsword.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed until the end of the ultroloth's next turn. The charmed target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
+***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be hechizado until the end of the ultroloth's next turn. The hechizado target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
 
 ***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 

@@ -18,7 +18,7 @@ saving_throws: "Str +7, Con +6, Int +5, Car +6"
 speed: "30 ft., fly 60 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "19 (scale mail)"
-damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_resistances: "cold, fire, lightning, veneno, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
 ***Fiendish Blessing.*** The AC of the cambion includes its Charisma bonus.
@@ -37,4 +37,4 @@ damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and s
 
 ***Fire Ray.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 10 (3d6) fire damage.
 
-***Fiendish Charm.*** One humanoid the cambion can see within 30 ft. of it must succeed on a DC 14 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the cambion's spoken commands. If the target suffers any harm from the cambion or another creature or receives a suicidal command from the cambion, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to the cambion's Fiendish Charm for the next 24 hours.
+***Fiendish Charm.*** One humanoid the cambion can see within 30 ft. of it must succeed on a DC 14 Wisdom saving throw or be magically hechizado for 1 day. The hechizado target obeys the cambion's spoken commands. If the target suffers any harm from the cambion or another creature or receives a suicidal command from the cambion, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to the cambion's Fiendish Charm for the next 24 hours.

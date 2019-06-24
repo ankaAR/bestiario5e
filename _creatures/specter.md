@@ -17,7 +17,7 @@ damage_immunities: "necrotic, poison"
 speed: "0 ft., fly 50 ft. (hover)"
 hit_points: "22 (5d8)"
 armor_class: "12"
-condition_immunities: "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+condition_immunities: "hechizado, agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, unconscious"
 damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

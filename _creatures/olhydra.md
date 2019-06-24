@@ -18,7 +18,7 @@ saving_throws: "Str +11, Con +13, Sab +10"
 speed: "50 ft., nadando 100 ft."
 hit_points: "324 (24d12+168)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, asustado, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

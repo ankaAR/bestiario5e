@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 15 (+2)
 str: 18 (+4)
 size: Large monstrosity
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "11 (7,200 XP)"
 languages: "Común, Sphinx"
 senses: "truesight 120 ft."
@@ -18,7 +18,7 @@ damage_immunities: "psychic"
 speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "136 (16d10+48)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, frightened"
+condition_immunities: "hechizado, asustado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

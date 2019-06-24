@@ -16,7 +16,7 @@ senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"
 armor_class: "12 (armadura natural)"
-condition_immunities: "blinded, deafened"
+condition_immunities: "cegado, ensordecido"
 ---
 
 ### Acciones

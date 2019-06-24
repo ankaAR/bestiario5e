@@ -19,7 +19,7 @@ saving_throws: "Des +9, Con +12, Sab +12"
 speed: "40 ft."
 hit_points: "378 (36d10+180)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 
@@ -53,7 +53,7 @@ Graz'zt can take 3 legendary actions, choosing from the options below. Only one 
 
 ***Attack.*** Graz'zt attacks once with the Wave of Sorrow.
 
-***Dance, My Puppet!.*** One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
+***Dance, My Puppet!.*** One creature hechizado by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
 
 ***Sow Discord.*** Graz'zt casts crown of madness or dissonant whispers.
 

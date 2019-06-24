@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 11 (0)
 str: 13 (+1)
 size: Small monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "passive Perception 1"
 skills: "Athletics +3"

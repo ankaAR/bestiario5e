@@ -20,7 +20,7 @@ saving_throws: "Des +9, Con +14, Sab +11"
 speed: "30 ft., fly 60 ft."
 hit_points: "200  (16d10 + 112)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
@@ -43,7 +43,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Multiattack*** Hutijin makes four attacks: one with his bite, one with his claw, one with his mace, and one with his tail.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 15 (2d6 + 8) puntos de daño perforante. The target must succeed on a DC 22 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 15 (2d6 + 8) puntos de daño perforante. The target must succeed on a DC 22 Constitution saving throw or become envenenado. While envenenado in this way, the target can't regain hit points, and it takes 10 (3d6) poison damage at the start of each of its turns. The envenenado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw*** Ataque de arma cuerpo a cuerpo: +15 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 17 (2d8 + 8) puntos de daño cortante.
 

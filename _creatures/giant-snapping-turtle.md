@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 10 (0)
 str: 19 (+4)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft., passive Perception 11"
 speed: "30 ft., nadando 40 pies (12 mts)"

@@ -18,7 +18,7 @@ saving_throws: "Con +12, Sab +7, Car +11"
 speed: "50 ft.."
 hit_points: "341 (22d20+110)"
 armor_class: "16"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

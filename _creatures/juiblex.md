@@ -20,11 +20,11 @@ saving_throws: "Des +7, Con +13, Sab +12"
 speed: "30 ft."
 hit_points: "350  (28d12 + 168)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained, stunned, unconscious"
 damage_resistances: "cold, fire, lightning"
 ---
 
-***Foul.*** Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
+***Foul.*** Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be envenenado until the start of the creature's next turn.
 
 ***Innate Spellcasting.*** Juiblex's spellcasting ability is Charisma. Juiblex can innately cast the following spells, requiring no material components:
 * At will: acid splash (17th level), detect magic
@@ -56,4 +56,4 @@ Juiblex can take 3 legendary actions, choosing from the options below. Only one 
 
 ***Attack*** Juiblex makes one acid lash attack.
 
-***Corrupting Touch (cuesta 2 acciones)*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is poisoned, and any creature, other than an ooze, is poisoned while within 10 feet of the target.
+***Corrupting Touch (cuesta 2 acciones)*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), una criatura. Impacto: 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped off with an action, the target is envenenado, and any creature, other than an ooze, is envenenado while within 10 feet of the target.

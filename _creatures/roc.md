@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 10 (0)
 str: 28 (+9)
 size: Gargantuan monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "11 (7,200 XP)"
 skills: "Percepción +4"
 saving_throws: "Des +4, Con +9, Sab +4, Car +3"

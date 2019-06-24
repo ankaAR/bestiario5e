@@ -9,7 +9,7 @@ int: 9 (-1)
 con: 16 (+3)
 dex: 13 (+1)
 str: 17 (+3)
-size: Medium construct
+size: Constructo mediano
 alignment: legal maligna
 challenge: "6 (2,300 XP)"
 languages: "understands Common but can't speak"
@@ -19,7 +19,7 @@ damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "21 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado"
 damage_resistances: "cold, fire"
 ---
 

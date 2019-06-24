@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 12 (+1)
 str: 17 (+3)
 size: Medium elemental
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "2 (450 XP)"
 languages: "Ignan"
 damage_immunities: "fire, poison"

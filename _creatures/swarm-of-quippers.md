@@ -9,13 +9,13 @@ con: 9 (-1)
 dex: 16 (+3)
 str: 13 (+1)
 size: Medium swarm
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "0 ft., nadando 40 pies (12 mts)"
 hit_points: "28 (8d8-8)"
 armor_class: "13"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 

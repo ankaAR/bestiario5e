@@ -17,7 +17,7 @@ saving_throws: "Sab +3, Car +6"
 speed: "30 ft."
 hit_points: "49 (11d8)"
 armor_class: "11 (14 with mage armor)"
-condition_immunities: "charmed"
+condition_immunities: "hechizado"
 ---
 
 ***Innate Spellcasting.*** The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:

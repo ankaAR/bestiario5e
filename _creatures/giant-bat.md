@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 16 (+3)
 str: 15 (+2)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 60 pies (18 mts)"
 speed: "10 pies (3 mts), fly 60 ft."
@@ -17,7 +17,7 @@ hit_points: "22 (4d10)"
 armor_class: "13"
 ---
 
-***Echolocation.*** The bat can't use its Vista ciega while deafened.
+***Echolocation.*** The bat can't use its Vista ciega while ensordecido.
 
 ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 

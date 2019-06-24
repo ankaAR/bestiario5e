@@ -19,7 +19,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "88  (16d8 + 16)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "charmed, exhaustion, poisoned"
+condition_immunities: "hechizado, agotamiento, envenenado"
 damage_resistances: "cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -33,6 +33,6 @@ damage_resistances: "cold, fire, lightning, necrotic; bludgeoning, piercing, and
 
 ***Bite*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 14 (2d10 + 3) puntos de daño perforante. If the target is a humanoid, its Charisma score is reduced by 1d4. This reduction lasts until the target finishes a short or long rest. The target dies if this reduces its Charisma to 0. It rises 24 hours later as a ghoul, unless it has been revived or its corpse has been destroyed.
 
-***Claws*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8 + 3) puntos de daño cortante. If the target is a creature other than an undead, it must succeed on a DC 12 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8 + 3) puntos de daño cortante. If the target is a creature other than an undead, it must succeed on a DC 12 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Raise Ghoul (Recarga 5-6)*** The maurezhi targets one dead ghoul or ghast it can see within 30 feet of it. The target is revived with all its hit points.

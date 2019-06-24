@@ -10,7 +10,7 @@ con: 18 (+4)
 dex: 12 (+1)
 str: 20 (+5)
 size: Huge elemental
-alignment: unaligned
+alignment: no alineado
 challenge: "9 (5,000 XP)"
 languages: "Primordial"
 senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 14"

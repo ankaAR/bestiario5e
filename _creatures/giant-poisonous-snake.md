@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 18 (+4)
 str: 10 (0)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 10 pies (3 mts)"
 skills: "Percepción +2"

@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 16 (+3)
 str: 16 (+3)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "4 (1,100 XP)"
 senses: "passive Perception 14"
 skills: "Percepción +4, Sigilo +7"

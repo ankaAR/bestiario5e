@@ -33,4 +33,4 @@ At will: command, create or destroy water
 
 ***Thunderous Touch.*** Melee Spell Attack: +5 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 27 (5d10) thunder damage.
 
-***Voice of the Kraken (Recharges after a Short or Long Rest).*** A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Charisma saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Voice of the Kraken (Recharges after a Short or Long Rest).*** A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Charisma saving throw or be asustado for 1 minute. A asustado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

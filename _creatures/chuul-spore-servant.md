@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 10 (0)
 str: 19 (+4)
 size: Large plant
-alignment: unaligned
+alignment: no alineado
 challenge: "4 (1,100 XP)"
 languages: "-"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft., nadando 30 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
+condition_immunities: "cegado, hechizado, asustado, paralizado, envenenado"
 ---
 
 ### Acciones

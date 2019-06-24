@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 9 (-1)
 str: 19 (+4)
 size: Huge undead
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft., passive Perception 8"
 condition_immunities: "Envenenado"

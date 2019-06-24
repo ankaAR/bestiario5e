@@ -19,7 +19,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "105  (14d8 + 42)"
 armor_class: "18 (plate)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, envenenado, stunned, unconscious"
 damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

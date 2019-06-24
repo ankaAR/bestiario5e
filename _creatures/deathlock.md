@@ -20,7 +20,7 @@ saving_throws: "Int +4, Car +5"
 speed: "30 ft."
 hit_points: "36  (8d8)"
 armor_class: "12 (15 with mage armor)"
-condition_immunities: "exhaustion, poisoned"
+condition_immunities: "agotamiento, envenenado"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 

@@ -21,7 +21,7 @@ armor_class: "18 (plate)"
 damage_resistances: "poison"
 ---
 
-***Brave.*** The knight has advantage on saving throws against being frightened.
+***Brave.*** The knight has advantage on saving throws against being asustado.
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 

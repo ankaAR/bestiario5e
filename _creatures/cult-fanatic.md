@@ -18,7 +18,7 @@ hit_points: "33 (6d8+6)"
 armor_class: "13 (armadura de cuero)"
 ---
 
-***Devoción oscura.*** The fanatic has advantage on saving throws against being charmed or frightened.
+***Devoción oscura.*** The fanatic has advantage on saving throws against being hechizado or asustado.
 
 ***Lanzamiento de conjuros.*** The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 

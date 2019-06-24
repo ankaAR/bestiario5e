@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 8 (-1)
 str: 13 (+1)
 size: Medium monstrosity
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "1 (200 XP)"
 languages: "Common"
 senses: "darkvision 60ft., passive Perception 14"

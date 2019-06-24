@@ -9,15 +9,15 @@ con: 20 (+5)
 dex: 9 (-1)
 str: 24 (+7)
 size: Large construct
-alignment: unaligned
+alignment: no alineado
 challenge: "16 (15,000 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-damage_immunities: "fire, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+damage_immunities: "fire, veneno, psíquico, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "30 ft."
 hit_points: "210 (20d10+100)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Fire Absorption.*** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.

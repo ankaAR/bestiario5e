@@ -9,17 +9,17 @@ con: 10 (0)
 dex: 15 (+2)
 str: 5 (-3)
 size: Medium swarm
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 60 pies (18 mts)"
 speed: "0 ft., fly 30 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 
-***Echolocation.*** The swarm can't use its Vista ciega while deafened.
+***Echolocation.*** The swarm can't use its Vista ciega while ensordecido.
 
 ***Keen Hearing.*** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
 

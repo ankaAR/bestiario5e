@@ -19,7 +19,7 @@ saving_throws: "Con +6, Sab +5"
 speed: "30 ft."
 hit_points: "117 (18d8+36)"
 armor_class: "17"
-condition_immunities: "charmed, frightened, poisoned"
+condition_immunities: "hechizado, asustado, envenenado"
 ---
 
 ***Draconic Majesty.*** Neronvain adds his Charisma bonus to his AC (included).
@@ -34,4 +34,4 @@ condition_immunities: "charmed, frightened, poisoned"
 
 ***Eldritch Arrow.*** Ranged Spell Attack: +7 to hit, range 120 pies, un objetivo. Impacto: 11 (2d10) force damage plus 9 (2d8) poison damage.
 
-***Poisonous Cloud (2/Día).*** Poison gas fills a 20-foot-radius sphere centered on a point Neronvain can see within 50 feet of him. The gas spreads around corners and remains until the start of Neronvain's next turn. Each creature that starts its turn in the gas must succeed on a DC 16 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. >>>
+***Poisonous Cloud (2/Día).*** Poison gas fills a 20-foot-radius sphere centered on a point Neronvain can see within 50 feet of him. The gas spreads around corners and remains until the start of Neronvain's next turn. Each creature that starts its turn in the gas must succeed on a DC 16 Constitution saving throw or be envenenado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. >>>

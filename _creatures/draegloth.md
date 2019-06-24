@@ -22,7 +22,7 @@ condition_immunities: "Envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 
-***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
+***Fey Ancestry.*** The draegloth has advantage on saving throws against being hechizado, and magic can't put it to sleep.
 
 ***Innate Spellcasting.*** The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components:
 

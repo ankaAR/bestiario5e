@@ -9,10 +9,10 @@ con: 16 (+3)
 dex: 10 (0)
 str: 18 (+4)
 size: Large plant
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Vista ciega 30 pies (9 mts), passive Perception 10"
-condition_immunities: "blinded, deafened, exhaustion, prone"
+condition_immunities: "cegado, ensordecido, agotamiento, prone"
 damage_resistances: "cold, fire"
 speed: "5 ft., climb 5 ft."
 hit_points: "85 (10d10 +30)"

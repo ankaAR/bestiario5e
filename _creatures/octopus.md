@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 15 (+2)
 str: 4 (-3)
 size: Small beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "darkvision 30 ft."
 skills: "Percepción +2, Sigilo +4"

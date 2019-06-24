@@ -9,7 +9,7 @@ con: 22 (+6)
 dex: 7 (-2)
 str: 28 (+9)
 size: Gargantuan monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "15 (13,000 XP)"
 senses: "Vista ciega 30 pies (9 mts), tremorsense 60 ft."
 saving_throws: "Con +11, Sab +4"

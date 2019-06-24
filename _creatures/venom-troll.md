@@ -32,8 +32,8 @@ condition_immunities: "Envenenado"
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 
-***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante más 4 (1d8) poison damage, and the creature is poisoned until the start of the troll's next turn.
+***Bite*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante más 4 (1d8) poison damage, and the creature is envenenado until the start of the troll's next turn.
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) slashing damage más 4 (1d8) poison damage.
 
-***Venom Spray (Recarga 6)*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Venom Spray (Recarga 6)*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (2d6) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (4d8) poison damage and is envenenado for 1 minute. On a successful save, the creature takes half as much damage and isn't envenenado. A envenenado creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

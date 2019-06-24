@@ -13,12 +13,12 @@ alignment: neutral evil
 challenge: "18 (20,000 XP)"
 languages: "Auran"
 senses: "Vista ciega 120 ft."
-damage_immunities: "lightning, poison, thunder"
+damage_immunities: "lightning, veneno, thunder"
 saving_throws: "Des +13, Sab +11, Car +12"
 speed: "50 ft., fly 150 ft."
 hit_points: "283 (21d12+147)"
 armor_class: "22 (armadura natural)"
-condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, asustado, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -42,7 +42,7 @@ damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonma
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 20 (3d8 + 7) force damage plus 10 (3d6) puntos de daño por relámpago.
 
-***Thundercrack (Recharges after a Short or Long Rest).*** Yan-C-Bin unleashes a terrible thundercrack in a 100-foot- radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be deafened for 1 minute. On a successful save, a creature takes half as much damage and is deafened until the start of Yan-C-Bin's next turn.
+***Thundercrack (Recharges after a Short or Long Rest).*** Yan-C-Bin unleashes a terrible thundercrack in a 100-foot- radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be ensordecido for 1 minute. On a successful save, a creature takes half as much damage and is ensordecido until the start of Yan-C-Bin's next turn.
 
 ***Change Shape.*** Yan-C-Bin polymorphs into a Medium humanoid. While in polymorphed form, a swirling breeze surrounds him, his eyes are pale and cloudy, and he loses the Air Form trait. He can remain in polymorphed form for up to 1 hour. Reverting to his true form requires an action.
 

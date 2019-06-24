@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 16 (+3)
 size: Small monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 60 pies (18 mts)"
 skills: "Sigilo +3"
@@ -18,7 +18,7 @@ hit_points: "22 (5d6+5)"
 armor_class: "11"
 ---
 
-***Echolocation.*** The darkmantle can't use its Vista ciega while deafened.
+***Echolocation.*** The darkmantle can't use its Vista ciega while ensordecido.
 
 ***False Appearance.*** While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
 

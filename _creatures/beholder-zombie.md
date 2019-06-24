@@ -18,7 +18,7 @@ saving_throws: "Sab +2"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "93 (11d10+33)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "poisoned, prone"
+condition_immunities: "envenenado, prone"
 ---
 
 ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
@@ -29,9 +29,9 @@ condition_immunities: "poisoned, prone"
 
 ***Eye Ray.*** The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.
 
-1. Paralyzing Ray. The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+1. Paralyzing Ray. The targeted creature must succeed on a DC 14 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-2. Fear Ray. The targeted creature must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+2. Fear Ray. The targeted creature must succeed on a DC 14 Wisdom saving throw or be asustado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 3. Enervation Ray. The targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic damage on a failed save, or half as much damage on a successful one.
 

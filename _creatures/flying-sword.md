@@ -9,15 +9,15 @@ con: 11 (0)
 dex: 15 (+2)
 str: 12 (+1)
 size: Small construct
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
-damage_immunities: "poison, psychic"
+damage_immunities: "veneno, psíquico"
 saving_throws: "Des +4"
 speed: "0 ft., fly 50 ft. It can hover."
 hit_points: "17 (5d6)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "cegado, hechizado, ensordecido, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.

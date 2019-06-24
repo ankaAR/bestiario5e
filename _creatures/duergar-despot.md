@@ -19,7 +19,7 @@ saving_throws: "Con +8, Sab +6"
 speed: "25 ft."
 hit_points: "119  (14d8 + 56)"
 armor_class: "21 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 ---
 
 ***Innate Spellcasting (Psionics).*** The duergar despot's innate spellcasting ability is Intelligence. It can cast the following spells, requiring no components:
@@ -28,7 +28,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Magic Resistance.*** The duergar has advantage on saving throws against spells and other magical effects.
 
-***Psychic Engine.*** When the duergar despot suffers a critical hit or is reduced to 0 hit points, psychic energy erupts from its frame to deal 14 (4d6) psychic damage to each creature within 5 feet of it.
+***Psychic Engine.*** When the duergar despot suffers a critical hit or is reduced to 0 hit points, psíquico energy erupts from its frame to deal 14 (4d6) psychic damage to each creature within 5 feet of it.
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar despot has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

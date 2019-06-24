@@ -19,7 +19,7 @@ saving_throws: "Str +5, Con +7, Int +9, Sab +7, Car +9"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "187 (25d10+50)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, exhaustion, paralyzed, petrified, poisoned, prone"
+condition_immunities: "hechizado, agotamiento, paralizado, petrificado, envenenado, prone"
 ---
 
 ***Negative Energy Cone.*** The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.
@@ -32,11 +32,11 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 ***Eye Rays.*** The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 ft. of it:
 
-1. Charm Ray. The targeted creature must succeed on a DC 17 Wisdom saving throw or be charmed by the death tyrant for 1 hour, or until the death tyrant harms the creature.
+1. Charm Ray. The targeted creature must succeed on a DC 17 Wisdom saving throw or be hechizado by the death tyrant for 1 hour, or until the death tyrant harms the creature.
 
-2. Paralyzing Ray. The targeted creature must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+2. Paralyzing Ray. The targeted creature must succeed on a DC 17 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-3. Fear Ray. The targeted creature must succeed on a DC 17 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+3. Fear Ray. The targeted creature must succeed on a DC 17 Wisdom saving throw or be asustado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 4. Slowing Ray. The targeted creature must succeed on a DC 17 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -48,7 +48,7 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 7. Sleep Ray. The targeted creature must succeed on a DC 17 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
 
-8. Petrification Ray. The targeted creature must make a DC 17 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
+8. Petrification Ray. The targeted creature must make a DC 17 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrificado until freed by the greater restoration spell or other magic.
 
 9. Disintegration Ray. If the target is a creature, it must succeed on a DC 17 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.
 

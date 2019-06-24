@@ -10,16 +10,16 @@ con: 20 (+5)
 dex: 7 (-2)
 str: 26 (+8)
 size: Gargantuan construct
-alignment: unaligned
+alignment: no alineado
 challenge: "11 (7,200 XP)"
 languages: "-"
 senses: "Vista ciega 120 ft. (blind beyond this radius)"
-damage_immunities: "poison, psychic"
+damage_immunities: "veneno, psíquico"
 saving_throws: "Con +9, Sab +0, Car +0"
 speed: "30 ft."
 hit_points: "263 (17d10+85)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, prone"
 ---
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.

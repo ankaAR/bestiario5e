@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 15 (+2)
 str: 18 (+4)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 skills: "Percepción +3, Sigilo +4"
 speed: "20 ft., nadando 40 pies (12 mts)"

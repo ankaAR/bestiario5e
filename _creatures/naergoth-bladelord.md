@@ -19,7 +19,7 @@ saving_throws: "Des +5, Sab +4"
 speed: "30 ft."
 hit_points: "135 (18d8+54)"
 armor_class: "18 (plate)"
-condition_immunities: "exhaustion, poisoned"
+condition_immunities: "agotamiento, envenenado"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 

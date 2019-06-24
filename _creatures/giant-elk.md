@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 16 (+3)
 str: 19 (+4)
 size: Huge beast
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 languages: "Giant Elk, understands Common, Elvish, and Sylvan but can't speak"
 skills: "Percepción +4"

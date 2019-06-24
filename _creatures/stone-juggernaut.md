@@ -9,11 +9,11 @@ con: 21 (+5)
 dex: 1 (-5)
 str: 22 (+6)
 size: Large construct
-alignment: unaligned
+alignment: no alineado
 challenge: "12 (8,400 XP)"
 senses: "Vista ciega 120 ft., passive Perception 10"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone"
-damage_immunities: "poison, bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado, prone"
+damage_immunities: "veneno, bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons"
 speed: "50 ft. (in one direction chosen at the start of its turn)"
 hit_points: "157 (15d10 +75)"
 armor_class: "15 (armadura natural)"

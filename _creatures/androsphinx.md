@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 10 (0)
 str: 22 (+6)
 size: Large monstrosity
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "17 (18,000 XP)"
 languages: "Común, Sphinx"
 senses: "truesight 120 ft."
@@ -19,7 +19,7 @@ saving_throws: "Des +6, Con +11, Int +9, Sab +10"
 speed: "40 pies (12 mts), fly 60 ft."
 hit_points: "199 (19d10+95)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, frightened"
+condition_immunities: "hechizado, asustado"
 ---
 
 ***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
@@ -50,9 +50,9 @@ condition_immunities: "charmed, frightened"
 
 ***Roar (3/Día).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
-First Roar. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+First Roar. Each creature that fails a DC 18 Wisdom saving throw is asustado for 1 minute. A asustado creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-Second Roar. Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Second Roar. Each creature that fails a DC 18 Wisdom saving throw is ensordecido and asustado for 1 minute. A asustado creature is paralizado and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 Third Roar. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 

@@ -19,7 +19,7 @@ saving_throws: "Con +7, Int +8, Sab +7, Car +7"
 speed: "30 ft."
 hit_points: "120 (16d8+48)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 damage_resistances: "cold, lightning, necrotic"
 ---
 

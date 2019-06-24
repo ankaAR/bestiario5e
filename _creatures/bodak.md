@@ -18,13 +18,13 @@ damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "charmed, frightened, poisoned"
+condition_immunities: "hechizado, asustado, envenenado"
 damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
 ***Aura of Annihilation.*** The bodak can activate or deactivate this feature as a bonus action. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and fiends ignore this effect.
 
-***Death Gaze.*** When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points, unless it is immune to the frightened condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed save.
+***Death Gaze.*** When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points, unless it is immune to the asustado condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed save.
 
 >Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so. it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, it must immediately make the saving throw.
 

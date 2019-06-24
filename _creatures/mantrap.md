@@ -9,10 +9,10 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 15 (+2)
 size: Large plant
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 senses: "tremorsense 30 ft., passive Perception 10"
-condition_immunities: "blinded, deafened, exhaustion, prone"
+condition_immunities: "cegado, ensordecido, agotamiento, prone"
 speed: "5 ft."
 hit_points: "45 (7d10 +7)"
 armor_class: "12"

@@ -19,7 +19,7 @@ hit_points: "75 (10d10+20)"
 armor_class: "15 (armadura natural)"
 ---
 
-***Echolocation.*** The hook horror can't use its Vista ciega while deafened.
+***Echolocation.*** The hook horror can't use its Vista ciega while ensordecido.
 
 ***Keen Hearing.*** The hook horror has advantage on Wisdom (Perception) checks that rely on hearing.
 

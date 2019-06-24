@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 17 (+3)
 str: 16 (+3)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 languages: "--"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

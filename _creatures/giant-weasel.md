@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 16 (+3)
 str: 11 (0)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/8 (25 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3, Sigilo +5"

@@ -35,7 +35,7 @@ armor_class: "18 (armadura natural)"
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +11 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 15 (2d8 + 6) puntos de daño contundente.
 
-***Resistencia Pavorosa.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Resistencia Pavorosa for the next 24 hours.
+***Resistencia Pavorosa.*** Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become asustado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Resistencia Pavorosa for the next 24 hours.
 
 ***Cold Breath (Recarga 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 

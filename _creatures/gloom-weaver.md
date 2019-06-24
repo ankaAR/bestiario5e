@@ -19,12 +19,12 @@ saving_throws: "Des +8, Con +6"
 speed: "30 ft."
 hit_points: "104  (16d8 + 32)"
 armor_class: "14 (17 with mage armor)"
-condition_immunities: "charmed, exhaustion"
+condition_immunities: "hechizado, agotamiento"
 ---
 
 ***Burden of Time.*** Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.
 
-***Fey Ancestry.*** The gloom weaver has advantage on saving throws against being charmed, and magic can't put it to sleep.
+***Fey Ancestry.*** The gloom weaver has advantage on saving throws against being hechizado, and magic can't put it to sleep.
 
 ***Innate Spellcasting.*** The gloom weaver's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: arcane eye, mage armor, speak with dead

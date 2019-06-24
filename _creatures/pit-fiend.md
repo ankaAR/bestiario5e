@@ -22,7 +22,7 @@ condition_immunities: "Envenenado"
 damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
 
-***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is asustado until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 
 ***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
 
@@ -38,7 +38,7 @@ At will: detect magic, fireball
 
 ***Multiataque.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (4d6 + 8) puntos de daño perforante. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 22 (4d6 + 8) puntos de daño perforante. The target must succeed on a DC 21 Constitution saving throw or become envenenado. While envenenado in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The envenenado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +14 al ataque, alcance 10 ft. , one target. Hit: 17 (2d8 + 8) puntos de daño cortante.
 

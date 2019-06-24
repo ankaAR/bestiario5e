@@ -19,7 +19,7 @@ saving_throws: "Con +8, Int +9, Sab +7"
 speed: "30 ft."
 hit_points: "105 (14d8+42)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 damage_resistances: "cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
@@ -55,7 +55,7 @@ Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray 
 
 ### Acciones
 
-***Paralyzing Touch.*** Melee Spell Attack: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) cold damage. The target must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Touch.*** Melee Spell Attack: +9 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 10 (3d6) cold damage. The target must succeed on a DC 17 Constitution saving throw or be paralizado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Benign Transposition.*** Var teleports up to 30 feet to an unoccupied space he can see. Alternatively, he can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, both creatures teleport, swapping places. Var can use this feature again only after he finishes a long rest or casts a conjuration spell of 1st level or higher.
 
@@ -67,4 +67,4 @@ Var can take 3 legendary actions, choosing from the options below. Only one lege
 
 ***Paralyzing Touch (cuesta 2 acciones).*** Var uses Paralyzing Touch .
 
-***Frightening Gaze (cuesta 2 acciones).*** Var fixes his gaze on one creature he can see within 10 feet of him . The target must succeed on a DC 17 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
+***Frightening Gaze (cuesta 2 acciones).*** Var fixes his gaze on one creature he can see within 10 feet of him . The target must succeed on a DC 17 Wisdom saving throw against this magic or become asustado for 1 minute. The asustado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.

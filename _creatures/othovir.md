@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 10 (0)
 str: 11 (0)
 size: Humanoide Mediano (illuskan human)
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "0 (10 XP)"
 languages: "Común, Elvish"
 skills: "Engaño +5, Perspicacia +4, Persuasión +5"

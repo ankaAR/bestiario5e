@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft., nadando 90 ft."
 hit_points: "114 (12d10+48)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, unconscious"
 damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

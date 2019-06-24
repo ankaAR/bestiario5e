@@ -19,7 +19,7 @@ hit_points: "26 (4d10 +4)"
 armor_class: "12 (armadura natural)"
 ---
 
-***Terror Dive.*** If the pterafolk is flying and dives at least 30 feet straight toward a target, and then hits that target with a melee weapon attack, the target is frightened until the end of its next turn.
+***Terror Dive.*** If the pterafolk is flying and dives at least 30 feet straight toward a target, and then hits that target with a melee weapon attack, the target is asustado until the end of its next turn.
 
 ### Acciones
 

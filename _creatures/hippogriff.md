@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 13 (+1)
 str: 17 (+3)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 skills: "Percepción +5"
 speed: "40 ft, fly 60 ft."

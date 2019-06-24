@@ -20,7 +20,7 @@ armor_class: "18 (chain mail, shield)"
 damage_resistances: "poison"
 ---
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
+***Duergar Resilience.*** The duergar has advantage on saving throws against veneno, spells, and illusions, as well as to resist being hechizado or paralizado.
 
 ***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of a duergar ally wielding a shield.
 

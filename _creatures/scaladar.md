@@ -10,7 +10,7 @@ con: 25 (+7)
 dex: 10 (0)
 str: 19 (+4)
 size: Huge construct
-alignment: unaligned
+alignment: no alineado
 challenge: "8 (8,900 XP)"
 languages: "—"
 senses: "darkvision 60 ft., passive Perception 11"
@@ -18,7 +18,7 @@ damage_immunities: "force, lightning, poison"
 speed: "30 ft., clmb 20 ft."
 hit_points: "94 (7d12 + 49)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, paralyzed, poisoned"
+condition_immunities: "hechizado, paralizado, envenenado"
 damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 8 (-1)
 str: 18 (+4)
 size: Large plant
-alignment: unaligned
+alignment: no alineado
 challenge: "5 (1,800 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Sigilo +2"
@@ -17,7 +17,7 @@ damage_immunities: "Relámpago"
 speed: "20 ft., nadando 20 ft."
 hit_points: "136 (16d10+48)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "blinded, deafened, exhaustion"
+condition_immunities: "cegado, ensordecido, agotamiento"
 damage_resistances: "cold, fire"
 ---
 
@@ -29,4 +29,4 @@ damage_resistances: "cold, fire"
 
 ***Slam.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.
 
-***Engulf.*** The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) puntos de daño contundente. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+***Engulf.*** The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is cegado, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) puntos de daño contundente. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.

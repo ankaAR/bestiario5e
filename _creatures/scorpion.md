@@ -9,7 +9,7 @@ con: 8 (-1)
 dex: 11 (0)
 str: 2 (-4)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "Vista ciega 10 pies (3 mts)"
 speed: "10 ft."

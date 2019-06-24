@@ -32,11 +32,11 @@ At will: animal friendship (snakes only)
 
 ***Magic Resistance.*** The anathema has advantage on saving throws against spells and other magical effects.
 
-***Ophidiophobia Aura.*** Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema and can see or hear it must succeed on a DC 17 Wisdom saving throw or become frightened of snakes and yuan-ti. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this aura for the next 24 hours.
+***Ophidiophobia Aura.*** Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema and can see or hear it must succeed on a DC 17 Wisdom saving throw or become asustado of snakes and yuan-ti. A asustado target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this aura for the next 24 hours.
 
 ***Shapechanger.*** The anathema can use its action to polymorph into a Huge giant constrictor snake, or back into its true form. its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
-***Six Heads.*** The anathema has advantage on Wisdom (Perception) checks and on saving throws against being blinded. charmed, deafened, frightened, stunned, or knocked unconscious.
+***Six Heads.*** The anathema has advantage on Wisdom (Perception) checks and on saving throws against being blinded. hechizado, ensordecido, asustado, stunned, or knocked unconscious.
 
 ***Variant: Acid Slime.*** As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes 5 (1d10) puntos de daño por ácido.
 

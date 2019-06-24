@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 10 (0)
 str: 19 (+4)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 skills: "Percepción +3"
 speed: "40 pies (12 mts), climb 30 ft."

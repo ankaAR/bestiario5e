@@ -12,12 +12,12 @@ size: Tiny undead
 alignment: neutral evil
 challenge: "18 (20,000 XP)"
 senses: "truesight 120 ft."
-damage_immunities: "necrotic, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons"
+damage_immunities: "necrotic, veneno, psíquico, bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Con +6, Int +11, Sab +9, Car +11"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "80 (20d4)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
+condition_immunities: "hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado, prone, stunned"
 damage_resistances: "bludgeoning, piercing, and slashing from magic weapons"
 ---
 
@@ -29,7 +29,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from magic weapons"
 
 ### Acciones
 
-***Howl (Recarga 5-6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is frightened until the end of its next turn.
+***Howl (Recarga 5-6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is asustado until the end of its next turn.
 
 ***Life Drain.*** The demilich targets up to three creatures that it can see within 10 feet of it. Each target must succeed on a DC 19 Constitution saving throw or take 21 (6d6) necrotic damage, and the demilich regains hit points equal to the total damage dealt to all targets.
 

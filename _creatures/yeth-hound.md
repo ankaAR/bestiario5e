@@ -16,7 +16,7 @@ senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "40 pies (12 mts), fly 40 ft. (hover)"
 hit_points: "51 (6d10+18)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened"
+condition_immunities: "hechizado, agotamiento, asustado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
 ---
 
@@ -28,6 +28,6 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Acciones
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6+4) puntos de daño perforante, plus 14 (4d6) psychic damage if the target is frightened.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6+4) puntos de daño perforante, plus 14 (4d6) psychic damage if the target is asustado.
 
-***Baleful Baying.*** The yeth hound bays magically. Every enemy within 300 feet of the hound that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened until the end of the hound's next turn or until the hound is incapacitated. A frightened target that starts its turn within 30 feet of the hound must use all its movement on that turn to get as far from the hound as possible, must finish the move before taking an action, and must take the most direct route, even if hazards lie that way. A target that successfully saves is immune to the baying of all yeth hounds for the next 24 hours.
+***Baleful Baying.*** The yeth hound bays magically. Every enemy within 300 feet of the hound that can hear it must succeed on a DC 13 Wisdom saving throw or be asustado until the end of the hound's next turn or until the hound is incapacitated. A asustado target that starts its turn within 30 feet of the hound must use all its movement on that turn to get as far from the hound as possible, must finish the move before taking an action, and must take the most direct route, even if hazards lie that way. A target that successfully saves is immune to the baying of all yeth hounds for the next 24 hours.

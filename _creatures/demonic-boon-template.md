@@ -24,7 +24,7 @@ page_number: 30
 
 ***Undying Soul (Recharges after a Short or Long Rest) (Orcus).*** If this creature is reduced to 0 hit points, it immediately makes a DC 10 Constitution saving throw. If it succeeds, it is instead reduced to 1 hit point.
 
-***Aura of Death (Orcus).*** This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn't incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly undead are immune to the frightened condition and have resistance to radiant damage. Enemies suffer disadvantage on death saving throws while in the aura.
+***Aura of Death (Orcus).*** This creature emanates a deathly aura that extends 30 feet in every direction from its space while it isn't incapacitated. The aura is blocked by total cover. While in the aura, the creature and any friendly undead are immune to the asustado condition and have resistance to radiant damage. Enemies suffer disadvantage on death saving throws while in the aura.
 
 ***Gnashing Jaws (Yeenoghu).*** Melee Weapon Attack: bonus to hit equal to this creature's proficiency bonus plus its Strength modifier, reach 5 pies, un objetivo. Impacto: 1d4 + this creature's Strength modifier piercing damage.
 
@@ -32,7 +32,7 @@ page_number: 30
 
 ***Aura of Bloodthirst (Yeenoghu).*** If this creature isn't incapacitated, any creature with the Rampage trait can make its Gnashing Jaws attack as a bonus action while within 10 feet of this creature.
 
-***Spore Kissed (Zuggtmoy).*** This creature is immune to the charmed and frightened conditions. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice.
+***Spore Kissed (Zuggtmoy).*** This creature is immune to the hechizado and asustado conditions. In addition, if it is reduced to 0 hit points, each creature within 10 feet of it takes poison damage equal to its number of Hit Dice.
 
 ***Fiery Soul (Balor).*** This creature has resistance to fire damage. When it dies, it explodes; each creature within 10 feet of it takes fire damage equal to its number of Hit Dice.
 
@@ -40,7 +40,7 @@ page_number: 30
 
 ***Serpentine Reaction (Marilith).*** This creature can take an extra reaction each round, but this reaction can be used only to make an opportunity attack.
 
-***Guarded Mind (Nalfeshnee).*** This creature is immune to the frightened condition.
+***Guarded Mind (Nalfeshnee).*** This creature is immune to the asustado condition.
 
 ***Horned One's Call (Gambion).*** When the cambion targets only one creature with the attacks of its Multiattack, it can choose one ally it can see within 30 feet. That ally can use its reaction to make one melee attack against a target of its choice.
 

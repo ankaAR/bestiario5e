@@ -17,7 +17,7 @@ speed: "60 ft."
 hit_points: "22 (3d10+6)"
 armor_class: "13 (barding scraps)"
 damage_vulnerabilities: "bludgeoning"
-condition_immunities: "exhaustion, poisoned"
+condition_immunities: "agotamiento, envenenado"
 ---
 
 ### Acciones

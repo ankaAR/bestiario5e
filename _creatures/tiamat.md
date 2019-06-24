@@ -19,7 +19,7 @@ saving_throws: "Str +19, Des +9, Sab +17"
 speed: "60 ft., fly 120 ft."
 hit_points: "615 (30d20+300)"
 armor_class: "25 (armadura natural)"
-condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned"
+condition_immunities: "cegado, hechizado, ensordecido, asustado, envenenado, stunned"
 ---
 
 ***Discorporation.*** When Tiamat drops to 0 hit points or dies, her body is destroyed but her essence travels back to her domain in the Nine Hells, and she is unable to take physical form for a time.
@@ -44,7 +44,7 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Cola.*** Ataque de arma cuerpo a cuerpo: +19 al ataque, alcance 25 pies (7.5 mts), un objetivo. Impacto: 28 (4d8 + 10) puntos de daño perforante.
 
-***Resistencia Pavorosa.*** Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of her must succeed on a DC 26 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Tiamat's Resistencia Pavorosa for the next 24 hours.
+***Resistencia Pavorosa.*** Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of her must succeed on a DC 26 Wisdom saving throw or become asustado for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Tiamat's Resistencia Pavorosa for the next 24 hours.
 
 ### Acciones Legendarias
 

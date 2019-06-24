@@ -9,14 +9,14 @@ con: 16 (+3)
 dex: 6 (-2)
 str: 12 (+1)
 size: Medium ooze
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 skills: "Sigilo +2"
 speed: "10 pies (3 mts), climb 10 ft."
 hit_points: "22 (3d8+9)"
 armor_class: "8"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, prone"
 damage_resistances: "acid, cold, fire"
 ---
 

@@ -9,10 +9,10 @@ con: 12 (+1)
 dex: 9 (-1)
 str: 13 (+1)
 size: Medium undead
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 30 pies (9 mts), passive Perception 8"
-condition_immunities: "charmed, exhaustion"
+condition_immunities: "hechizado, agotamiento"
 speed: "20 ft."
 hit_points: "33 (6d8 +6)"
 armor_class: "9"

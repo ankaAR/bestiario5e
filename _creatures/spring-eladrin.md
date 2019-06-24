@@ -28,8 +28,8 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 * 3/day each: confusion, enthrall, suggestion
 * 1/day each: hallucinatory terrain, Otto's irresistible dance
 
-***Joyful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature is charmed for 1 minute. On a successful save, the creature becomes immune to any eladrin's Joyful Presence for 24 hours.
-Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.
+***Joyful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature is hechizado for 1 minute. On a successful save, the creature becomes immune to any eladrin's Joyful Presence for 24 hours.
+Whenever the eladrin deals damage to the hechizado creature, it can repeat the saving throw, ending the effect on itself on a success.
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 

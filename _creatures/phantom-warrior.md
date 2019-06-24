@@ -19,7 +19,7 @@ damage_immunities: "cold, necrotic, poison"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "16"
-condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

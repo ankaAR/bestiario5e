@@ -9,7 +9,7 @@ con: 8 (-1)
 dex: 12 (+1)
 str: 1 (-5)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 speed: "swim 20 ft."
 hit_points: "1 (1d4-1)"

@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 12 (+1)
 str: 18 (+4)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 speed: "60 ft."
 hit_points: "19 (3d10+3)"

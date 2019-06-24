@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 17 (+3)
 str: 11 (0)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Vista ciega 60 pies (18 mts)"
 speed: "5 ft., nadando 30 ft."

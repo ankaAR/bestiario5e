@@ -20,7 +20,7 @@ armor_class: "15 (cuero endurecido)"
 damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
 ---
 
-***Dragon Fanatic.*** The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened.
+***Dragon Fanatic.*** The dragonfang has advantage on saving throws against being hechizado or asustado. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being hechizado or asustado.
 
 ***Fanatic Advantage.*** Once per turn, if the dragonfang makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.
 

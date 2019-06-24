@@ -18,7 +18,7 @@ saving_throws: "Str +17, Des +7, Con +14, Int +13, Sab +11"
 speed: "20 ft., nadando 60 ft."
 hit_points: "472 (27d20+189)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "frightened, paralyzed"
+condition_immunities: "asustado, paralizado"
 ---
 
 ***Anfibio.*** The kraken puede respirar aire y agua.

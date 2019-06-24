@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 12 (+1)
 str: 20 (+5)
 size: Huge monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "8 (3,900 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +6"
@@ -20,7 +20,7 @@ armor_class: "15 (armadura natural)"
 
 ***Hold Breath.*** The hydra can hold its breath for 1 hour.
 
-***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being cegado, hechizado, ensordecido, asustado, stunned, and knocked unconscious.
 
 Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
 

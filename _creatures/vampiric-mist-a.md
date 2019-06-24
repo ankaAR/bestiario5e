@@ -17,7 +17,7 @@ saving_throws: "Sab +3"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "45 (6d8+18)"
 armor_class: "13"
-condition_immunities: "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

@@ -45,6 +45,6 @@ The empyrean can take 3 legendary actions, choosing from the options below. Only
 
 ***Attack.*** The empyrean makes one attack.
 
-***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be charmed or frightened, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
+***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be hechizado or asustado, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
 
 ***Trembling Strike (cuesta 2 acciones).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked prone.

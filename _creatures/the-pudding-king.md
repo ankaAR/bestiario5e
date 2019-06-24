@@ -32,7 +32,7 @@ At will: nondetection (self only)
 
 1/day each: blindness/deafness, blur, disguise self
 
-***Insanity.*** The Pudding King has advantage on saving throws against being charmed or frightened.
+***Insanity.*** The Pudding King has advantage on saving throws against being hechizado or asustado.
 
 ***Lanzamiento de conjuros.*** The Pudding King is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The Pudding King knows the following sorcerer spells:
 

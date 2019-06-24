@@ -35,7 +35,7 @@ condition_immunities: "prone"
 
 1. Aversion Ray: The targeted creature must make a DC 13 Charisma saving throw. On a failed save, the target has disadvantage on attack rolls for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-2. Fear Ray: The targeted creature must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+2. Fear Ray: The targeted creature must succeed on a DC 13 Wisdom saving throw or be asustado for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 3. Psychic Ray: The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8) psychic damage.
 

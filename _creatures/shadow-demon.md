@@ -20,7 +20,7 @@ speed: "30 ft., fly 30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "13"
 damage_vulnerabilities: "radiant"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "acid, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

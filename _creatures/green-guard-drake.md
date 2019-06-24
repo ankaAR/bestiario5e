@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 11 (0)
 str: 16 (+3)
 size: Medium dragon
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 languages: "understands Draconic but can't speak it"
 senses: "Visión en la oscuridad 60 pies (18 mts)"

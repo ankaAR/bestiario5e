@@ -19,7 +19,7 @@ saving_throws: "Sab +10, Car +9"
 speed: "20 ft., fly 120 ft."
 hit_points: "175  (10d20 + 70)"
 armor_class: "18"
-condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

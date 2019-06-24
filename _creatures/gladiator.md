@@ -19,7 +19,7 @@ hit_points: "112 (15d8+45)"
 armor_class: "16 (studded leather, shield)"
 ---
 
-***Brave.*** The gladiator has advantage on saving throws against being frightened.
+***Brave.*** The gladiator has advantage on saving throws against being asustado.
 
 ***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 

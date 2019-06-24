@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 13 (+1)
 str: 18 (+4)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "darkvision 30 ft."
 skills: "Percepción +2"

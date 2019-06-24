@@ -12,7 +12,7 @@ size: Humanoide Mediano (grimlock)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Undercommon"
-senses: "Vista ciega 30 pies (9 mts) or 10 ft. while deafened (blind beyond this radius)"
+senses: "Vista ciega 30 pies (9 mts) or 10 ft. while ensordecido (blind beyond this radius)"
 skills: "Athletics +5, Percepción +3, Sigilo +3"
 damage_immunities: "blinded"
 speed: "30 ft."
@@ -20,7 +20,7 @@ hit_points: "11 (2d8+2)"
 armor_class: "11"
 ---
 
-***Blind Senses.*** The grimlock can't use its Vista ciega while deafened and unable to smell.
+***Blind Senses.*** The grimlock can't use its Vista ciega while ensordecido and unable to smell.
 
 ***Keen Hearing and Smell.*** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 

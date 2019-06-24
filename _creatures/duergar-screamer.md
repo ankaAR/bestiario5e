@@ -9,7 +9,7 @@ int: 5 (-2)
 con: 12 (+1)
 dex: 7 (-1)
 str: 18 (+4)
-size: Medium construct
+size: Constructo mediano
 alignment: legal maligna
 challenge: "3 (700 XP)"
 languages: "understands Dwarvish but can't speak"
@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "38  (7d8 + 7)"
 armor_class: "15 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Engine of Pain.*** Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.

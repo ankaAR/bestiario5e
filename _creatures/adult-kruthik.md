@@ -10,7 +10,7 @@ con: 15 (+2)
 dex: 16 (+3)
 str: 15 (+2)
 size: Medium monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 languages: "Kruthik"
 senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"

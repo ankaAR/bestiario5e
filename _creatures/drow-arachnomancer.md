@@ -24,7 +24,7 @@ damage_resistances: "poison"
 
 ***Change Shape (Recharges after a Short or Long Rest).*** The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being hechizado, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: dancing lights
@@ -50,6 +50,6 @@ damage_resistances: "poison"
 
 ***Poisonous Touch (Humanoid Form Only)*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 28 (8d6) poison damage.
 
-***Bite (Giant Spider Form Only)*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8 + 3) puntos de daño perforante, and the target must make a DC 15 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+***Bite (Giant Spider Form Only)*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 12 (2d8 + 3) puntos de daño perforante, and the target must make a DC 15 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but envenenado for 1 hour, even after regaining hit points, and is paralizado while envenenado in this way.
 
-***Web (Giant Spider Form Only Recharge 5-6)*** Ranged Weapon Attack: +8 to hit, range 30/60 pies, un objetivo. Impacto: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+***Web (Giant Spider Form Only Recharge 5-6)*** Ranged Weapon Attack: +8 to hit, range 30/60 pies, un objetivo. Impacto: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, veneno, and psychic damage).

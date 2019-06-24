@@ -27,7 +27,7 @@ armor_class: "15 (armadura natural)"
 
 ***Multiataque.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 
-***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d6 + 1) puntos de daño perforante, and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 4 (1d6 + 1) puntos de daño perforante, and the target must succeed on a DC 11 Constitution saving throw or be envenenado for 1 minute. If the saving throw fails by 5 or more, the target is also paralizado while envenenado in this way. The envenenado target can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (2d4 + 1) puntos de daño cortante.
 

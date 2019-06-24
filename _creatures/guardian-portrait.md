@@ -9,8 +9,8 @@ int: 14 (+2)
 con: 10 (0)
 dex: 1 (-5)
 str: 1 (-5)
-size: Medium construct
-alignment: unaligned
+size: Constructo mediano
+alignment: no alineado
 challenge: "1 (200 XP)"
 languages: "Común, plus up to two other languages"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "0 ft."
 hit_points: "22 (5d8)"
 armor_class: "5 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "hechizado, agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
 ---
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.

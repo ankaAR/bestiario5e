@@ -9,7 +9,7 @@ con: 8 (-1)
 dex: 13 (+1)
 str: 3 (-4)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Percepción +3, Sigilo +3"

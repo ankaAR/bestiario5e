@@ -20,7 +20,7 @@ hit_points: "71 (11d8+22)"
 armor_class: "18 (studded leather, shield)"
 ---
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being hechizado, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
@@ -36,7 +36,7 @@ At will: dancing lights
 
 ***Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante plus 10 (3d6) poison damage.
 
-***Hand Crossbow.*** Ranged Weapon Attack: +7 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+***Hand Crossbow.*** Ranged Weapon Attack: +7 to hit, range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, and the target must succeed on a DC 13 Constitution saving throw or be envenenado for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while envenenado in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 ### Reactions
 

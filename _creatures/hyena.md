@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 13 (+1)
 str: 11 (0)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 skills: "Percepción +3"
 speed: "50 ft."

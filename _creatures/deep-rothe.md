@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 10 (0)
 str: 18 (+4)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft."

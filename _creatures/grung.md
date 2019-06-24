@@ -23,19 +23,19 @@ condition_immunities: "Envenenado"
 
 ***Anfibio.*** The grung puede respirar aire y agua.
 
-***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become envenenado for 1 minute. A envenenado creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 
 ***Variant: Grung Poison.*** Grung poison loses its potency 1 minute after being removed from a grung. A similar breakdown occurs if the grung dies.
 
->A creature poisoned by a grung can suffer an additional effect that varies depending on the grung's skin color. This effect lasts until the creature is no longer poisoned by the grung.
+>A creature envenenado by a grung can suffer an additional effect that varies depending on the grung's skin color. This effect lasts until the creature is no longer envenenado by the grung.
 
-Green. The poisoned creature can't move except to climb or make standing jumps. If the creature is flying, it can't take any actions or reactions unless it lands.
+Green. The envenenado creature can't move except to climb or make standing jumps. If the creature is flying, it can't take any actions or reactions unless it lands.
 
-Blue. The poisoned creature must shout loudly or otherwise make a loud noise at the start and end of its turn.
+Blue. The envenenado creature must shout loudly or otherwise make a loud noise at the start and end of its turn.
 
-Purple. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can't take actions or move except to do so or to reach a body of liquid or mud.
+Purple. The envenenado creature feels a desperate need to soak itself in liquid or mud. It can't take actions or move except to do so or to reach a body of liquid or mud.
 
 ### Acciones
 

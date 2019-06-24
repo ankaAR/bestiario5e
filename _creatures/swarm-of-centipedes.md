@@ -9,13 +9,13 @@ con: 10 (0)
 dex: 13 (+1)
 str: 3 (-4)
 size: Medium swarm
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 10 pies (3 mts)"
 speed: "20 ft., climb 20 ft."
 hit_points: "22 (5d8)"
 armor_class: "12 (armadura natural)"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 
@@ -25,4 +25,4 @@ damage_resistances: "bludgeoning, piercing, slashing"
 
 ***Bites.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 0 ft., one target in the swarm's space. Hit: 10 (4d4) puntos de daño perforante, or 5 (2d4) puntos de daño perforante if the swarm has half of its hit points or fewer.
 
-A creature reduced to 0 hit points by a swarm of centipedes is stable but poisoned for 1 hour, even after regaining hit points, and paralyzed while poisoned in this way.
+A creature reduced to 0 hit points by a swarm of centipedes is stable but envenenado for 1 hour, even after regaining hit points, and paralizado while envenenado in this way.

@@ -9,14 +9,14 @@ con: 16 (+3)
 dex: 5 (-3)
 str: 16 (+3)
 size: Large ooze
-alignment: unaligned
+alignment: no alineado
 challenge: "4 (1,100 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "acid, cold, lightning, slashing"
 speed: "20 ft., climb 20 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "7"
-condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, prone"
 ---
 
 ***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing.

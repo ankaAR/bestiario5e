@@ -9,13 +9,13 @@ con: 10 (0)
 dex: 1 (-5)
 str: 1 (-5)
 size: Medium plant
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "0 ft."
 hit_points: "13 (3d8)"
 armor_class: "5"
-condition_immunities: "blinded, deafened, frightened"
+condition_immunities: "cegado, ensordecido, asustado"
 ---
 
 ***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.

@@ -9,15 +9,15 @@ con: 18 (+4)
 dex: 9 (-1)
 str: 20 (+5)
 size: Large construct
-alignment: unaligned
+alignment: no alineado
 challenge: "9 (5,000 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-damage_immunities: "acid, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+damage_immunities: "acid, veneno, psíquico, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "20 ft."
 hit_points: "133 (14d10+56)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Acid Absorption.*** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.

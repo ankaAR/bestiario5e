@@ -18,7 +18,7 @@ hit_points: "36 (8d6+8)"
 armor_class: "11 (16 with barkskin)"
 ---
 
-***Brave Devotion.*** Wiggan has advantage on saving throws against being charmed or frightened.
+***Brave Devotion.*** Wiggan has advantage on saving throws against being hechizado or asustado.
 
 ***Lanzamiento de conjuros.*** Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:
 

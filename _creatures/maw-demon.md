@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (armadura natural)"
-condition_immunities: "charmed, frightened, poisoned"
+condition_immunities: "hechizado, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 

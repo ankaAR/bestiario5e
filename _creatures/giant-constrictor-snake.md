@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 14 (+2)
 str: 19 (+4)
 size: Huge beast
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "Vista ciega 10 pies (3 mts)"
 skills: "Percepción +2"

@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 13 (+1)
 str: 14 (+2)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft., fly 60 ft."

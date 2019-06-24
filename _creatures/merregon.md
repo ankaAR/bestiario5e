@@ -18,7 +18,7 @@ damage_immunities: "fire, poison"
 speed: "30 ft."
 hit_points: "45  (6d8 + 18)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "frightened, poisoned"
+condition_immunities: "asustado, envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 

@@ -8,16 +8,16 @@ int: 6 (-2)
 con: 18 (+4)
 dex: 9 (-1)
 str: 19 (+4)
-size: Medium construct
+size: Constructo mediano
 alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-damage_immunities: "lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+damage_immunities: "lightning, veneno, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "30 ft."
 hit_points: "93 (11d8+44)"
 armor_class: "9"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Berserk.*** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.

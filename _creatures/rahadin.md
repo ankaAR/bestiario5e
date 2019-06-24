@@ -23,7 +23,7 @@ armor_class: "18 (cuero endurecido)"
 
 ***Deathly Choir.*** Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one.
 
-***Fey Ancestry.*** Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.
+***Fey Ancestry.*** Rahadin has advantage on saving throws against being hechizado, and magic can't put him to sleep.
 
 ***Innate Spellcasting.*** Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:
 
@@ -35,7 +35,7 @@ armor_class: "18 (cuero endurecido)"
 
 ### Acciones
 
-***Multiataque.*** Rahadin attacks three times with his scimitar, or twice with his poisoned darts.
+***Multiataque.*** Rahadin attacks three times with his scimitar, or twice with his envenenado darts.
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +10 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d6+6) puntos de daño cortante.
 

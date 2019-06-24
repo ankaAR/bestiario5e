@@ -18,7 +18,7 @@ speed: "40 ft."
 hit_points: "16 (3d8+3)"
 armor_class: "12"
 damage_vulnerabilities: "radiant"
-condition_immunities: "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+condition_immunities: "agotamiento, asustado, grappled, paralizado, petrificado, envenenado, prone, restrained"
 damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 

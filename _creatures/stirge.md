@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 16 (+3)
 str: 4 (-3)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/8 (25 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "10 pies (3 mts), fly 40 ft."

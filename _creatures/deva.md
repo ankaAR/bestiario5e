@@ -18,7 +18,7 @@ saving_throws: "Sab +9, Car +9"
 speed: "30 ft., fly 90 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened"
+condition_immunities: "hechizado, agotamiento, asustado"
 damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -38,7 +38,7 @@ At will: detect evil and good
 
 ***Mace.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño contundente plus 18 (4d8) radiant damage.
 
-***Healing Touch (3/Día).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+***Healing Touch (3/Día).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, veneno, blindness, or deafness.
 
 ***Change Shape.*** The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).
 

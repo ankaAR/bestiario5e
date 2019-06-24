@@ -9,7 +9,7 @@ con: 10 (0)
 dex: 10 (0)
 str: 8 (-1)
 size: Small plant
-alignment: lawful neutral
+alignment: legal neutral
 challenge: "0 (10 XP)"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 speed: "10 ft."

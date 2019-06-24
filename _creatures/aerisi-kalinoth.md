@@ -20,7 +20,7 @@ armor_class: "13 (16 with mage armor)"
 damage_resistances: "Relámpago"
 ---
 
-***Fey Ancestry.*** Aerisi has advantage on saving throws against being charmed, and magic can't put her to sleep.
+***Fey Ancestry.*** Aerisi has advantage on saving throws against being hechizado, and magic can't put her to sleep.
 
 ***Howling Defeat.*** When Aerisi drops to 0 hit points, her body disappears in a howling whirlwind that disperses quickly and harmlessly. Anything she is wearing or carrying is left behind.
 

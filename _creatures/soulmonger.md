@@ -15,15 +15,15 @@ challenge: "11 (7200 XP)"
 languages: "Común, Elvish"
 senses: "darkvision 60 ft., passive Perception 17"
 skills: "Percepción +7"
-damage_immunities: "necrotic, psychic"
+damage_immunities: "necrotic, psíquico"
 saving_throws: "Des +7, Sab +7, Car +5"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"
 armor_class: "15 (cuero endurecido)"
-condition_immunities: "charmed, exhaustion, frightened"
+condition_immunities: "hechizado, agotamiento, asustado"
 ---
 
-***Fey Ancestry.*** The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.
+***Fey Ancestry.*** The soul monger has advantage on saving throws against being hechizado, and magic can't put it to sleep.
 
 ***Innate Spellcasting.*** The soul monger's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
 * At will: chill touch (3d8 damage), poison spray (3d12 damage)
@@ -41,4 +41,4 @@ condition_immunities: "charmed, exhaustion, frightened"
 
 ***Phantasmal Dagger*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (4d4 + 3) puntos de daño perforante plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.
 
-***Wave of Weariness (Recarga 4-6)*** The soul monger emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes 22 (5d8) psychic damage.
+***Wave of Weariness (Recarga 4-6)*** The soul monger emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of agotamiento. On a successful save, it takes 22 (5d8) psychic damage.

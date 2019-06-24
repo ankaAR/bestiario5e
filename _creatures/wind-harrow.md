@@ -19,7 +19,7 @@ hit_points: "55 (10d8+10)"
 armor_class: "15 (cuero endurecido)"
 ---
 
-***Fey Ancestry.*** Windharrow has advantage on saving throws against being charmed, and magic can't put him to sleep.
+***Fey Ancestry.*** Windharrow has advantage on saving throws against being hechizado, and magic can't put him to sleep.
 
 ***Lanzamiento de conjuros.*** Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:
 

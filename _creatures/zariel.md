@@ -20,7 +20,7 @@ saving_throws: "Int +16, Sab +16, Car +18"
 speed: "50 ft., fly 150 ft."
 hit_points: "580  (40d10 + 360)"
 armor_class: "21 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
@@ -46,7 +46,7 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Javelin*** Melee or Ranged Weapon Attack: +16 to hit, range 30/120 pies, un objetivo. Impacto: 15 (2d6 + 8) puntos de daño perforante plus 36 (8d8) fire damage.
 
-***Horrid Touch (Recarga 5-6)*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 44 (8d10) necrotic damage, and the target is poisoned for 1 minute. While poisoned in this way, the target is also blinded and deafened. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Horrid Touch (Recarga 5-6)*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 10 pies (3 mts), un objetivo. Impacto: 44 (8d10) necrotic damage, and the target is envenenado for 1 minute. While envenenado in this way, the target is also blinded and ensordecido. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Teleport*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.
 

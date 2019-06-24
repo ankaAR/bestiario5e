@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 13 (+1)
 str: 10 (0)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 30 pies (9 mts), darkvision 60 ft."
 skills: "Sigilo +5"

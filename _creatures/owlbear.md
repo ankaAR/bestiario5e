@@ -9,7 +9,7 @@ con: 17 (+3)
 dex: 12 (+1)
 str: 20 (+5)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +3"

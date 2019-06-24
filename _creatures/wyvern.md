@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 10 (0)
 str: 19 (+4)
 size: Large dragon
-alignment: unaligned
+alignment: no alineado
 challenge: "6 (2,300 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4"

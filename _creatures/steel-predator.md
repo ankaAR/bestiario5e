@@ -15,11 +15,11 @@ challenge: "16 (15,000 XP)"
 languages: "understands Modron and the language of its owner but can't speak"
 senses: "Vista ciega 30 pies (9 mts), darkvision 60 ft., passive Perception 17"
 skills: "Percepción +7, Sigilo +8, Survival +7"
-damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "veneno, psíquico; bludgeoning, piercing, and slashing from nonmagical attacks"
 speed: "40 ft."
 hit_points: "207  (18d10 + 108)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado, stunned"
 damage_resistances: "cold, lightning, necrotic, thunder"
 ---
 

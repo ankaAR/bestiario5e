@@ -22,7 +22,7 @@ armor_class: "14 (armadura natural)"
 condition_immunities: "Envenenado"
 ---
 
-***Mental Resistance.*** The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.
+***Mental Resistance.*** The broodguard has advantage on saving throws against being hechizado, and magic can't paralyze it.
 
 ***Reckless.*** At the start of its turn, the broodguard can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "13 (10,000 XP)"
 languages: "Understands Celestial but utters only obscene nonsense"
 senses: "Visión en la oscuridad 120 ft. (36 mts), truesight 120 ft., passive Perception 14"
-Condition_immunities: "exhaustion, frightened, paralyzed, poisoned, prone"
+Condition_immunities: "agotamiento, asustado, paralizado, envenenado, prone"
 Damage_immunities: "cold, necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks"
 Damage_vulnerabilities: "radiant"
 saving_throws: "Con +11, Sab +9"
@@ -46,4 +46,4 @@ The atropal can take 3 legendary actions, choosing from the options below. Only 
 
 ***Ray of Cold (cuesta 2 acciones).*** The atropal uses its Ray of Cold.
 
-***Wail (Costs 3 Actions).*** The atropal lets out a withering wail. Any creature within 120 feet of the atropal that can hear the wail must succeed on a DC 19 Constitution saving throw or gain 1 level of exhaustion.
+***Wail (Costs 3 Actions).*** The atropal lets out a withering wail. Any creature within 120 feet of the atropal that can hear the wail must succeed on a DC 19 Constitution saving throw or gain 1 level of agotamiento.

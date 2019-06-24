@@ -34,7 +34,7 @@ At will: detect magic, detect thoughts, mage hand
 
 ***Regeneration.*** The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-***Variant: Control Gem.*** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being charmed while so controlled.
+***Variant: Control Gem.*** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being hechizado while so controlled.
 
 Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A wish spell, if cast in the slaad's presence, can be worded to acquire the gem.
 

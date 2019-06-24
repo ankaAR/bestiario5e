@@ -19,7 +19,7 @@ saving_throws: "Int +14, Sab +14, Car +17"
 speed: "50 ft., fly 150 ft."
 hit_points: "243 (18d10+144)"
 armor_class: "21 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
@@ -47,7 +47,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Flying Sword.*** The solar releases its greatsword to hover magically in an unoccupied space within 5 ft. of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 ft. and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
-***Healing Touch (4/Día).*** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+***Healing Touch (4/Día).*** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, veneno, blindness, or deafness.
 
 ### Acciones Legendarias
 

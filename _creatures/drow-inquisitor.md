@@ -19,12 +19,12 @@ saving_throws: "Con +7, Sab +10, Car +10"
 speed: "30 ft."
 hit_points: "143  (22d8 + 44)"
 armor_class: "16 (breastplate)"
-condition_immunities: "frightened"
+condition_immunities: "asustado"
 ---
 
 ***Discern Lie.*** The drow knows when she hears a creature speak a lie in a language she knows.
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being hechizado, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:
 * At will: dancing lights, detect magic

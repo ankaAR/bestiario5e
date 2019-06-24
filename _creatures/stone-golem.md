@@ -9,15 +9,15 @@ con: 20 (+5)
 dex: 9 (-1)
 str: 22 (+6)
 size: Large construct
-alignment: unaligned
+alignment: no alineado
 challenge: "10 (5,900 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-damage_immunities: "poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+damage_immunities: "veneno, psíquico, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "30 ft."
 hit_points: "178 (17d10+85)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado, envenenado"
 ---
 
 ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.

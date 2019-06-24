@@ -8,7 +8,7 @@ int: 4 (-3)
 con: 12 (+1)
 dex: 13 (+1)
 str: 10 (0)
-size: Medium construct
+size: Constructo mediano
 alignment: construct
 challenge: "1/8 (25 XP)"
 languages: "Modron"

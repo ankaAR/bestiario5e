@@ -9,7 +9,7 @@ con: 16 (+3)
 dex: 7 (-2)
 str: 16 (+3)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "2 (450 XP)"
 senses: "Vista ciega 30 pies (9 mts), tremorsense 30 ft."
 speed: "20 ft."

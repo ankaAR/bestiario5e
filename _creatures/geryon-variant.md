@@ -20,7 +20,7 @@ saving_throws: "Des +10, Con +13, Sab +10, Car +13"
 speed: "30 ft., fly 50 ft."
 hit_points: "300  (24d12 + 144)"
 armor_class: "19 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
@@ -42,7 +42,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Claws*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 23 (4d6 + 9) puntos de daño cortante. If the target is Large or smaller, it is grappled (DC 24) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) puntos de daño cortante.
 
-***Stinger*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies (6 mts), una criatura. Impacto: 14 (2d4 + 9) puntos de daño perforante, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.
+***Stinger*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 20 pies (6 mts), una criatura. Impacto: 14 (2d4 + 9) puntos de daño perforante, and the target must succeed on a DC 21 Constitution saving throw or take 13 (2d12) poison damage and become envenenado until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the envenenado condition is removed.
 
 ***Teleport*** Geryon magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
@@ -52,7 +52,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of his turn.
 
-***Infernal Glare*** Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23 Wisdom saving throw or become frightened of Geryon until the end of its next turn.
+***Infernal Glare*** Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23 Wisdom saving throw or become asustado of Geryon until the end of its next turn.
 
 ***Swift Sting (cuesta 2 acciones)*** Geryon attacks with his stinger.
 

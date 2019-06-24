@@ -28,8 +28,8 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-***Sorrowful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature is charmed for 1 minute. While charmed in this way, the creature has disadvantage on ability checks and saving throws. The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours.
-Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.
+***Sorrowful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature is hechizado for 1 minute. While hechizado in this way, the creature has disadvantage on ability checks and saving throws. The hechizado creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours.
+Whenever the eladrin deals damage to the hechizado creature, it can repeat the saving throw, ending the effect on itself on a success.
 
 ### Acciones
 

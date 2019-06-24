@@ -9,7 +9,7 @@ con: 18 (+4)
 dex: 8 (-1)
 str: 18 (+4)
 size: Large construct
-alignment: unaligned
+alignment: no alineado
 challenge: "7 (2,900 XP)"
 languages: "understands commands given in any language but can't speak"
 senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."
@@ -17,7 +17,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "142 (15d10+60)"
 armor_class: "17 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado"
 ---
 
 ***Bound.*** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.

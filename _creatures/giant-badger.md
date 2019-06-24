@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 10 (0)
 str: 13 (+1)
 size: Medium beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "darkvision 30 ft."
 speed: "30 ft., burrow 10 ft."

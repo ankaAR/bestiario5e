@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 15 (+2)
 str: 17 (+3)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "5 (1,800 XP)"
 skills: "Percepción +4, Sigilo +5"
 speed: "10 pies (3 mts), nadando 40 pies (12 mts)"

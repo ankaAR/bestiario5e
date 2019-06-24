@@ -20,7 +20,7 @@ armor_class: "9"
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and becomes poisoned. On a success, the creature takes half as much damage and isn't poisoned. A creature poisoned by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While poisoned by this effect, a creature can't regain hit points.
+***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and becomes envenenado. On a success, the creature takes half as much damage and isn't envenenado. A creature envenenado by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While envenenado by this effect, a creature can't regain hit points.
 
 ***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.
 

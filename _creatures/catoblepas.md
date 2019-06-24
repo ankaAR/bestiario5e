@@ -9,7 +9,7 @@ con: 21 (+5)
 dex: 12 (+1)
 str: 19 (+4)
 size: Large monstrosity
-alignment: unaligned
+alignment: no alineado
 challenge: "5 (1,800 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 speed: "30 ft."
@@ -19,7 +19,7 @@ armor_class: "14 (armadura natural)"
 
 ***Keen Smell.*** The catoblepas has advantage on Wisdom (Perception) checks that rely on smell.
 
-***Stench.*** Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any catoblepas for 1 hour.
+***Stench.*** Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be envenenado until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any catoblepas for 1 hour.
 
 ### Acciones
 

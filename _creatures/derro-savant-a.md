@@ -19,7 +19,7 @@ hit_points: "49 (11d6+11)"
 armor_class: "13 (armadura de cuero)"
 ---
 
-***Insanity.*** The derro has advantage on saving throws against being charmed or frightened.
+***Insanity.*** The derro has advantage on saving throws against being hechizado or asustado.
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 

@@ -9,13 +9,13 @@ con: 10 (0)
 dex: 1 (-5)
 str: 3 (-4)
 size: Medium plant
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 speed: "5 ft."
 hit_points: "18 (4d8)"
 armor_class: "5"
-condition_immunities: "blinded, deafened, frightened"
+condition_immunities: "cegado, ensordecido, asustado"
 ---
 
 ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.

@@ -19,7 +19,7 @@ hit_points: "16 (3d8+3)"
 armor_class: "14 (armadura de cuero)"
 ---
 
-***Dragon Fanatic.*** The dragonclaw has advantage on saving throws against being charmed or frightened. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened.
+***Dragon Fanatic.*** The dragonclaw has advantage on saving throws against being hechizado or asustado. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being hechizado or asustado.
 
 ***Fanatic Advantage.*** Once per turn, if the dragonclaw makes a weapon attack with advantage on the attack roll and hits, it deals an extra 7 (2d6) damage.
 

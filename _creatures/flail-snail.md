@@ -9,7 +9,7 @@ con: 20 (+5)
 dex: 5 (-3)
 str: 17 (+3)
 size: Large elemental
-alignment: unaligned
+alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "darkvision 60 ft., tremorsense 60 ft."
 damage_immunities: "fire, poison"

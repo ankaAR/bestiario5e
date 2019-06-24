@@ -19,7 +19,7 @@ saving_throws: "Des +3, Sab +5"
 speed: "30 ft."
 hit_points: "136  (13d10 + 65)"
 armor_class: "16 (armadura natural)"
-condition_immunities: "charmed, frightened"
+condition_immunities: "hechizado, asustado"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

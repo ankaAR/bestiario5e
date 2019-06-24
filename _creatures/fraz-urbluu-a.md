@@ -19,7 +19,7 @@ saving_throws: "Des +8, Con +15, Int +15, Sab +14"
 speed: "40 pies (12 mts), fly 40 ft."
 hit_points: "350 (28d10+196)"
 armor_class: "18 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 

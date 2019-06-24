@@ -9,13 +9,13 @@ con: 12 (+1)
 dex: 12 (+1)
 str: 13 (+1)
 size: Large plant
-alignment: unaligned
+alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 speed: "10 ft."
 hit_points: "32 (5d10+5)"
 armor_class: "11"
-condition_immunities: "blinded, deafened, frightened"
+condition_immunities: "cegado, ensordecido, asustado"
 ---
 
 ***Source.*** tales from the yawning portal,  page 246

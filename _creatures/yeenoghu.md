@@ -20,7 +20,7 @@ saving_throws: "Des +10, Con +15, Sab +14"
 speed: "50 ft."
 hit_points: "333  (23d12 + 184)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "charmed, exhaustion, frightened, poisoned"
+condition_immunities: "hechizado, agotamiento, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 
@@ -41,7 +41,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Multiattack*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):
 1. The attack deals an extra 13 (2d12) puntos de daño contundente.
-2. The target must succeed on a DC 17 Constitution saving throw or be paralyzed until the start of Yeenoghu's next turn.
+2. The target must succeed on a DC 17 Constitution saving throw or be paralizado until the start of Yeenoghu's next turn.
 3. The target must succeed on a DC 17 Wisdom saving throw or be affected by the confusion spell until the start of Yeenoghu's next turn.
 
 ***Flail*** Ataque de arma cuerpo a cuerpo: +16 al ataque, alcance 15 pies (4.5 mts), un objetivo. Impacto: 15 (1d12 + 9) puntos de daño contundente.

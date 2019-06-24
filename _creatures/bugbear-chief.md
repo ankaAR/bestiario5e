@@ -23,7 +23,7 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-***Heart of Hruggek.*** The bugbear has advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.
+***Heart of Hruggek.*** The bugbear has advantage on saving throws against being hechizado, asustado, paralizado, envenenado, stunned, or put to sleep.
 
 ### Acciones
 

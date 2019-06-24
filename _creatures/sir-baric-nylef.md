@@ -19,7 +19,7 @@ armor_class: "18 (plate)"
 senses: " passive Perception 12"
 ---
 
-***Brave.*** Baric has advantage on saving throws against being frightened.
+***Brave.*** Baric has advantage on saving throws against being asustado.
 
 ### Acciones
 

@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "52  (7d8 + 21)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "charmed, frightened, poisoned"
+condition_immunities: "hechizado, asustado, envenenado"
 damage_resistances: "cold, fire, lightning"
 ---
 
@@ -30,4 +30,4 @@ damage_resistances: "cold, fire, lightning"
 
 ### Acciones
 
-***Barbed Tail*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d12 + 2) puntos de daño perforante. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced to 0.
+***Barbed Tail*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d12 + 2) puntos de daño perforante. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become envenenado until the disease ends. While envenenado in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced to 0.

@@ -9,12 +9,12 @@ con: 8 (-1)
 dex: 14 (+2)
 str: 6 (-2)
 size: Medium swarm
-alignment: unaligned
+alignment: no alineado
 challenge: "1/4 (50 XP)"
 speed: "10 pies (3 mts), fly 50 ft."
 hit_points: "24 (7d8-7)"
 armor_class: "12"
-condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"
 damage_resistances: "bludgeoning, piercing, slashing"
 ---
 

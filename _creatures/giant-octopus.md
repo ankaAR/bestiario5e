@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 13 (+1)
 str: 17 (+3)
 size: Large beast
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +4, Sigilo +5"

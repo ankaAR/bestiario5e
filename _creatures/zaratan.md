@@ -19,7 +19,7 @@ saving_throws: "Sab +12, Car +11"
 speed: "40 pies (12 mts), nadando 40 pies (12 mts)"
 hit_points: "307  (15d20 + 150)"
 armor_class: "21 (armadura natural)"
-condition_immunities: "exhaustion, paralyzed, petrified, poisoned, stunned"
+condition_immunities: "agotamiento, paralizado, petrificado, envenenado, stunned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 

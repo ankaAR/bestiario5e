@@ -10,7 +10,7 @@ con: 25 (+7)
 dex: 7 (-2)
 str: 28 (+9)
 size: Gargantuan titan
-alignment: unaligned
+alignment: no alineado
 challenge: "21 (33,000 XP)"
 languages: "---"
 senses: "Visión en la oscuridad 120 ft. (36 mts), passive Perception 19"
@@ -19,7 +19,7 @@ saving_throws: "Des +5, Sab +9"
 speed: "15 ft., volando 80 pies (24 mts) (hover)"
 hit_points: "297 (17d20+119)"
 armor_class: "20 (armadura natural)"
-condition_immunities: "Charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
+condition_immunities: "Charmed, agotamiento, asustado, paralizado, petrificado, envenenado, prone, stunned"
 ---
 
 **Damage Resistance** Bludgeoning, piercing, and slashing from nonmagical attacks

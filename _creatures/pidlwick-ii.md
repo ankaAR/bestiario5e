@@ -18,7 +18,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "10 (3d6)"
 armor_class: "14 (armadura natural)"
-condition_immunities: "paralyzed, petrified, poisoned"
+condition_immunities: "paralizado, petrificado, envenenado"
 ---
 
 ***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.

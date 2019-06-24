@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 11 (0)
 str: 4 (-3)
 size: Tiny beast
-alignment: unaligned
+alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "darkvision 30 ft."
 speed: "20 ft., burrow 5 ft."

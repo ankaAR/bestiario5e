@@ -18,7 +18,7 @@ saving_throws: "Int +4, Car +2"
 speed: "20 ft."
 hit_points: "18  (4d4 + 8)"
 armor_class: "13"
-condition_immunities: "blinded, charmed, deafened, exhaustion, prone"
+condition_immunities: "cegado, hechizado, ensordecido, agotamiento, prone"
 ---
 
 ***Amorphous.*** The oblex can move through a space as narrow as 1 inch wide without squeezing.

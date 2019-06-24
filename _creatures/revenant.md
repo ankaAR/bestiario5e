@@ -18,8 +18,8 @@ saving_throws: "Str +7, Con +7, Sab +6, Car +7"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "13 (armadura de cuero)"
-condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-damage_resistances: "necrotic, psychic"
+condition_immunities: "hechizado, agotamiento, asustado, paralizado, envenenado, stunned"
+damage_resistances: "necrotic, psíquico"
 ---
 
 ***Regeneration.*** The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
@@ -36,4 +36,4 @@ damage_resistances: "necrotic, psychic"
 
 ***Fist.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño contundente. If the target is a creature against which the revenant has sworn vengeance, the target takes an extra 14 (4d6) puntos de daño contundente. Instead of dealing damage, the revenant can grapple the target (escape DC 14) provided the target is Large or smaller.
 
-***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralyzed until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is frightened of the revenant for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the frightened condition on itself on a success.
+***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is paralizado until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is asustado of the revenant for 1 minute. The asustado target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the asustado condition on itself on a success.

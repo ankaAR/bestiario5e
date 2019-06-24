@@ -9,8 +9,8 @@ int: 1 (-5)
 con: 11 (0)
 dex: 10 (0)
 str: 2 (-4)
-size: Medium construct
-alignment: unaligned
+size: Constructo mediano
+alignment: no alineado
 challenge: "0 (10 XP)"
 languages: "understands one language (usually Common) but can’t speak"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius), passive Perception 12"
@@ -19,7 +19,7 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "4 (1d8)"
 armor_class: "10"
-condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
+condition_immunities: "agotamiento, paralizado, petrificado, envenenado, unconscious"
 ---
 
 ***Invisibility.*** The unseen servant is invisible.

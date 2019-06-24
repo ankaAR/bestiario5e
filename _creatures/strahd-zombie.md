@@ -10,7 +10,7 @@ con: 16 (+3)
 dex: 6 (-2)
 str: 13 (+1)
 size: Medium undead
-alignment: unaligned
+alignment: no alineado
 challenge: "1 (200 XP)"
 languages: "understands the languages it knew in life but can't speak"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
