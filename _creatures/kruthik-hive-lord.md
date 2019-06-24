@@ -14,7 +14,7 @@ alignment: no alineado
 challenge: "5 (1800 XP)"
 languages: "Kruthik"
 senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 12"
-speed: "40 pies (12 mts), burrow 20 ft., climb 40 ft."
+speed: "40 pies (12 mts), burrow 20 pies (6 mts), climb 40 ft."
 hit_points: "102  (12d10 + 36)"
 armor_class: "20 (armadura natural)"
 ---

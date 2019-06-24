@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "darkvision 30 ft."
-speed: "20 ft., burrow 5 ft."
+speed: "20 pies (6 mts), burrow 5 ft."
 hit_points: "3 (1d4+1)"
 armor_class: "10"
 ---

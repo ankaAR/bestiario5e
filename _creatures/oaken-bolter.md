@@ -27,7 +27,7 @@ condition_immunities: "hechizado, agotamiento, asustado, paralizado, petrificado
 
 ***Multiattack*** The oaken bolter makes two lancing bolt attacks or one lancing bolt attack and one harpoon attack.
 
-***Lancing Bolt*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 100/400 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante.
+***Lancing Bolt*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 100/400 pies, un objetivo. Impacto: 15 (2d10 + 4) puntos de daño perforante.
 
 ***Harpoon*** Ranged Weapon Attack: +7 to hit, range 50/200 pies, un objetivo. Impacto: 9 (1d10 + 4) puntos de daño perforante, and the target is grappled (escape DC 12). While grappled in this way, a creature's speed isn't reduced, but it can move only in directions that bring it closer to the oaken bolter. A creature takes 5 (1d10) slashing damage if it escapes from the grapple or if it tries and fails. As a bonus action, the oaken bolter can pull a creature grappled by it 20 feet closer. The oaken bolter can grapple only one creature at a time.
 

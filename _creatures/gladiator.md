@@ -27,7 +27,7 @@ armor_class: "16 (studded leather, shield)"
 
 ***Multiataque.*** The gladiator makes three melee attacks or two ranged attacks.
 
-***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. and range 20/60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante, or 13 (2d8 + 4) puntos de daño perforante if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)and range 20/60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante, or 13 (2d8 + 4) puntos de daño perforante if used with two hands to make a melee attack.
 
 ***Shield Bash.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 9 (2d4 + 4) puntos de daño contundente. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 

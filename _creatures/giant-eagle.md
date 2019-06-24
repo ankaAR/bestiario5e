@@ -9,9 +9,9 @@ con: 13 (+1)
 dex: 17 (+3)
 str: 16 (+3)
 size: Large beast
-alignment: neutral good
+alignment: neutral bueno
 challenge: "1 (200 XP)"
-languages: "Giant Eagle, understands Common and Auran but can't speak"
+languages: "Giant Eagle, understands Common and Aurano but can't speak"
 skills: "Percepción +4"
 speed: "10 pies (3 mts), volando 80 pies (24 mts)"
 hit_points: "26 (4d10+4)"

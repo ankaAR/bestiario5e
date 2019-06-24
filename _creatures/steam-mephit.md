@@ -20,7 +20,7 @@ armor_class: "10"
 condition_immunities: "Envenenado"
 ---
 
-***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 ft. of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
+***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 pies (1.5 mts)of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
 
 ***Innate Spellcasting (1/Día).*** The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.
 

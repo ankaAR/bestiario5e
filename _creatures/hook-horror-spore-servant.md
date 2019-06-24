@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "3 (700 XP)"
 languages: "-"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "cegado, hechizado, asustado, paralizado"

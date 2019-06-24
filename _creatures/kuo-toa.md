@@ -31,7 +31,7 @@ armor_class: "13 (natural armor, shield)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante, or 5 (1d8 + 1) puntos de daño perforante if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante, or 5 (1d8 + 1) puntos de daño perforante if used with two hands to make a melee attack.
 
 ***Net.*** Ranged Weapon Attack: +3 to hit, range 5/15 ft., one Large or smaller creature. Hit: The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
 

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understands Aquan and Common but can't speak"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
-speed: "20 ft., nadando 30 ft."
+speed: "20 pies (6 mts), nadando 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "11 (armadura natural)"
 ---

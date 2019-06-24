@@ -13,13 +13,13 @@ alignment: caótico maligno
 challenge: "2 (450 XP)"
 languages: "understands Common and Elvish but can't speak"
 skills: "Percepción +5"
-speed: "20 ft., fly 60 ft."
+speed: "20 pies (6 mts), fly 60 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (armadura natural)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
-***Dive Attack.*** If the peryton is flying and dives at least 30 ft. straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8) damage to the target.
+***Ataque en Picada.*** If the peryton is flying and dives at least 30 ft. straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8) damage to the target.
 
 ***Flyby.*** The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 

@@ -13,7 +13,7 @@ size: Medium fiend (yugoloth)
 alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Abyssal, Infernal, telepathy 60 ft."
-senses: "darkvision 60 ft., truesight 120 ft., passive Perception 19"
+senses: "darkvision 60 ft., truesight 120 pies (6 mts), passive Perception 19"
 skills: "Investigation +3, Percepción +9"
 damage_immunities: "acid, poison"
 speed: "50 ft."

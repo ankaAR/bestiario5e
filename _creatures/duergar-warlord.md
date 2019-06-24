@@ -30,7 +30,7 @@ damage_resistances: "poison"
 
 ***Psychic-Attuned Hammer*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d10 + 4) puntos de daño contundente más 5 (1d10) psychic damage, or 15 (2d10 + 4) puntos de daño contundente más 5 (1d10) psychic damage while enlarged,
 
-***Javelin*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 11 (2d6 + 4) puntos de daño perforante while enlarged.
+***Javelin*** Melee or Ranged Weapon Attack: +7 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 11 (2d6 + 4) puntos de daño perforante while enlarged.
 
 ***Call to Attack*** Up to three allied duergar within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
 

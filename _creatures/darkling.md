@@ -25,4 +25,4 @@ armor_class: "14 (armadura de cuero)"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 5 (1d4+3) puntos de daño perforante. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) puntos de daño perforante.

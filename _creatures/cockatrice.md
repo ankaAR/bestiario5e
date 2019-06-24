@@ -12,7 +12,7 @@ size: Small monstrosity
 alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-speed: "20 ft., fly 40 ft."
+speed: "20 pies (6 mts), fly 40 ft."
 hit_points: "27 (6d6+6)"
 armor_class: "11"
 ---

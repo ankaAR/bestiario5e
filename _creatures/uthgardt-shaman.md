@@ -26,6 +26,6 @@ armor_class: "13"
 
 ### Acciones
 
-***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante, or 6 (1d8 + 2) puntos de daño perforante if wielded with two hands.
+***Spear.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 5 (1d6+2) puntos de daño perforante, or 6 (1d8 + 2) puntos de daño perforante if wielded with two hands.
 
 ***Shortbow.*** Ranged Weapon Attack: +3 to hit, range 80/320 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante.

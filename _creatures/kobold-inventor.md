@@ -21,7 +21,7 @@ armor_class: "12"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
 
 ***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño contundente.
 

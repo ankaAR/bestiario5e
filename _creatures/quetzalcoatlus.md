@@ -17,7 +17,7 @@ hit_points: "30 (4d12+4)"
 armor_class: "13 (armadura natural)"
 ---
 
-***Dive Attack.*** If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.
+***Ataque en Picada.*** If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.
 
 ***Flyby.*** The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 

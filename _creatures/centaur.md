@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 18 (+4)
 size: Large monstrosity
-alignment: neutral good
+alignment: neutral bueno
 challenge: "2 (450 XP)"
 languages: "Elvish, Sylvan"
 skills: "Athletics +6, Percepción +3, Survival +3"

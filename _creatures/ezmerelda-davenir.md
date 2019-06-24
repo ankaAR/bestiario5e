@@ -40,7 +40,7 @@ armor_class: "17 (studded leather armor +1)"
 
 ***Rapier +1.*** Ataque de arma cuerpo a cuerpo: +8 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (1d8+5) puntos de daño perforante.
 
-***Handaxe +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 6 (1d6+3) puntos de daño cortante.
+***Handaxe +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies (XX mts), una criatura. Impacto: 6 (1d6+3) puntos de daño cortante.
 
 ***Silvered Shortsword.*** Ataque de arma cuerpo a cuerpo: +7 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6+4) puntos de daño perforante.
 

@@ -48,6 +48,6 @@ To be granted a wish, a creature within 60 feet of the genie states a desired ef
 
 ***Multiataque.*** The marid makes two trident attacks.
 
-***Trident.*** Melee or Ranged Weapon Attack: +10 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 13 (2d6 + 6) puntos de daño perforante, or 15 (2d8 + 6) puntos de daño perforante if used with two hands to make a melee attack.
+***Trident.*** Melee or Ranged Weapon Attack: +10 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 13 (2d6 + 6) puntos de daño perforante, or 15 (2d8 + 6) puntos de daño perforante if used with two hands to make a melee attack.
 
 ***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (6d6) puntos de daño contundente and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone.

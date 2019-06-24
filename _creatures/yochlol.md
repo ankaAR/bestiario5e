@@ -41,7 +41,7 @@ At will: detect thoughts, web
 
 ***Multiataque.*** The yochlol makes two melee attacks.
 
-***Slam (Bite in Spider Form).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
+***Slam (Bite in Spider Form).*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts)(10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.
 
 ***Mist Form.*** The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.
 

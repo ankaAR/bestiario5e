@@ -11,7 +11,7 @@ str: 14 (+2)
 size: Large elemental
 alignment: neutral
 challenge: "5 (1,800 XP)"
-languages: "Auran"
+languages: "Aurano"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "fly 90 ft. (hover)"

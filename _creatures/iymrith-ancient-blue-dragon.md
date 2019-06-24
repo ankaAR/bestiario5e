@@ -51,4 +51,4 @@ The iymrith, ancient blue dragon can take 3 legendary actions, choosing from the
 
 ***Ataque de Cola.*** El dragón hace un ataque con la cola.
 
-***Ataque de Ala (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.
+***Ataque de Ala (cuesta 2 acciones).*** The dragon beats its wings. Each creature within 15 pies (1.5 mts)of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) puntos de daño contundente and be knocked prone. The dragon can then fly up to half its flying speed.

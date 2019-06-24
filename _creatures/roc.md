@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "11 (7,200 XP)"
 skills: "Percepción +4"
 saving_throws: "Des +4, Con +9, Sab +4, Car +3"
-speed: "20 ft., fly 120 ft."
+speed: "20 pies (6 mts), fly 120 ft."
 hit_points: "248 (16d20+80)"
 armor_class: "15 (armadura natural)"
 ---

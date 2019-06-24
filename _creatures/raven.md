@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: no alineado
 challenge: "0 (10 XP)"
 skills: "Percepción +3"
-speed: "10 pies (3 mts), fly 50 ft."
+speed: "10 pies (3 mts), volando 50 pies (15 mts)."
 hit_points: "1 (1d4-1)"
 armor_class: "12"
 ---

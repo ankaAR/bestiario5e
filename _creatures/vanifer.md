@@ -42,4 +42,4 @@ armor_class: "15 (cuero endurecido)"
 
 ***Multiataque.*** Vanifer makes two attacks.
 
-***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d4 + 5) puntos de daño perforante plus 7 (2d6) fire damage.
+***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 7 (1d4 + 5) puntos de daño perforante plus 7 (2d6) fire damage.

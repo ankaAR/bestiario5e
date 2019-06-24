@@ -14,7 +14,7 @@ alignment: no alineado
 challenge: "1/4 (50 XP)"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "veneno, psíquico"
-speed: "0 ft., fly 50 ft. (hover)"
+speed: "0 ft., volando 50 pies (15 mts). (hover)"
 hit_points: "17 (5d6)"
 armor_class: "15 (armadura natural)"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado, prone"

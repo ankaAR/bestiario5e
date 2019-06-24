@@ -11,7 +11,7 @@ str: 21 (+5)
 size: Large elemental
 alignment: caótico bueno
 challenge: "11 (7,200 XP)"
-languages: "Auran"
+languages: "Aurano"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 damage_immunities: "lightning, thunder"
 saving_throws: "Des +6, Sab +7, Car +9"

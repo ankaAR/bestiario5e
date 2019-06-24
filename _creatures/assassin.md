@@ -24,7 +24,7 @@ damage_resistances: "poison"
 
 ***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Sneak Attack (1/Turn).*** The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 pies (1.5 mts)of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 
 ### Acciones
 

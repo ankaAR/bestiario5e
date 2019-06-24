@@ -13,11 +13,11 @@ size: Huge fiend (devil)
 alignment: legal maligna
 challenge: "22 (41,000 XP)"
 languages: "all, telepathy 120 ft."
-senses: "truesight 120 ft., passive Perception 20"
+senses: "truesight 120 pies (6 mts), passive Perception 20"
 skills: "Engaño +13, Intimidation +13, Percepción +10"
 damage_immunities: "cold, fire, poison"
 saving_throws: "Des +10, Con +13, Sab +10, Car +13"
-speed: "30 ft., fly 50 ft."
+speed: "30 ft., volando 50 pies (15 mts)."
 hit_points: "300  (24d12 + 144)"
 armor_class: "19 (armadura natural)"
 condition_immunities: "hechizado, agotamiento, asustado, envenenado"

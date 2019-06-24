@@ -18,7 +18,7 @@ hit_points: "39 (6d8+12)"
 armor_class: "17 (half plate)"
 ---
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 pies (1.5 mts)of an ally of the hobgoblin that isn't incapacitated.
 
 ### Acciones
 
@@ -26,6 +26,6 @@ armor_class: "17 (half plate)"
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño perforante.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
+***Jabalina.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
 
 ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is incapacitated.

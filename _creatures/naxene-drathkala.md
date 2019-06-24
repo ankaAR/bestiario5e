@@ -9,7 +9,7 @@ con: 11 (0)
 dex: 11 (0)
 str: 8 (-1)
 size: Humanoide Mediano (turami human)
-alignment: neutral good
+alignment: neutral bueno
 challenge: "0 (10 XP)"
 languages: "Común, Draconic, Dwarvish, Elvish"
 skills: "Arcanos +5, Historia +5"

@@ -18,7 +18,7 @@ hit_points: "11 (2d8+2)"
 armor_class: "18 (chain mail, shield)"
 ---
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 pies (1.5 mts)of an ally of the hobgoblin that isn't incapacitated.
 
 ### Acciones
 

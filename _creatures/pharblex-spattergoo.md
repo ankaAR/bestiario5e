@@ -14,7 +14,7 @@ challenge: "3 (700 XP)"
 languages: "Común, Bullywug"
 skills: "Percepción +5, Religión +2, Sigilo +3"
 saving_throws: "Str +4, Con +6"
-speed: "20 ft., nadando 40 pies (12 mts)"
+speed: "20 pies (6 mts), nadando 40 pies (12 mts)"
 hit_points: "59 (7d8+28)"
 armor_class: "15 (studded leather armor, shield)"
 ---
@@ -43,4 +43,4 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +5 to hit. reach 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
+***Spear.*** Melee or Ranged Weapon Attack: +5 to hit. reach 5 pies (1.5 mts)or ranged 20 ft./60 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.

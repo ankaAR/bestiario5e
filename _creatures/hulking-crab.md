@@ -14,7 +14,7 @@ challenge: "5 (1,800 XP)"
 languages: "--"
 senses: "Vista ciega 30 pies (9 mts)"
 skills: "Sigilo +2"
-speed: "20 ft., nadando 30 ft."
+speed: "20 pies (6 mts), nadando 30 ft."
 hit_points: "76 (8d12+24)"
 armor_class: "17 (armadura natural)"
 ---

@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: legal maligna
 challenge: "3 (700 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-speed: "30 ft., fly 50 ft."
+speed: "30 ft., volando 50 pies (15 mts)."
 hit_points: "68 (8d10+24)"
 armor_class: "14 (armadura natural)"
 ---

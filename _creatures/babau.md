@@ -32,6 +32,6 @@ At will: darkness, dispel magic, fear, heat metal, levitate
 
 ***Garras.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8+4) puntos de daño cortante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 7 (1d6+4) puntos de daño perforante, or 8 (1d8+4) puntos de daño perforante when used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 it, one target. Hit: 7 (1d6+4) puntos de daño perforante, or 8 (1d8+4) puntos de daño perforante when used with two hands to make a melee attack.
 
 ***Weakening Gaze.*** The babau targets one creature that it can see within 20 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target deals only half damage with weapon attacks that use Strength for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

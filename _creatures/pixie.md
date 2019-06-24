@@ -9,7 +9,7 @@ con: 8 (-1)
 dex: 20 (+5)
 str: 2 (-4)
 size: Tiny fey
-alignment: neutral good
+alignment: neutral bueno
 challenge: "1/4 (50 XP)"
 languages: "Sylvan"
 skills: "Percepción +4, Sigilo +7"

@@ -9,7 +9,7 @@ con: 22 (+6)
 dex: 10 (0)
 str: 27 (+8)
 size: Huge giant
-alignment: neutral good (50%) or neutral evil (50%)
+alignment: neutral bueno (50%) or neutral evil (50%)
 challenge: "9 (5,000 XP)"
 languages: "Común, Giant"
 skills: "Perspicacia +7, Percepción +7"

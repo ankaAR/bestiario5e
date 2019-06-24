@@ -11,7 +11,7 @@ str: 8 (-1)
 size: Humanoide Mediano (elf)
 alignment: neutral evil
 challenge: "7 (2,900 XP)"
-languages: "Auran, Common, Elvish"
+languages: "Aurano, Common, Elvish"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Arcanos +6, Historia +6, Percepción +3"
 speed: "30 ft."
@@ -44,4 +44,4 @@ damage_resistances: "Relámpago"
 
 ### Acciones
 
-***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 ft. or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño perforante, or 10 (1d8 + 6) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) puntos de daño por relámpago.
+***Windvane.*** Melee or Ranged Weapon Attack: +9 al ataque, alcance 5 pies (1.5 mts)or range 20 ft./60 pies, un objetivo. Impacto: 9 (1d6 + 6) puntos de daño perforante, or 10 (1d8 + 6) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) puntos de daño por relámpago.

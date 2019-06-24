@@ -11,7 +11,7 @@ str: 22 (+6)
 size: Large construct
 alignment: no alineado
 challenge: "12 (8,400 XP)"
-senses: "Vista ciega 120 ft., passive Perception 10"
+senses: "Vista ciega 120 pies (6 mts), passive Perception 10"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, paralizado, petrificado, envenenado, prone"
 damage_immunities: "veneno, bludgeoning, piercing, and slashing damage from nonmagical attacks not made with adamantine weapons"
 speed: "50 ft. (in one direction chosen at the start of its turn)"

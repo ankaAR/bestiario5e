@@ -26,4 +26,4 @@ Cantrips (at will): fire bolt, mending, prestidigitation
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 2 (1d4) puntos de daño perforante.

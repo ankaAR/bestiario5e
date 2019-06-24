@@ -19,7 +19,7 @@ armor_class: "12"
 
 ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ### Acciones
 

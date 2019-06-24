@@ -42,7 +42,7 @@ At will: detect evil and good, druidcraft, pass without trace
 
 ***Healing Touch (3/Día).*** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 
-***Teleport (1/Día).*** The unicorn magically teleports itself and up to three willing creatures it can see within 5 ft. of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+***Teleport (1/Día).*** The unicorn magically teleports itself and up to three willing creatures it can see within 5 pies (1.5 mts)of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
 ### Acciones Legendarias
 

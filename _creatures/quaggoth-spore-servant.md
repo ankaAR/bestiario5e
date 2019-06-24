@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "1 (200 XP)"
 senses: "Vista ciega 30 pies (9 mts) (blind beyond this radius)"
 damage_immunities: "poison"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "13 (armadura natural)"
 condition_immunities: "cegado, hechizado, asustado, paralizado, envenenado"

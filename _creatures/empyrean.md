@@ -16,7 +16,7 @@ senses: "truesight 120 ft."
 skills: "Perspicacia +13, Persuasión +15"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 saving_throws: "Str +17, Int +12, Sab +13, Car +15"
-speed: "50 ft., fly 50 ft., nadando 50 ft."
+speed: "50 ft., volando 50 pies (15 mts)., nadando 50 ft."
 hit_points: "313 (19d12+190)"
 armor_class: "22 (armadura natural)"
 ---

@@ -11,7 +11,7 @@ str: 8 (-1)
 size: Humanoide Mediano (human)
 alignment: caótico maligno
 challenge: "3 (700 XP)"
-languages: "Auran, Common"
+languages: "Aurano, Common"
 skills: "Engaño +5, Persuasión +5"
 speed: "30 ft."
 hit_points: "44 (8d8+8)"
@@ -30,4 +30,4 @@ armor_class: "12 (15 with mage armor)"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.

@@ -31,7 +31,7 @@ At will: druidcraft
 
 ***Speak with Beasts and Plants.*** The dryad can communicate with beasts and plants as if they shared a language.
 
-***Tree Stride.*** Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 ft. of the second tree. Both trees must be large or bigger.
+***Tree Stride.*** Once on her turn, the dryad can use 10 ft. of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 ft. of the first tree, appearing in an unoccupied space within 5 pies (1.5 mts)of the second tree. Both trees must be large or bigger.
 
 ### Acciones
 

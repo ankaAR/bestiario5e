@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Bullywug"
 skills: "Sigilo +3"
-speed: "20 ft., nadando 40 pies (12 mts)"
+speed: "20 pies (6 mts), nadando 40 pies (12 mts)"
 hit_points: "11 (2d8+2)"
 armor_class: "15 (hide armor, shield)"
 ---
@@ -32,4 +32,4 @@ armor_class: "15 (hide armor, shield)"
 
 ***Mordisco.*** Ataque de arma cuerpo a cuerpo: +3 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 3 (1d4 + 1) puntos de daño contundente.
 
-***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante, or 5 (1d8 + 1) puntos de daño perforante if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 4 (1d6 + 1) puntos de daño perforante, or 5 (1d8 + 1) puntos de daño perforante if used with two hands to make a melee attack.

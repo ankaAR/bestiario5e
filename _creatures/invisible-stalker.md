@@ -11,11 +11,11 @@ str: 16 (+3)
 size: Medium elemental
 alignment: neutral
 challenge: "6 (2,300 XP)"
-languages: "Auran, understands Common but doesn't speak it"
+languages: "Aurano, understands Common but doesn't speak it"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +8, Sigilo +10"
 damage_immunities: "poison"
-speed: "50 ft., fly 50 ft. (hover)"
+speed: "50 ft., volando 50 pies (15 mts). (hover)"
 hit_points: "104 (16d8+32)"
 armor_class: "14"
 condition_immunities: "agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, unconscious"

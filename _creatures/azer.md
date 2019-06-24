@@ -20,7 +20,7 @@ armor_class: "17 (natural armor, shield)"
 condition_immunities: "Envenenado"
 ---
 
-***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.
+***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 pies (1.5 mts)of it takes 5 (1d10) fire damage.
 
 ***Heated Weapons.*** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).
 

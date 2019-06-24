@@ -42,7 +42,7 @@ condition_immunities: "Charmed, agotamiento, asustado, paralizado, petrificado, 
 
 ***Bite*** Melee Weapon: +16 al ataque, alcance 10 ft., One target. Hit: (5d10+9) Piercing damage. If the target is a creature of Huge size or smaller and this damage reduces it to 0 hit points or it is incapacitated, the astral dreadnought swallows it. The swallowed target, along with everything it is wearing and carrying, appears in an unoccupied space on the floor of the astral dreadnought’s Demiplanar Donjon.
 
-***Claw*** Melee Weapon: +16 al ataque, alcance 20 ft., One target. Hit: (3d6+9) Slashing damage.
+***Claw*** Melee Weapon: +16 al ataque, alcance 20 pies (6 mts), One target. Hit: (3d6+9) Slashing damage.
 
 ### Acciones Legendarias
 

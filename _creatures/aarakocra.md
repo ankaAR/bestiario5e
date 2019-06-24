@@ -9,21 +9,21 @@ con: 10 (0)
 dex: 14 (+2)
 str: 10 (0)
 size: Humanoide Mediano (aarakocra)
-alignment: neutral good
+alignment: neutral bueno
 challenge: "1/4 (50 XP)"
-languages: "Auran, Aarakocra"
+languages: "Aurano, Aarakocra"
 skills: "Percepción +5"
-speed: "20 ft., fly 50 ft."
+speed: "20 pies (6 mts), volando 50 pies (15 mts)."
 hit_points: "13 (3d8)"
 armor_class: "12"
 ---
 
-***Dive Attack.*** If the aarakocra is flying and dives at least 30 ft. straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 (1d6) damage to the target.
+***Ataque en Picada.*** Si el aarakocra está volando y cae en picado al menos 30 pies (9,1 m), directo hacia un objetivo y luego lo golpea con un ataque de arma cuerpo a cuerpo, el ataque inflige un daño adicional de 3 (1d6) al objetivo.
 
 ### Acciones
 
-***Talon.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.
+***Talón.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 4 (1d4 + 2) puntos de daño cortante.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
+***Jabalina.*** Ataque de arma cuerpo a cuerpo o a distancia: +4 al ataque, alcance 5 pies (1.5 mts) o a disntancia 30/120 pies (9/36 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño perforante.
 
-***Summon Air Elemental.*** Five aarakocra within 30 feet of each other can magically summon an air elemental. Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain concentration while doing so (as if concentrating on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can't perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.
+***Invocar Elemental de Aire.*** Cinco aarakocra situados a 30 pies (9 mts) de distancia entre ellos pueden mágicamente invocar un elemental de aire. Cada uno de los cinco debe usar su Acción y Movimiento durante tres turnos consecutivos para realizar una danza aérea y deben mantener la concentración mientras lo hacen (como si se concentraran en un hechizo). Cuando los cinco terminen su tercer turno de danza, el elemental aparece en un espacio vacío a 60 pies (18 mts) de ellos. Será amigable con ellos y obedecerá sus órdenes verbales. Permanecerá durante 1 hora, hasta que él o todos sus invocadores mueren o hasta que uno de sus invocadores lo despida como una Acción Adicional. Un invocador no puede realizar la danza de nuevo hasta que termine un descanso corto. Cuando un elemental regresa al Plano Elemental del Aire, cualquier aarakocra a un radio de 5 pies puede regresar junto a él.

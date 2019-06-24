@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "4 (1,100 XP)"
 senses: "Vista ciega 60 pies (18 mts) (blind beyond this radius)"
 damage_immunities: "acid, cold, lightning, slashing"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "7"
 condition_immunities: "cegado, hechizado, ensordecido, agotamiento, asustado, prone"

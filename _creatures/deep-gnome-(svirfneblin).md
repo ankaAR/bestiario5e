@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 14 (+2)
 str: 15 (+2)
 size: Small humanoid (gnome)
-alignment: neutral good
+alignment: neutral bueno
 challenge: "1/2 (100 XP)"
 languages: "Gnomish, Terran, Undercommon"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"

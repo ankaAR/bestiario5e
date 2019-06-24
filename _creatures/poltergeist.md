@@ -14,7 +14,7 @@ challenge: "2 (450 XP)"
 languages: "understands all languages it knew in life but can't speak"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "necrotic, poison"
-speed: "0 ft., fly 50 ft. (hover)"
+speed: "0 ft., volando 50 pies (15 mts). (hover)"
 hit_points: "22 (5d8)"
 armor_class: "12"
 condition_immunities: "hechizado, agotamiento, grappled, paralizado, petrificado, envenenado, prone, restrained, unconscious"
@@ -29,7 +29,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing
 
 ### Acciones
 
-***Forceful Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 ft. one creature. Hit: 10 (3d6) force damage.
+***Forceful Slam.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts)one creature. Hit: 10 (3d6) force damage.
 
 ***Telekinetic Thrust.*** The poltergeist targets a creature or unattended object within 30 feet of it. A creature must be Medium or smaller to be affected by this magic, and an object can weigh up to 150 pounds.
 

@@ -12,7 +12,7 @@ size: Large beast
 alignment: no alineado
 challenge: "2 (450 XP)"
 skills: "Percepción +3, Sigilo +4"
-speed: "20 ft., nadando 40 pies (12 mts)"
+speed: "20 pies (6 mts), nadando 40 pies (12 mts)"
 hit_points: "68 (8d10+24)"
 armor_class: "13 (armadura natural)"
 ---

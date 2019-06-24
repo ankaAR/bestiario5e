@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "3 (700 XP)"
 senses: "Vista ciega 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +5"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "16 (armadura natural)"
 ---

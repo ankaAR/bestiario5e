@@ -27,7 +27,7 @@ armor_class: "17 (chain shirt, shield)"
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d6 + 2) puntos de daño cortante.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 5 (1d6) puntos de daño perforante.
+***Jabalina.*** Melee or Ranged Weapon Attack: +2 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 5 (1d6) puntos de daño perforante.
 
 ### Reactions
 

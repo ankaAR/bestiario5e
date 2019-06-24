@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Huge elemental
 alignment: neutral evil
 challenge: "18 (20,000 XP)"
-languages: "Auran"
+languages: "Aurano"
 senses: "Vista ciega 120 ft."
 damage_immunities: "lightning, veneno, thunder"
 saving_throws: "Des +13, Sab +11, Car +12"

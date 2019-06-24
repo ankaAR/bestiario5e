@@ -22,7 +22,7 @@ armor_class: "15 (armadura natural)"
 
 ***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ### Acciones
 

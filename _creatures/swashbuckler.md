@@ -26,6 +26,6 @@ armor_class: "17 (armadura de cuero)"
 
 ***Multiataque.*** The swashbuckler makes three attacks: one with a dagger and two with its rapier.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d4+4) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 6 (1d4+4) puntos de daño perforante.
 
 ***Rapier.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 8 (1d8+4) puntos de daño perforante.

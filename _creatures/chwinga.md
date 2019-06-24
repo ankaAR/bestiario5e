@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "0 (10 XP)"
 senses: "Vista ciega 60ft., passive Perception 17"
 skills: "Acrobatics +7, Percepción +7, Sigilo +7"
-speed: "20 ft., climb 20 ft., nadando 20 ft."
+speed: "20 pies (6 mts), climb 20 pies (6 mts), nadando 20 ft."
 hit_points: "5 (2d4)"
 armor_class: "15"
 ---

@@ -13,7 +13,7 @@ size: Medium aberration
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "all, but rarely speaks"
-senses: "truesight 120 ft., passive Perception 12"
+senses: "truesight 120 pies (6 mts), passive Perception 12"
 skills: "Arcanos +5, Historia +5, Perspicacia +2, Percepción +2, Religión +5"
 saving_throws: "Des +5, Int +5"
 speed: "30 ft., fly 40 ft."

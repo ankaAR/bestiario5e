@@ -22,7 +22,7 @@ damage_vulnerabilities: "cold"
 condition_immunities: "Envenenado"
 ---
 
-***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 pies (1.5 mts)of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
 

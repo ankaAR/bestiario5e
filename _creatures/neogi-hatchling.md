@@ -12,7 +12,7 @@ size: Tiny aberration
 alignment: legal maligna
 challenge: "1/8 (25 XP)"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "7 (3d4)"
 armor_class: "11"
 ---

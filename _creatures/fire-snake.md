@@ -21,7 +21,7 @@ damage_vulnerabilities: "cold"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
 
-***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 ft. of it takes 3 (1d6) fire damage.
+***Heated Body.*** A creature that touches the snake or hits it with a melee attack while within 5 pies (1.5 mts)of it takes 3 (1d6) fire damage.
 
 ### Acciones
 

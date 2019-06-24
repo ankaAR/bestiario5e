@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Medium swarm
 alignment: no alineado
 challenge: "1/4 (50 XP)"
-speed: "10 pies (3 mts), fly 50 ft."
+speed: "10 pies (3 mts), volando 50 pies (15 mts)."
 hit_points: "24 (7d8-7)"
 armor_class: "12"
 condition_immunities: "hechizado, asustado, grappled, paralizado, petrificado, prone, restrained, stunned"

@@ -28,4 +28,4 @@ armor_class: "13 (armadura natural)"
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d4 + 4) puntos de daño cortante.
 
-***Harpoon.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+***Harpoon.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.

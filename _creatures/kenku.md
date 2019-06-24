@@ -11,7 +11,7 @@ str: 10 (0)
 size: Humanoide Mediano (kenku)
 alignment: chaotic neutral
 challenge: "1/4 (50 XP)"
-languages: "understands Auran and Common but speaks only through the use of its Mimicry trait"
+languages: "understands Aurano and Common but speaks only through the use of its Mimicry trait"
 skills: "Engaño +4, Percepción +2, Sigilo +5"
 speed: "30 ft."
 hit_points: "13 (3d8)"

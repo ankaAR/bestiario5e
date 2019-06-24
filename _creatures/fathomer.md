@@ -38,4 +38,4 @@ While in serpent form, the fathomer gains a swimming speed of 40 feet, the abili
 
 ***Constrict (Serpent Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 9 (2d6 + 2) puntos de daño contundente. If the target is Medium or smaller, it is grappled (escape DC 12). Until the grapple ends, the target is restrained, and the fathomer can't constrict another target.
 
-***Dagger (Human Form Only).*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.
+***Dagger (Human Form Only).*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 4 (1d4 + 2) puntos de daño perforante.

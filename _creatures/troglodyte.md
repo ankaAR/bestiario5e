@@ -21,7 +21,7 @@ armor_class: "11 (armadura natural)"
 
 ***Chameleon Skin.*** The troglodyte has advantage on Dexterity (Stealth) checks made to hide.
 
-***Stench.*** Any creature other than a troglodyte that starts its turn within 5 ft. of the troglodyte must succeed on a DC 12 Constitution saving throw or be envenenado until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+***Stench.*** Any creature other than a troglodyte that starts its turn within 5 pies (1.5 mts)of the troglodyte must succeed on a DC 12 Constitution saving throw or be envenenado until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
 ***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

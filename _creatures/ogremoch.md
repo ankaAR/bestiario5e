@@ -12,7 +12,7 @@ size: Gargantuan elemental
 alignment: neutral evil
 challenge: "20 (25,000 XP)"
 languages: "Común, Terran"
-senses: "Vista ciega 120 ft., tremorsense 120 ft."
+senses: "Vista ciega 120 pies (6 mts), tremorsense 120 ft."
 damage_immunities: "poison"
 saving_throws: "Str +14, Con +15, Sab +8"
 speed: "50 ft., burrow 50 ft."

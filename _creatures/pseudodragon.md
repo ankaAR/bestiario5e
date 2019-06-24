@@ -9,7 +9,7 @@ con: 13 (+1)
 dex: 15 (+2)
 str: 6 (-2)
 size: Tiny dragon
-alignment: neutral good
+alignment: neutral bueno
 challenge: "1/4 (50 XP)"
 languages: "understands Common and Draconic but can't speak"
 senses: "Vista ciega 10 pies (3 mts), darkvision 60 ft."

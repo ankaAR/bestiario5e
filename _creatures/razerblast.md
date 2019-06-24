@@ -27,4 +27,4 @@ armor_class: "17 (splint)"
 
 ***Multiataque.*** The razerblast makes three melee attacks.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante, or 7 (1d8 + 3) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante, or 7 (1d8 + 3) puntos de daño perforante if used with two hands to make a melee attack, plus 3 (1d6) fire damage.

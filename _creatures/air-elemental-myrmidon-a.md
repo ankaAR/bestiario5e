@@ -11,7 +11,7 @@ str: 18 (+4)
 size: Medium elemental
 alignment: neutral
 challenge: "7 (2,900 XP)"
-languages: "Auran, one language of its creator's choice"
+languages: "Aurano, one language of its creator's choice"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 damage_immunities: "poison"
 speed: "30 ft., fly 30 ft."

@@ -12,7 +12,7 @@ size: Medium swarm
 alignment: no alineado
 challenge: "1/2 (100 XP)"
 senses: "Vista ciega 10 pies (3 mts)"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "22 (5d8)"
 armor_class: "12 (armadura natural)"
 condition_immunities: "hechizado, asustado, paralizado, petrificado, prone, restrained, stunned"

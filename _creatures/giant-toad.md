@@ -12,7 +12,7 @@ size: Large beast
 alignment: no alineado
 challenge: "1 (200 XP)"
 senses: "darkvision 30 ft."
-speed: "20 ft., nadando 40 pies (12 mts)"
+speed: "20 pies (6 mts), nadando 40 pies (12 mts)"
 hit_points: "39 (6d10+6)"
 armor_class: "11"
 ---

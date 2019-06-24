@@ -11,7 +11,7 @@ str: 5 (-3)
 size: Small elemental
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
-languages: "Auran, Terran"
+languages: "Aurano, Terran"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +4"
 damage_immunities: "poison"
@@ -22,7 +22,7 @@ damage_vulnerabilities: "Fuego"
 condition_immunities: "Envenenado"
 ---
 
-***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 pies (1.5 mts)of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
 ***Innate Spellcasting (1/Día).*** The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.
 

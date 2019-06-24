@@ -12,12 +12,12 @@ size: Huge undead (titan)
 alignment: neutral evil
 challenge: "13 (10,000 XP)"
 languages: "Understands Celestial but utters only obscene nonsense"
-senses: "Visión en la oscuridad 120 ft. (36 mts), truesight 120 ft., passive Perception 14"
+senses: "Visión en la oscuridad 120 ft. (36 mts), truesight 120 pies (6 mts), passive Perception 14"
 Condition_immunities: "agotamiento, asustado, paralizado, envenenado, prone"
 Damage_immunities: "cold, necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks"
 Damage_vulnerabilities: "radiant"
 saving_throws: "Con +11, Sab +9"
-speed: "0 ft., fly 50 ft. (hover)"
+speed: "0 ft., volando 50 pies (15 mts). (hover)"
 hit_points: "225 (18d12 +108)"
 armor_class: "7"
 ---

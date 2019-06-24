@@ -22,4 +22,4 @@ armor_class: "11 (hide armor)"
 
 ***Greatclub.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 13 (2d8 + 4) puntos de daño contundente.
 
-***Javelin.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.
+***Jabalina.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 11 (2d6 + 4) puntos de daño perforante.

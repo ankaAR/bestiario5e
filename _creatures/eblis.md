@@ -11,7 +11,7 @@ str: 11 (+0)
 size: Large monstrosity
 alignment: neutral evil
 challenge: "1 (200 XP)"
-Languages: "Auran, Common"
+Languages: "Aurano, Common"
 senses: "passive Perception 14"
 skills: "Percepción +4"
 speed: "30 ft., fly 40 ft."

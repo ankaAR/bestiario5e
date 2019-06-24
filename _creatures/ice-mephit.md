@@ -11,7 +11,7 @@ str: 7 (-2)
 size: Small elemental
 alignment: neutral evil
 challenge: "1/2 (100 XP)"
-languages: "Aquan, Auran"
+languages: "Aquan, Aurano"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +3"
 damage_immunities: "cold, poison"
@@ -22,7 +22,7 @@ damage_vulnerabilities: "bludgeoning, fire"
 condition_immunities: "Envenenado"
 ---
 
-***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 ft. of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
+***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 pies (1.5 mts)of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 

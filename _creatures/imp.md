@@ -15,14 +15,14 @@ languages: "Infernal, Common"
 senses: "Visión en la oscuridad 120 ft. (36 mts)"
 skills: "Engaño +4, Perspicacia +3, Persuasión +4, Sigilo +5"
 damage_immunities: "fire, poison"
-speed: "20 ft., fly 40 ft."
+speed: "20 pies (6 mts), fly 40 ft."
 hit_points: "10 (3d4+3)"
 armor_class: "13"
 condition_immunities: "Envenenado"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical/nonsilver weapons"
 ---
 
-***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 pies (6 mts), fly 60 ft.), or a spider (20 pies (6 mts), climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision.
 

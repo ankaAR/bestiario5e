@@ -24,7 +24,7 @@ armor_class: "18 (plate)"
 
 ***Multiataque.*** The burrowshark makes three melee attacks.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante if used with two hands to make a melee attack.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 8 (1d8 + 4) puntos de daño perforante if used with two hands to make a melee attack.
 
 ### Reactions
 

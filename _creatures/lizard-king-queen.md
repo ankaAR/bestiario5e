@@ -33,4 +33,4 @@ condition_immunities: "asustado"
 
 ***Claws.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 5 (1d4 + 3) puntos de daño cortante.
 
-***Trident.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante, or 7 (1d8 + 3) puntos de daño perforante if used with two hands to make a melee attack.
+***Trident.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 6 (1d6 + 3) puntos de daño perforante, or 7 (1d8 + 3) puntos de daño perforante if used with two hands to make a melee attack.

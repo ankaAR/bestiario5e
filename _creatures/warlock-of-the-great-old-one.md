@@ -37,4 +37,4 @@ Cantrips (at will): chill touch, eldritch blast, guidance, mage hand, minor illu
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 4 (1d4+2) puntos de daño perforante.

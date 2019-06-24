@@ -11,7 +11,7 @@ str: 13 (+1)
 size: Medium fey
 alignment: caótico maligno
 challenge: "7 (2,900 XP)"
-languages: "Auran, Common, Giant"
+languages: "Aurano, Common, Giant"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Nature +4, Percepción +4, Sigilo +6, Survival +4"
 damage_immunities: "cold"

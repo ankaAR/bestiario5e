@@ -34,4 +34,4 @@ armor_class: "14 (hide)"
 
 ### Acciones
 
-***Dagger +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.
+***Dagger +1.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.

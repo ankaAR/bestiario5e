@@ -30,7 +30,7 @@ damage_resistances: "poison"
 
 ***King's Knife (Shortsword)*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 11 (2d6 + 4) puntos de daño perforante while enlarged.
 
-***Javelin*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 11 (2d6 + 4) puntos de daño perforante while enlarged.
+***Javelin*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or range 30/120 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante, or 11 (2d6 + 4) puntos de daño perforante while enlarged.
 
 ***Enlarge (Recharges after a Short or Long Rest)*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 

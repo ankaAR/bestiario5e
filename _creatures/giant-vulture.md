@@ -20,7 +20,7 @@ armor_class: "10"
 
 ***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ### Acciones
 

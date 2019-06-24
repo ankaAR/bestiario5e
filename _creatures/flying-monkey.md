@@ -12,7 +12,7 @@ size: Small beast
 alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "passive Perception 11"
-speed: "20 ft., climb 20 ft., fly 30 ft."
+speed: "20 pies (6 mts), climb 20 pies (6 mts), fly 30 ft."
 hit_points: "3 (1d6)"
 armor_class: "12"
 ---

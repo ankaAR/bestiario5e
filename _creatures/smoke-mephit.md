@@ -11,7 +11,7 @@ str: 6 (-2)
 size: Small elemental
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
-languages: "Auran, Ignan"
+languages: "Aurano, Ignan"
 senses: "Visión en la oscuridad 60 pies (18 mts)"
 skills: "Percepción +2, Sigilo +4"
 damage_immunities: "fire, poison"

@@ -31,6 +31,6 @@ damage_resistances: "Relámpago"
 
 ***Greatsword.*** Ataque de arma cuerpo a cuerpo: +6 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 11 (2d6 + 4) puntos de daño cortante.
 
-***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 ft. or ranged 20 ft.,/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
+***Spear.*** Melee or Ranged Weapon Attack: +6 al ataque, alcance 5 pies (1.5 mts)or ranged 20 pies (6 mts),/60 pies, un objetivo. Impacto: 7 (1d6 + 4) puntos de daño perforante.
 
 ***Aliento de Relámpago (Recarga 5-6).*** Langdedrosa breathes lightning in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw, taking 22 (4d10) puntos de daño por relámpago on a failed save, or half as much damage on a successful one.

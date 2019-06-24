@@ -31,4 +31,4 @@ armor_class: "11 (in humanoid form, 12 in wolf or hybrid form)"
 
 ***Claws (Hybrid Form Only).*** Ataque de arma cuerpo a cuerpo: +4 al ataque, alcance 5 pies (1.5 mts), una criatura. Impacto: 7 (2d4 + 2) puntos de daño cortante.
 
-***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 pies (XX mts), una criatura. Impacto: 5 (1d6 + 2) puntos de daño perforante, or 6 (1d8 + 2) puntos de daño perforante if used with two hands to make a melee attack.
+***Spear (Humanoid Form Only).*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies (XX mts), una criatura. Impacto: 5 (1d6 + 2) puntos de daño perforante, or 6 (1d8 + 2) puntos de daño perforante if used with two hands to make a melee attack.

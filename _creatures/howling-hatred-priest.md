@@ -11,7 +11,7 @@ str: 12 (+1)
 size: Humanoide Mediano (human)
 alignment: neutral evil
 challenge: "2 (450 XP)"
-languages: "Auran, Common"
+languages: "Aurano, Common"
 skills: "Acrobatics +5, Intimidation +4, Religión +4"
 speed: "30 ft."
 hit_points: "45 (10d8)"
@@ -36,4 +36,4 @@ armor_class: "15 (cuero endurecido)"
 
 ***Cimitarra.*** Ataque de arma cuerpo a cuerpo: +5 al ataque, alcance 5 pies (1.5 mts), un objetivo. Impacto: 6 (1d6 + 3) puntos de daño cortante.
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 20/60 pies, un objetivo. Impacto: 5 (1d4 + 3) puntos de daño perforante.

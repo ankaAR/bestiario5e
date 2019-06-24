@@ -37,7 +37,7 @@ Gold. The envenenado creature is hechizado and can speak Grung.
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 5 (1d4+3) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
+***Dagger.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 20/60 it, one target. Hit: 5 (1d4+3) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 pies, un objetivo. Impacto: 6 (1d6+3) puntos de daño perforante, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 

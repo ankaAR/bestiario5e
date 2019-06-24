@@ -32,7 +32,7 @@ armor_class: "13"
 
 ### Acciones
 
-***Blinding Acid.*** Melee or Ranged Spell Attack: +5 al ataque, alcance 5 ft. or range 30 pies, un objetivo. Impacto: 16 (2d12 + 3) puntos de daño por ácido, and the target is blinded until the start of the nereid's next turn.
+***Blinding Acid.*** Melee or Ranged Spell Attack: +5 al ataque, alcance 5 pies (1.5 mts)or range 30 pies, un objetivo. Impacto: 16 (2d12 + 3) puntos de daño por ácido, and the target is blinded until the start of the nereid's next turn.
 
 ***Drowning Kiss (Recarga 5-6).*** The nereid touches one creature it can see within 5 feet of it. The target must succeed on a DC 13 Constitution saving throw or take 22 (3d12 + 3) puntos de daño por ácido. On a failure, it also runs out of breath and can't speak for 1 minute. At the end of each of its turns, it can repeat the save, ending the effect on itself on a success.
 

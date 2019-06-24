@@ -13,7 +13,7 @@ alignment: no alineado
 challenge: "0 (10 XP)"
 senses: "Vista ciega 30 pies (9 mts)"
 skills: "Sigilo +2"
-speed: "20 ft., nadando 20 ft."
+speed: "20 pies (6 mts), nadando 20 ft."
 hit_points: "2 (1d4)"
 armor_class: "11 (armadura natural)"
 ---

@@ -19,7 +19,7 @@ armor_class: "12"
 
 ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ### Acciones
 

@@ -17,7 +17,7 @@ hit_points: "5 (1d8+1)"
 armor_class: "11"
 ---
 
-***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ### Acciones
 

@@ -14,7 +14,7 @@ alignment: caótico maligno
 challenge: "8 (3900 XP)"
 languages: "-"
 senses: "Vista ciega 120 ft. (blind beyond this radius), passive Perception 12"
-speed: "20 ft., climb 20 ft."
+speed: "20 pies (6 mts), climb 20 ft."
 hit_points: "127  (15d10 + 45)"
 armor_class: "12"
 condition_immunities: "cegado, ensordecido"

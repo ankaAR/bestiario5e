@@ -15,7 +15,7 @@ challenge: "2 (450 XP)"
 languages: "Common (can't speak in raven form)"
 skills: "Perspicacia +4, Percepción +6"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
-speed: "30 ft., fly 50 ft. in raven and hybrid forms"
+speed: "30 ft., volando 50 pies (15 mts). in raven and hybrid forms"
 hit_points: "31 (7d8)"
 armor_class: "12"
 ---

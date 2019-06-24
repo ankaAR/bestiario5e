@@ -11,7 +11,7 @@ str: 12 (+1)
 size: Humanoide Mediano (human)
 alignment: legal maligna
 challenge: "2 (450 XP)"
-languages: "Auran, Common"
+languages: "Aurano, Common"
 skills: "Acrobatics +5"
 speed: "45 ft."
 hit_points: "33 (6d8+6)"

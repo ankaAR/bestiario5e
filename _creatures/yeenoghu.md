@@ -13,7 +13,7 @@ size: Huge fiend (demon)
 alignment: caótico maligno
 challenge: "24 (62,000 XP)"
 languages: "all, telepathy 120 ft."
-senses: "truesight 120 ft., passive Perception 24"
+senses: "truesight 120 pies (6 mts), passive Perception 24"
 skills: "Intimidation +9, Percepción +14"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
 saving_throws: "Des +10, Con +15, Sab +14"

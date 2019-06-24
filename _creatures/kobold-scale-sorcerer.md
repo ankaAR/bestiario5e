@@ -39,4 +39,4 @@ Subtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cas
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 ft. or range 20/60 it, one target. Hit: 4 (1d4+2) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +4 al ataque, alcance 5 pies (1.5 mts)or range 20/60 it, one target. Hit: 4 (1d4+2) puntos de daño perforante.

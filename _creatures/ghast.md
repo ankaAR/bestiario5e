@@ -20,7 +20,7 @@ armor_class: "13"
 condition_immunities: "Envenenado"
 ---
 
-***Stench.*** Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be envenenado until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
+***Stench.*** Any creature that starts its turn within 5 pies (1.5 mts)of the ghast must succeed on a DC 10 Constitution saving throw or be envenenado until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 
 ***Turn Defiance.*** The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.
 

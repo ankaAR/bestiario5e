@@ -9,7 +9,7 @@ con: 12 (+1)
 dex: 10 (0)
 str: 13 (+1)
 size: Humanoide Mediano (human)
-alignment: neutral good
+alignment: neutral bueno
 challenge: "1 (200 XP)"
 languages: "Common"
 skills: "Percepción +2"

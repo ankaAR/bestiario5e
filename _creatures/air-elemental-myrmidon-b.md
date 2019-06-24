@@ -12,7 +12,7 @@ str: 18 (+4)
 size: Medium elemental
 alignment: neutral
 challenge: "7 (2900 XP)"
-languages: "Auran, one language of its creator's choice"
+languages: "Aurano, one language of its creator's choice"
 senses: "darkvision 60 ft., passive Perception 10"
 damage_immunities: "poison"
 speed: "30 ft., fly 30 ft. (hover)"

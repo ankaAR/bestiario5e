@@ -39,4 +39,4 @@ damage_resistances: "ácido"
 
 ### Acciones
 
-***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 ft. or ranged 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.
+***Dagger.*** Melee or Ranged Weapon Attack: +3 al ataque, alcance 5 pies (1.5 mts)or ranged 20/60 pies, un objetivo. Impacto: 3 (1d4 + 1) puntos de daño perforante.

@@ -42,4 +42,4 @@ armor_class: "18 (scale mail +1, shield)"
 
 ### Acciones
 
-***Spear.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 ft. or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d6 + 2) puntos de daño perforante.
+***Spear.*** Melee or Ranged Weapon Attack: +5 al ataque, alcance 5 pies (1.5 mts)or ranged 20 ft./60 pies, un objetivo. Impacto: 6 (1d6 + 2) puntos de daño perforante.

@@ -18,7 +18,7 @@ hit_points: "22 (4d8+4)"
 armor_class: "12 (armadura natural)"
 ---
 
-***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 pies (1.5 mts)of the creature and the ally isn't incapacitated.
 
 ***Water Breathing.*** The shark can breathe only underwater.
 

@@ -9,7 +9,7 @@ con: 15 (+2)
 dex: 10 (0)
 str: 16 (+3)
 size: Humanoide Mediano (damaran human)
-alignment: neutral good
+alignment: neutral bueno
 challenge: "0 (10 XP)"
 languages: "Common"
 skills: "Intimidation +4, Percepción +3"
