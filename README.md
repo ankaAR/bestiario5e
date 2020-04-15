@@ -17,7 +17,7 @@ Las criaturas se encuentran en el directorio `_creatures/`. Cada una de ellas ti
 
 NO ES MÁGICO?!!
 
-Me podes ayudar con los mosntruos tirando un pull request cuando puedas (copiá el formato básico de alguna otra). Te agradeceré mucho y habra mucha gente que lo podrá usar.
+Me podes ayudar con los monstruos tirando un pull request cuando puedas (copiá el formato básico de alguna otra). Te agradeceré mucho y habra mucha gente que lo podrá usar.
 
 ## Instrucciones para hacerlo correr
 Si haces un fork no te olvides de editar el _config.yml, si queres hacerlo correr localmente necesitaras [Jekyll](http://jekyllrb.com) instalado localmente, fijate que en el sitio te explica como hacerlo, no es tan complicado, bajás el código (en zip o porque clonaste el proyecto) y luego de instalar Jekyll corré el siguiente comando:
